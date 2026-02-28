@@ -99,7 +99,7 @@ As raízes dos mangues funcionam como condutores. Qualquer conjuração feita co
 
 ---
 
-### 3: Mercado de São José Arcano
+### 3: Mercado Arcano de São José 
 
 O Mercado de São José original foi construído em 1875 e é o mais antigo do Brasil ainda em funcionamento. Depois da Convergência, virou o maior mercado de componentes mágicos do Nordeste — não por planejamento, mas porque os vendedores de ervas, temperos, artigos religiosos e produtos naturais que sempre existiram ali descobriram, um por um, que seus produtos funcionavam para fins arcanos.
 
