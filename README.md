@@ -1,6 +1,6 @@
 # 3D&T Victory DLC Project
 
-Bem-vindo ao repositório 3D&T Victory DLC! Este espaço reúne livros completos, suplementos e materiais de referência para 3DeT Victory", criado para o sistema de RPG de mesa originalmente desenvolvido por Marcelo Cassaro e publicado pela Jambô Editora.
+Bem-vindo ao repositório 3D&T Victory DLC! Este espaço reúne livros completos, suplementos e materiais de referência para 3DeT Victory, criado para o sistema de RPG de mesa originalmente desenvolvido por Marcelo Cassaro e publicado pela Jambô Editora.
 
 Além do material atual, o repositório está preparado para receber novos livros DLC, expansões e conteúdos feitos por fãs para 3D&T Victory. Contribuidores são incentivados a propor e desenvolver cenários, suplementos ou livros de regras adicionais, expandindo o universo de 3D&T Victory com ideias e aventuras inéditas.
 
