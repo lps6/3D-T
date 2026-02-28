@@ -1,0 +1,3 @@
+- every day he wakes up happily knowing he'll only die tomorrow
+- at the age of 6 father left, you are the man of the house now - mother said, she wasn't herself ever again
+- 
