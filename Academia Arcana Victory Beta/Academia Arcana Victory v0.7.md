@@ -1,3 +1,5 @@
+**3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs.**
+
 # Indice
 
 # Academia Arcana Victory — Índice
@@ -6874,3 +6876,5 @@ A única coisa que este módulo garante é que, quando terminar, os cinco person
 O resto cresce sozinho.
 
 *"O portal está nos seus jardins, como sempre esteve. A questão não é se vocês vão entrar. A questão é para onde vai levar — e se valerá a pena."* — Wynna, no discurso de encerramento de ano que ela reserva para as turmas que sobreviveram a mais do que deveriam ter sobrevivido  
+
+**3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs.**
