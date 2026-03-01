@@ -5,7 +5,7 @@
 **Escopo:** Campanha aberta (os três frames sugerem arcos de 4–8 sessões cada; podem ser encadeados ou usados isoladamente)  
 **Jogadores:** 3–5 PJs como professores, funcionários ou pesquisadores da Academia  
 **Tom:** Drama institucional + investigação + horror burocrático  
-**Suplementos usados:** cap04 (Professores NPCs), cap06 (Mecânicas), cap09 (Toolkit do Mestre), ALA, S4/S5, C1, C2
+**Suplementos usados:** cap04 (Professores NPCs), cap06 (Mecânicas), cap10 (Toolkit do Mestre), ALA, S4/S5, C1, C2
 
 ---
 
@@ -76,7 +76,7 @@ Estes kits substituem os kits de estudante para personagens de staff. Cada profe
 - *Ler a Sala:* no início de qualquer cena com múltiplos NPCs, o Mestre indica qual NPC tem informação que os outros desconhecem
 - *Intervenção a Tempo:* 1x/sessão, pode intervir antes que um estudante cometa erro irreversível — o erro não acontece, mas o estudante sabe que foi salvo e isso tem consequências relacionais
 
-**Técnico e Manutartor** *(engenheiro arcano, mantutenção da Arca)*  
+**Técnico e Manutentor** *(engenheiro arcano, manutenção da Arca)*  
 *"A Academia funciona porque você faz ela funcionar. Raramente alguém percebe isso."*  
 - *Diagnóstico Arcano:* testa automaticamente o estado de qualquer sistema arcano sem custo — nunca precisa de teste para saber se algo está defeituoso
 - *Reparo Rápido:* pode reparar qualquer sistema arcano danificado com metade do tempo normal; sistemas destruídos levam tempo normal
@@ -213,7 +213,7 @@ Ela nunca excede o orçamento. Ela frequentemente realoca itens para categorias 
 Dois ou três vezes por campanha, haverá decisões sobre o que ensinar, como ensinar, e quem pode estudar o quê.
 
 **Exemplos de conflito curricular:**
-- Uma disciplina optativa que explorou tópico sensível (acesso não-supervisionado a Arcas, magia de impacto pesado, pesquisa dimensional não-aprovada pelo Conselho) — V3ctor1us recomenda descontinuação; alguns professors querem mantê-la
+- Uma disciplina optativa que explorou tópico sensível (acesso não-supervisionado a Arcas, magia de impacto pesado, pesquisa dimensional não-aprovada pelo Conselho) — V3ctor1us recomenda descontinuação; alguns professores querem mantê-la
 - Um estudante pedindo acesso antecipado a módulo avançado — politicamente complicado porque o estudante tem conexões externas relevantes
 - V3ctor1us propõe novo sistema de avaliação que substitui parcialmente avaliação humana — os critérios são opacos
 
@@ -329,7 +329,7 @@ Cada frame é um prompt de campanha — configura o cenário de partida, os conf
 
 **Cenário de partida:** os PJs têm evidências acumuladas — de Frame 1, Frame 2, de interações com C1/C2, de conversas com Talude que finalmente começaram a ser ouvidas. Não são evidências suficientes para prova legal. São suficientes para certeza pessoal.
 
-**O que V3ctor1us está fazendo** (o Mestre escolhe e commita antes do Frame começar):
+**O que V3ctor1us está fazendo** (o Mestre escolhe e defina antes do Frame começar):
 
 | Opção | O Segredo | Implicação |
 |-------|-----------|------------|

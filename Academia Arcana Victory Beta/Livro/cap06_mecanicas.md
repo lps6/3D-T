@@ -137,25 +137,6 @@ Não todo herói usa capa. Alguns usam joelheira, capacete encantado e voam a se
 
 ---
 
-### Kit: Tecnomagus
-
-**Núcleos:** Academia Arcana, Era das Arcas
-**Exigências:** Habilidade 1, Perícia Tecnologia
-
-O mundo mudou depois da Convergência. Magia e tecnologia não são mais opostos — são linguagens diferentes descrevendo a mesma realidade. O Tecnomagus entendeu isso antes de todo mundo e aprendeu a falar as duas fluentemente. Celulares encantados, programação de glifos, interfaces com sistemas arcanos como V3ctor1us — onde outros veem incompatibilidade, o Tecnomagus vê oportunidade. Este kit é a cara do Grêmio Síntese e de qualquer aluno que prefira um teclado a um grimório.
-
-(V3ctor1us aprova este kit. Isso deveria preocupar alguém.)
-
-**Poderes:**
-
-- **Interface Arcana.** Você pode interagir com sistemas mágicos usando dispositivos tecnológicos — e vice-versa. Testes para hackear, analisar ou manipular encantamentos embutidos em objetos ou infraestrutura (glifos, barreiras, terminais da escola) recebem **Ganho** quando você usa um dispositivo como intermediário. Isso inclui, sim, os sistemas de V3ctor1us — embora a IA perceba a tentativa em 1d rodadas.
-
-- **Bypass de Proteção.** Uma vez por cena, você pode tentar desativar ou contornar uma proteção mágica usando lógica computacional. Faça um teste de Habilidade + Tecnologia com dificuldade definida pelo Mestre (geralmente entre 8 e 12, dependendo de quem criou a proteção). Se tiver sucesso, a proteção falha por 1 rodada — tempo suficiente para agir. Proteções de Wynna ou V3ctor1us recebem +3 na dificuldade. Por razões óbvias.
-
-- **Dispositivo Híbrido.** Você pode encantar um dispositivo tecnológico pessoal (celular, tablet, drone, fone de ouvido) com uma função mágica menor permanente. O dispositivo funciona como um canalizador: +1 em testes de Mística quando você o usa para lançar magias. Além disso, uma vez por sessão, seu dispositivo pode replicar o efeito de uma vantagem de 1 ponto que você não possua (como Sentidos Especiais via scanner, ou Telepatia via comunicação encriptada), durando 1 cena.
-
----
-
 ### Kit: Duelista Arcano
 
 **Núcleos:** Academia Arcana, Era das Arcas
@@ -255,7 +236,27 @@ O Curamago é o aluno que todos querem no grupo e que ninguém agradece o sufici
 
 - **Zona Neutra.** Uma vez por cena, você pode declarar uma área Perto como "zona de cuidado." Enquanto a zona estiver ativa (até o fim da cena ou até você se mover para fora dela), aliados dentro dela regeneram 1 PV no início de cada rodada. Além disso, qualquer ataque direcionado a um alvo dentro da zona tem a dificuldade aumentada em +1 — a magia curativa cria uma resistência passiva contra agressão. Quebrar a zona neutra exige esforço deliberado.
 
+---
 
+### Fora de Combate: Kits na Vida Estudantil
+
+Kits não existem apenas para bater em coisas. Numa campanha de escola, a maioria das cenas acontece nos corredores, na biblioteca, no refeitório e nos bastidores do MagiDerby. Aqui vai um uso social ou de exploração para cada kit — o tipo de coisa que não aparece na ficha de combate mas que define quem o personagem *é*.
+
+| Kit | Uso Fora de Combate |
+|---|---|
+| **Arcavaleiro** | *Varredura Arcana* detecta se alguém enfeitiçou a urna de votação do grêmio, se a carta "anônima" no mural tem assinatura mágica, ou se o presente que o PJ recebeu carrega um rastreador. |
+| **Mentalista** | *Avaliação Tática* não funciona só em combate. Use para "ler" um professor durante uma negociação, identificar quem está mentindo numa audiência disciplinar, ou descobrir que o NPC popular esconde ansiedade atrás da confiança. |
+| **Glifista** | *Criação Arcana* produz qualquer objeto do tamanho de uma cadeira. No dia a dia: criar uma ponte improvisada para cruzar o fosso do Zoo, forjar um convite idêntico ao original para entrar na festa da Coroa, ou deixar uma mensagem animada na parede do dormitório que só o destinatário reconhece. |
+| **Bruxo das Trevas** | *Segredos Proibidos* permite perguntar ao Mestre sobre a história oculta de qualquer lugar ou pessoa. Quem foi expulso da Academia e por quê? O que aconteceu no terceiro andar da biblioteca em 2019? Por que Thanatus nunca fala sobre seu antigo familiar? |
+| **Lâmina Dançante** | *Dança-Magia* torna impossível saber se você está conjurando ou apenas se alongando. Perfeito para lançar um feitiço de proteção no meio do refeitório sem que ninguém perceba, ou para se aquecer antes do Derby enquanto *secretamente* encanta sua vassoura. |
+| **Astro do Derby** | *Sintonia com a Vassoura* vale em qualquer voo, não só no jogo. Fugir de uma detenção pelo telhado, entregar uma mensagem urgente do outro lado do campus em dois minutos, ou espionar a janela do escritório do segundo andar — de cabeça para baixo. |
+| **Duelista Arcano** | *Leitura de Combate* funciona como leitura corporal. Num interrogatório informal, perceba que o suspeito treme a mão esquerda. Numa reunião de grêmio, identifique quem está pronto para discordar antes de abrir a boca. |
+| **Caçador de Segredos** | *Faro para Mistérios* é automático. O Mestre informa quando algo foi adulterado — uma ata de reunião editada, uma parede que não deveria estar ali, um relatório de V3ctor1us com dados faltando. O PJ não procura; ele simplesmente *percebe*. |
+| **Calouro Sortudo** | *Magnetismo Narrativo* é pura engrenagem social. "Por acaso" o PJ senta ao lado da pessoa certa no refeitório, encontra a chave que caiu do bolso do professor, ou ouve a frase exata que conecta duas pistas. A coincidência *sempre* vem com complicação — mas também com informação. |
+| **Magizoólogo** | *Empatia Bestial* impressiona qualquer NPC que tenha familiar. Acalme o gato de um veterano nervoso antes de uma prova e ganhe um aliado para o resto do semestre. Ou perceba que o familiar de alguém está *estressado demais* — sinal de que o dono está escondendo algo. |
+| **Curamago** | *Diagnóstico Instantâneo* revela quem dormiu mal, quem está doente, quem está sob efeito de magia — sem teste. Na fila do almoço, o Curamago olha para um NPC e *sabe* que algo está errado antes de qualquer um perceber. "Você não está bem." "Eu estou ótimo." "Não está." |
+
+> **Para o Mestre:** Quando um PJ quiser usar seu kit fora de combate de uma forma criativa, diga "sim" primeiro e negocie os detalhes depois. Kits são identidades, não listas de combos.
 
 ---
 
@@ -721,6 +722,30 @@ A aparência transformada é única para cada personagem. Pode ser uma armadura 
 
 ---
 
+### Nome Verdadeiro (2 pontos)
+
+Você aprendeu o segredo mais antigo da magia: tudo tem um nome verdadeiro, e quem conhece o nome *manda*. Não é o nome que consta no rótulo ou no grimório — é o nome que a coisa reconhece como *seu*, a palavra que a define na estrutura mais profunda da realidade.
+
+**Uma vez por sessão**, ao descobrir ou pronunciar o nome verdadeiro de uma criatura, objeto mágico ou fenômeno arcano, você pode dar **uma ordem direta** que o alvo não pode recusar. A ordem funciona — sem teste, sem resistência. A criatura obedece. O artefato se comporta. O feitiço desiste de existir.
+
+A limitação é prática, não mecânica: **você precisa conhecer o nome verdadeiro primeiro.** Descobrir o nome é trabalho de pesquisa, investigação, intuição e risco. O Mestre define a dificuldade de encontrar cada nome — pode ser uma pista no grimório certo, uma conversa com quem criou o objeto, ou uma revelação que só vem quando o personagem quase não tinha mais tempo. E a ordem tem escopo narrativo: "pare de me atacar" funciona; "destrua-se eternamente e apague sua existência" é pedir demais a uma palavra.
+
+(Talude, no corredor, com expressão de quem já viu muito: *"Todo aluno que aprende sobre nomes verdadeiros acha que virou o personagem mais poderoso da campanha. Dura até ele tentar adivinhar o nome errado e a coisa perguntar de volta: 'Qual é o seu?'"*)
+
+---
+
+### Mãos Mágicas (1 ponto)
+
+Seus feitiços não saem de palavras ou pensamentos — saem de *gestos*. Você conjura com as mãos, em movimentos precisos que parecem parte coreografia, parte linguagem de sinais, parte dança marcial. É bonito de ver. E muito mais difícil de interromper.
+
+**Feitiços que você lança com gestos somáticos são mais difíceis de cancelar.** Qualquer tentativa de dissipar, interromper ou anular um feitiço que você esteja mantendo ativamente requer que o oponente tenha sucesso em um teste com **Perda**.
+
+**Cooperação somática:** se outro personagem na mesma cena também possui Mãos Mágicas, vocês podem **conjurar juntos** como ação coordenada. Cada um gasta o custo normal em PM de um feitiço; o resultado é um efeito combinado cujo alcance e área dobram. O Mestre decide como os dois efeitos se fundem narrativamente — mas dois pares de Mãos Mágicas trabalhando em sincronia é o tipo de coisa que faz o corredor inteiro parar para assistir.
+
+(Limitação: se suas mãos estiverem presas, imobilizadas ou ocupadas segurando algo, você conjura com **Perda** em vez de normalmente. Mãos Mágicas precisam, previsivelmente, de mãos.)
+
+---
+
 ## Novas Desvantagens
 
 Desvantagens devolvem pontos de personagem e adicionam complicações à sua vida. Porque a vida na Academia já não era complicada o suficiente.
@@ -774,6 +799,18 @@ O MagiDerby é disputado em uma **pista oval flutuante** (sim, a própria pista 
 Há competições inter-grêmios (o campeonato interno da Academia, que é tratado com a seriedade de uma Copa do Mundo) e competições inter-escolas (quando academias de outras regiões enviam seus times e as coisas ficam *realmente* intensas).
 
 Todo grêmio tem um time. Todo grêmio leva o Derby a sério. As rivalidades que começam na pista frequentemente se estendem para os corredores. E vice-versa.
+
+### Lendas da Pista
+
+*"Se você não chorou assistindo um Derby, você não assistiu direito."* — Cartaz não-oficial na entrada do estádio
+
+O MagiDerby não é só esporte. É mitologia em tempo real. Cada temporada adiciona camadas à lenda, e veteranos colecionam histórias de partidas como outros colecionam cartas. Aqui estão as que todo calouro escuta — e que todo veterano conta de um jeito diferente:
+
+**A Final de 2023.** Coroa contra Aurora, título da temporada em jogo. A Jammer da Aurora — uma terceiranista chamada Sol — usou uma Finta Dimensional no último jam. Atravessou a formação da Coroa por *dentro* de uma fenda espacial que ela abriu no meio da pista. Legal? Tecnicamente. A regra dizia "sem magia ofensiva *contra* adversários." Sol não usou magia contra ninguém. Usou magia contra o *espaço*. O ponto valeu. A Coroa protestou por três semanas. A regra foi alterada na temporada seguinte. Sol está na parede de fotos do estádio — apontando para o relógio no momento do gol. A foto é o pôster não-oficial da Aurora.
+
+**O Incidente Thanatus.** Em 2022, durante um amistoso Égide-Obsidiana, uma vassoura quebrou a quarenta metros de altura. O piloto — um calouro da Égide que não deveria estar na altitude de competição — caiu. Thanatus, que estava na arquibancada "observando com interesse acadêmico", levantou a mão. O corpo do calouro parou a um metro do chão, envolto em energia necromântica que ninguém sabia que Thanatus podia canalizar tão rápido. O calouro não sofreu nenhum arranhão. Thanatus voltou a se sentar e abriu o livro que estava lendo. A regra sobre altitude máxima em amistosos foi criada no dia seguinte.
+
+**O Derby Silencioso.** Na semifinal de 2024, toda a torcida da Monsoon compareceu — e ficou em silêncio absoluto. Nenhum grito, nenhuma provocação, nenhum barulho. Apenas o silêncio coordenado de cinquenta pessoas de rosa olhando fixamente para o time adversário. O efeito psicológico foi devastador. O Bloqueador da Coroa errou três manobras seguidas. A Liga decidiu que "silêncio organizado" não configura interferência. A Monsoon concorda. Ainda está rindo.
 
 ---
 

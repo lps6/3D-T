@@ -65,6 +65,8 @@ Na re-fundação, veteranos Viajantes os trouxeram de volta — adaptados para o
 
 A Égide acredita que magia existe para proteger. Ponto. O poder que você recebeu não é seu — pertence a todas as pessoas que você jurou defender, mesmo que elas não saibam que você jurou nada. A medida de um mago não é o que ele consegue destruir, mas o que ele consegue manter de pé.
 
+Mas olhe mais de perto. Pergunte a qualquer membro da Égide *por que* eles protegem — não a resposta oficial, a verdadeira. Quase todos perderam algo. Um lar. Uma pessoa. Uma versão do mundo que fazia sentido. A Égide não atrai idealistas — atrai sobreviventes. Pessoas que sabem exatamente o que acontece quando ninguém se coloca entre o perigo e os vulneráveis, porque já estiveram do lado errado dessa equação. O dever não é princípio; é cicatriz transformada em propósito.
+
 No antigo Arton, o Grêmio da Justiça era o maior e mais respeitado da Academia. Produziu heróis, paladinos, defensores de causas que a maioria das pessoas apenas discutia em teoria. A Égide carrega essa herança com orgulho — e com o peso que vem junto.
 
 Geófilus, o patrono, é um homem de poucas palavras que expressa aprovação com silêncio e desaprovação com um olhar que faz paredes tremerem. Ele ensina que a verdadeira proteção não é um gesto grandioso — é a decisão de não sair do lugar quando tudo ao redor está cedendo. Sua magia é estável como a terra sob seus pés: sem espetáculo, sem elegância, sem falha.
@@ -90,7 +92,31 @@ Isso não significa que não atacam. Mas mesmo quando um membro da Égide lança
 
 **Representação no MagiDerby:** A Égide geralmente produz os melhores **Bloqueadores** — jogadores que protegem companheiros e absorvem impacto. Não são espetaculares. São necessários.
 
-**Estereótipo (nem sempre justo):** "O membro da Égide que transformou uma discussão sobre o cardápio do refeitório em uma questão de princípios — e depois protegeu o cozinheiro quando a discussão ficou séria." A Égide leva esse estereótipo a sério. Esse é o problema.
+**Estereótipo (nem sempre justo):**
+
+*Ouvido no refeitório, hora do almoço:*
+
+"Você viu? O cara da Égide quase virou a mesa porque alguém xingou a tia do café."
+
+"Ele *virou* a mesa?"
+
+"Não. Ficou entre ela e o cara gritando e disse 'não na minha presença.' Dois minutos de silêncio."
+
+"...E depois?"
+
+"Pediu desculpa à tia pelo incômodo e saiu como se nada tivesse acontecido."
+
+A Égide leva esse estereótipo a sério. Esse é o problema.
+
+#### Tradições e Boatos
+
+**O Juramento do Escudo.** Não é oficial. Não está em nenhum regulamento. Mas todo calouro da Égide passa por isso: numa noite sem data marcada, os veteranos levam os novos ao pátio dos fundos. Cada calouro nomeia — em voz baixa, só para o escudo do grêmio — algo que perdeu. Pode ser uma pessoa, um lugar, uma versão de si mesmo. O escudo não responde. O calouro também não precisa. A partir dali, o que era perda vira razão.
+
+**Primeiro Turno.** Em qualquer situação de perigo — real ou simulado — um membro da Égide vai à frente. Não é regra escrita. É algo que acontece, como respirar. Os outros grêmios chamam isso de complexo de herói. A Égide chama de "terça-feira."
+
+**Boato:** Geófilus mantém no fundo de uma gaveta trancada uma lista escrita à mão com o nome de cada ex-aluno da Égide que morreu em serviço. A lista é atualizada. Ninguém sabe se é verdade. Ninguém ousa perguntar.
+
+**Piada de corredor:** "Égide não dorme. Égide faz turnos."
 
 **Gancho:** Um veterano da Égide descobriu que um dos professores está quebrando uma regra da escola sistematicamente. A regra é menor. A quebra é consistente. E o professor em questão é Geófilus — o patrono do grêmio. O veterano não sabe o que fazer com essa informação. A regra que Geófilus quebra é, ironicamente, uma que ele considera injusta — e isso desafia tudo que a Égide ensina sobre seguir o dever.
 
@@ -109,6 +135,8 @@ Isso não significa que não atacam. Mas mesmo quando um membro da Égide lança
 #### A Filosofia da Coroa
 
 A Coroa acredita que o mundo é caos — e magia é a ferramenta que impõe estrutura. Um mago indisciplinado é mais perigoso que um mago fraco. O poder arcano exige organização, hierarquia, e mãos competentes no comando. Não porque magos são melhores que não-magos — mas porque o poder sem direção é catástrofe.
+
+É isso que dizem em voz alta. O que não dizem: quase todo membro da Coroa aprendeu cedo que o caos destrói. Famílias fragmentadas pela Convergência. Comunidades que desmoronaram sem liderança. O planejamento obsessivo não é traço de personalidade — é armadura. A necessidade de controle nasce de ter visto o que acontece quando ninguém controla nada. Cada planilha é um amuleto contra a incerteza. Cada hierarquia, uma promessa de que desta vez ninguém vai ser pego de surpresa.
 
 No antigo Arton, o Grêmio da Vilania tinha uma reputação complicada. "Vilania" é uma palavra pesada, e o grêmio atraía tanto líderes natos quanto manipuladores natos. A Coroa abraça a complexidade dessa herança. Quando renomearam na re-fundação, escolheram "Coroa" deliberadamente: não como símbolo de nobreza, mas como símbolo de responsabilidade — com uma pitada generosa de "sim, queremos estar no comando."
 
@@ -137,7 +165,29 @@ O melhor feitiço da Coroa é aquele que ninguém percebe que foi lançado. Apri
 
 **Representação no MagiDerby:** A Coroa produz os melhores **Estrategistas** — jogadores que memorizam padrões do adversário e ajustam a formação em tempo real. Raramente os atletas mais físicos, mas os que fazem o time inteiro jogar melhor.
 
-**Estereótipo (nem sempre justo):** "O membro da Coroa que organizou um golpe no grêmio estudantil com três semanas de antecedência e duas planilhas." A Coroa não desmente esse estereótipo. Às vezes porque é verdade. Às vezes porque convém que pensem que é.
+**Estereótipo (nem sempre justo):**
+
+*Sussurrado no corredor antes de uma eleição:*
+
+"A Coroa já tem candidato?"
+
+"A Coroa já tem *resultado*. Três semanas atrás. Com planilha."
+
+"Isso é paranoia."
+
+"Isso é uma ata de reunião. Eu vi."
+
+A Coroa não desmente esse estereótipo. Às vezes porque é verdade. Às vezes porque convém que pensem que é.
+
+#### Tradições e Boatos
+
+**Debate da Cruz.** Toda sexta-feira, membros se reúnem na sede para debater um tema impossível — "A Convergência foi boa para Arton?", "V3ctor1us deveria poder votar?", "A lealdade é uma fraqueza?" O objetivo não é vencer. É provar que você sustenta qualquer posição sem perder a compostura. Quem perde a calma compra o café da semana seguinte. Nereus compareceu uma vez. Venceu. Nunca mais voltou. A Coroa ainda discute se isso foi gentileza ou crueldade.
+
+**Vigília do Plano.** Antes das provas finais, membros se reúnem na sede em silêncio absoluto para revisar juntos. Não há conversa. Não há ajuda mútua. Só a presença de pessoas que entendem que planejamento é a diferença entre sobreviver e não. Alguns dormem ali. Ninguém admite que a companhia importa mais do que o estudo.
+
+**Boato:** O código de conduta interno da Coroa — as regras não-oficiais que membros seguem — foi originalmente escrito por V3ctor1us. Ninguém conseguiu confirmar. A possibilidade tira o sono de veteranos desde 2020.
+
+**Piada de corredor:** "Coroa não improvisa. Coroa tem o plano B do plano C."
 
 **Gancho:** A líder atual da Coroa está convocando membros para uma reunião que não aparece em nenhum calendário oficial. Ela é uma aluna do quarto ano com histórico impecável e notas perfeitas. Nereus sabe sobre a reunião. Não a impediu. Isso preocupa mais do que a própria reunião.
 
@@ -156,6 +206,8 @@ O melhor feitiço da Coroa é aquele que ninguém percebe que foi lançado. Apri
 #### A Filosofia da Aurora
 
 A Aurora acredita que magia é uma extensão do eu. Emoções, criatividade, identidade — a magia mais poderosa nasce da autenticidade, não de fórmulas. Se você lança um feitiço exatamente como o livro manda, você não aprendeu magia: aprendeu obediência. Regras existem para proteger os fracos do poder — e também para impedir que o poder se torne algo verdadeiramente *extraordinário*.
+
+Mas a liberdade tem um custo que a Aurora demora a admitir. Quando sua magia nasce da emoção e da identidade, cada feitiço é um ato de vulnerabilidade — e às vezes ser autêntico machuca quem está perto. O membro da Aurora que expressou sua raiva sem filtro e destruiu o projeto de um colega. A aluna que perseguiu sua verdade artística e abandonou uma amiga que precisava dela. A Aurora aprende, da forma mais dolorosa possível, que liberdade sem empatia é só egoísmo em roupas coloridas. Os que sobrevivem a essa lição se tornam magos extraordinários. Os que não sobrevivem mudam de grêmio — ou de escola.
 
 No antigo Arton, o Grêmio da Liberdade era amado pelos alunos e temido pelos professores. Produziu artistas, revolucionários, inventores, e pelo menos três pessoas que mudaram as leis mágicas de Valkaria — duas para melhor. A Aurora continua essa tradição com entusiasmo descontrolado.
 
@@ -182,7 +234,31 @@ A magia da Aurora é imprevisível por design. Membros aprendem a confiar na emo
 
 **Representação no MagiDerby:** A Aurora produz os melhores **Atacantes** — jogadores que correm riscos altos para pontuar, que inventam manobras no meio da partida, e que frequentemente acabam na enfermaria com um sorriso.
 
-**Estereótipo (nem sempre justo):** "O membro da Aurora que protestou contra uma regra que ninguém estava aplicando, causou mais caos que a regra teria causado, e chamou isso de 'arte.'" A Aurora aceita esse estereótipo como elogio. Esse é exatamente o problema.
+**Estereótipo (nem sempre justo):**
+
+*Gritado no pátio durante o intervalo:*
+
+"POR QUE NINGUÉM ESTÁ FALANDO SOBRE A REGRA 47-B?!"
+
+"Porque ninguém aplica a Regra 47-B."
+
+"EXATAMENTE! A OPRESSÃO SILENCIOSA É A PIOR FORMA DE—"
+
+"Você incendiou o quadro de avisos."
+
+"Isso foi *arte*."
+
+A Aurora aceita esse estereótipo como elogio. Esse é exatamente o problema.
+
+#### Tradições e Boatos
+
+**O Círculo da Verdade.** Uma vez por mês, membros se reúnem em roda e cada um compartilha algo real — não performance, não arte, algo genuíno. A regra é simples: sem julgamento, sem plateia. O que é dito no Círculo morre no Círculo. Veteranos dizem que o Círculo é onde a Aurora deixa de ser um grêmio e vira uma família. Calouros dizem que é a coisa mais assustadora que já fizeram na escola — incluindo os Ermos.
+
+**As Cores da Semana.** A sede da Aurora nunca tem a mesma decoração duas vezes. Membros redecorem compulsivamente — murais, luzes, instalações mágicas que mudam conforme o humor do grêmio. Há um registro não-oficial: o recorde de redecoração é dezessete vezes em um único semestre. Ignatus contribuiu com pelo menos quatro dessas. Com fogo.
+
+**Boato:** Existe um diário coletivo da Aurora, passado de turma em turma desde a re-fundação, onde cada geração registra "a coisa mais verdadeira que aprendi aqui." Ninguém sabe onde fica guardado. Os veteranos dizem que o diário te encontra quando você precisa dele.
+
+**Piada de corredor:** "Aurora não tem regras. Aurora tem sugestões fortemente coreografadas."
 
 **Gancho:** Um grupo de membros da Aurora está planejando algo que eles chamam de "O Grande Despertar" — um evento não autorizado envolvendo magia, arte, e uma mensagem que, segundo eles, "a Academia precisa ouvir." Ignatus sabe. Ele não só não os impediu como parece estar ajudando. Discretamente. O evento envolve uma forma de magia emocional coletiva que, tecnicamente, é proibida desde o antigo Arton. Há razões para a proibição. Há razões melhores para quebrá-la.
 
@@ -201,6 +277,8 @@ A magia da Aurora é imprevisível por design. Membros aprendem a confiar na emo
 #### A Filosofia da Obsidiana
 
 A Obsidiana acredita que magia é poder — e poder é a única moeda honesta do mundo. A realidade é uma hierarquia. Os que entendem isso e agem de acordo sobrevivem. Os que fingem que não é assim são ingênuos ou estão tentando manipular quem ainda acredita em igualdade.
+
+É fácil achar que a Obsidiana nasce cínica. Nenhum membro nasce assim. Quase todos *chegaram* assim — quebrados por algo. Uma promessa que alguém fez e não cumpriu. Um sistema que deveria proteger e não protegeu. Um ideal que se provou mentira bonita. A Obsidiana é o grêmio dos que acreditaram em alguma coisa e foram esmagados por ela. Não são cínicos por vocação — são ex-idealistas que decidiram que a verdade, por mais feia que seja, é preferível a qualquer mentira reconfortante. Se você quer entender a Obsidiana, não pergunte no que eles acreditam. Pergunte no que eles *deixaram* de acreditar.
 
 No antigo Arton, o Grêmio da Crueldade tinha a pior reputação da Academia. O nome não ajudava. Na re-fundação, os veteranos que reativaram o grêmio escolheram "Obsidiana" como uma rejeição deliberada do nome antigo. A filosofia central permaneceu — mas o que antes era glorificação da crueldade se transformou em algo mais cortante: o reconhecimento de que **opressão** é como o mundo funciona, quer você concorde ou não. A Obsidiana não diz que dominância é *boa*. Diz que dominância é *real*. E que quem ignora isso é quem mais sofre com ela.
 
@@ -229,7 +307,29 @@ A magia da Obsidiana é eficiente, frequentemente invisível, e difícil de iden
 
 **Representação no MagiDerby:** A Obsidiana produz os melhores **Pilotos Livres** — jogadores sem posição fixa que causam caos estratégico, sempre onde o adversário não esperava. Impossíveis de prever. Essenciais para vencer.
 
-**Estereótipo (nem sempre justo):** "O membro da Obsidiana que era provavelmente responsável por aquilo que aconteceu mas de alguma forma não há como provar." A Obsidiana não desmente seus estereótipos. Isso também é calculado.
+**Estereótipo (nem sempre justo):**
+
+*Murmúrio no fundo da biblioteca:*
+
+"Foi a Obsidiana?"
+
+"Não tem como provar."
+
+"Isso é um sim?"
+
+"Isso é um 'não tem como provar.'"
+
+A Obsidiana não desmente seus estereótipos. Isso também é calculado.
+
+#### Tradições e Boatos
+
+**O Contrato.** Todo membro novo da Obsidiana assina um contrato simbólico — não de lealdade, mas de honestidade. O texto é simples: "Prometo não mentir para você sobre coisas que importam." A Obsidiana não pede lealdade cega. Pede verdade nua. Quebrar o Contrato é a única ofensa que resulta em expulsão do grêmio. Tudo o mais é negociável.
+
+**A Reunião das Sombras.** Uma vez por mês, em horário que muda toda vez, membros se encontram para compartilhar informação. Não é fofoca — é *inteligência*. Quem sabe o quê, quem deve o quê a quem, qual professor está agindo estranho, qual grêmio está planejando algo. A Obsidiana não espiona. A Obsidiana *percebe*.
+
+**Boato:** Zéphyro guarda uma coleção de cartas de ex-alunos da Obsidiana. Todas agradecem. Todas pedem desculpas por algo. Ninguém sabe exatamente por quê, mas veteranos que viram as cartas ficaram em silêncio por dias.
+
+**Piada de corredor:** "Obsidiana não faz amigos. Obsidiana faz aliados que sabem seu nome."
 
 **Gancho:** Um aluno de primeiro ano foi convidado para a Obsidiana — algo raro, já que o grêmio normalmente espera que candidatos venham até ele. O aluno é Terrano, sem contatos no mundo mágico, sem histórico relevante. Zéphyro foi visto conversando com esse aluno. Zéphyro nunca conversa com calouros. Algo não está certo — ou está mais certo do que parece. O aluno demonstra um estilo de magia que não se encaixa em nenhuma tradição conhecida. Zéphyro reconhece o padrão. Ele não deveria reconhecê-lo.
 
@@ -237,17 +337,21 @@ A magia da Obsidiana é eficiente, frequentemente invisível, e difícil de iden
 
 ## A Bússola Arcana
 
-Os quatro grêmios históricos podem ser compreendidos — e contrastados — através de um framework que os professores chamam informalmente de **Bússola Arcana**. Não é um diagrama oficial. Não aparece em nenhum documento da escola. Mas Talude menciona quando aconselha calouros, Nereus usa em aulas de estratégia, e Zéphyro afirma que inventou (ninguém acredita, mas ninguém consegue provar o contrário).
+Isto não é um diagrama acadêmico. É um mapa de trincheiras.
+
+Os quatro grêmios históricos podem ser compreendidos — e contrastados — através de um framework que os professores chamam informalmente de **Bússola Arcana**. Não aparece em nenhum documento oficial. Mas todo mundo na Academia sabe que ela existe, porque todo mundo na Academia já brigou por causa dela. Calouros brigam no refeitório. Veteranos brigam em redações. Professores brigam nos corredores depois das reunioes. A pergunta "para que serve a magia?" deveria ser filosófica. Na Academia, é pessoal.
+
+E no centro dessa tensão estão dois escritórios no mesmo corredor. O de Talude — porta aberta, gato gordo na almofada, livros empilhados com anotações furiosas. O de V3ctor1us — porta fechada, luz fria, eficiência silenciosa. O corredor entre os dois tem trinta metros. Qualquer aluno que já caminhou por ali sabe: esses trinta metros são a Bússola inteira.
 
 A Bússola Arcana organiza as filosofias mágicas em dois eixos:
 
 ### Eixo 1 — Acesso: Magia Para Todos ↔ Magia Para os Dignos
 
-Este eixo reflete o debate mais antigo da Academia — o mesmo que separa **Talude** e **V3ctor1us** desde a re-fundação.
+Este eixo reflete o debate mais antigo da Academia — o mesmo que separa **Talude** e **V3ctor1us** desde a re-fundação. Não é acadêmico. É a guerra que define a escola.
 
-De um lado: **magia é direito universal.** Deve ser ensinada, compartilhada, democratizada. Todo ser com aptidão merece acesso ao conhecimento arcano, independente de origem, talento ou mérito prévio. Negar magia a alguém é uma forma de opressão. (Posição de Talude.)
+De um lado: **magia é direito universal.** Deve ser ensinada, compartilhada, democratizada. Todo ser com aptidão merece acesso ao conhecimento arcano, independente de origem, talento ou mérito prévio. Negar magia a alguém é uma forma de opressão. (Posição de Talude. Ele morre nessa colina — literalmente, se for preciso.)
 
-Do outro: **magia exige talento.** Nem todos estão prontos. Nem todos deveriam estar. O acesso irrestrito ao poder arcano sem filtros de competência é perigoso — não por elitismo, mas por consequência. Magia nas mãos erradas é imprevisível. Rigor nem sempre é crueldade; as vezes é cuidado. (Posição de V3ctor1us.)
+Do outro: **magia exige talento.** Nem todos estão prontos. Nem todos deveriam estar. O acesso irrestrito ao poder arcano sem filtros de competência é perigoso — não por elitismo, mas por consequência. Magia nas mãos erradas é imprevisível. Rigor nem sempre é crueldade; às vezes é cuidado. (Posição de V3ctor1us. A IA nunca diz isso em voz alta. Mas cada regra que cria diz por ela.)
 
 ### Eixo 2 — Propósito: Serviço ↔ Ambição
 
@@ -344,6 +448,32 @@ O estilo é visualmente inconfundível: glamour (nos dois sentidos da palavra), 
 **Pontos fracos:** O grêmio é jovem e ainda não tem a infraestrutura dos históricos. Nem todos levam a Monsoon a sério — o que é um erro que alguns já perceberam tarde demais, mas que continua acontecendo. A natureza performática pode parecer superficial para quem não entende que performance e verdade são a mesma coisa.
 
 **Representação no MagiDerby:** A Monsoon não tem um time competitivo consistente ainda — são poucos para isso. Mas membros individuais que participam por outros times ou em amistosos são famosos por serem absolutamente impossíveis de marcar, porque ninguém consegue prever o que vão fazer. Inclusive eles mesmos.
+
+**Estereótipo (nem sempre justo):**
+
+*Ouvido no vestiário depois de um treino:*
+
+"A garota da Monsoon fez um death drop no meio do duelo."
+
+"Funcionou?"
+
+"O oponente esqueceu o contra-feitiço de tanto rir."
+
+"Então funcionou."
+
+"Ela disse que 'o riso é apenas a magia reconhecendo talento.'"
+
+A Monsoon aceita qualquer estereótipo e o transforma em número de abertura. Esse é exatamente o ponto.
+
+#### Tradições e Boatos
+
+**A Performance de Boas-Vindas.** Todo calouro que entra na Monsoon apresenta algo — pode ser dança, magia, música, poesia, uma piada terrível, qualquer coisa que mostre quem a pessoa é. Não precisa ser bom. Precisa ser *real*. Jynx faz questão de dizer que o único critério é "autenticidade acima de talento." O único calouro que se recusou a performar foi aceito mesmo assim. Ele chorou. Jynx disse que isso contava.
+
+**A Parede dos Nomes.** Na sede da Monsoon, há uma parede onde cada membro escreve o nome que escolheu — não o de nascimento, o *escolhido*. Pode ser o nome legal, um apelido, um nome artístico, o nome que ninguém mais usa. A parede é sagrada. Riscar o nome de outra pessoa é o único ato imperdoável na Monsoon.
+
+**Boato:** A sede da Monsoon muda de decoração sozinha. O rosa das paredes pulsa conforme o humor coletivo do grêmio. Membros juram que os quadros se reorganizam à noite. Ninguém sabe se é magia residual da Arca ou se é Jynx redecorando às três da manhã. Ambas as opções são igualmente prováveis.
+
+**Piada de corredor:** "Monsoon não estuda. Monsoon ensaia."
 
 **Gancho:** Jynx Monsoon está preparando algo que ela chama de "O Grande Espetáculo" — uma demonstração de magia performática aberta para toda a Academia. O evento é autorizado. Mas os rumores dizem que o que Jynx está realmente planejando vai muito além de entretenimento. Ela está tentando provar que magia performática pode fazer algo que os acadêmicos tradicionais consideram impossível. Se ela estiver certa, muda tudo o que a Academia sabe sobre conjuração. Se estiver errada, a explosão vai ser fabulosa.
 

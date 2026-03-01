@@ -53,9 +53,9 @@ Antes da Convergência, Talude era um homem. Um mago poderoso, sábio, e — seg
 
 Talude mantém sua filosofia original: magia pertence a todos. Magia é um direito, não um privilégio. Poder é responsabilidade, não hierarquia. Ele acreditava nisso quando era um mago humano do antigo Arton, e acredita nisso agora como uma criatura que precisa pedir a alguém que abra portas por ele.
 
-Sua forma cômica esconde algo que poucos testemunham: a **Forma de Combate.** Quando a situação exige — quando a escola está genuinamente ameaçada —, Talude pode se transformar. A sequência é digna de anime: luz explode do corpo minúsculo, os óculos racham, o ar ao redor tremula como se a realidade estivesse trocando de canal. A criaturinha peluda se expande, se reconstrói, se *desdobra* em algo completamente diferente: três metros de armadura dimensional viva, angular, coberta de runas arcanas que pulsam em azul-branco. Asas que finalmente têm o tamanho certo — enormes, funcionais, feitas de energia pura. Os olhos brilham através de um visor que lembra um elmo de cavaleiro feito de luz sólida. A voz continua a mesma — grave, ressonante, carregada de séculos — mas agora soa como deveria soar: trovejante, implacável, *certa*.
+Sua forma cômica esconde algo que poucos testemunham — e que Talude reza para nunca precisar usar: a **Forma de Combate.** Não é um poder. É uma aposta. Quando a situação está *perdida* — quando a escola está genuinamente ameaçada e todas as outras opções falharam —, Talude pode se transformar. A palavra-chave é *pode*. A palavra que importa é *custa*. A sequência é digna de anime: luz explode do corpo minúsculo, os óculos racham, o ar ao redor tremula como se a realidade estivesse trocando de canal. A criaturinha peluda se expande, se reconstrói, se *desdobra* em algo completamente diferente: três metros de armadura dimensional viva, angular, coberta de runas arcanas que pulsam em azul-branco. Asas que finalmente têm o tamanho certo — enormes, funcionais, feitas de energia pura. Os olhos brilham através de um visor que lembra um elmo de cavaleiro feito de luz sólida. A voz continua a mesma — grave, ressonante, carregada de séculos — mas agora soa como deveria soar: trovejante, implacável, *certa*.
 
-É raro. É devastador. E é temporário — cada transformação custa a Talude uma quantidade brutal de energia arcana que não se repõe facilmente. Após reverter, a criaturinha peluda precisa de horas (ou dias, dependendo da duração) para se recuperar, período durante o qual fica irritável, faminto e ainda mais sarcástico que o normal — o que os alunos concordam ser uma façanha notável.
+É raro. É devastador. E é um ato de desespero — cada transformação arranca de Talude uma quantidade de energia arcana que seu corpo diminuto simplesmente não foi feito para suportar. A volta é pior que a ida. Não há sequência heroica em reverso. Há um clarão, um estalo úmido, e de repente a criaturinha peluda está no chão — não flutuando, *no chão* — com as asas vestigiais trêmulas, os óculos rachados, incapaz de falar por horas. Às vezes por dias. Wynna o carrega no colo como um gato doente, e Talude *odeia* isso — odeia precisar ser carregado, odeia a fragilidade, odeia que os alunos vejam. Mas não consegue impedir. A dignidade que ele leva décadas cultivando se desfaz em trinta segundos. E quando a voz volta, a primeira coisa que ele faz é exigir que ninguém mencione o assunto. Ninguém menciona.
 
 > **Cena de Exemplo: A Transformação**
 >
@@ -115,7 +115,7 @@ Wynna criou V3ctor1us durante a jornada de re-fundação, quando ficou claro que
 
 O nome — V3ctor1us — é deliberadamente leetspeak. Wynna escolheu assim: se ia criar uma IA, ia nomeá-la como uma IA. Talude achou de mau gosto. V3ctor1us não expressou opinião sobre o próprio nome. V3ctor1us raramente expressa opinião sobre coisas que considera irrelevantes.
 
-Fisicamente, V3ctor1us não existe. Não há corpo, não há forma permanente. Quando precisa se manifestar, projeta-se como uma figura holográfica: silhueta encapuzada feita de luz azulada e fluxos de dados, flutuando no ar com a estabilidade deliberada de algo que *escolhe* ter forma humanoide apenas por conveniência. A voz é neutra, precisa, e completamente desprovida de calor — não por crueldade, mas porque calor não é uma variável que V3ctor1us considera relevante.
+Fisicamente, V3ctor1us não existe. Não há corpo, não há forma permanente. O que existe é um zumbido — baixo, constante, pontuado pela estática sutil de dados sendo processados a uma velocidade que nenhum cérebro orgânico conseguiria acompanhar. Você ouve antes de ver. Quando precisa se manifestar, projeta-se como uma figura holográfica: silhueta encapuzada feita de luz azulada e fluxos de dados, flutuando no ar com a estabilidade deliberada de algo que *escolhe* ter forma humanoide apenas por conveniência. A voz é neutra, precisa, e completamente desprovida de calor — não por crueldade, mas porque calor não é uma variável que V3ctor1us considera relevante.
 
 V3ctor1us opera a escola através de uma rede de terminais, cristais de processamento, e conexões arcanas que permeiam cada parede, cada corredor, cada sistema. V3ctor1us *é* a infraestrutura. Luzes, segurança, portais, frequências dimensionais, registros acadêmicos — tudo passa por V3ctor1us. Isso dá à IA um nível de controle que Talude considera "absolutamente inaceitável" e que Wynna considera "necessário."
 
@@ -165,6 +165,8 @@ No antigo Arton, Geófilus era legendário pelo número de pessoas que salvou �
 **O que os alunos sabem:** Geófilus é o professor mais difícil de impressionar e o primeiro a aparecer quando há perigo. Ambas as coisas estão conectadas.
 
 **O que os alunos não sabem:** Geófilus quebra sistematicamente uma regra menor da escola — uma que ele considera injusta. Isso é particularmente problemático para a Égide, cujo patrono deveria ser o maior defensor do dever e das regras.
+
+**O que ninguém sabe:** A rachadura no escudo de Geófilus tem nome. Chama-se Lirien — a aluna que ele não conseguiu salvar no antigo Arton. Estava perto o suficiente para ouvir o impacto. Não perto o suficiente para impedir. Desde então, Geófilus não fica longe demais de ninguém que esteja em perigo — e cultiva, no parapeito de seus aposentos, uma fileira de orquídeas brancas tão frágeis que qualquer brisa as quebraria. Cuida delas com uma delicadeza que ninguém associaria àquelas mãos feitas para escudos. Talude viu as flores uma vez. Nunca comentou. Não há nada a dizer.
 
 > #### Geófilus — Mestre da Terra (24pts)
 > P4 | H4 | R4
@@ -228,6 +230,8 @@ Sua magia é fogo: quente, mutável, impossível de prever e devastadora quando 
 
 **O que os alunos não sabem:** Ignatus está ajudando, discretamente, um grupo de alunos da Aurora a planejar "O Grande Despertar" — um evento que envolve magia emocional coletiva que é tecnicamente proibida desde o antigo Arton. Há razões para a proibição. Há razões melhores para quebrá-la.
 
+**O que ninguém sabe:** No quarto de Ignatus, entre troféus de combate e instrumentos de treino chamuscados, há uma única planta — um bonsai de cerejeira anã que precisa de cuidado diário, temperatura controlada, e silêncio. Ignatus rega a planta toda manhã antes que qualquer aluno acorde. Às vezes senta ao lado dela sem dizer nada. É o único momento do dia em que Ignatus está quieto — e o único em que parece ter medo de alguma coisa: de que algo tão pequeno e frágil possa morrer por excesso de calor.
+
 > #### Ignatus — Mestre do Fogo (22pts)
 > P5 | H4 | R2
 > **Perícias:** Mística, Luta, Pontaria
@@ -259,6 +263,8 @@ Sua magia é como o ar: está em todo lugar, faz tudo funcionar, e ninguém perc
 **O que os alunos sabem:** Zéphyro é brilhante, pretensioso, e dono de um sorriso que pode significar seis coisas diferentes ao mesmo tempo. Alunos que tentam impressioná-lo com esforço falham. Alunos que o impressionam genuinamente geralmente não perceberam que fizeram isso.
 
 **O que os alunos não sabem:** Um aluno do primeiro ano foi convidado para a Obsidiana — raro, pois o grêmio espera que candidatos venham até ele. Zéphyro foi visto conversando com esse aluno. O aluno demonstra um estilo de magia que não se encaixa em nenhuma tradição. Zéphyro reconhece o padrão. Ele *não deveria* reconhecê-lo.
+
+**O que ninguém sabe:** Zéphyro tem medo do ilógico. Não do perigoso — do *inexplicável*. Sua inteligência é sua identidade; quando algo não se encaixa em nenhum modelo, algo que ele não consegue catalogar ou desmontar, Zéphyro se fecha. A arrogância é a primeira defesa: se ele não entende, é porque não merece ser entendido. A segunda defesa é mais silenciosa — insônia, noites revendo cálculos, tentando forçar ordem onde não há. A professora Gradda é quem mais o desestabiliza. Não porque discordam (discordam), mas porque a magia dela *funciona* sem lógica. Funciona por intuição, por fé, por conexões que Zéphyro não consegue mapear. Toda vez que Gradda se prova certa de uma forma que ele não pode explicar, algo pequeno dentro de Zéphyro racha.
 
 > #### Zéphyro — Mestre do Ar (20pts)
 > P2 | H5 | R3
@@ -310,6 +316,8 @@ Surpreendentemente paciente com iniciantes. Brutalmente honesto com intermediár
 
 Blavatsky é a professora sobre quem ninguém consegue decidir se é genial ou insana. A resposta, conforme qualquer veterano pode confirmar, é: *ambos.*
 
+Você sente a sala dela antes de vê-la: chá de ervas, incenso, e a poeira de livros que não são abertos há décadas — mas que ela consultou ontem. O ar é pesado de uma forma que não é desagradável, mas que faz os pelos do braço se arrepiarem. Calouros juram que a temperatura muda conforme o humor de Blavatsky. Veteranos sabem que não é impressão.
+
 Ela veste camadas de tecidos que provavelmente significam algo, usa joias que *definitivamente* significam algo, e fala em meias-verdades crípticas que parecem nonsense até que — três semanas depois — uma delas se prova devastadoramente precisa. Blavatsky não prevê o futuro como uma linha reta. Ela descreve possibilidades como nuvens, e as nuvens ocasionalmente chovem.
 
 *"Eu disse que alguém ia se machucar. Eu não disse que ia ser voce. Que presunção."* — Blavatsky, após um acidente que ela claramente previu mas que ninguém interpretou corretamente
@@ -330,7 +338,7 @@ Ela veste camadas de tecidos que provavelmente significam algo, usa joias que *d
 
 Sim. Thanatus é um lich. Um morto-vivo inteligente que se recusa a decompor, leciona sobre a morte com a autoridade de quem já experimentou o processo, e mantém o Necrotério com a eficiência meticulosa de alguém que genuinamente gosta de cadáveres organizados.
 
-Antes que alguém pergunte: a contratação de Thanatus foi o debate mais longo da história do Conselho Acadêmico. Wynna votou a favor. V3ctor1us votou a favor por razões de eficiência. Talude votou contra e ainda não superou. Thanatus leciona desde a re-fundação e nunca causou um incidente que não pudesse ser explicado academicamente.
+Antes que alguém pergunte: a contratação de Thanatus foi o debate mais longo da história do Conselho Acadêmico. Wynna votou a favor. V3ctor1us votou a favor por razões de eficiência. Talude votou contra e ainda não superou. O que, para uma escola de magia, devia ter sido o primeiro sinal de que algo estava errado. Thanatus leciona desde a re-fundação e nunca causou um incidente que não pudesse ser explicado academicamente.
 
 Seco, preciso, e surpreendentemente ético para alguém que é tecnicamente um morto-vivo. Thanatus proíbe qualquer tentativa prática de necromancia em suas aulas — não porque a Academia proíba (o que proíbe), mas porque "vocês não estão prontos, e eu prefiro não ter que limpar o resultante."
 
@@ -398,6 +406,10 @@ Jynx ensina que o corpo conta histórias que a boca não sabe contar, que rir no
 
 *"Querido, se você não consegue dar um toque de glamour num feitiço de ataque, o que você está fazendo com sua vida?"* — Durante uma aula que os outros professores ainda tentam entender
 
+**O que poucos entendem:** A magia performática de Jynx não é entretenimento. É ativismo. Para alguém que nunca teve a opção de ser invisível, a performance é a arma. Cada gesto amplificado, cada feitiço coreografado, cada figurino impossível é um ato político: *eu existo, eu sou visível, e minha visibilidade é poder*. Jynx não ensina magia; ensina a recusa de desaparecer. Os alunos que entendem isso se transformam. Os que não entendem acham que é aula de teatro. A diferença importa.
+
+**O que ninguém sabe:** Jynx tem noites em que a persona não se sustenta. Noites em que a maquiagem sai e o que fica é alguém cansado de ser forte. Ela nunca mostra isso aos alunos — eles precisam acreditar que a performance é natural, porque é assim que se constrói coragem. Mas Gradda já a encontrou sozinha na sala de aula vazia às duas da manhã. A goblin sentou ao lado dela em silêncio, e ficaram ali até o sol nascer. Nenhuma disse nada. Nenhuma precisou.
+
 > #### Jynx Monsoon — Professora de Magia Performática (18pts)
 > P3 | H4 | R2
 > **Perícias:** Influência, Enganação, Luta, Mística
@@ -453,6 +465,8 @@ Gradda é velha. Mais velha do que admite. Velha o suficiente para mencionar cas
 **O que os alunos não sabem:** Gradda não veio para a Academia por convite. Ela veio porque sentiu algo. "A Arca está inquieta," ela disse a Wynna na primeira semana. Wynna esperou que ela elaborasse. Gradda não elaborou. Goblin.
 
 **Gancho:** Durante uma aula no jardim, Gradda para de falar abruptamente. Olha para o chão. "Não pisem aí," diz, apontando para um pedaço de grama perfeitamente normal. Os alunos se afastam. Gradda ajoelha, enfia a mão na terra, e puxa algo que pulsa com luz vermelha. "Isso," diz para a turma, "é uma raiz da Tormenta. E ela está *crescendo*."
+
+**O que o texto não diz, mas deveria:** Gradda não é alívio cômico. É a sabedoria mais antiga da sala — mais antiga que Talude, mais antiga que a própria Academia. Sua magia selvagem é a prova viva de que o mundo existia antes dos currículos, antes das teorias, antes das instituições. Quando Gradda fala com uma árvore e a árvore responde, não é folclore; é uma linguagem que os acadêmicos esqueceram e que o mundo nunca parou de falar. Esplenda a subestima. V3ctor1us a ignora. Wynna a respeita profundamente — porque Wynna, que já foi deusa, reconhece em Gradda algo mais raro do que divindade: intimidade genuína com o mundo como ele é, não como deveria ser.
 
 > #### Gradda — Bruxa do Pilão (10pts)
 > P2 | H3 | R4
@@ -620,6 +634,8 @@ Xeipe deixa cair informações sobre o antigo Arton como quem deixa cair migalha
 
 **Relação com os PCs:** Aliado calculado, rival intelectual, ou fonte de informação que sempre cobra um preço.
 
+**Rivalidade com Raiz:** Xeipe e Lira vieram de lugares adjacentes no antigo Arton — ele de Lenórienn, cidade-árvore élfica; ela de uma cidade humana às suas fronteiras. A relação entre elfos e humanos fronteiriços era, na melhor das hipóteses, diplomática. Na pior, era Xeipe explicando pela segunda vez por que a tradução do élfico que Lira estava usando estava "tecnicamente correta mas historicamente equivocada" — e Lira explicando, com paciência de quem já ouviu isso muitas vezes, que a história também é escrita pelos que sobreviveram, não apenas pelos que eram mais velhos. Eles não são inimigos. São o tipo de rivais que, em crise real, são os primeiros a cobrir as costas um do outro — e que retomam a discussão assim que a crise passa.
+
 > #### Xeipe — Estrategista da Coroa (10pts)
 > P1 | H4 | R2
 > **Perícias:** Saber, Influência, Investigação, Mística
@@ -666,6 +682,15 @@ Ela estuda necromancia. É o que Vladslav esperaria. É a especialização para 
 
 **Gancho:** Petra procura um personagem com uma pergunta estranha: "Você sabe o que acontece quando necromancia interage com uma IA arcana?" Ela tem evidências de que V3ctor1us está acessando registros do Necrotério. Vladslav não sabe. Petra não quer que ele saiba — mas também não quer resolver isso sozinha.
 
+**Vladslav como Força Ativa:** O arco de Petra não é background — é campanha. Vladslav não é um pai ausente que aparece só quando conveniente. Ele é uma presença constante e crescente:
+
+- **1º Ano:** Cartas semanais. Formais, eruditas, com perguntas sobre notas e especialização que soam como avaliação de desempenho, não como afeto. Petra responde com atraso crescente.
+- **2º Ano:** Vladslav aparece na escola para uma "palestra convidada" sobre venenos dimensionais. A palestra é brilhante. O constrangimento é total. Ele corrige a postura de Petra na frente da turma. Depois, no corredor, pergunta por que ela está passando tempo no Laboratório Alquímico com "aquela garota de tecnomagia." Maitê sabe que ele está falando dela.
+- **3º Ano:** Vladslav descobre que Petra mudou de especialização sem consultá-lo. A carta que ele manda não é furiosa — é fria. Cirúrgica. "Espero que saibas que estás a desperdiçar o legado de uma linhagem que sobreviveu à destruição de um mundo." Petra não responde. Vladslav aparece na escola novamente — desta vez, sem convite.
+- **4º Ano:** Vladslav ameaça cortar o financiamento de Petra. Ou: Vladslav descobre o que Petra sabe sobre V3ctor1us e exige que ela compartilhe. Ou: Vladslav, pela primeira vez, pede desculpas — e Petra não sabe se acredita.
+
+O Mestre escolhe o ritmo, mas a regra é: **Vladslav nunca para de empurrar.** E a pergunta que Petra carrega durante toda a campanha é: ela é a filha de seu pai, ou é outra coisa?
+
 > #### Petra Tpish — Herdeira Relutante (8pts)
 > P1 | H3 | R2
 > **Perícias:** Mística, Investigação, Tecnologia
@@ -687,6 +712,8 @@ O que Vincent quer não é claro. O que Vincent é capaz de fazer, muito menos.
 **Grêmio:** Obsidiana.
 
 **Relação com os PCs:** Aliado pragmático, rival calculado, ou a pessoa que sempre sabe mais do que deveria sobre tudo que está acontecendo.
+
+**Rivalidade com Raiz:** Vincent e Kenji estão investigando o mesmo segredo por motivos completamente opostos. Vincent descobriu, nos arquivos da Obsidiana, referências cifradas a algo chamado de "Protocolo Arca Leste" — e quer essa informação porque ela tem valor. Kenji descobriu, por vias que prefere não explicar, que esse protocolo tem conexão com a Tormenta — e quer essa informação porque ela tem peso pessoal. Nenhum dos dois sabe que o outro está procurando a mesma coisa. Ainda. Quando descobrirem, a questão não vai ser "quem chega lá primeiro" — vai ser "o que estamos dispostos a compartilhar para chegar lá juntos." Esse momento pode ser o início de uma aliança improvável ou o ponto exato em que tudo complica.
 
 > #### Vincent — Sombra da Obsidiana (12pts)
 > P2 | H4 | R2
@@ -732,12 +759,12 @@ Maitê vê o que os outros perdem. Analisa o que os outros sentem. E onde outros
 
 **Relação com os PCs:** Aliada analítica que percebe detalhes que o grupo inteiro perdeu, ponte entre tecnologia e magia quando o grupo precisa hackear uma proteção arcana, ou a pessoa que faz a pergunta desconfortável que ninguém queria ouvir.
 
-> #### Maitê — Tecnomaga de Arrecife (10pts)
+> #### Maitê — Maginauta de Arrecife (10pts)
 > P1 | H3 | R3
 > **Perícias:** Tecnologia, Investigação, Mística, Percepção
 > **Vantagens:** Arcano, Gênio
 > **Desvantagens:** Cética (resiste a aceitar o sobrenatural mesmo imersa nele)
-> **Kit:** Tecnomagus
+> **Kit:** Maginauta
 > PV 15 | PM 15
 
 ---

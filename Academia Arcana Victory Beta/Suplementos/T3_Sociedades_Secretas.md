@@ -99,7 +99,7 @@ As Sociedades Secretas existem no campus desde antes de qualquer estudante atual
 
 **Poder Oculto (mecânico):** Acesso a técnicas de magia de período intermediário (anterior à Convergência) não disponíveis no currículo. Uma vez por sessão, um membro pode executar um efeito mágico específico da tradição de sua linhagem sem gastar PM — o feitiço "quer" sair porque é memória muscular de séculos.
 
-**Vulnerabilidade:** A Sociedade é explicitamente discriminatória. Qualquer aluno Terrano que descobrir sua existência e seus critérios de recrutamento tem razão objetiva para levar a Wynna — e Wynna teria razão de agir. A Sociedade surviva por discrição.
+**Vulnerabilidade:** A Sociedade é explicitamente discriminatória. Qualquer aluno Terrano que descobrir sua existência e seus critérios de recrutamento tem razão objetiva para levar a Wynna — e Wynna teria razão de agir. A Sociedade sobrevive por discrição.
 
 ---
 
@@ -199,7 +199,7 @@ O ritual que planejam para o solstício não é violência. É colaboração arc
 
 1. **Os PJs Aderem.** Participam do ritual. O selo da Ala Leste reage. Não quebra — mas sinaliza algo. O que essa interação desencadeia depende do segredo da Ala Leste que o Mestre escolheu para a campanha.
 
-2. **Os PJs Impedem.** Descobrem que o ritual, bem-intencionado, seria catastrófico de uma forma específica relacionada ao segredo da Ala Leste. A questão é como impedir sem destruir a confiança dos studantes envolvidos — que não são vilões.
+2. **Os PJs Impedem.** Descobrem que o ritual, bem-intencionado, seria catastrófico de uma forma específica relacionada ao segredo da Ala Leste. A questão é como impedir sem destruir a confiança dos estudantes envolvidos — que não são vilões.
 
 3. **Alguém Chega Primeiro.** A nova Sociedade foi infiltrada por uma das cinco Sociedades existentes, que quer usar o ritual coletivo para seus próprios fins. O ritual acontece antes que os PJs possam intervir completamente. O que sai da Ala Leste não é o que ninguém esperava.
 
@@ -247,4 +247,4 @@ O subsistema de **Facções Ocultas** e as cinco Sociedades funcionam em qualque
 
 *Este artigo usa os sistemas base de 3D&T Victory (Jambô Editora) e o livro Academia Arcana Victory. As cinco Sociedades são elementos opcionais — o Mestre pode usar todas, algumas, ou nenhuma.*
 
-*Referências: V3ctor1us e Ala Leste — Cap. 3 e Cap. 8. Grêmios — Cap. 4. Wynna — Cap. 5. Talude — Cap. 5. Ermos de Talude (Bureal) — Cap. 2.*
+*Referências: V3ctor1us e Ala Leste — Cap. 9. Grêmios — Cap. 3. Wynna e Talude — Cap. 4. Ermos de Talude (Bureal) — Cap. 2.*

@@ -72,6 +72,12 @@ Quando magia improvisada falha, role 2d6:
 
 > **Exemplo:** Zed tenta improvisar um feitiço para empurrar uma criatura que bloqueou o corredor. O Mestre define: escala Moderada (dificuldade 9, custo 4 PM). Zed paga 4 PM e testa H2 + Mística. Rola... 4. Falha. O Mestre rola na tabela de colaterais: 4 — Alvo errado. A onda de força acerta Xeipe, que é arremessado contra uma estante. "Era para ser o bicho!" grita Zed. "ERA PARA SER O BICHO!" confirma Xeipe, tirando livros do cabelo.
 
+> **Para o Mestre — Colaterais como Ganchos, Não como Penalidades**
+>
+> Prefira resultados que criam complicações *sociais e narrativas* sobre complicações puramente mecânicas. Um personagem cujo cabelo fica azul por uma semana é um gancho de história ambulante — ele vira assunto no corredor, professores percebem, colegas pedem explicações, e V3ctor1us registra. Um personagem que simplesmente toma 1d de dano apenas... tomou dano.
+>
+> A tabela de colaterais foi projetada para gerar *histórias*, não *punições*. Se o resultado for "Registrado" (#8), faça V3ctor1us mencionar casualmente três sessões depois. Se for "Mutação cosmética" (#7), alguém confunde o PJ com outra pessoa — alguém que desapareceu no semestre passado. Cada colateral é uma semente. Plante.
+
 ### Interação com Kits e Vantagens
 
 - **Kit Glifista (Criação Arcana):** Reduz a dificuldade de magia improvisada em 2. Além disso, ao rolar na Tabela de Efeitos Colaterais, pode rolar com **Ganho** (rola 3d6, descarta o menor, e soma os dois maiores — escolhendo resultados mais altos e geralmente mais brandos).
@@ -85,6 +91,14 @@ Quando magia improvisada falha, role 2d6:
 *"O grimório não é o livro. O grimório é o que o livro sabe sobre quem você está se tornando."* — Esplenda, em um momento incomumente poético
 
 Todo mago da Academia mantém um **grimório** — um registro pessoal das magias que aprendeu, descobriu, copiou ou improvisou com sucesso. Pode ser um livro encadernado em couro, um caderno digital integrado ao sistema de V3ctor1us, um diário coberto de adesivos e anotações em cinco cores de caneta, ou um rolo de pergaminho com cheiro de bibliotecas antigas. A forma não importa. O conteúdo, sim.
+
+> **O Grimório Como Diário**
+>
+> O valor real de um grimório não está nos slots nem na otimização dos espaços. Está nas histórias por trás de cada feitiço. A magia que você aprendeu na noite em que quase perdeu um amigo. O feitiço que deu errado três vezes antes de funcionar na quarta — às quatro da manhã, com os olhos ardendo e um veterano da Aurora segurando uma lanterna. A técnica que alguém te ensinou e que agora é a única coisa que resta daquela pessoa na sua vida.
+>
+> Encoraje os jogadores a dar nomes pessoais às magias registradas. Não "Barreira Arcana Nível 2." Mas "A Coisa que a Lira Me Ensinou." Não "Projétil de Fogo." Mas "O Truque do Ignatus" — porque foi ele que mostrou, num dia em que estava de bom humor, e o jogador lembra exatamente do sorriso.
+>
+> O grimório mais poderoso não é o que tem mais magias. É o que conta uma história quando você o folheia.
 
 ### Aprendendo Magias
 
@@ -199,6 +213,10 @@ O Mestre pode conceder especializações temporárias como recompensa por treina
 
 **ATENÇÃO: Esta é uma regra avançada e totalmente opcional.** A maioria das mesas vai se dar muito bem com Mística + Especializações. Esta seção é para mesas que querem mais granularidade na experiência mágica — e que estão dispostas a gerenciar mais perícias em troca disso.
 
+> **Aviso honesto para campanhas de drama:** Dividir a Mística em 4 perícias pode puxar a história para fora da cabeça do personagem e colocá-la na ficha. Quando um jogador gasta dois minutos decidindo se o teste é Arcanismo ou Rituais, ele *não* está pensando no que seu personagem sente. Se a sua campanha prioriza drama juvenil — angústia, romances, crises de identidade — use Mística + Especializações. Se a sua campanha prioriza rigor técnico-mágico — análise de artefatos, pesquisas na biblioteca, provas com nota — as +Perícias são para você. Isso é um espectro, não uma divisão binária. Converse com a mesa na Sessão Zero.
+
+**Recomendação padrão: Mística + Especializações.** É o padrão ouro para a maioria das campanhas da Academia.
+
 **Para quem é este módulo?** Em mesas de 3-4 jogadores com builds diversos (um guerreiro, um ladino, um mago), Mística + Especializações funciona perfeitamente. Este módulo brilha em mesas de 5-6 jogadores onde *todos* são magos — quando a pergunta não é "quem usa magia?" mas "*que tipo* de mago você é?" Se sua mesa tem essa composição, as 4 perícias transformam personagens genericamente arcanos em especialistas distintos.
 
 ### O Conceito
@@ -260,6 +278,53 @@ NPCs e desafios que listam "Mística" em suas fichas continuam funcionando norma
 
 As cinco seções deste capítulo foram desenhadas para funcionar independentemente, mas brilham quando combinadas. Aqui está como elas se conectam:
 
+### Fluxograma: Quer Lançar um Feitiço?
+
+```
+┌───────────────────────────────────────┐
+│  O feitiço está no seu Grimório?  │
+└───────────┴──────────────┴────────────┘
+         SIM ↓                     NÃO ↓
+┌─────────────────┐     ┌───────────────────┐
+│  USE O GRIMÓRIO  │     │  +MAGIA IMPROVISADA │
+│  Sem risco.     │     │  Descreva o efeito. │
+│  Custo reduzido. │     │  Mestre define escala│
+└─────────────────┘     │  e dificuldade.     │
+                         └─────────┴─────────┘
+                                   ↓
+                    ┌───────────────────┐
+                    │  Tem Especialização? │
+                    └─────┴──────┴──────┘
+                    SIM ↓         NÃO ↓
+               Dificuldade -1    Sem bônus
+                    │                │
+                    └──────┴──────┘
+                           ↓
+                ┌─────────────────────┐
+                │  ROLE O DADO!           │
+                │  (+Perícias Mágicas?     │
+                │   Use a perícia certa.   │
+                │   Mística? Use Mística.) │
+                └──────────┴──────────┘
+                     ↓              ↓
+              SUCESSO           FALHA
+                ↓                  ↓
+    ┌────────────────┐   ┌──────────────────┐
+    │ Feitiço funciona│   │ Falha + Efeito     │
+    │ Tente registrar │   │ Colateral (2d6)    │
+    │ no Grimório!    │   │ Nada de Grimório.  │
+    └────────────────┘   └──────────────────┘
+                ↓
+    ┌───────────────────────────────────┐
+    │ CRÍTICO? Registra automático. │
+    │ Senão: teste H + Saber.       │
+    │ Sucesso? Está no Grimório.    │
+    │ Falha? Tente de novo depois.  │
+    └───────────────────────────────────┘
+```
+
+**Resumo em uma frase:** *Grimório = seguro. Improviso = arriscado. Especialização = facilita. Perícias = granula. Dano Arcano = define o que dói.*
+
 1. **+Magia Improvisada** define *como* um personagem tenta algo novo.
 2. **+Sistema de Grimório** registra o que funcionou, transformando improviso em técnica.
 3. **+Especializações Mágicas** definem *no que* o personagem é melhor, afetando improviso e grimório.
@@ -304,6 +369,24 @@ Esta seção define **11 tipos de dano** que complementam a lista base para o co
 O Mestre pode adotar todos os 11, apenas alguns, ou integrá-los como subcategorias dos tipos base do Victory (por exemplo: **Arcano** como refinamento de **Mágico**, **Primordial** como um subtipo de **Trevas** ou **Psíquico** a critério da mesa).
 
 Cada tipo inclui: descrição narrativa, regra mecânica específica, quem tende a ser imune/resistente/vulnerável, e referência cruzada aos capítulos e suplementos relacionados.
+
+### Descreva a Dor
+
+Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Use a frase abaixo como ponto de partida — leia em voz alta, adapte ao momento, e deixe o jogador reagir antes de passar para a mecânica.
+
+| Tipo | O que o personagem sente |
+|---|---|
+| **Arcano** | Seus dedos formigam e sua conexão com a magia falha por um instante — como se o mundo inteiro tivesse piscado e você fosse o único a perceber. |
+| **Cármico** | A ferida parece fria. E você tem a sensação nauseante de que isso era para acontecer — de que sempre foi para acontecer. |
+| **Emocional** | Sua conexão com a magia vacila, como estática na sua alma. Você lembra de algo triste que não sabe se é real. Seus olhos ardem. |
+| **Dimensional** | O chão não está onde deveria. Você dá um passo e já está em outro lugar — e a pessoa que estava ao seu lado agora está longe demais para alcançar. |
+| **Metamagico** | Algo está sugando. Não sangue — outra coisa. O calor que costumava significar "magia pronta" esfria no centro do peito, como se alguém tivesse soprado uma vela dentro de você. |
+| **Entrópico** | Uma onda de calor, um estálo seco, e tudo ao redor treme. Não foi um feitiço — foi o *avesso* de um feitiço; a realidade reagindo ao que não deveria ter sido invocado. |
+| **Verbal** | Seu nome — não o que as pessoas usam, mas o *verdadeiro* — ecoa na sua cabeça por um segundo. E nesse segundo, todos ao redor viram algo sobre você que você nunca mostrou. |
+| **Primordial** | Não é dor. É medo. O tipo de medo que você sentia antes de saber o nome das coisas — quando escuridão era só escuridão e o barulho no mato podia ser qualquer coisa. |
+| **Vital** | Sua mão começa a mudar. Por um instante — um instante longo demais — você sente seus dedos querendo virar outra coisa. Depois para. Mas a memória de como era não para. |
+| **Material** | Sua armadura estala. O couro endurece, o metal muda de cor, e você sente que a próxima vez que depender dessa proteção, ela não vai estar lá. |
+| **Temporal** | Você pisca e já aconteceu. Não sabe *o que* aconteceu, mas seu corpo registrou um impacto que sua mente não viu. E agora você está um passo atrás de onde todos estão. |
 
 ---
 

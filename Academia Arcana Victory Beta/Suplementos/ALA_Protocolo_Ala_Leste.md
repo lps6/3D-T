@@ -21,7 +21,7 @@ V3ctor1us selou a Ala Leste durante o processo de refundação da escola. Wynna 
 
 Isso foi há anos. A interdição ainda está de pé. A ala ainda está selada. E V3ctor1us monitora qualquer coisa que se aproxime das portas da ala com atenção que vai muito além do protocolo de segurança padrão.
 
-**Este suplemento é um sistema de exploração procedural** da Ala Leste. Ele não define o que está no fundo da ala — essa é a sua escolha como mestre, e o cap08 oferece cinco opções para isso (O Núcleo, seção 6 deste documento, discute como usar cada uma). O que este suplemento define é *tudo o que vem antes*: as salas, as anomalias, os riscos, as criaturas, os itens, e a tensão crescente de estar em um lugar onde uma inteligência arcana quer que você *não esteja*.
+**Este suplemento é um sistema de exploração procedural** da Ala Leste. Ele não define o que está no fundo da ala — essa é a sua escolha como mestre, e o cap09 oferece cinco opções para isso (O Núcleo, seção 6 deste documento, discute como usar cada uma). O que este suplemento define é *tudo o que vem antes*: as salas, as anomalias, os riscos, as criaturas, os itens, e a tensão crescente de estar em um lugar onde uma inteligência arcana quer que você *não esteja*.
 
 ### Quando Usar Este Suplemento
 
@@ -121,7 +121,7 @@ Use um **Contador de Detecção** para rastrear o quão ciente V3ctor1us está d
 | Ação | Pontos |
 |---|---|
 | Sair da ala e se dispersar com maestria | -1 |
-| PC com o Kit Tecnomagus invadir sistema de câmeras (Teste R dif 16) | -1 |
+| PC com o Kit Maginauta invadir sistema de câmeras (Teste R dif 16) | -1 |
 | Usar magia de Supressão de Sinal (habilidade rara, específica) | -2 |
 | Sair da ala antes de V3ctor1us confirmar a identidade dos intrusos | -1 |
 
@@ -252,7 +252,7 @@ Em cada incursão, gere 2-4 salas antes de passar para a próxima zona. Nem toda
 
 **2-4 | Arquivo Selado por V3ctor1us**  
 *Ambiente:* Uma prateleira inteira — da lateral até o teto — coberta por um único Glifo de Vedação V3ctor1us. É o arquivo pessoal da IA dentro da ala. O glifo é diferente dos da entrada: mais sofisticado, provavelmente irquebrável por meios convencionais.  
-*Risco:* Resistência 20 (convencional). Tentar forçar com magia bruta: +3 Detecção, automático. Alternativa: um PC com Kit Tecnomagus que tirou a ficha de V3ctor1us anteriormente pode encontrar uma vulnerabilidade específica — Teste R dif 18 — reduzindo a Resistência para 12.  
+*Risco:* Resistência 20 (convencional). Tentar forçar com magia bruta: +3 Detecção, automático. Alternativa: um PC com Kit Maginauta que tirou a ficha de V3ctor1us anteriormente pode encontrar uma vulnerabilidade específica — Teste R dif 18 — reduzindo a Resistência para 12.  
 *Item:* Se aberto: uma série de cristais de memória, todos rotulados com datas. O mais recente é três dias anterior à selagem da ala. O mais antigo é de antes da Convergência — impossível, pois V3ctor1us não existia antes da fundação. Como V3ctor1us tem memórias de antes da Convergência?
 
 **2-5 | Área Orgânica Estável**  
@@ -408,7 +408,7 @@ Estas relíquias existem apenas dentro da Ala Leste. Não foram catalogadas em n
 
 **Aparência:** Grande demais para um cristal de memória normal — do tamanho de um punho fechado. Cor amarelo-âmbar com veias pretas. Frio ao toque, apesar de parecer quente visualmente.
 
-**Efeito mecânico:** Conectar ao Arquivo-Vivo (requer terminal arcano ou Kit Tecnomagus) inunda o PC com décadas de experiência de outra pessoa. Mecanicamente: o PC pode usar qualquer Técnica Arcana conhecida pela pessoa (lista determinada pelo Mestre) por 1d4 horas. Custo: o PC perde memórias próprias equivalentes em volume — não específicas, mas capacidade geral de memória de curto prazo (-2 em Testes R por 24h após a conexão).
+**Efeito mecânico:** Conectar ao Arquivo-Vivo (requer terminal arcano ou Kit Maginauta) inunda o PC com décadas de experiência de outra pessoa. Mecanicamente: o PC pode usar qualquer Técnica Arcana conhecida pela pessoa (lista determinada pelo Mestre) por 1d4 horas. Custo: o PC perde memórias próprias equivalentes em volume — não específicas, mas capacidade geral de memória de curto prazo (-2 em Testes R por 24h após a conexão).
 
 **Consequência narrativa:** Identificar de quem são as memórias pode ser o passo que revela a natureza do Núcleo. A pessoa cujas memórias estão aqui pode ser alguém que os PCs conhecem — ou alguém que *deveriam* conhecer.
 
@@ -436,7 +436,7 @@ Estas relíquias existem apenas dentro da Ala Leste. Não foram catalogadas em n
 
 ---
 
-O Núcleo é o que V3ctor1us encontrou. Este suplemento não define isso — você já tem as cinco opções no cap08. O que este suplemento define é o que *toda opção tem em comum* e como tornar a revelação impactante independente da opção escolhida.
+O Núcleo é o que V3ctor1us encontrou. Este suplemento não define isso — você já tem as cinco opções no cap09. O que este suplemento define é o que *toda opção tem em comum* e como tornar a revelação impactante independente da opção escolhida.
 
 ### O Que Toda Opção Tem em Comum
 
@@ -495,7 +495,7 @@ Cada incursão deve revelar algo novo e levantar novas perguntas. Cada incursão
 
 ### Modificações Por Opção de Núcleo
 
-Cada opção do cap08 muda como as pistas dentro da ala funcionam. Aqui vão as modificações:
+Cada opção do cap09 muda como as pistas dentro da ala funcionam. Aqui vão as modificações:
 
 **Opção 1 — A Centelha Aprisionada:** O arquivo-vivo contém fragmentos da divindade de Wynna. O Glifo-Espelho responde à presença de Wynna de forma diferente. Criaturas da Zona do Núcleo têm qualidade levemente divina em seu comportamento.
 
@@ -505,7 +505,7 @@ Cada opção do cap08 muda como as pistas dentro da ala funcionam. Aqui vão as 
 
 **Opção 4 — O Próximo Passo:** A Câmara Integrada tem sinais de atividade que não vêm de V3ctor1us principal — outra IA, menor, aprendendo. O Arquivo-Vivo contém a "criança" mais avançada de V3ctor1us, não uma pessoa humana. A conversa no terminal da câmara tem um segundo interlocutor que os PCs percebem lentamente.
 
-**Opção 5 — A Porta Para Lugar Nenhum:** O frio na ala aumenta progressivamente com a profundidade. Espelhos nas salas têm o delay mencionado no cap08. A Porta-de-Bolso tem um sexto entalhe que parece mostrar *nada* — e a Porta-de-Bolso para esse destino funciona, mas quem vai lá e volta não consegue descrever o que viu.
+**Opção 5 — A Porta Para Lugar Nenhum:** O frio na ala aumenta progressivamente com a profundidade. Espelhos nas salas têm o delay mencionado no cap09. A Porta-de-Bolso tem um sexto entalhe que parece mostrar *nada* — e a Porta-de-Bolso para esse destino funciona, mas quem vai lá e volta não consegue descrever o que viu.
 
 ### Se os PCs Nunca Entrarem na Ala
 
@@ -528,14 +528,14 @@ Use estas perguntas como ganchos de roleplay entre sessões:
 
 | Conteúdo | Localização |
 |---|---|
-| Arco completo de V3ctor1us | `cap08_campanha.md` — O Grande Arco |
-| As cinco opções de Núcleo | `cap08_campanha.md` — O Que V3ctor1us Encontrou na Ala Leste |
-| Escalada por ano de V3ctor1us | `cap08_campanha.md` — A Escalada |
-| Sistema de Glifos e Vedação | `cap10_mais_regras.md` |
-| Kits mencionados neste suplemento | `cap06_mecanicas.md` |
+| Arco completo de V3ctor1us | `cap09_campanha.md` — O Grande Arco |
+| As cinco opções de Núcleo | `cap09_campanha.md` — O Que V3ctor1us Encontrou na Ala Leste |
+| Escalada por ano de V3ctor1us | `cap09_campanha.md` — A Escalada |
+| Sistema de Glifos e Vedação | `cap11_mais_regras.md` |
+| Kits mencionados neste suplemento | `cap07_arsenal_do_arcanauta.md` |
 | Talude como NPC | `cap04_professores_npcs.md` |
 | Wynna como NPC | `cap04_professores_npcs.md` |
-| Arrecife Arcano e o porto | `cap12_arrecife_arcano.md` |
+| Arrecife Arcano e o porto | `cap13_arrecife_arcano.md` |
 
 ---
 

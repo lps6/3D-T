@@ -5,7 +5,7 @@
 **Escopo:** 6–8 sessões (férias de verão fora do campus)  
 **Jogadores:** 3–5 PJs (recomendado: 2º ou 3º ano; calouros funcionam com ajuste de tom)  
 **Tom:** Aventura urbana + thriller social + identidade cultural brasileira  
-**Suplementos usados:** cap07 (O Mundo ao Redor), ALA (contexto de Arcas ilegais), S4/S5 (sementes de V3ctor1us), K1 (kits de entrada), T3 (Sociedades Secretas — estrutura de facções)
+**Suplementos usados:** cap08 (O Mundo ao Redor), ALA (contexto de Arcas ilegais), S4/S5 (sementes de V3ctor1us), K1 (kits de entrada), T3 (Sociedades Secretas — estrutura de facções)
 
 ---
 
@@ -314,7 +314,7 @@ Para grupos que querem explorar o aftermath:
 
 **Thread A:** o que acontece com as comunidades que O Circuito servia? As quatro Arcas ilegais sendo fechadas retira recursos que eram usados por pessoas reais. Alguém precisa preencher esse vácuo — ou não.
 
-**Thread B:** V3ctor1us sabe que os PJs encontraram a Arca Funda. Ela nunca menciona isso diretamente. Mas pequenas coisas mudam — informações chegam mil segundos mais devagar, certas perguntas recebem respostas mais curtas. Os PJs que prestam atenção noram.
+**Thread B:** V3ctor1us sabe que os PJs encontraram a Arca Funda. Ela nunca menciona isso diretamente. Mas pequenas coisas mudam — informações chegam mil segundos mais devagar, certas perguntas recebem respostas mais curtas. Os PJs que prestam atenção notam.
 
 **Thread C:** Elisa, independente do desfecho, não desaparece. Ela é boa demais para simplesmente sumir. Em algum momento futuro — talvez na volta ao campus, talvez em C3 — ela vai cruzar com os PJs de novo.
 
@@ -375,7 +375,7 @@ Estes kits representam especializações desenvolvidas *fora* do currículo form
 | Suplemento | Relevância |
 |---|---|
 | S4 — O Calouro Que Sumiu | A expulsão de Elisa e a lógica de V3ctor1us são a mesma lógica que manteve Leo preso |
-| S5 — Quando a Arca Estremece | A Arca Funda e a ressonância com a Ala Leste são a mesma conexão dimensional que S5 establece |
+| S5 — Quando a Arca Estremece | A Arca Funda e a ressonância com a Ala Leste são a mesma conexão dimensional que S5 estabelece |
 | ALA — Protocolo Ala Leste | O que está do outro lado da Arca Funda é gerado pelo mesmo motor |
 | T3 — Sociedades Secretas | O Circuito pode ser tratado como uma sociedade secreta extra-curricular |
 | C2 — Brambleshire Academy | A Mirror Room da Brambleshire e a Arca Funda podem ter o mesmo tipo de ressonância — dois pontos de um triângulo dimensional cujo terceiro é a Ala Leste |

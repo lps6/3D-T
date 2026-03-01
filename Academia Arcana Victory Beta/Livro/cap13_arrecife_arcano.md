@@ -11,6 +11,17 @@ Este capítulo é o cenário de Arrecife — Recife, Pernambuco, depois da Conve
 
 Arrecife é o cenário perfeito para aventuras que combinam investigação urbana, tecnomagia, conflito comunitário e folclore nordestino. Não é uma cidade de elite — é uma cidade de sobrevivência criativa.
 
+> ### Arrecife — Guia do Visitante Arcano
+> *"Publicação da Secretaria de Turismo Dimensional de Arrecife — Edição 2025"*
+>
+> Bem-vindo a Arrecife! Capital mundial da tecnomagia, berço dos glifos de maré, e única cidade do Brasil onde seu celular funciona em três dimensões (quando funciona).
+>
+> **O que trazer:** Protetor solar, sandhália de dedo, e um grimoire impermeável. A maresia corre aqui, e os glifos também.
+>
+> **O que NÃO fazer:** Não lançar feitiços perto dos recifes sem consultar a tábua de marés. Não discutir preço com Dona Cleonice sem conhecer seus próprios componentes. Não perguntar aos moradores do Bairro Flutuante "mas vocês não ficam enjoados?" (já ouviram. Não acham graça.)
+>
+> **Dica local:** O melhor café da cidade é no ponto de ônibus 041. O melhor bolo de rolo é no Mercado de São José, bancada 14. O melhor pôr do sol é do Bairro Flutuante em maré alta. O portal mais confiável para a Academia abre em maré cheia na Praça do Marco Zero — procure o glifo no chão e espere a água brilhar.
+
 ---
 
 ## Arrecife — A Cidade que Respira com o Mar
@@ -71,7 +82,7 @@ A **Tábua de Marés Arcana** de Arrecife é publicada diariamente pelo Porto Ar
 
 O centro histórico de Recife — ilhas de Recife Antigo e Boa Vista — é onde Arton encontrou Pernambuco de forma mais visível. Sobrados coloniais portugueses do século XVII coexistem com runas que ninguém colocou conscientemente — elas simplesmente *apareceram*, gravadas na pedra calcária pelas forças da Convergência, integradas à arquitetura como se sempre tivessem estado lá.
 
-**Como é:** Turistas arcanos de todo o Brasil vêm ao Recife Antigo fotografar os sobrados-com-runas. A Prefeitura tenta cobrar ingresso mas ainda não descobriu como. Por baixo do turismo, o bairro é vivo: comércio arcano estabelecido há décadas convive com apps que entregam componentes mágicos em 30 minutos, e mesquitas, igrejas e terreiros que coexistiram desde antes da Convergência agora compartilham também a magia.
+**Como é:** Turistas arcanos de todo o Brasil vêm ao Recife Antigo fotografar os sobrados-com-runas. O ar aqui cheira a sal, pedra velha e o ouro quente dos acarajés que Doía Rosa vende na esquina da Rua do Bom Jesus desde antes da Convergência. Os glifos nas paredes pulsam com uma luminância azul-esverdeada que se intensifica quando a maré sobe — e se você encostar a mão, sente uma vibração morna, como um motor ligado. A Prefeitura tenta cobrar ingresso mas ainda não descobriu como. Por baixo do turismo, o bairro é vivo: comércio arcano estabelecido há décadas convive com apps que entregam componentes mágicos em 30 minutos, e mesquitas, igrejas e terreiros que coexistiram desde antes da Convergência agora compartilham também a magia.
 
 **Área de destaque:** A **Rua da Aurora** — não por acidente o mesmo nome do grêmio. No Recife Antigo, a rua é um corredor de lojas arcanas que abre ao anoitecer e fecha no amanhecer. Funciona pela lógica de que certos encantamentos são mais estáveis sob luz artificial e astrologia noturna. Maitê comprava componentes aqui e continua fazendo pedidos por delivery para a família enviar pelo portal.
 
@@ -99,11 +110,11 @@ As raízes dos mangues funcionam como condutores. Qualquer conjuração feita co
 
 ---
 
-### 3: Mercado de São José Arcano
+### 3: Mercado Arcano de São José 
 
 O Mercado de São José original foi construído em 1875 e é o mais antigo do Brasil ainda em funcionamento. Depois da Convergência, virou o maior mercado de componentes mágicos do Nordeste — não por planejamento, mas porque os vendedores de ervas, temperos, artigos religiosos e produtos naturais que sempre existiram ali descobriram, um por um, que seus produtos funcionavam para fins arcanos.
 
-**Como é:** Caótico, aromático, impossível de navegar sem guia na primeira visita. Bancas de rezadeiras ao lado de stands de cristais de mana ao lado de um boteco que serve o melhor bolo de rolo do Estado e que aceita pagamento em componentes de feitiço. Os preços são negociáveis — mas só se você souber negociar. A maioria dos vendedores é de famílias que estão no mercado há gerações e tem mais conhecimento prático de herbalismo arcano do que qualquer professor universitário.
+**Como é:** Caótico, aromático, impossível de navegar sem guia na primeira visita. O cheiro te atinge antes da visão: peixe fresco, ervas secas penduradas em feixes, acarajé fritando em azeite de dendê, e por baixo de tudo um aroma metálico-doce que os vendedores chamam de "o cheiro de mana" — componentes arcanos crus exalando energia acumulada. Bancas de rezadeiras ao lado de stands de cristais de mana ao lado de um boteco que serve o melhor bolo de rolo do Estado e que aceita pagamento em componentes de feitiço. O barulho é constante: pregões, discussões de preço, uma rádio de MPB competindo com o zumbido de glifos de conservação nas bancas de peixe. Os preços são negociáveis — mas só se você souber negociar. A maioria dos vendedores é de famílias que estão no mercado há gerações e tem mais conhecimento prático de herbalismo arcano do que qualquer professor universitário.
 
 **NPC: Dona Cleonice** (Comerciante, sem stats de combate)
 Setenta e dois anos, rezadeira e herbalista que nunca estudou magia formal mas que por trinta anos curou, protegeu e orientou clientes com uma precisão que deixaria Vladslav Tpish constrangido. Não usa terminologia arcana porque acha "muito pretensiosa para o que é na prática simplesmente misturar as coisas certas." Conhece cada componente arcano disponível em Arrecife e onde encontrá-lo. Confia no julgamento das pessoas lentamente — mas quando confia, é completamente.
@@ -165,6 +176,21 @@ Não tem nome oficial. Os moradores chamam de **Rua das Desaparecidas** — não
 **Ganchos:**
 - O adolescente de quinze anos — **Brenno** — tem um dom genuíno e está usando sem treinamento, o que está começando a criar instabilidades locais. Alguém precisa falar com ele. A família desconfia de qualquer instituição. Os PJs precisam construir confiança antes de propor qualquer encaminhamento
 - Um dos moradores mais antigos está morrendo e tem um artefato que quer deixar "para alguém que vai usar direito." A família quer a herança. Dois grupos externos (não nomeados, por enquanto) também querem. O que o artefato faz é uma questão para a mesa descobrir
+
+#### O Que Acontece na Rua das Desaparecidas (d6)
+
+A Rua não é estática. Cada vez que os PJs passam por lá, role ou escolha:
+
+| d6 | Evento |
+|----|--------|
+| 1 | **O Gato que Sabe seu Nome.** Um gato tricolor se aproxima de um PJ específico e mia algo que soa *demais* como o nome dele. Moradores dizem que o gato "sempre esteve aqui." V3ctor1us não tem registro do animal. O gato segue o PJ até a esquina e para — como se soubesse que ali acaba a Rua e começa o mapa. |
+| 2 | **A Sombra Atrasada.** A sombra de um PJ se move meio segundo *depois* dele. O efeito dura apenas dentro dos limites da Rua. Moradores antigos dizem que "a Rua lembra de quem passa" — e sombras atrasadas significam que a Rua está decidindo se você *pertence*. |
+| 3 | **A Música da Casa 27.** Música de rádio vinda de uma casa que está fechada há anos. A porta não abre. As janelas são opacas. Mas a música muda de estação quando alguém se aproxima — como se alguém lá dentro estivesse ouvindo. Brenno diz que a música começou no dia da Convergência e nunca parou. |
+| 4 | **O Mural que Mudou.** Uma parede no fim do beco tem uma pintura desbotada — feita pela ex-professora de artes, segundo os moradores. Mas a pintura nunca é a mesma duas vezes. Desta vez mostra cinco figuras com uniformes que *parecem* da Academia, em frente a uma porta que nenhum PJ reconhece. Ainda. |
+| 5 | **O Cheiro de Componentes.** O ar muda abruptamente: ozônio, sal e algo metálico. Um dos moradores comenta casualmente que "o portal está respirando." Não existe portal registrado na Rua. V3ctor1us *insiste* que não existe portal na Rua. O cheiro dura exatamente treze minutos e desaparece. |
+| 6 | **A Criança que Pergunta.** Uma criança de uns seis anos puxa a manga de um PJ e pergunta: "Você veio buscar ele?" Ela aponta para a Casa 27. Quando o PJ olha de volta, a criança está brincando com outras como se nada tivesse acontecido. Nenhuma delas lembra da pergunta. |
+
+> **Para o Mestre:** A Rua das Desaparecidas não é hostil — é *atenta*. Os eventos não são ameaças; são convites para investigar. A Rua testa se os PJs são curiosos o suficiente para merecer respostas. Brenno é a chave: ele sabe mais do que diz, mas só conta para quem a Rua "*deixou entrar*".
 
 ---
 

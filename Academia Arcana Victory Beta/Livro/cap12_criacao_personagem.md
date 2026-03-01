@@ -19,7 +19,7 @@ Cada passo destaca um ou dois personagens diferentes, mostrando como as mesmas r
 
 ---
 
-## Passo 1 — Conceito e Origem
+## Passo 1 — Quem é você? (Conceito e Origem)
 
 Antes de qualquer número, responda duas perguntas:
 
@@ -46,7 +46,7 @@ A forma de admissão define o primeiro capítulo da história do seu personagem 
 
 ---
 
-## Passo 2 — Atributos
+## Passo 2 — No que você é bom? (Atributos)
 
 Em 3D&T Victory, seu personagem tem três atributos:
 
@@ -72,7 +72,7 @@ Uma boa forma de decidir: *quando a crise chega, qual é a primeira reação do 
 
 ---
 
-## Passo 3 — Perícias
+## Passo 3 — O que você sabe fazer? (Perícias)
 
 Perícias representam o que seu personagem *sabe fazer* além dos atributos base. Na Academia, perícias definem como você interage com aulas, provas, e com os outros alunos tanto quanto com monstros e crises.
 
@@ -100,101 +100,27 @@ Na Academia, perícias não servem só para combate:
 
 ---
 
-## Passo 4 — Kit
+## Passo 4 — Que tipo de mago você é? (Kit)
 
-Kits são o coração mecânico do personagem — definindo seus poderes especiais e seu arquétipo dentro da Academia. O Capítulo 6 tem doze kits, cada um com três poderes e uma identidade clara. A pergunta é: *o que seu personagem faz quando a situação exige mais do que o básico?*
+Kits são o coração mecânico do personagem — definindo seus poderes especiais e seu arquétipo dentro da Academia. O Capítulo 6 tem onze kits exclusivos, cada um com três poderes e uma identidade clara — e o *Manual do Arcanauta* fornece dezenas de outros que funcionam perfeitamente no cenário (ver Capítulo 7). A pergunta é: *o que seu personagem faz quando a situação exige mais do que o básico?*
 
-> **Exemplo — Maitê (Tecnomagus):** Maitê resolve problemas com tecnologia e lógica computacional. O kit Tecnomagus reflete isso perfeitamente: poderes que permitem hackear sistemas arcanos, criar dispositivos híbridos e processar informação mais rápido que qualquer um na sala. É a build da pessoa que abre o terminal antes de abrir o grimório — porque um código bem escrito é mais confiável que um encantamento improvisado.
+> **Exemplo — Maitê (Maginauta):** Maitê resolve problemas tratando a magia como um sistema a ser hackeado. O kit Maginauta reflete isso perfeitamente: imersão no magiespaço para enxergar a estrutura mística, interferência em feitiços alheios e sobrecarga dos próprios. É a build da pessoa que fecha os olhos na aula de Teoria Arcana — não porque está dormindo, mas porque está vendo a magia por dentro.
 
 > **Exemplo — Lira (Arcavaleiro):** Lira protege. O kit Arcavaleiro dá a ela poderes de detecção e defesa — sentir ameaças, criar barreiras, garantir que ninguém passe por ela sem pagar o preço. É o kit que diz: "enquanto eu estiver aqui, você está seguro."
 
 > **Exemplo — Zed (Calouro Sortudo):** Zed não deveria estar vive. O kit Calouro Sortudo transforma incompetência técnica em protagonismo narrativo: Escape Miraculoso para sobreviver ao impossível, Talento Inesperado para acertar o que não deveria, e Magnetismo Narrativo para atrair soluções junto com os problemas. É o kit para quem quer jogar o Goku da escola: fraco no papel, imbatível na prática.
 
-(Os doze kits completos estão no Capítulo 6. Leia todos antes de escolher — a graça é que nenhum deles faz a mesma coisa.)
+(Os onze kits exclusivos estão no Capítulo 6. Os kits do *Manual do Arcanauta* estão contextualizados no Capítulo 7. Leia tudo antes de escolher — a graça é que nenhum deles faz a mesma coisa.)
 
 ### Arsenal do Arcanauta Acadêmico
 
-Além dos doze kits exclusivos da Academia Arcana, o *Manual do Arcanauta* é a base de conhecimento para qualquer estudante. Os kits daquele livro não são apenas permitidos; são o fundamento sobre o qual os kits da Academia são construídos.
+Além dos onze kits exclusivos da Academia Arcana, o *Manual do Arcanauta* é a base de conhecimento para qualquer estudante. Os kits daquele livro não são apenas permitidos; são o fundamento sobre o qual os kits da Academia são construídos.
 
-Este não é um livro de regras redundantes. É um livro de cenário. A seguir, veja como os kits clássicos do *Manual do Arcanauta* se encaixam na vida, nos grêmios e nos corredores da Academia Arcana.
-
----
-
-#### O Cânone do Arcanauta: Kits de Encaixe Perfeito
-
-Estes kits são a espinha dorsal do currículo da Academia. Representam as disciplinas clássicas da magia e funcionam perfeitamente sem qualquer adaptação.
-
-**Mago**
-O Mago é o arquétipo do estudioso arcano, a base de todo o Liceu Benandanti e um pilar da Academia. Seus poderes, como `Aptidão Mágica` e `Preparar Magias`, representam o treinamento formal da instituição. Um Mago na Academia é alguém que leva os estudos a sério, provavelmente passando mais tempo na biblioteca do que em festas. É o kit perfeito para um membro da **Coroa** que acredita na ordem e na preparação, ou para qualquer um que veja a magia como uma ciência a ser dominada.
-* **Vantagens Sugeridas:** Gênio, Saber.
-* **Desvantagens Sugeridas:** Rato de Biblioteca (do *Manual do Arcanauta*), Nerd (do *Manual do Arcanauta*).
-
-**Guerreira Mágica**
-A Guerreira Mágica é a combinação de poder marcial e arcano, uma tradição honrada em Arton e adaptada com entusiasmo na Academia. Alunas como as de *Sailor Moon* ou *Magic Knight Rayearth* seriam Guerreiras Mágicas. A vantagem `Sequência de Transformação` é quase obrigatória. Na Academia, este kit é popular entre os membros da **Égide**, que veem a transformação como a forma suprema de se tornar um escudo para os outros, e da **Nova Aurora**, que a veem como a máxima expressão de identidade.
-* **Vantagens Sugeridas:** Sequência de Transformação, Parceiro.
-* **Desvantagens Sugeridas:** Código de Honra, Protegido Indefeso.
-
-**Elementalista**
-Os quatro elementos são os pilares da magia de Arton, e os quatro mestres seniores da Academia (Geófilus, Ignatus, Nereus e Zéphyro) são a prova viva disso. Ser um Elementalista na Academia é seguir os passos dos mestres, especializando-se em uma força primordial. Este kit é versátil e pode se encaixar em qualquer grêmio, dependendo de como o elemento é usado: um Elementalista do Fogo pode ser um membro apaixonado da **Nova Aurora** ou um agente de poder bruto da **Obsidiana**.
-* **Vantagens Sugeridas:** Arcano de Batalha (do *Manual do Arcanauta*), Poder Elemental (do *Manual do Arcanauta*).
-* **Desvantagens Sugeridas:** Fobia (elemento oposto), Devoção (ao seu elemento).
-
-**Necromante**
-Thanatus, o professor de Necromancia Teórica, garante que esta arte seja estudada, se não praticada abertamente. Um aluno Necromante na Academia caminha numa linha tênue. É um kit que atrai os membros do **Castelo Obsidiana**, que não veem a morte como um tabu, mas como uma ferramenta. Também pode atrair estudantes da **Coroa** interessados no controle e na ordem que a necromancia pode impor. É um caminho solitário e malvisto por muitos, o que o torna ainda mais atraente para alguns.
-* **Vantagens Sugeridas:** Familiar (um companheiro esquelético ou fantasmagórico), Controle de Mortos-Vivos.
-* **Desvantagens Sugeridas:** Má Fama, Visto por V3ctor1us.
-
-**Ilusionista**
-A magia da ilusão é a arte do engano e da percepção. O Grêmio **Monsoon** é o lar natural dos Ilusionistas, tratando a criação de realidades alternativas como uma forma de arte performática. Mas a **Nova Aurora** também valoriza o Ilusionista como um criador de maravilhas, e a **Obsidiana** o vê como uma ferramenta de controle sutil. Ser um Ilusionista na Academia é ser um artista, um trapaceiro ou ambos.
-* **Vantagens Sugeridas:** Dissimulação Arcana (técnica avulsa), Influência.
-* **Desvantagens Sugeridas:** Segredo Perigoso (suas ilusões escondem algo real).
-
-**Alquimista, Cientista e Psiônico**
-Esses três kits representam abordagens "científicas" da magia. O **Alquimista** é o químico arcano, sempre com uma poção para a ocasião (e outra que pode explodir). O **Cientista** é o teórico, aplicando o método científico à magia. O **Psiônico** é o mestre da mente, usando poder psíquico em vez de conjurações. Todos são bem-vindos na Academia, especialmente no Grêmio **Síntese**. Maitê, com seu Tecnomagus, trabalha em estreita colaboração com eles. São os alunos que V3ctor1us mais respeita — e talvez os que mais tema.
-* **Vantagens Sugeridas:** Gênio, Tecnologia.
-* **Desvantagens Sugeridas:** Cético, Distraído.
-
-**Druida e Treinador de Monstros**
-O professor Benignus é a maior inspiração para esses alunos. O **Druida** busca equilíbrio com a natureza e as criaturas, enquanto o **Treinador de Monstros** busca capturá-las e comandá-las. Ambos passam mais tempo no Zoo da Academia do que nas salas de aula. São kits perfeitos para quem quer uma campanha focada em criaturas mágicas, exploração e os perigos do campus. Um Druida pode se sentir em casa na **Nova Aurora**, enquanto um Treinador pode ser atraído pelo poder da **Obsidiana**.
-* **Vantagens Sugeridas:** Magizoólogo (kit da Academia), Familiar.
-* **Desvantagens Sugeridas:** Protegido Indefeso (seu monstro favorito), Rivalidade Acadêmica (com um caçador).
+Este não é um livro de regras redundantes. É um livro de cenário. Para uma análise detalhada de como os kits clássicos do *Manual do Arcanauta* se encaixam na vida, nos grêmios e nos corredores da Academia Arcana, veja o **Capítulo 7: Arsenal do Arcanauta Acadêmico**.
 
 ---
 
-#### O Currículo Extracurricular: Kits de Bom Encaixe
-
-Estes kits do *Manual do Arcanauta* exigem uma pequena adaptação para se encaixarem perfeitamente no cenário da Academia, mas oferecem conceitos de personagem únicos.
-
-**Clérigo e Paladino**
-A fé não desapareceu na Era das Arcas. Um **Clérigo** na Academia pode ser um devoto de uma das novas divindades da Era das Arcas, ou um Viajante que mantém a fé nos deuses de Arton. Um **Paladino** é um guerreiro sagrado, um conceito que a **Égide** abraça com fervor. Para eles, proteger a Academia não é um dever, é uma vocação divina.
-* **Adaptação:** A divindade ou causa do Clérigo/Paladino deve ser integrada à campanha. Eles respondem a um poder superior, o que pode criar conflitos com a autoridade da Academia.
-
-**Ladino**
-Nem todo aluno joga pelas regras. O Ladino é o especialista em furtividade, subterfúgio e em "encontrar" itens que não lhe pertencem. Na Academia, um Ladino pode ser um membro da **Obsidiana** que usa suas habilidades para obter vantagens, ou um rebelde da **Nova Aurora** que desafia as regras por princípio. O kit `Caçador de Segredos` é uma versão mais "oficial" deste arquétipo, mas o Ladino clássico sempre tem seu lugar.
-* **Adaptação:** As habilidades do Ladino devem ser focadas em intriga escolar: colar em provas, invadir salas restritas, descobrir segredos de outros alunos.
-
-**CARD Gamer**
-Sim, jogos de cartas mágicas são um passatempo popular no refeitório. O CARD Gamer leva isso a outro nível, usando seu baralho como um sistema de magia. É um kit de nicho, mas perfeito para uma campanha mais leve ou para um personagem que quer ser o "Rei dos Jogos" da Academia.
-* **Adaptação:** O Mestre precisa decidir como o jogo de cartas funciona e como ele interage com a magia "real". É uma forma de conjuração ou um subsistema próprio?
-
----
-
-#### Os Especialistas: Kits de Nicho
-
-Estes kits funcionam em campanhas com um foco muito específico. Converse com seu Mestre antes de escolhê-los.
-
-**Cavaleiro e Monge**
-O **Cavaleiro** é um guerreiro com um código de honra, mais comum entre Viajantes de Arton com uma educação marcial. O **Monge** é um mestre da disciplina corporal e espiritual. Ambos são raros na Academia, que foca em magia, mas podem ser personagens fascinantes — peixes fora d'água tentando aplicar sua disciplina a um mundo de caos arcano.
-
-**Celebridade e Idol**
-A Academia Arcana, sendo uma das instituições mais prestigiadas da Era das Arcas, atrai atenção. Uma **Celebridade** pode ser um aluno famoso por feitos anteriores, ou um **Idol** que usa magia em suas performances. Jynx Monsoon, do Grêmio Monsoon, é a mentora perfeita para esses alunos. É um kit para campanhas que lidam com fama, mídia e a pressão de ser um ícone.
-
-**Ninja**
-Espionagem entre escolas de magia é real. O Ninja é um agente secreto, treinado em furtividade e assassinato. Um personagem Ninja na Academia provavelmente está envolvido com as **Sociedades Secretas** (suplemento T3) ou em uma missão para outra potência, como o Liceu Benandanti. É um kit para uma campanha de intriga e paranoia.
-
----
-
-## Passo 5 — Vantagens e Desvantagens
+## Passo 5 — O que te faz especial — e o que te segura? (Vantagens e Desvantagens)
 
 Vantagens dizem o que seu personagem *tem*. Desvantagens dizem o que seu personagem *carrega*. Juntas, elas criam ganchos de história que transformam uma ficha em uma pessoa.
 
@@ -214,7 +140,7 @@ Uma boa desvantagem não é uma punição — é uma promessa de drama. Toda vez
 
 ---
 
-## Passo 6 — Grêmio
+## Passo 6 — No que você acredita? (Grêmio)
 
 A escolha de grêmio não é mecânica — é narrativa. Nenhum grêmio dá bônus em atributos ou perícias adicionais. O que o grêmio dá é *identidade, comunidade e conflito*. (Para a filosofia completa de cada grêmio, veja o Capítulo 3.)
 
@@ -232,7 +158,7 @@ A pergunta do grêmio não é "qual é o mais forte?" É: *com quem seu personag
 
 ---
 
-## Passo 7 — Objetivos Pessoais
+## Passo 7 — O que você quer? (Objetivos Pessoais)
 
 Todo personagem precisa de algo que o mova além das aulas e dos monstros. Um objetivo pessoal é o que transforma "estou na escola" em "estou na escola *porque*."
 
@@ -247,6 +173,57 @@ Objetivos pessoais não precisam ser grandiosos. Precisam ser *pessoais*.
 > **Lira:** Encontrar um lugar onde quem ela é importa menos do que o que ela faz — e proteger esse lugar para que outros tenham a mesma chance. "Se a Academia é tão boa quanto diz ser, eu vou garantir que continue assim."
 
 > **Kenji:** Manter seus segredos. Ou não. Decidir qual desses é mais perigoso. "Eu sei o que sou. A pergunta é se deixo os outros descobrirem — ou se escondo até que já não importe."
+
+---
+
+## Passo 8 — Quem importa pra você? (Crie Seus Laços)
+
+Nenhum personagem começa sozinho. Antes de fechar a ficha, defina três relações que ancoram seu personagem no mundo da Academia:
+
+**1. Um Mentor.** Um professor ou veterano que você admira — ou que acredita em você mais do que você mesmo. Não precisa ser seu patrono de grêmio. Pode ser o professor que menos tem a ver com o seu kit, mas que disse *uma coisa* que ficou.
+
+> **Maitê → V3ctor1us.** Ele foi a primeira entidade a levar seu código a sério. Ela não sabe se isso é admiração ou se é porque V3ctor1us é a única mente no campus que pensa como ela.
+
+> **Lira → Reynard.** Ele nunca perguntou de onde ela veio. Só disse: "Mostra o que sabe." Para alguém cansada de explicar quem é, isso é tudo.
+
+**2. Um Rival.** Um NPC com quem você tem conflito — não ódio, conflito. Alguém que te irrita porque é parecido demais ou diferente demais. Alguém que te faz querer ser melhor por raiva.
+
+> **Xeipe → Vincent.** Ambos são brilhantes. Ambos sabem disso. A diferença é que Xeipe segue as regras e Vincent as ignora. A pergunta que nenhum dos dois admite: quem está mais certo?
+
+> **Zed → Kabuki.** Kabuki é tudo que Zed quer ser: controlado, preciso, respeitado. Zed é tudo que Kabuki não entende: caótico, instintivo, eficaz apesar de tudo. Elu provoca. Kabuki ignora. Isso piora tudo.
+
+**3. Uma Conexão Complicada.** Um *personagem jogador* com quem você tem uma história não resolvida. Algo que aconteceu antes — ou na primeira semana — que ainda está pendente.
+
+> **Kenji ↔ Maitê.** Kenji sabe algo sobre o glifo que trouxe Maitê à Academia. Maitê sente que ele sabe. Nenhum dos dois disse nada. Ainda.
+
+> **Lira ↔ Zed.** Lira salvou Zed de uma queda nos Jardins na primeira semana. Zed nunca agradeceu — porque agradecer significaria admitir que precisou de ajuda. Lira não cobrou. Mas não esqueceu.
+
+Esses laços garantem que a primeira sessão já comece com tensão, aliança e história. O Mestre pode (e deve) puxar esses fios durante a campanha.
+
+---
+
+## Passo 9 — O que ninguém perguntou? (Detalhes Inúteis)
+
+Depois dos grandes segredos, dos objetivos dramáticos, e das relações complicadas — depois de tudo que *importa* —, adicione algo que não importa nada.
+
+Um detalhe pequeno, humano, mecanicamente irrelevante. O tipo de coisa que não aparece em nenhuma ficha mas que faz o personagem respirar.
+
+> **Qual é um hábito irritante do seu personagem?**
+> Maitê tamborila os dedos na mesa quando pensa. Sempre. Sem parar. Xeipe odeia.
+
+> **Uma comida que ele odeia?**
+> Zed não come quiabo. Não é alergia. É uma questão filosófica que elu se recusa a explicar.
+
+> **Uma pequena e estranha alegria?**
+> Lira gosta do cheiro de livros velhos na Biblioteca. Não dos novos — dos velhos, os que vieram de Arton, que cheiram a poeira dimensional e papel sobrevivente. Às vezes ela vai à Biblioteca só por isso.
+
+> **Um medo bobo?**
+> Kenji tem medo de pássaros. Especificamente, de gralhas. Não conta a ninguém. Quando uma gralha arcana sobrevoa o Pátio, ele muda de direção sem comentar. Ninguém notou. Maitê notou.
+
+> **Algo que faz quando está nervoso?**
+> Xeipe arruma coisas. Lápis, livros, pratos. Se o ambiente estiver desorganizado e Xeipe começar a arrumar, algo está errado.
+
+É aqui que um personagem ganha vida. Não nas desvantagens, não nas técnicas. No detalhe que ninguém pediu mas que todo mundo lembra.
 
 ---
 
@@ -312,7 +289,7 @@ O Escudo não é só quem tem mais Resistência — é quem faz da proteção do
 O Especialista não é o mais versátil — é o mais fundo. Em alguma área, seu personagem vai mais longe do que qualquer outro. O desafio narrativo é que especialização cria distância: o Especialista às vezes se isola no próprio conhecimento, ou carrega um saber tão perigoso que não sabe se compartilha.
 
 **Alinhamento natural de grêmio:** Obsidiana (conhecimento proibido como diferencial), Monsoon (especialidade em transformação e percepção), Síntese (tecnomagia como linguagem única)
-**Exemplo:** Dois ao mesmo tempo — Maitê (Tecnomagus: sabe coisas sobre sistemas arcanos que ninguém mais sabe) e Kenji (Caçador de Segredos: sabe coisas sobre pessoas e segredos que ninguém mais sabe). Quando ambos estão no grupo, os domínios raramente competem — geralmente se complementam de formas inesperadas.
+**Exemplo:** Dois ao mesmo tempo — Maitê (Maginauta: sabe coisas sobre a estrutura mística que ninguém mais sabe) e Kenji (Caçador de Segredos: sabe coisas sobre pessoas e segredos que ninguém mais sabe). Quando ambos estão no grupo, os domínios raramente competem — geralmente se complementam de formas inesperadas.
 **O que traz:** A chave que desbloqueia o que generalistas não conseguem. Sem o Especialista, o grupo improvisa onde poderia ter certeza.
 **O que precisa:** Confiança. O Especialista frequentemente carrega o custo de saber — e precisa do grupo para dividir esse peso, ou para lembrá-lo de que saber não é o mesmo que estar sozinho.
 
@@ -364,20 +341,20 @@ Conflito interno bem-gerenciado gera as melhores cenas de uma campanha: o moment
 
 ---
 
-## Passo 8 — A Ficha Completa
+## Passo 10 — Quem você vai ser? (A Ficha Completa)
 
 Aqui estão as cinco fichas finalizadas. Use-as como NPCs, como ponto de partida para seus próprios personagens, ou como referência de como as peças se encaixam. (As versões completas com descrição narrativa estão no Capítulo 4.)
 
 ---
 
-> #### Maitê — Tecnomaga de Arrecife (10pts)
+ > #### Maitê — Maginauta de Arrecife (10pts)
 > **Origem:** Terrana (Recife, PE)
 > **Admissão:** Acidente de Glifo
 > P1 | H3 | R3
 > **Perícias:** Tecnologia, Investigação, Mística, Percepção
 > **Vantagens:** Arcano, Gênio
 > **Desvantagens:** Cética (resiste a aceitar o sobrenatural mesmo imersa nele)
-> **Kit:** Tecnomagus
+> **Kit:** Maginauta
 > **Grêmio:** Monsoon
 > PV 15 | PM 15
 

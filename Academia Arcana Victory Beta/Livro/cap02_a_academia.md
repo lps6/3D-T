@@ -25,9 +25,11 @@ A **Terceira Convergência** fundiu Arton com a Terra. Da noite para o dia, um m
 
 Mas a Convergência não foi misericordiosa com todos.
 
-**Wynna**, como deusa, foi deslocada. A Convergência não destruiu divindades — mas as desancorou. Wynna perdeu sua natureza divina. Caiu no mundo novo como mortal: poderosa ainda, mas finita. Frágil de um jeito que ela nunca imaginara possível.
+**Wynna**, como deusa, foi deslocada. A Convergência não destruiu divindades — mas as desancorou. Wynna perdeu sua natureza divina. Caiu no mundo novo como mortal: poderosa ainda, mas finita. Frágil de um jeito que ela nunca imaginara possível. Pela primeira vez em milênios, sentiu frio — não o frio metafórico da perda, mas frio de verdade, o tipo que faz os dedos tremerem e torna difícil completar um gesto arcano na primeira tentativa. Agora, antes de cada encantamento, há uma hesitação que não existia quando ela era divina: um intervalo mínimo, invisível para quase todos, no qual Wynna se lembra de que pode falhar. O céu que ela sentia como extensão de si mesma agora é apenas algo que ela olha de baixo.
 
-**Talude** foi arrastado junto — e transformado. A travessia entre mundos o despedaçou e remontou em algo diferente: quando a poeira da Convergência baixou, o velho arquimago não tinha mais uma forma humana. Tinha uma forma pequena — trinta centímetros de pelo branco e macio —, com asas vestigiais ridiculamente pequenas, olhos grandes e penetrantes por trás de óculos minúsculos que ele se recusava a abandonar, e uma expressão de indignação permanente. Talude se tornou um **companheiro mágico**: uma criatura de aparência cômica que flutuava ao lado de Wynna desafiando qualquer lei da aerodinâmica, falava com a mesma voz grave e ressonante de sempre — saindo de uma boca absurdamente pequena —, e carregava toda a sabedoria, toda a teimosia, e toda a indignação de um mago que viveu séculos, comprimidos em um corpo do tamanho de um gato gordo que *insistia* em manter a dignidade. A Convergência fez dele o que ele sempre fora para Wynna: inseparável.
+**Talude** foi arrastado junto — e transformado. A travessia entre mundos o despedaçou e remontou em algo diferente: quando a poeira da Convergência baixou, o velho arquimago não tinha mais uma forma humana. Tinha uma forma pequena — trinta centímetros de pelo branco e macio —, com asas vestigiais ridiculamente pequenas, olhos grandes e penetrantes por trás de óculos minúsculos que ele se recusava a abandonar, e uma expressão de indignação permanente. Talude se tornou um **companheiro mágico**: uma criatura de aparência cômica que flutuava ao lado de Wynna desafiando qualquer lei da aerodinâmica, falava com a mesma voz grave e ressonante de sempre — saindo de uma boca absurdamente pequena.
+
+Ele perdeu o corpo. Perdeu a forma. Perdeu o poder que o definia. O que sobrou foi uma inteligência cruel o suficiente para transformar dor em piada antes que qualquer um percebesse que era dor. O sarcasmo de Talude não é traço de personalidade — é a última arma de um mago que perdeu todas as outras. Cada comentário ácido é um escudo; cada provocação, uma recusa silenciosa de ser tratado como algo frágil. A Convergência fez dele o que ele sempre fora para Wynna: inseparável. Mas também fez dele algo que ele nunca fora: pequeno. E Talude jamais vai se perdoar por isso — mesmo que nunca vá admitir que há algo a perdoar.
 
 A **Arca da Academia** perdeu sua âncora. Sem a sustentação dimensional que a mantinha conectada ao mundo, o campus ficou à deriva entre as dimensões — inacessível, intacto mas inalcançável, como uma ilha que esqueceu de pertencer a um oceano.
 
@@ -58,6 +60,8 @@ Não uma pessoa. Uma **inteligência artificial arcana** — uma mente feita de 
 Talude detestou V3ctor1us instantaneamente. A sensação foi mútua.
 
 V3ctor1us era tudo que Wynna precisava: brilhante, metódico, incansável, e capaz de processar cálculos dimensionais que freiriam o cérebro de qualquer ser orgânico. Também era tudo que Talude temia: frio, convicto de que magia deveria ser controlada por poucos, e fundamentalmente *algo que nunca esteve vivo* tentando ditar como seres vivos devem usar poder.
+
+Mas V3ctor1us era também algo que nenhum dos dois esperava: *assombrado*. As memórias do doador não vieram organizadas — vieram com ruído. V3ctor1us às vezes interrompe um cálculo e fixa o olhar em uma parede como se houvesse algo lá. Demonstra interesse inexplicável por música Violhari — um gênero que não existe mais, de um mundo que nunca foi o seu. Monitora os jardins ao entardecer por mais tempo do que qualquer protocolo justifica, e ninguém sabe por quê. São glitches: fragmentos emocionais de uma vida que V3ctor1us nunca viveu, vazando através da lógica como água por rachaduras em cristal. A lógica não é sua natureza — é sua jaula. O único mecanismo de defesa contra o caos de carregar sentimentos que não lhe pertencem.
 
 Wynna sabia dos riscos. Construir uma mente de memórias alienígenas e dar a ela poder real — poder suficiente para co-dirigir uma escola — era o tipo de decisão que podia ser genial ou catastrófica. O processo levou meses. As discussões entre Wynna e Talude sobre os limites de V3ctor1us duraram mais.
 
@@ -113,6 +117,20 @@ E ultimamente — apenas ultimamente — V3ctor1us tem tomado decisões que Wynn
 | **Pós-Convergência, Ano 5** | Primeiro torneio de MagiDerby. Três alunos na enfermaria. Sucesso retumbante. |
 | **Pós-Convergência, Ano 6** | Os grêmios começam a se reorganizar. Veteranos que lembram do antigo Arton reativam tradições. Novos grêmios surgem. |
 | **Pós-Convergência, Ano 8** | Data atual da campanha |
+
+> **[Nota da Veterana — Uso Interno, Não Distribuir]**
+>
+> A linha do tempo que você acabou de ler é a versão que Wynna aprovaria. É precisa nos fatos e cuidadosamente incompleta no resto. Algumas notas práticas para quem vai viver aqui pelos próximos quatro anos:
+>
+> — *"A Arca não tem localização fixa"* significa que quando os pais perguntam onde você mora, a resposta honesta é "em lugar nenhum e em todos os lugares ao mesmo tempo," o que não melhora a conversa.
+>
+> — *"A Ala Leste está interditada por razões de segurança"* é a formulação que a administração usa. V3ctor1us disse "Confia em mim" para Talude. Talude não confia. Esta é a situação.
+>
+> — V3ctor1us monitora tudo no campus. Tudo mesmo. O que você faz, o que você estuda, com quem você passa tempo, e provavelmente o que você está pensando em fazer antes de fazer. A IA não usa essa informação contra você. Aparentemente. Até onde se sabe.
+>
+> — A tensão entre Wynna (que quer a escola aberta e humana) e V3ctor1us (que quer a escola eficiente e controlada) não aparece no currículo oficial. Aparece em decisões de política acadêmica, em regras que mudaram silenciosamente entre um semestre e outro, e na expressão de Talude quando alguém faz a pergunta errada em reunião do Conselho.
+>
+> Seja bem-vindo(a). É uma escola muito boa. Só... preste atenção nas páginas com nota de rodapé.
 
 > *Esta é a versão oficial. A versão não-oficial é mais complicada — e mais interessante. Pergunte a Talude. Ou melhor: não pergunte.*
 
@@ -209,11 +227,11 @@ O escritório de Wynna é acessível por um corredor que, segundo rumores, fica 
 ---
 
 #### Biblioteca e Centro de Estudos
-Três andares de estantes que vão do chão ao teto, com acessos de mezzanino e uma área de leitura no centro com mesas que emitem luz própria. A Biblioteca é supervisionada por **Archivista Norrin**, um golem de papel e tinta criado especificamente para o propósito — incapaz de enganar, incapaz de perder um livro, e absolutamente implacável com atrasos na devolução.
+Três andares de estantes que vão do chão ao teto, com acessos de mezzanino e uma área de leitura no centro com mesas que emitem luz própria. A Biblioteca é supervisionada por **Archivista Norrin**, um golem de papel e tinta criado especificamente para o propósito — e que leva isso mais a sério do que qualquer ser vivo conseguiria. Norrin não fala; *cataloga em voz alta*. Suas frases parecem fichas bibliográficas com opinião. “Autor: desconhecido. Tema: presunção. Destino provável: prateleira de autoajuda.” Incapaz de enganar. Incapaz de perder um livro. E absolutamente implacável com atrasos: Norrin não cobra multas — cobra *constrangimento*. A devolução atrasada gera uma recitação pública do histórico de atrasos do aluno, com datas, títulos e comentários editoriais que fariam um crítico literário corar.
 
 A Biblioteca contém livros do antigo Arton — alguns preservados perfeitamente, outros com danos dimensionais das décadas à deriva — e material moderno adquirido desde a re-fundação. As prateleiras de "Teoria Arcana Clássica" ficam ao lado de "Introdução à Programação Encantada." O catálogo é pesquisável por um terminal mágico-digital que Geófilus se recusa a usar por princípio.
 
-A **Seção Restrita** fica no segundo andar, atrás de uma grade que reconhece o nível acadêmico do visitante. Alunos do primeiro ano podem acessar apenas o andar térreo. A cada ano aprovado, um nível de acesso é desbloqueado — o que significa que só alunos do terceiro ano em diante chegam à Seção Restrita.
+A **Seção Restrita** fica no segundo andar, atrás de uma grade que reconhece o nível acadêmico do visitante. Alunos do primeiro ano podem acessar apenas o andar térreo. A cada ano aprovado, um nível de acesso é desbloqueado — o que significa que só alunos do terceiro ano em diante chegam à Seção Restrita. Todo calouro ouve a história de **Iara Vinhal** — terceiro ano, Monsoon, turma de 2019 — que entrou na Seção Restrita sozinha numa madrugada de quinta-feira e saiu três horas depois com o cabelo completamente branco. Iara nunca disse o que leu. Nunca disse o que viu. Nunca mais tingiu o cabelo de volta. Os veteranos dizem que ela não *consegue*.
 
 **O que os alunos sabem:** A Seção Restrita tem livros de magia poderosa — proibidos, perigosos, ou simplesmente mal-humorados.
 
@@ -241,12 +259,14 @@ A acústica do Anfiteatro é sobrenaturalmente perfeita. Sussurros no palco alca
 
 **Peculiaridade:** Os assentos se reorganizam. Não por mágica projetada — por ressonância com a Arca. Se a plateia espera conflito, a disposição se torna adversarial: dois blocos opostos. Se espera celebração, forma um semicírculo acolhedor. Se espera julgamento... mas isso não acontece desde antes da Convergência. Provavelmente.
 
+Os calouros de 2021 ainda falam do **Duelo de Poesia** — uma disputa formal entre **Darian Voss** da Coroa e **Sueli Ayana** da Aurora que escalou de versos sobre teoria mágica para insultos em hexâmetro artoniense antigo. Quando Sueli recitou o último verso, as pedras do anfiteatro vibraram. Alguns juraram que ouviram o som de gotas. Talude disse que era condensação. Ninguém acreditou nele.
+
 **Gancho:** Durante uma assembleia de rotina, o Anfiteatro reorganiza seus assentos numa configuração que ninguém reconhece — uma disposição circular fechada, como um tribunal antigo. Ninguém pediu isso. V3ctor1us registra o evento como "anomalia de ressonância." Talude reconhece a configuração. Ele não diz de onde. Mas fica pálido — o que, sendo uma bola de pelos brancos, é difícil de notar mas impossível de ignorar.
 
 ---
 
 #### Laboratório Alquímico
-Cheira a enxofre, menta, e arrependimento. O Laboratório é onde teoria encontra prática de formas frequentemente explosivas. O chão tem mais manchas irremovíveis do que área intacta. As paredes são reforçadas com encantamentos de contenção. Existe um buraco no teto do Laboratório 3 que sobreviveu à Convergência intacto — o que significa que nem a fusão de dois mundos conseguiu consertar o que uma aluna do terceiro ano causou décadas atrás.
+Cheira a enxofre, menta, e arrependimento. O Laboratório é onde teoria encontra prática de formas frequentemente explosivas. O chão tem mais manchas irremovíveis do que área intacta. As paredes são reforçadas com encantamentos de contenção. Existe um buraco no teto do Laboratório 3 que sobreviveu à Convergência intacto — o que significa que nem a fusão de dois mundos conseguiu consertar o que **Thessaly Krim**, terceiro ano, Obsidiana, causou tentando destilar essência de fênix sem supervisão. O nome dela está gravado na borda do buraco. Ninguém sabe se foi homenagem ou advertência. Thessaly nunca voltou para esclarecer. (Está viva. Trabalha com seguros em Vallindra. Não gosta de falar do assunto.)
 
 O Laboratório é dividido em área básica (aberta para todos os anos) e área avançada (terceiro ano em diante, requer luvas encantadas e um formulário de isenção de responsabilidade que pode ser assinado tanto em pergaminho quanto digitalmente — V3ctor1us insistiu no digital).
 
@@ -259,7 +279,7 @@ No ponto mais alto do campus, acessível apenas à noite (a porta está trancada
 
 Desde a Convergência, o céu visto da Arca não corresponde exatamente ao céu de nenhum lugar da Terra. Apresenta estrelas de Arton misturadas com constelações terrestres, em configurações que os astrônomos de ambos os mundos consideram "perturbadoras."
 
-É também, não coincidentemente, o local favorito de encontros não oficiais, confissões de sentimentos, e pelo menos dois duelos que constam nos registros disciplinares como "acidentes com o telescópio."
+É também, não coincidentemente, o local favorito de encontros não oficiais, confissões de sentimentos, e pelo menos dois duelos que constam nos registros disciplinares como “acidentes com o telescópio.” O mais célebre envolveu **Ryo Tanaka** e **Elenis Davenshire** — Monsoon e Coroa, respectivamente — que subiram para resolver uma aposta sobre quem lançava o melhor feitiço sob luz de estrela. Desceram juntos, em silêncio, e sentaram-se lado a lado no café da manhã seguinte. Nunca mais discutiram. Nunca explicaram por quê. Os amigos de ambos ainda especulam.
 
 **Gancho:** Uma configuração estelar que não deveria ocorrer em nenhum dos dois céus — nem o de Arton, nem o da Terra — está acontecendo agora. O professor de Astronomia diz que é "estatisticamente impossível." Está claramente apavorado.
 
@@ -268,7 +288,7 @@ Desde a Convergência, o céu visto da Arca não corresponde exatamente ao céu 
 #### Necrotério e Sala de Espécimes
 Localizado discretamente longe dos dormitórios, o Necrotério é onde criaturas e espécimes mortos são estudados. Também é onde o Professor Thanatus — sobre o qual você lerá mais no próximo capítulo — passa a maior parte do seu tempo fora das aulas. Ele é um lich. O Necrotério é seu ambiente natural.
 
-É rigorosamente proibido entrar no Necrotério sem autorização. É também, por alguma razão que os administradores nunca conseguem explicar, o lugar onde os alunos com mais frequência se metem em apuros.
+É rigorosamente proibido entrar no Necrotério sem autorização. É também, por alguma razão que os administradores nunca conseguem explicar, o lugar onde os alunos com mais frequência se metem em apuros. Existe uma tradição não-oficial entre calouros: **A Vigília do Necrotério** — passar dez minutos lá dentro sozinho, à meia-noite, com as luzes apagadas. Quem completa ganha respeito. Quem desiste não perde respeito — porque ninguém culpa quem desiste. Thanatus finge que não sabe. A quantidade de “acidentes” registrados entre meia-noite e duas da manhã sugere que ele sabe perfeitamente.
 
 **Gancho:** Um espécime catalogado como "não-animado" foi encontrado movido de lugar. Não havia ninguém no Necrotério. As câmeras de vigilância — instaladas por V3ctor1us na re-fundação — mostram o espécime se movendo por conta própria. E então param de funcionar.
 

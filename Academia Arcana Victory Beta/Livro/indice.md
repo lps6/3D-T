@@ -102,7 +102,7 @@
 ## Capítulo 6 — Novas Mecânicas
 - Novos Kits da Academia
   - Arcavaleiro, Mentalista, Glifista, Bruxo das Trevas, Lâmina Dançante, Astro do Derby
-  - Tecnomagus, Duelista Arcano, Caçador de Segredos, Calouro Sortudo, Magizoólogo, Curamago
+  - Duelista Arcano, Caçador de Segredos, Calouro Sortudo, Magizoólogo, Curamago
   - Kits de Outros Livros na Academia
 - Técnicas Avulsas *(novo — open beta)*
   - Sala de Aula

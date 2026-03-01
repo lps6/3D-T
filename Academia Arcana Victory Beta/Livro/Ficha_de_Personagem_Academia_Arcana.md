@@ -54,7 +54,7 @@
 
 ## Kit de Personagem
 ### Nome do Kit: 
-*(Ex: Arcavaleiro, Tecnomagus, Duelista Arcano)*
+*(Ex: Arcavaleiro, Maginauta, Duelista Arcano)*
 
 #### Poderes do Kit:
 1.  **:** 

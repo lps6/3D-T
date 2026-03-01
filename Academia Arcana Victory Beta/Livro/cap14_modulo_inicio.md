@@ -20,6 +20,55 @@ Se você já tem personagens próprios, use este módulo como base e substitua o
 
 *Para jogadores que nunca tocaram em 3D&T Victory. Players experientes podem pular para a próxima seção.*
 
+---
+
+## Handout 1 — E-mail de Boas-Vindas
+
+*Recorte ou imprima. Entregue aos jogadores antes da primeira cena. Estabelece o tom de V3ctor1us sem spoilers.*
+
+> **DE:** V3ctor1us@academia-arcana.arca
+> **PARA:** [calouro_admitido]
+> **ASSUNTO:** Orientações de Chegada — Leitura Obrigatória
+>
+> Prezado(a) estudante,
+>
+> Sua admissão foi processada. Sua matrícula está ativa. Seu acesso ao campus será liberado mediante apresentação no glifo designado na data informada.
+>
+> Instruções:
+> 1. Chegue no horário. O glifo fecha às 19h00. Não há exceções.
+> 2. Carregue apenas o necessário. A Arca fornece o restante.
+> 3. O mapa do campus anexo é uma aproximação. Corredores podem variar. Não é um erro do mapa.
+> 4. Contato com familiares externos será possível via terminal arcano após a primeira semana. Não antes.
+> 5. A Ala Leste é interditada. Esta informação não requer elaboração.
+>
+> Questões administrativas podem ser direcionadas à secretaria. Questões existenciais podem ser direcionadas a qualquer professor disponível.
+>
+> Bem-vindo à Academia Arcana.
+>
+> V3ctor1us
+> *Inteligência Arcana Administrativa*
+
+---
+
+## Handout 2 — Cronograma da Semana de Recepção
+
+*Entregue junto com o Handout 1. Faz o mundo parecer organizado antes que o caos comece.*
+
+> **ACADEMIA ARCANA — SEMANA DE RECEPÇÃO DOS CALOUROS**
+>
+> | Dia | Manhã | Tarde | Noite |
+> |---|---|---|---|
+> | **Sexta** | Chegada pelo glifo (até 19h) | Tour do campus (guia: Vetrix) | Cerimônia de Abertura (Anfiteatro) |
+> | **Sábado** | Café + distribuição de materiais | Apresentação dos Grêmios (Pátio) | Livre — conheça o campus |
+> | **Domingo** | Dia livre | Semana de Recrutamento começa | Primeira noite nos dormitórios |
+> | **Segunda** | Primeira aula (Teoria Arcana — Profa. Esplenda) | Aula prática (Combate — Prof. Taandus) | Estudo livre / Biblioteca aberta até 23h |
+>
+> *Nota: este cronograma está sujeito a alterações sem aviso prévio. A Arca é um ambiente dimensional. Ajustes são normais. Pânico é desnecessário.*
+>
+> *— Secretaria da Academia Arcana*
+
+---
+
 ### Os Três Atributos
 
 Todo personagem tem três atributos de 1 a 5 (ou 0 em casos extremos):
@@ -69,18 +118,18 @@ Magias custam PM conforme indicado no poder ou técnica. O Mestre define o que �
 
 ---
 
-> #### Maitê — Tecnomaga de Arrecife
-> **Conceito:** Engenheira de sistemas que tropeçou em magia e não encontrou o caminho de volta.
+> #### Maitê — Maginauta de Arrecife
+> **Conceito:** Engenheira de sistemas que tropeçou em magia e descobriu que o magiespaço funciona como uma rede.
 > **Pronomes:** ela/dela
 > **Origem:** Terrana (Recife, PE) — Acidente de Glifo
 > P1 | H3 | R3 | PV 20 | PM 12
 > **Perícias:** Tecnologia (+3), Investigação (+3), Mística (+3), Percepção (+3)
 > **Vantagens:** Arcano (pode usar magia), Gênio (+2 em testes de raciocínio)
 > **Desvantagens:** Cética (-2 em testes para aceitar o sobrenatural de imediato)
-> **Kit:** Tecnomagus — Interface Arcana (Ganho em testes tecnologia+magia), Bypass de Proteção (testa para desativar proteções mágicas, dif 8-12), Dispositivo Híbrido (celular como canalizador: +1 Mística para lançar magias)
+> **Kit:** Maginauta — Imersão (ação completa + 2PM: consciência no magiespaço, corpo indefeso; Ganho em Mística, Magia gasta metade PM, alvos até Muito Longe; 1PM/rodada), Interferência (ação + 2PM: Ganho ou Perda em teste de Mística de outro), Sobrecarga (teste Mística 9: sucesso +2 no teste de magia; falha = magia sem efeito, gasta PM)
 > **Grêmio:** Monsoon
 > **Objetivo pessoal:** Entender seus poderes acidentais. Reencontrar o fio entre a pessoa que era e quem ela está se tornando.
-> **Característica de jogo:** Quando o grupo encontra um sistema mágico ou tecnológico, Maitê é quem entende como funciona — e quem percebe quando está sendo manipulado.
+> **Característica de jogo:** Quando o grupo encontra um sistema mágico, Maitê é quem imerge no magiespaço para entender como funciona — e quem percebe quando está sendo manipulado.
 
 ---
 
@@ -290,7 +339,7 @@ Cada personagem recebe abordagem do grêmio "certo" para eles — mas também re
 - Zed recebe interesse da Aurora (esperado) e da Obsidiana (que identificou os poderes brutos e quer recrutar)
 - Xeipe recebe interesse da Coroa (esperado) e da Égide (que quer um planejador)
 - Lira recebe interesse da Égide (esperado) e da Monsoon (que viu a adaptabilidade dela na noite anterior)
-- Maitê recebe interesse do Monsoon (esperado) e da Síntese/Tecnomagus track (que identificou a Interface Arcana dela)
+- Maitê recebe interesse do Monsoon (esperado) e da Síntese (que identificou o potencial de Maginauta dela)
 - Kenji recebe interesse da Obsidiana (esperado) e da Coroa (que quer as conexões dele)
 
 A escolha real de grêmio acontece depois — mas esta cena estabelece que as escolhas têm consequências.
@@ -335,6 +384,22 @@ A criatura está com eles. Têm um glifo não-mapeado fora do campus (os outros 
 **Pergunta final ao grupo:** *"O que vocês fazem?"*
 
 Não é uma armadilha. É o primeiro momento genuíno de agência. O módulo termina aqui — a resposta da mesa define o arco 1 da campanha.
+
+---
+
+## Se Tudo Der Errado
+
+Módulos de início não falham — mudam de forma.
+
+Se o grupo falhar completamente — se a criatura fugir, se V3ctor1us os flagrar, se os professores descobrirem tudo antes que os calouros tenham chance de agir — **a campanha não acaba. Muda.**
+
+**Cenário de fracasso recomendado: Detenção Compartilhada.** Os cinco calouros são pegos, repreendidos, e recebem uma punição criativa: investigar o glifo não-mapeado *oficialmente*, sob supervisão de Talude (que esconde mal o orgulho de ver calouros tentando resolver problemas ao invés de ignorá-los). A detenção se transforma na missão — com a diferença de que agora o grupo trabalha com conhecimento institucional, mas sob pressão constante de V3ctor1us monitorando cada passo.
+
+**Se a criatura ferir alguém:** Séphora cuida do ferimento. Ninguém é expulso no primeiro fim de semana. A consequência é social: o grupo é "aqueles calouros que causaram o incidente da primeira noite" — e esse rótulo os persegue pelo primeiro semestre. Alguns NPCs evitam. Outros se aproximam *por causa* do incidente.
+
+**Se o grupo se dividir:** Ótimo. Metade investiga por um caminho, metade por outro. As duas metades descobrem peças diferentes do mesmo quebra-cabeça e precisam se reunir para montar a imagem completa. A divisão vira necessidade de cooperação.
+
+**Regra geral para o Mestre:** O fracasso mais interessante não tira algo do personagem — dá a ele algo que não queria. Uma reputação. Uma dívida. Uma pergunta que não para de incomodar. Um olhar de Wynna que dizia "eu sei o que vocês fizeram" sem precisar de palavras.
 
 ---
 

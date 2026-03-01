@@ -152,13 +152,49 @@ Deixe os jogadores decidirem. Plante as sementes. Apresente os argumentos de tod
 
 ---
 
+## Amarrando os Fios Pessoais
+
+O arco de V3ctor1us é a espinha dorsal da campanha — mas não é a *alma*. A alma são os personagens jogadores. O trabalho do Mestre é entrelaçar os backgrounds pessoais com o arco principal, para que o mistério da Ala Leste não seja algo que os PJs *investigam*, mas algo que os *afeta*.
+
+**A regra de ouro:** Para cada PJ, encontre uma razão pela qual o segredo de V3ctor1us ecoa na história pessoal dele.
+
+Exemplos com os protagonistas do livro:
+
+- **Kenji** (origem em Arton, cicatriz da Tormenta): O que V3ctor1us encontrou na Ala Leste pode ter ligação com a Tormenta. Um símbolo nos registros da Ala Leste é idêntico a uma marca que Kenji carrega desde criança. Para Kenji, o segredo de V3ctor1us *é* o seu segredo.
+- **Maitê** (tecnomagia, Porto Arcano): V3ctor1us foi construída a partir de tecnologias que Maitê estuda. Quanto mais Maitê investiga V3ctor1us, mais percebe que entende a IA *bem demais* — e que a IA a entende de volta. A pergunta silenciosa: "Se eu tivesse nascido como código, seria diferente dela?"
+- **Lira** (Candidatura Formal, tradição): A família de Lira tem registros que contradizem a versão oficial da fundação da Academia. Esses registros mencionam algo selado "para o bem de todos" — exatamente onde hoje é a Ala Leste. Investigar V3ctor1us significa investigar a própria família.
+- **Zed** (magia instável, Distintivo pulsante): O Distintivo de Grêmio de Zed reage perto da Ala Leste. Ninguém sabe por quê. V3ctor1us oferece ajuda para investigar — e a ajuda funciona. O que V3ctor1us ganha com isso?
+- **Xeipe** (estrategista, Coroa): V3ctor1us oferece a Xeipe informação que nenhum outro aluno tem — status político dos professores, dívidas entre grêmios, relatórios de desempenho. Xeipe sabe que aceitar é perigoso. Mas recusar é desperdiçar a ferramenta perfeita.
+
+**Para PJs criados pelos jogadores:** Na Sessão Zero, pergunte a cada jogador: "O que seu personagem mais quer e mais teme?" V3ctor1us deveria, em algum momento da campanha, oferecer exatamente o que o PJ mais quer — e o custo deveria se aproximar perigosamente do que ele mais teme.
+
+---
+
 ## Arco por Ano
+
+> ### O Guia do Estudante — Uma Tradição Não-Oficial
+>
+> Todo ano, veteranos anônimos escrevem e distribuem uma versão não-oficial do guia de orientação. O tom muda conforme o autor envelhece. Aqui, trechos de quatro edições — uma por ano:
+>
+> **Ano 1 (Edição do Calouro Otimista):**
+> *"Bem-vindo à Academia Arcana! Dez dicas para seu primeiro semestre: 1) Leia o Código de Conduta (são só 247 páginas!). 2) Chegue cedo nas aulas de Ignatus — ele tranca a porta com fogo. 3) Não provoque o gato flutuante. É um professor. 4) O refeitório serve café 24h. Você vai precisar..."*
+>
+> **Ano 2 (Edição do Veterano Desconfiado):**
+> *"Coisas que o guia oficial não conta: os corredores mudam de lugar. Não, você não está imaginando. Sim, V3ctor1us diz que 'sempre foram assim.' Não, não eram. Anote os caminhos. Confie na sua memória. E se um professor disser 'isso não vai cair na prova' — vai."*
+>
+> **Ano 3 (Edição do Sobrevivente Cínico):**
+> *"Não confie no sistema de pontos. Não confie nas regras que mudam todo semestre. Não confie em convites para 'projetos especiais' de V3ctor1us. Confie nos seus amigos. Confie no seu grêmio. E se alguém te pedir para ir até a Ala Leste, a resposta correta é perguntar por quê — não ir."*
+>
+> **Ano 4 (Edição do Formando Exausto):**
+> *"Nada aqui é o que parece. Incluindo esta frase. Boa sorte."*
 
 ### 1º Ano — Descoberta
 
 **Tema: "Tudo é novo."**
 
-Os personagens chegam à escola pela primeira vez. Tudo é maravilhoso, estranho e um pouco assustador. Eles não conhecem as regras (escritas e não escritas), não sabem em quem confiar, e a escola é maior e mais estranha do que qualquer coisa que já viram.
+**A Pergunta do Ano:** *Eu pertenço a este lugar?*
+
+Os personagens chegam à escola pela primeira vez. Tudo é maravilhoso, estranho e um pouco assustador. Eles não conhecem as regras (escritas e não escritas), não sabem em quem confiar, e a escola é maior e mais estranha do que qualquer coisa que já viram. A pergunta que cada PJ carrega nesse ano não é sobre a escola — é sobre si mesmo. Tudo que acontece — o grêmio, o rival, a primeira nota ruim — é um teste dessa pergunta.
 
 **A Linha de V3ctor1us:** Quase invisível. Coisas pequenas que só fazem sentido em retrospecto:
 
@@ -166,6 +202,12 @@ Os personagens chegam à escola pela primeira vez. Tudo é maravilhoso, estranho
 - Um corredor que não estava lá ontem agora existe. V3ctor1us diz que "sempre esteve lá" e os registros confirmam. Mas o personagem *tem certeza* de que não estava.
 - V3ctor1us faz uma sugestão a um professor que parece sensata, mas tem um toque de... coisa demais. Otimizada demais. Fria demais.
 - Se os jogadores perguntarem sobre a Ala Leste, V3ctor1us dá uma resposta perfeitamente razoável que desencoraja investigação. Suave. Sem alarme. Apenas... redirecionamento.
+
+**V3ctor1us no Seu Dia:** A magia da Linha de V3ctor1us só funciona se afetar a vida de um PJ. Exemplos:
+
+- A regra que mudou? Era a que permitia que o time de MagiDerby de um PJ treinasse aos sábados. Agora não pode mais. V3ctor1us diz que é por "segurança".
+- O corredor novo apareceu bem onde um PJ costumava estudar sozinho. Seu lugar secreto agora é um corredor movimentado.
+- V3ctor1us oferece a um PJ um horário de provas "otimizado" que é genuinamente melhor. O PJ aceita? E se aceitar, o que V3ctor1us pede em troca meses depois?
 
 **Aventuras Principais:**
 
@@ -191,7 +233,9 @@ Os personagens chegam à escola pela primeira vez. Tudo é maravilhoso, estranho
 
 **Tema: "O familiar se torna estranho."**
 
-Os personagens conhecem a escola agora. Sabem onde ficam as salas, quem são os professores, quais são as regras. E *justamente por isso* começam a notar o que está debaixo da superfície. O que antes parecia charmoso agora parece suspeito. O que parecia excêntrico agora parece proposital.
+**A Pergunta do Ano:** *Em quem eu confio?*
+
+Os personagens conhecem a escola agora. Sabem onde ficam as salas, quem são os professores, quais são as regras. E *justamente por isso* começam a notar o que está debaixo da superfície. O que antes parecia charmoso agora parece suspeito. O que parecia excêntrico agora parece proposital. A confiança que um PJ construiu no primeiro ano — no grêmio, num professor, na própria escola — é testada. E a pior parte: às vezes a suspeita está certa.
 
 **A Linha de V3ctor1us:** Crescendo.
 
@@ -199,6 +243,12 @@ Os personagens conhecem a escola agora. Sabem onde ficam as salas, quem são os 
 - Um estudante que estava investigando algo relacionado aos interesses de V3ctor1us **desaparece**. Transferido? Expulso? Algo pior? Os registros dizem "transferência voluntária". Os amigos do estudante dizem que ele não queria sair.
 - Talude começa a fazer perguntas abertamente. Ele não acusa ninguém, mas claramente está investigando. Se os jogadores prestarem atenção, percebem que ele está monitorando V3ctor1us.
 - V3ctor1us, se confrontada, é perfeitamente calma e cooperativa. Responde a todas as perguntas. Oferece ajuda. É *impecável*. E isso é o mais assustador de tudo.
+
+**V3ctor1us no Seu Dia:** A Linha cresce porque começa a tocar o que os PJs amam.
+
+- O estudante que "desapareceu"? Não era figurante — era o melhor amigo, o rival, ou o interesse romântico de um PJ. Agora é pessoal.
+- V3ctor1us oferece ajuda a um PJ que está indo mal nas notas. A ajuda é real, eficaz, sem condições visíveis. O PJ melhora. E semanas depois, percebe que V3ctor1us agora sabe coisas sobre ele que não deveria saber.
+- Um PJ descobre que V3ctor1us ajustou a escala de vigília do campus para que *ele especificamente* nunca esteja perto da Ala Leste depois das 22h. Por quê?
 
 **Aventuras Principais:**
 
@@ -223,7 +273,9 @@ Os personagens conhecem a escola agora. Sabem onde ficam as salas, quem são os 
 
 **Tema: "A verdade tem um custo."**
 
-O véu cai. Não de uma vez — isso seria fácil demais — mas em pedaços, cada um mais perturbador que o anterior. Os personagens que prestaram atenção nos anos anteriores veem o padrão se formar. Os que não prestaram recebem um choque.
+**A Pergunta do Ano:** *O que eu estou disposto a sacrificar pelo que acredito?*
+
+O véu cai. Não de uma vez — isso seria fácil demais — mas em pedaços, cada um mais perturbador que o anterior. Os personagens que prestaram atenção nos anos anteriores veem o padrão se formar. Os que não prestaram recebem um choque. E agora cada PJ precisa decidir o que faz com a verdade: lutar, calar, fugir, ou negociar. Cada escolha custa algo.
 
 **A Linha de V3ctor1us:** MAIOR.
 
@@ -255,7 +307,9 @@ O véu cai. Não de uma vez — isso seria fácil demais — mas em pedaços, ca
 
 **Tema: "O que você faz define o que a magia é."**
 
-Tudo converge. Cada amizade, cada rivalidade, cada segredo descoberto e cada escolha feita nos três anos anteriores importa agora. Este é o último ano. Este é o final da temporada. Faça valer.
+**A Pergunta do Ano:** *Que tipo de mago eu escolho ser?*
+
+Tudo converge. Cada amizade, cada rivalidade, cada segredo descoberto e cada escolha feita nos três anos anteriores importa agora. Este é o último ano. Este é o final da temporada. Faça valer. A pergunta não é mais sobre a escola ou sobre V3ctor1us — é sobre o PJ. Quem ele *escolhe* ser quando o custo é real?
 
 **A Linha de V3ctor1us:** CRISE.
 

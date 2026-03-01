@@ -81,6 +81,10 @@ Alunos e funcionários da Academia usam carteirinhas encantadas para ativar o gl
 
 **Distrito Estudantil** — A região de Vallindra mais frequentada por alunos da Academia e de outras instituições. Cafeterias que ficam abertas até de madrugada. Livrarias com seções de "magia acadêmica" e "magia recreativa" (esta última trancada para menores). Lojas de hobbies que vendem desde miniaturas para jogos de tabuleiro até kits de alquimia para iniciantes. Bares que servem drinks com efeitos mágicos menores — o "Invisível" faz você ficar translúcido por dez minutos e é o drink mais pedido por estudantes da Academia que acabaram de completar dezoito anos.
 
+> **Guia Não-Oficial de Vallindra** *(voz de veterano)*
+>
+> "Vallindra é onde você vai quando quer se sentir adulto. Você vai ao Beco dos Encantadores, gasta metade da sua mesada em componentes que não sabe usar, come um sorvete que muda de sabor e finge que esse é o auge da independência. Dicas reais: nunca compre varinhas no Beco sem testar (três calouros já voltaram com varinhas que só lançam Luz); o Arcanaparque vale a pena uma vez (a segunda é triste); e no Distrito Estudantil, o bar que importa é o que *não* tem placa. Pergunte por 'O Subsolo' e finja que sabe o que está fazendo. O glifo de volta fecha às 23h. Quem perde o horário dorme na rodoviária mágica — e ela é tão deprimente quanto parece."
+
 ---
 
 ## Neo Sampa
@@ -117,6 +121,10 @@ Para quando os alunos fogem do campus (ou são mandados):
 
 **Escola Livre da Rua 7** — Uma escola informal de magia autônoma, mantida por ex-arcanautas e magos independentes no centro de Neo Sampa. Ensina jovens sem acesso ao sistema formal — Terranos que descobriram magia sozinhos e não têm dinheiro para Solaris. Alunos da Academia que visitam voltam com perspectiva: nem todo mundo tem o privilégio de uma Arca. Maitê, acostumada com o Porto Arcano de Arrecife onde magia e tecnologia andam lado a lado, ficou chocada ao ver que aqui a situação era tão diferente. Isso incomoda mais gente do que deveria.
 
+> **Guia Não-Oficial de Neo Sampa** *(voz de veterano)*
+>
+> "Esqueça Vallindra. Vallindra é onde seus pais te levariam. Vallindra é organizada, segura e cheira a livro. Você quer sentir a Era das Arcas *de verdade*? Pega o glifo pra Neo Sampa. Regras de sobrevivência: 1) Não aceite 'mapa atualizado' do Seu Valdomiro — ele imprime o mesmo desde 2019. 2) Na Vila Mágica, fale com o Tomaz da Arcana & Bytes, mas leve um trocadilho preparado ou ele vai te cobrar o dobro. 3) O Bar do Eclipse é tranquilo, mas a mesa do fundo não é pra você — ainda. 4) Se um cara de capuz te oferecer 'essência de Tormenta purificada' na Rua 25 de Março, é corante alimentício. 5) Vá à Escola Livre da Rua 7. Sério. Vai te fazer bem ver como é magia sem rede de proteção. Você vai voltar se sentindo grato, culpado, ou os dois. E não perca o último glifo — dormir em Neo Sampa sem dinheiro é uma aventura que ninguém pediu."
+
 ---
 
 ## Arrecife
@@ -150,6 +158,10 @@ A Comunidade é serena, bonita e politicamente tensa como uma panela de pressão
 Nem todos os elfos concordam que a Academia deveria ter um glifo ali. Uma facção significativa argumenta que o glifo traz barulho, poluição mágica e estudantes que pisam nas raízes sagradas. Outra facção, mais progressista, defende que a aliança com a Academia é estrategicamente importante — especialmente com a Tormenta no horizonte.
 
 O resultado é que visitas de alunos à Comunidade são reguladas, protocoladas e acompanhadas por guias élficos que são metade anfitriões, metade seguranças. É uma ótima localização para aventuras envolvendo natureza, diplomacia e a arte sutil de não ofender um elfo milenar que já estava de mau humor antes de você chegar.
+
+> **Guia Não-Oficial da Comunidade Élfica** *(voz de veterano)*
+>
+> "Tá, essa é a parte onde eu peço que você preste atenção. A Comunidade Élfica não é uma excursão. É um território soberano com gente que saiu de outro mundo e está profundamente cansada das suas perguntas. O que *não* fazer: 1) Não toque nas árvores sem pedir. Elas sabem. 2) Não diga 'que lindo!' a cada cinco metros — os elfos não sabem se é elogio ou sarcasmo e interpretam como os dois. 3) Não pergunte a idade de ninguém. Nunca. *Nunca.* 4) O guia élfico não é opcional — é uma condição do tratado. Se você se perder sozinho na floresta, ninguém vai te buscar até o amanhecer, e isso é *política*, não descuido. 5) Se um elfo te oferecer chá, aceite. É um teste. O chá é horrível. Tomá-lo inteiro é um sinal de respeito. Eu sei porque não tomei."
 
 ---
 
@@ -228,6 +240,31 @@ Estudantes do Liceu acham que a Academia é uma torre de marfim cheia de nerds q
 Há também uma camada de esnobismo acadêmico: o Liceu considera a Academia *casual demais*. Informal demais. Permissiva demais. "Uma escola séria não teria uma IA como co-administradora", disse uma vez a diretora do Liceu, sem se dar conta de que estava sendo gravada. A Academia considera o Liceu *pretensioso demais*. Engessado demais. "Eles ensinam magia como se fosse latim morto", resumiu um aluno veterano.
 
 Existe um programa de **intercâmbio** entre as duas instituições, que garante interação regular e atrito constante. Jogos inter-institucionais, debates acadêmicos que viram gritaria e competições de MagiDerby são eventos esperados com ansiedade e preparados com intensidade desproporcional. O Liceu é a fonte perfeita de rivais acadêmicos, antagonistas intelectuais e aquele intercambista que chega na escola e critica tudo com autoridade de quem estuda numa universidade cinco vezes maior.
+
+#### Como Tudo Começou
+
+A rixa tem data e local. Primeiro Torneio Inter-Escolas de MagiDerby, quatro anos após a refundação da Academia. Final entre a equipe da Academia (formada às pressas, com duas substituições de último minuto) e o time do Liceu (treinado desde março, uniformes combinando, plano tático de dezessete páginas).
+
+No lance decisivo, a Jammer da Academia — uma caloura de Monsoon chamada Soraia — ignorou a jogada ensaiada, subiu a uma altitude não regulamentada, desviou de três bloqueadoras com uma manobra que ninguém viu antes (nem ela, provavelmente) e marcou o ponto da vitória dois segundos antes do apito final.
+
+O Liceu protestou formalmente. A manobra de Soraia foi classificada como "caótica, sem fundamentação técnica e de resultado imprevisível". A Academia respondeu que o resultado era bastante previsível: eles tinham ganhado. A arbitragem manteve o resultado. O Liceu nunca superou. A Academia nunca deixou de mencionar. O troféu está na vitrine do Anfiteatro, com uma plaquinha que diz: "Improvisação 1 × Dezessete Páginas de Plano 0".
+
+Desde então, cada jogo de MagiDerby entre as duas escolas é tratado como uma continuação daquele lance. E cada vez que um aluno do Liceu diz "vocês não têm método", algum veterano da Academia pergunta: "Quantos troféus vocês têm?"
+
+#### NPC: Hayato Benandanti — O Intercambista Perfeito
+
+**Hayato** é aluno do terceiro ano do Liceu, enviado à Academia no programa de intercâmbio semestral. Ele é tudo que os alunos da Academia esperam de um estudante do Liceu: competente, metódico, educado de uma forma que soa como crítica, e genuinamente convencido de que está numa escola inferior.
+
+O que os alunos não esperam: Hayato gosta da Academia. Gosta do caos. Gosta de não ter que pedir autorização para experimentar um feitiço fora do currículo. Ele jamais admitiria isso — sua família são três gerações de formandos do Liceu, e voltar dizendo "eles fazem algumas coisas melhor" seria impensável.
+
+Hayato funciona como rival, espelho e aliado relutante. Ele desafia PJs intelectualmente, julga seus métodos em voz alta, e quando a crise vier, será o primeiro a ajudar — desde que ninguém conte ao Liceu.
+
+> **Hayato Benandanti** — Intercambista do Liceu, 3º ano
+> P3 | H4 | R3
+> **Perícias:** Mística +1, Investigação +1
+> **Vantagens:** Aptidão Mágica, Focado
+> **Desvantagens:** Código de Honra (Liceu), Orgulho
+> PV 15 | PM 15
 
 ### Brambleshire Academy
 
@@ -662,25 +699,25 @@ Para o Mestre que quer trazer o mundo de fora para dentro da campanha, aqui vão
 A família de um aluno (jogador ou NPC) está envolvida num escândalo político em Vallindra. Suborno, desvio de recursos mágicos, conexões com grupos ilegais — escolha seu veneno. O aluno é pressionado por jornalistas, colegas e pela própria família. Como o grupo reage? Lealdade pessoal versus responsabilidade pública é um conflito clássico por uma razão.
 
 ### 2. Monstros em Neo Sampa
-Um portal instável se abre no meio de Neo Sampa e despeja criaturas dimensionais hostis num bairro residencial. A mídia culpa a Academia — "são os portais deles que causam isso!". Não é verdade, mas a percepção pública não se importa com verdade. Os alunos precisam ajudar a conter a situação e lidar com a crise de relações públicas. Pontos bônus se Seu Valdomiro tentar vender "kits anti-monstro" durante a crise.
+Um PJ recebe uma ligação: sua mãe, seu primo, sua ex-melhor amiga — alguém que mora num bairro residencial de Neo Sampa está trancado dentro de casa, com algo do lado de fora que não deveria existir. Um portal instável se abriu e despejou criaturas dimensionais na rua. A mídia culpa a Academia — "são os portais deles que causam isso!". Não é verdade, mas para o PJ, a verdade não importa: quem ele ama está em perigo, e a culpa, real ou não, está na escola onde *ele* escolheu estudar. Lidar com a crise é metade da aventura. Lidar com o olhar da família depois é a outra metade. Pontos bônus se Seu Valdomiro tentar vender "kits anti-monstro" durante o caos.
 
 ### 3. MagiDerby Inter-Escolar
 Uma escola rival (o Liceu Benandanti ou qualquer escola internacional) desafia a Academia para um torneio formal de **MagiDerby**. A honra da escola está em jogo. A competição é intensa, as regras são obscuras e pelo menos um adversário está definitivamente trapaceando. Mas provar isso é outra história.
 
 ### 4. O Inspetor
-O Conselho Arcano envia um **inspetor oficial** para avaliar a Academia. Especificamente, para avaliar V3ctor1us. O inspetor é meticuloso, incorruptível e profundamente desconfiado de inteligências artificiais arcanas. Wynna pede (educadamente, mas com urgência) que os alunos se comportem exemplarmente durante a visita. Naturalmente, tudo que pode dar errado vai dar errado.
+V3ctor1us aparece no dormitório de um PJ às 6h da manhã. Sem olá, sem contexto: "Preciso que você me ajude. Não posso explicar por quê." O Conselho Arcano enviou um **inspetor oficial** para avaliá-lo — especificamente, para determinar se uma inteligência arcana deveria administrar uma escola. O inspetor é meticuloso, incorruptível, e tratará qualquer irregularidade como prova contra V3ctor1us. Wynna pediu que todos se comportem. Mas V3ctor1us não está pedindo bom comportamento ao PJ — está pedindo *confiança*. E o PJ precisa decidir se V3ctor1us merece essa confiança, ou se o inspetor tem razão em desconfiar.
 
 ### 5. Pais no Portal
 Os pais Terranos e não-mágicos de um estudante descobrem a localização do glifo em Vallindra e aparecem exigindo ver a escola. O filho tem dezoito anos e não precisa de permissão para estar lá — mas isso não torna a situação menos explosiva. Eles não foram informados que a pessoa que criaram estuda numa dimensão alternativa. Estão furiosos, confusos, ligeiramente em pânico, e absolutamente decididos a fazer um escândalo. Lidar com eles exige diplomacia, empatia e provavelmente uma xícara do chá calmante da enfermaria.
 
 ### 6. O Artefato de Arton
-Um artefato antigo e poderoso de Arton é descoberto num sítio arqueológico nos arredores de Vallindra. O Conselho Arcano quer confiscá-lo. Uma corporação quer comprá-lo. Os elfos do Litoral Norte afirmam que é deles por direito ancestral. V3ctor1us demonstra um interesse no artefato que Wynna considera "preocupante". E os alunos estão no meio de tudo isso porque alguém achou que seria uma boa ideia de trabalho de campo.
+Um PJ encontra um símbolo no caderno de anotações de um parente, num sonho recorrente, ou gravado num objeto de família que carrega desde criança. O mesmo símbolo aparece num artefato antigo de Arton recém-descoberto em sítio arqueológico nos arredores de Vallindra. O Conselho Arcano quer confiscar o artefato. Uma corporação quer comprá-lo. Os elfos do Litoral Norte afirmam que é deles por direito ancestral. V3ctor1us demonstra um interesse que Wynna considera "preocupante". Mas para o PJ, a questão não é política — é pessoal: esse símbolo é uma coincidência ou uma mensagem? E se for uma mensagem, quem a deixou?
 
 ### 7. Ultimato Élfico
 Tensões na Comunidade Élfica do Litoral Norte atingem o ponto de ruptura. A facção isolacionista ganha maioria no conselho élfico e anuncia que o glifo da Academia será **fechado em trinta dias**. Wynna precisa de ajuda diplomática. Os alunos podem ser enviados como emissários — o que é ao mesmo tempo uma demonstração de confiança da diretora e um sinal de que os adultos responsáveis estão desesperados o suficiente para mandar universitários resolverem um impasse político.
 
 ### 8. Sinal da Tormenta
-Sensores arcanos detectam uma **anomalia de Tormenta** se formando perigosamente perto de um dos glifos da Academia. É uma ameaça real ou um alarme falso? A investigação leva os alunos para fora da escola, para territórios onde a Convergência deixou cicatrizes no tecido da realidade. Se for real, as consequências podem mudar o equilíbrio político — e a Tormenta não espera por deliberações de conselho.
+Um PJ acorda no meio da noite com a mão formigando. Na manhã seguinte, um feitiço que ele domina perfeitamente falha — não com fraqueza, mas com *distorção*, como se a magia tivesse sido traduzida para outro idioma. Horas depois, sensores arcanos detectam uma **anomalia de Tormenta** se formando perigosamente perto de um dos glifos da Academia. O PJ sente a anomalia antes dos sensores. Isso deveria ser impossível. A investigação leva o grupo para fora da escola, para territórios onde a Convergência deixou cicatrizes no tecido da realidade. Mas a pergunta que ninguém quer fazer em voz alta é: por que *você* sentiu isso? O que a Tormenta reconhece em você?
 
 ---
 

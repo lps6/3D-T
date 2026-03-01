@@ -69,6 +69,14 @@ Cada ano é progressivamente mais difícil. Não apenas em termos de conteúdo a
 | Baile de Fim de Ano | Última semana de Julho | Entrega do Troféu Arcano, celebração, drama social |
 | Férias | Agosto | Campus quase vazio (quase) |
 
+#### O Que Isso Significa Para Você
+
+**Semana de Recrutamento:** O teste de popularidade mais brutal da escola. Grêmios armam estândes no Pátio, distribuem panfletos encantados, e avaliam calouros como se fossem peças num tabuleiro. O medo de não ser escolhido é real — e o medo de ser escolhido pelo grêmio *errado* é pior. Grupos de amigos se dividem. Lealdades de duas semanas se rompem. Alguém sempre chora no banheiro da Residência. É a semana em que a Academia deixa de ser uma escola e vira uma arena política operada por adolescentes com poderes mágicos.
+
+**Provas Finais:** Noites em claro na Biblioteca. Tônicos de Foco vendidos a preços abusivos por veteranos da Obs que sabem exatamente o que a demanda faz com os preços. Amizades forjadas na cumplicidade de quem não estudou o suficiente e dividiu a mesa da madrugada com desconhecidos que viraram irmãos de guerra. O arrependimento tem gosto de café frio com açúcar demais. Ninguém dorme. Todo mundo finge que vai ficar bem.
+
+**Baile de Fim de Ano:** O único evento onde grêmios param de competir e fingem gostar uns dos outros por uma noite. Três meses de tensão social condensados num salão decorado com feiticaria e expectativas impossíveis. É onde casais se formam, casais acabam, segredos escapam, e o Troféu Arcano é entregue sob aplausos que escondem tanto orgulho quanto rancor. Todo mundo diz que não se importa com o Baile. Todo mundo passa dois semestres pensando nele.
+
 ### O Que Cada Ano Enfrenta
 
 - **1o Ano:** Adaptação, matérias básicas, ser recrutado por um grêmio. O maior desafio é social, não acadêmico.
@@ -130,6 +138,8 @@ Avançar de grau não acontece automaticamente ao virar o calendário. Requer cu
 
 O título padrão de qualquer calouro. Não requer nada além da admissão. Não há cerimônia especial de avanço — você *chegou*, portanto você é Iniciante.
 
+Isso não significa que não existe hierarquia. Significa que você está na base dela. Iniciantes são invisíveis para veteranos, vísivéis demais para professores, e desesperadamente conscientes de que cada passo está sendo avaliado — mesmo quando não está.
+
 *Benefício:* Uniforme Adaptativo ativo (ver Itens Mágicos, Cap. 6), acesso à Biblioteca Geral, matrícula no grêmio de escolha.
 
 ---
@@ -146,6 +156,8 @@ O título padrão de qualquer calouro. Não requer nada além da admissão. Não
 
 *Cerimônia:* O professor sponsor declara em voz alta o que ele percebeu no Adepto durante o ano. É breve. Wynna assina. V3ctor1us registra.
 
+O benefício mecânico é um +1. O benefício real é o *reconhecimento*. Alguém com autoridade olhou para você e disse, em público, que você existe. Que você importa. Para calouros que passaram um ano inteiro se perguntando se pertencem, ouvir seu nome pronunciado por um professor no anfiteatro é o divisor de águas entre "aluno" e "mago". E para quem não é indicado — para quem vê colegas subindo ao palco enquanto fica sentado na plateia — o silêncio do seu nome não chamado é a pior parte do ano.
+
 ---
 
 **Grau III — Arcanista**
@@ -160,6 +172,8 @@ O título padrão de qualquer calouro. Não requer nada além da admissão. Não
 
 *Cerimônia:* O sponsor desafia o estudante a demonstrar a Técnica de Assinatura na frente da turma. Se a demonstração funcionar, ninguém comenta. Se não funcionar, todos comentam. Para sempre.
 
+A Técnica de Assinatura não é um prêmio. É uma responsabilidade. A partir desse momento, você tem uma habilidade pela qual é *cobrado*. Professores esperam que você use. Colegas esperam que você domine. E quando você falha — e você *vai* falhar, uma hora — a falha é pública, porque todo mundo sabe qual é a sua técnica. Falhar no que é *seu* é diferente de falhar no genérico. É pessoal. E não ter sido indicado para Arcanista quando seus amigos foram? A Égide chama de "parte do processo". A Obsidiana chama de "humilhação pública". Ambas estão certas.
+
 ---
 
 **Grau IV — Magister em Formação**
@@ -173,6 +187,8 @@ O título padrão de qualquer calouro. Não requer nada além da admissão. Não
 **Benefício:** O Magister em Formação demonstrou comprometimento arcano profundo. Seu **máximo de PM aumenta em +2 permanentes** — a magia respondes às exigências da pesquisa de tese. Além disso, o personagem recebe acesso formal ao Arquivo Intermediário (seção restrita da Biblioteca) sem necessidade de solicitação por caso.
 
 *Cerimônia:* Formal. Wynna pessoalmente verifica cada requisito. V3ctor1us projeta o histórico completo do estudante. Há uma pergunta que Wynna sempre faz — diferente para cada estudante — para a qual não existe resposta certa.
+
+É o momento em que a escola para de cuidar de você e começa a cobrar. A pergunta de Wynna não é um teste; é um espelho. Ela quer que você veja o que se tornou — e decida se é isso que queria. Veteranos dizem que a cerimônia de Magister em Formação é o momento em que a Academia deixa de ser um refúgio e se torna uma responsabilidade da qual não dá para fugir.
 
 ---
 
@@ -350,7 +366,9 @@ Quando o Mestre quer resolver uma aula rapidamente mas com sabor narrativo, role
 
 ### O Código de Conduta
 
-Todo aluno, ao ser admitido, recebe uma cópia digital do **Código de Conduta da Academia Arcana** — um documento de 247 páginas redigido por V3ctor1us, revisado por Wynna ("Tira a parte sobre penalidades corporais, V3ctor1us." "Mas a eficiência—" "*Tira.*"), e distribuído em formato PDF que ninguém lê inteiramente.
+*"As regras são simples: não faça nada burro. Mas como 247 páginas não cabem em 'não faça nada burro', temos o Código."* — Veterana da Coroa, orientação de calouros
+
+Todo aluno, ao ser admitido, recebe uma cópia digital do **Código de Conduta da Academia Arcana** — um documento de 247 páginas redigido por V3ctor1us, revisado por Wynna ("Tira a parte sobre penalidades corporais, V3ctor1us." "Mas a eficiência—" "*Tira.*"), e distribuído em formato PDF que ninguém lê inteiramente. Você vai jurar que leu. Ninguém acredita. V3ctor1us sabe que você não leu — e anota.
 
 As regras-chave que todo jogador precisa conhecer:
 
@@ -381,6 +399,39 @@ A experiência de ser punido varia dependendo do seu grêmio:
 - **Aurora:** Dramatiza. A detenção vira performance. O relatório de punição vira poesia. Jynx Monsoon uma vez enquadrou uma advertência que recebeu como estudante. Está na parede da sede até hoje.
 - **Obsidiana:** Infrações são troféus não-oficiais. Quem nunca tomou uma advertência "não está se esforçando o bastante". (Os professores sabem disso. Os professores *odeiam* isso.)
 - **Monsoon:** Questiona a estrutura punitiva como um todo. "Por que a punição para 'experimentação não-autorizada' é tão severa quanto a de 'colocar pessoas em risco'? São coisas categoricamente diferentes." Eles têm um ponto. Ninguém quer admitir.
+
+### Cada Punição É um Gancho
+
+Nenhuma punição existe no vácuo. O Mestre deve tratar cada nível da escala como uma porta narrativa, não como um ponto final.
+
+| Punição | O que acontece *depois* |
+|---|---|
+| **Advertência Verbal** | Parece inofensiva — até que o PJ descobre que Advertências ficam no registro de V3ctor1us. Na próxima vez que a IA precisar de um "voluntário" para uma tarefa perigosa, adivinha quem aparece na lista. *"Seu histórico sugere familiaridade com infrações menores. Perfeito para infiltração."* |
+| **Perda de Pontos** | O grêmio sabe. E agora o PJ deve algo. O líder cobra "um favor" para compensar — e o favor conecta a outro arco. Na Obsidiana, a perda vira aposta: "Se recuperar os pontos antes do MagiDerby, a gente esquece. Se não…" |
+| **Detenção** | Trabalho supervisionado = acesso a lugares que alunos normalmente não visitam. Limpando os estábulos, o PJ encontra marcas de garras que não são de nenhuma criatura registrada. Organizando a biblioteca, descobre um livro que deveria ter sido destruído. Assistindo Thanatus, ouve o professor murmurar algo sobre "a última vez que o selo cedeu." |
+| **Suspensão** | O PJ fica fora das aulas — mas o campus não para. Algo acontece *durante* a suspensão que o PJ só descobre depois, por rumores de corredor. Um NPC aliado tomou uma decisão na ausência do PJ. "Você não estava aqui. Alguém tinha que agir." A suspensão custa *relevância*, e recuperá-la é a aventura. |
+| **Audiência com Wynna** | Wynna vê mais do que deveria. Durante a conversa, ela menciona algo sobre o passado do PJ que *ninguém mais sabe*. Depois: "Eu me preocupo com você. Não porque você errou — porque você está no caminho de descobrir algo sobre esta escola que vai mudar como você vê tudo." Ela sabe mais. Ela não vai contar. Mas agora o PJ sabe que *ela sabe*. |
+| **Audiência com V3ctor1us** | Os dados que V3ctor1us apresenta incluem uma anomalia. Um padrão no comportamento do PJ que *a própria IA não consegue explicar*. V3ctor1us fica em silêncio por 2.7 segundos — uma eternidade para uma inteligência artificial. Depois muda de assunto. O PJ acaba de descobrir que V3ctor1us tem *pontos cegos*. Ou que está escondendo algo. |
+| **Expulsão** | O "véu parcial" de memórias é imperfeito. O PJ expulso (ou um NPC aliado) começa a ter flashbacks. Fragmentos. Um rosto. Uma sala. Uma frase: *"Não deixe que apaguem."* A expulsão não encerra a história — transforma o PJ em alguém de fora tentando lembrar, e os que ficaram em aliados tentando proteger o que o amigo esqueceu. |
+
+> **Para o Mestre:** Se um PJ for punido e nada de interessante acontecer *por causa* da punição, você desperdiçou uma cena. A punição é o anzol — a consequência social é a linha.
+
+### O Preço de um Favor
+
+*"Nunca aceite um favor de alguém da Coroa. Nunca. Eu sei que parece exagero. Vai por mim."* — Veterano da Aurora, conselho não solicitado
+
+Na Academia, favores são moeda. E como toda moeda, quem não controla a cotação paga caro. Aqui está como um favor "simples" escala ao longo de um semestre:
+
+| Semana | O que aconteceu |
+|---|---|
+| **Semana 1** | Um aluno da Coroa te empresta as anotações de Fundamentos. Sorriso impecável. "Sem problemas, calouro." |
+| **Semana 3** | O mesmo aluno pede que você vote nele para representante de turma. "Nada demais. Só estou pedindo porque confio em você." |
+| **Semana 6** | Agora ele precisa que você fique do lado dele numa discussão de grêmio. "Não é político. É pessoal." (É político.) |
+| **Semana 10** | Você descobre que as anotações tinham erros sutis — erros que te fizeram ir mal numa prova, o que te tornou *mais dependente* da rede dele. Coincidência? Na Coroa, não existem coincidências. |
+
+Na **Obsidiana**, o processo é diferente — e mais honesto. Um favor vem com termos. "Eu te ajudo agora. Em algum momento, vou precisar de algo. Você vai saber quando." O contrato não é escrito. Não precisa. Na Obsidiana, a palavra vale mais que qualquer documento — porque quebrar a palavra tem consequências que nenhum Código de Conduta prevê.
+
+> **Para o Mestre:** Favores são a engrenagem invisível da política estudantil. Um favor aceito na primeira sessão pode virar o conflito central da quinta. Acompanhe quem deve o quê a quem — os jogadores vão esquecer. Os NPCs, não.
 
 ---
 

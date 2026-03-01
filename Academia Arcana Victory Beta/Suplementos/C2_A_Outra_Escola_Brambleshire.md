@@ -5,7 +5,7 @@
 **Escopo:** 8–12 sessões (programa de intercâmbio entre a Academia Victory e a Brambleshire Academy)  
 **Jogadores:** 3–5 PJs (recomendado: 3º ano; 2º ano funciona com ajuste de dificuldade)  
 **Tom:** Mistério gótico + política escolar + horror dimensional calibrado  
-**Suplementos usados:** ALA (ressonância com a Ala Leste), T1 Somática Arcana (conexão com kits), cap07 (O Mundo ao Redor: Arcas especializadas)
+**Suplementos usados:** ALA (ressonância com a Ala Leste), T1 Somática Arcana (conexão com kits), cap08 (O Mundo ao Redor: Arcas especializadas)
 
 ---
 
@@ -68,7 +68,7 @@ A casa da magia de fundação — feitiços que trabalham com o que existe: terr
 
 *Relação com os PJs:* os Thornwood são os mais dispostos a tratar visitantes como iguais — valorizam o que você *faz*, não de onde você vem. Um PC que demonstra competência técnica vai ter aliados aqui rapidamente.
 
-*Staff representativo: Professor Alistair Finch* — P1/H5/R4 — PV 12/PM 30. Leciona Magia de Fundação. Sabe que algo está errado no Quarto do Espelho faz meses. Não relatou porque não consigue provar. Aliado dos PJs se eles chegam com evidências, não especulação.
+*Staff representativo: Professor Alistair Finch* — P1/H5/R4 — PV 12/PM 30. Leciona Magia de Fundação. Sabe que algo está errado no Quarto do Espelho faz meses. Não relatou porque não consegue provar. Aliado dos PJs se eles chegam com evidências, não especulação.
 
 ---
 

@@ -7,13 +7,65 @@
 
 ---
 
+> *O refeitório está lotado. Maitê — terrana, negra, caloura, grêmio Monsoon — está tentando estudar para a prova de Teoria Arcana com o livro apoiado na jarra de suco, enquanto Xeipe — elfo da Coroa — explica pela terceira vez por que a resposta dela sobre ressonância planar está "tecnicamente correta mas filosoficamente equivocada."*
+>
+> *"Filosoficamente equivocada não reprova," responde Maitê sem levantar os olhos.*
+>
+> *Na ponta da mesa, Lira — terrana, Égide, sempre sentada de frente para a porta — termina de anotar algo no caderno e fecha a capa com um gesto decidido. "Se vocês dois parassem de discutir, perceberiam que a resposta é a terceira opção. Nenhum dos dois está certo."*
+>
+> *Kenji — meio-gênio, Obsidiana, sorriso de quem sabe algo que você não sabe — ri baixo sem tirar os olhos do celular. "Eu sei a resposta desde terça. Mas é mais divertido assistir."*
+>
+> *É quando Zed chega correndo, derrubando duas cadeiras e uma bandeja no processo.*
+>
+> *"Tem uma coisa no Necrotério. Uma coisa que se MEXE."*
+>
+> *"Zed, tudo no Necrotério é morto," diz Xeipe.*
+>
+> *"Era. Era morto."*
+>
+> *Silêncio. O Distintivo de Grêmio de Maitê pulsa uma vez — fraco, mas inconfundível. Alguém está em perigo.*
+>
+> *O livro de Teoria Arcana é fechado. A prova é amanhã. O Necrotério é agora.*
+>
+> *"Eu odeio essa escola," diz Maitê, já de pé.*
+>
+> *"Eu também," diz Xeipe, já andando.*
+>
+> *Lira guarda o caderno na mochila com calma — mas seus olhos já estão na porta.*
+>
+> *Kenji desliga o celular. "Finalmente algo interessante."*
+>
+> *Zed já está no corredor.*
+
+Drama de refeitório que vira aventura em trinta segundos. Provas que competem com monstros. Alunos que reclamam enquanto correm em direção ao perigo.
+
+Este livro é o seu convite.
+
+---
+
+### Conheça os Protagonistas
+
+Ao longo deste livro, você vai encontrar cinco calouros em exemplos, cenas e situações. São tão diferentes quanto possível — em origem, identidade e visão de mundo — unidos pelo fato de que a Academia Arcana não pergunta de onde você veio. Só pergunta: *o que você vai fazer agora que está aqui?*
+
+**Maitê** (ela/dela) está no terceiro café da noite, com o livro de Teoria Arcana apoiado na jarra de suco e o celular rodando um código que ela começou a escrever antes de saber que era magia. Terrana, negra, recifense, Monsoon. Entrou na Academia por Acidente de Glifo — esbarrou num portal de maré instável durante uma tempestade em Arrecife e apareceu no Pátio Principal ainda debugando. Cética, prática, inteligente demais para seu próprio bem. Estuda mais que qualquer pessoa que você conhece e ainda reclama que não estudou o suficiente. Sua família é mundana e não entende o que ela faz — o que dói mais do que ela admite.
+
+**Xeipe** (ele/dele) está corrigindo a pronúncia de um colega pela segunda vez em três minutos, e não, ele não vai parar. Viajante, elfo de Lenórienn, Coroa. Vem de uma linhagem élfica que espera dele coisas que ele não sabe se quer. Metódico, competitivo, com uma necessidade quase patológica de estar certo. Por trás da postura impecável, há um garoto que não sabe quem é quando não está sendo o que os outros esperam.
+
+**Zed** (elu/delu) acabou de derrubar duas cadeiras, uma bandeja e a paciência de pelo menos três pessoas — e já está contando o que viu no Necrotério antes de recuperar o fôlego. Terrane, parde, Aurora. Não-binário, impulsivo, corajoso até a imprudência. Sofre com hiperatividade e dificuldade em provas escritas — mas em crises práticas, é a primeira pessoa que você quer por perto. Usa pronomes neutros e não tem paciência para quem questiona isso.
+
+**Lira** (ela/dela) já guardou o caderno na mochila e está de pé antes de qualquer um — porque Lira ouviu "perigo" e seu corpo decidiu antes da cabeça. Terrana, pele clara, Égide. Mulher trans. Passou em todos os testes de aptidão com notas que fizeram Taandus levantar uma sobrancelha. Determinada, protetora, reservada sobre o passado. Na escola, encontrou um lugar onde quem ela é importa menos do que o que ela faz. Mas o mundo lá fora nem sempre é tão simples.
+
+**Kenji** (ele/dele) desligou o celular com um sorriso que diz "eu já sabia" — e talvez soubesse mesmo, porque Kenji sempre sabe algo que não deveria. Viajante, meio-gênio de Arton, pansexual, Obsidiana. Carismático como uma maldição — você gosta dele antes de perceber que talvez não devesse. Calculista, pragmático, e surpreendentemente gentil com quem conquista sua confiança. Tem um passado que ele troca de versão dependendo do interlocutor, e uma conexão com a Tormenta que ele prefere não discutir.
+
+---
+
 ## Uma Escola. Um Mundo. Uma Porrada Mágica na Sua Realidade.
 
 Existe, em algum lugar entre Vallindra e o plano etéreo, uma escola.
 
 Não qualquer escola. Não aquele lugar com carteiras enfileiradas, professores bocejando e a sensação constante de que você poderia estar fazendo algo muito mais interessante. Estamos falando da **Academia Arcana** — a mais antiga, mais perigosa, mais fascinante e mais mal-assombrada instituição de ensino mágico conhecida na Era das Arcas.
 
-Seus corredores guardam segredos de antes da Convergência. Suas torres tocam nuvens que não pertencem a nenhum céu terrestre. Já formou heróis, vilões, grandes mestres e pelo menos um lich que prefere não comentar sobre sua situação atual. Seu refeitório serve a melhor sopa de cogumelo mágico do mundo — e os cogumelos, dizem os cozinheiros, são *completamente* inofensivos. Provavelmente.
+Seus corredores guardam segredos de antes da Convergência e cheiram a ozônio queimado e giz de ardósia arcana — o resíduo de feitiços que aconteceram aqui há séculos e que ainda não terminaram de ecoar. Suas torres tocam nuvens que não pertencem a nenhum céu terrestre. Já formou heróis, vilões, grandes mestres e pelo menos um lich que prefere não comentar sobre sua situação atual. Seu refeitório serve a melhor sopa de cogumelo mágico do mundo — e os cogumelos, dizem os cozinheiros, são *completamente* inofensivos. Provavelmente.
 
 Este livro é o seu convite.
 
@@ -41,7 +93,7 @@ A **Terceira Convergência** mudou tudo. O mundo que conhecíamos — nosso mund
 
 Nesse mundo novo, a **Era das Arcas**, duas realidades coexistem em tensão produtiva: o moderno e o arcano, a ciência e a magia, o cotidiano e o impossível.
 
-A Academia Arcana é filha dessa fusão.
+A Academia Arcana é filha dessa fusão — a cicatriz gloriosa, ou a ferida aberta, dessa colisão de mundos, dependendo de quem você perguntar e de que ano do curso essa pessoa está.
 
 Ela existiu antes, no antigo Arton — a escola fundada por **Wynna**, deusa da magia. Quando a Convergência aconteceu, a **Arca** onde a Academia existia ficou desancorada, perdida entre as dimensões. Foram necessários anos, uma deusa que perdeu sua divindade, um companheiro mágico que perdeu sua forma humana, e uma inteligência artificial construída de memórias que não deveriam existir para trazê-la de volta e ancorá-la à realidade da Terra.
 
@@ -106,18 +158,6 @@ Se você conhece o original, vai reconhecer os ecos. Se não conhece, não preci
 
 ---
 
-## Uma Nota Sobre o Tom
-
-A Academia Arcana Victory é um lugar onde coisas sérias acontecem a jovens arcanistas que ainda estão decidindo que tipo de mago querem ser — e que tipo de pessoa pretendem se tornar. Também é um lugar onde alguém vai inevitavelmente explodir uma poção e emergir coberto de gosma roxa que dura três dias. Ambos os fatos são igualmente verdadeiros.
-
-Este livro não escolhe entre os dois. Uma boa sessão pode começar com uma brincadeira de corredor e terminar com um personagem descobrindo que o professor mais gentil da escola esconde algo que muda tudo o que eles sabiam sobre Wynna, sobre a Academia, sobre si mesmos.
-
-O segredo do tom está em levar os personagens a sério, mesmo quando a situação é absurda. Um estudante preocupado com a nota de Transmutação enquanto suspeita que o Diretor é uma entidade de outro plano é engraçado *e* genuinamente angustiante. Não precisamos escolher.
-
-Escreva como se Casaro e Trevisan tivessem assistido a todos os filmes do Harry Potter em uma marathon, depois assistido Saiki K., depois decidiram que os dois universos precisavam urgentemente se fundir com uma pitada de Strixhaven por cima.
-
-É exatamente isso que este livro é.
-
 ### Uma Nota Sobre Inclusão
 
 A Academia Arcana não pergunta quem você é. Pergunta o que você quer se tornar.
@@ -137,58 +177,6 @@ A diversidade na Academia Arcana não é tema de aventura — é pano de fundo. 
 - **Jogadores** dispostos a se importar com notas, rivalidades de grêmio e o que tem no terceiro andar da Biblioteca antes de se importarem com salvar o mundo.
 
 **Suplementos Compatíveis:** Qualquer material de **3D&T Victory** funciona sem adaptação — o **Manual do Arcanauta** para kits adicionais, **Ferozes & Furiosos** para bestas e desafios, e quaisquer expansões futuras. A Academia existe na Era das Arcas; tudo que existe na Era das Arcas existe na Academia.
-
----
-
-## Como é Uma Sessão na Academia?
-
-Se você nunca jogou uma campanha escolar, pode ser difícil imaginar como é na prática. Aqui vai uma micro-cena para dar o tom:
-
-> *O refeitório está lotado. Maitê — terrana, negra, caloura, grêmio Monsoon — está tentando estudar para a prova de Teoria Arcana com o livro apoiado na jarra de suco, enquanto Xeipe — elfo da Coroa — explica pela terceira vez por que a resposta dela sobre ressonância planar está "tecnicamente correta mas filosoficamente equivocada."*
->
-> *"Filosoficamente equivocada não reprova," responde Maitê sem levantar os olhos.*
->
-> *Na ponta da mesa, Lira — terrana, Égide, sempre sentada de frente para a porta — termina de anotar algo no caderno e fecha a capa com um gesto decidido. "Se vocês dois parassem de discutir, perceberiam que a resposta é a terceira opção. Nenhum dos dois está certo."*
->
-> *Kenji — meio-gênio, Obsidiana, sorriso de quem sabe algo que você não sabe — ri baixo sem tirar os olhos do celular. "Eu sei a resposta desde terça. Mas é mais divertido assistir."*
->
-> *É quando Zed chega correndo, derrubando duas cadeiras e uma bandeja no processo.*
->
-> *"Tem uma coisa no Necrotério. Uma coisa que se MEXE."*
->
-> *"Zed, tudo no Necrotério é morto," diz Xeipe.*
->
-> *"Era. Era morto."*
->
-> *Silêncio. O Distintivo de Grêmio de Maitê pulsa uma vez — fraco, mas inconfundível. Alguém está em perigo.*
->
-> *O livro de Teoria Arcana é fechado. A prova é amanhã. O Necrotério é agora.*
->
-> *"Eu odeio essa escola," diz Maitê, já de pé.*
->
-> *"Eu também," diz Xeipe, já andando.*
->
-> *Lira guarda o caderno na mochila com calma — mas seus olhos já estão na porta.*
->
-> *Kenji desliga o celular. "Finalmente algo interessante."*
->
-> *Zed já está no corredor.*
-
-Isso é a Academia Arcana: drama de refeitório que vira aventura em trinta segundos. Provas que competem com monstros. Alunos que reclamam enquanto correm em direção ao perigo. Se isso soa como o tipo de história que você quer contar, vire a página.
-
-### Conheça os Protagonistas
-
-Ao longo deste livro, você vai encontrar cinco calouros em exemplos, cenas e situações. Eles são tão diferentes quanto possível — em origem, identidade e visão de mundo — unidos pelo fato de que a Academia Arcana não pergunta de onde você veio. Só pergunta: *o que você vai fazer agora que está aqui?*
-
-**Maitê** (ela/dela) — Terrana, negra, recifense, Monsoon. Entrou na Academia por Acidente de Glifo — esbarrou num glifo de maré instável durante uma tempestade em Arrecife e apareceu no Pátio Principal ainda segurando o celular com o código que estava debugando. Cética, prática, inteligente demais para seu próprio bem. Estudante de Computação e Mecatrônica antes de tudo mudar. Estuda mais que qualquer pessoa que você conhece e ainda reclama que não estudou o suficiente. Sua família é mundana e não entende o que ela faz — o que dói mais do que ela admite.
-
-**Xeipe** (ele/dele) — Viajante, elfo de Lenórienn, Coroa. Vem de uma linhagem élfica que espera dele coisas que ele não sabe se quer. Metódico, competitivo, com uma necessidade quase patológica de estar certo. Por trás da postura impecável, há um garoto que não sabe quem é quando não está sendo o que os outros esperam.
-
-**Zed** (elu/delu) — Terrane, parde, Aurora. Não-binário, impulsivo, corajoso até a imprudência. Corre antes de pensar, fala antes de planejar, e de alguma forma funciona. Sofre com hiperatividade e dificuldade em provas escritas — mas em crises práticas, é a primeira pessoa que você quer por perto. Usa pronomes neutros e não tem paciência para quem questiona isso.
-
-**Lira** (ela/dela) — Terrana, pele clara, Égide. Mulher trans. Entrou por Candidatura Formal — passou em todos os testes de aptidão com notas que fizeram Taandus levantar uma sobrancelha. Determinada, protetora, reservada sobre o passado. Na escola, encontrou um lugar onde quem ela é importa menos do que o que ela faz. Mas o mundo lá fora nem sempre é tão simples.
-
-**Kenji** (ele/dele) — Viajante, meio-gênio de Arton, pansexual, Obsidiana. Carismático como uma maldição — você gosta dele antes de perceber que talvez não devesse. Calculista, pragmático, e surpreendentemente gentil com quem conquista sua confiança. Tem um passado que ele troca de versão dependendo do interlocutor, e uma conexão com a Tormenta que ele prefere não discutir.
 
 ---
 

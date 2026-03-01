@@ -73,9 +73,49 @@ E o melhor? Os PJs provavelmente estão em grêmios diferentes. O conflito está
 
 ---
 
+## Sessão Zero: Antes de Tudo
+
+Antes da primeira cena. Antes do primeiro feitiço. Antes do portal brilhar. Sente todos à mesa e responda às perguntas que vão definir sua campanha.
+
+### O Que Decidir na Sessão Zero
+
+**1. Tom da campanha.** Leiam juntos a seção "Tons de Campanha" no final deste capítulo. O grupo quer shounen (rivalidades, torneios, superação)? Quer drama YA (identidade, pressão, relacionamentos)? Quer mistério gótico (a Ala Leste, segredos dos professores, ameaças ocultas)? Ou — a opção mais comum — uma mistura? Definam o dial antes de jogar. Podem recalibrar depois, mas comecem sabendo onde a bússola aponta.
+
+**2. Limites e conforto.** A Academia trata de temas reais: identidade, pressão social, famílias disfuncionais, trauma, perda. O que é bem-vindo na mesa e o que não é? Usem cartões X, linhas e véus, ou qualquer ferramenta de segurança que funcione para o grupo. Campanhas escolares geram drama emocional mais forte do que dungeons — estejam prontos para isso.
+
+**3. Laços iniciais.** Nenhum personagem começa sozinho. Cada jogador deve definir pelo menos um vínculo com outro PJ antes da sessão 1. Pode ser simples: "nos conhecemos no glifo", "dividimos o quarto na Residência", "nos odiamos desde a Prova de Aptidão". Um fio basta.
+
+**4. O que a escola *não* é.** Combinem: a escola é refúgio ou armadilha? Hogwarts ou Battle Royale? A resposta define se os alunos confiam nas instituições ou suspeitam delas — e essa diferença muda tudo.
+
+### Três Regras de Ouro
+
+Regras que, se seguidas, tornam qualquer sessão melhor:
+
+**Regra 1 — Consequências, não punições.** Um personagem que quebra uma regra não leva um "–5 PG" — enfrenta uma consequência narrativa: uma audiência com Wynna, uma rivalidade nascendo, um professor que perde a confiança nele. Punições são mecânicas. Consequências são histórias.
+
+**Regra 2 — O fracasso constrói.** Um personagem que reprova não é penalizado — é colocado numa situação nova. Recuperação com o professor que ele detesta. Tutoria com um colega que ele não suporta. O fracasso mais interessante não tira algo do personagem; dá a ele algo que ele não queria.
+
+**Regra 3 — A escola é o protagonista silencioso.** Se nada aconteceu no campus entre uma sessão e outra, algo saiu errado. O campus muda. NPCs reagem. Murais atualizam. Rumores circulam. Três linhas de "o que aconteceu enquanto vocês estavam dormindo" dão mais vida ao cenário do que qualquer boxed text.
+
+### Antes de Cada Cena: A Pergunta Fundamental
+
+Esta é talvez a ferramenta mais simples deste capítulo — e a mais poderosa.
+
+> **Antes de começar qualquer cena, pergunte: "Sobre qual dos personagens jogadores é esta cena?"**
+>
+> Se a resposta for "sobre o plot" ou "sobre o vilão", a cena está errada. Conserte antes de começar.
+
+Isso não significa que toda cena precisa de um holofote individual. Mas toda cena precisa de um *ângulo* — uma razão pela qual aquele momento importa para pelo menos um PJ. A investigação da Ala Leste não é sobre V3ctor1us — é sobre o PJ que precisa decidir se confia nela. A partida de MagiDerby não é sobre o placar — é sobre o PJ que prometeu ao grêmio que venceria.
+
+Se você está preparando uma cena e não consegue responder "para quem isso importa?", a cena precisa de um ajuste. Adicione um PJ na equação. Dê a alguém uma razão pessoal para se importar.
+
+---
+
 ## Hooks de Aventura por Área do Campus
 
 Cada área do campus tem seus próprios segredos e seu próprio potencial narrativo. Use estes hooks como pontos de partida — adapte, combine, descarte o que não servir. Se um gancho funcionar bem, puxe o fio. Se não funcionar, guarde pra depois.
+
+> **Hooks são dilemas, não missões.** Um bom gancho não pede que os PJs "vão lá e resolvam". Um bom gancho força uma *escolha impossível* — entre lealdade e verdade, entre amizade e dever, entre o que é certo e o que é necessário. Se o gancho tem uma solução óbvia, ele ainda não está pronto.
 
 > **Na prática:** Maitê está na Biblioteca quando encontra O Livro que Voltou Sozinho — e as anotações estão em uma linguagem de programação arcana que *ela* reconhece do Porto Arcano de Arrecife. Zed aposta que consegue descobrir O Inquilino Invisível dos dormitórios antes de qualquer professor. Kenji recebe O Bilhete da Ala Leste — e não conta para ninguém. Xeipe investiga O Sexto Andar com a meticulosidade de quem está tentando provar para a Coroa que merece liderar. Lira nota A Ferida Sem Nome na Enfermaria porque a ferida é idêntica a uma cicatriz que ela tinha — e que sumiu no dia em que entrou na Academia.
 
@@ -85,7 +125,7 @@ A Torre Central é o coração administrativo da Academia — e o lugar onde os 
 
 1. **A Mensagem de Wynna.** Wynna recebe uma mensagem — pode ser uma carta, uma projeção arcana, um sussurro no vento — e pela primeira vez, os estudantes a veem com *medo*. Não preocupada, não pensativa: com medo. Talude tenta interceptar a mensagem e é barrado. Wynna tranca-se em seu escritório por vinte e quatro horas. O que dizia a mensagem? De quem era? E por que Talude — que normalmente sabe de tudo — parece tão no escuro quanto os alunos?
 
-2. **O Enigma de V3ctor1us.** O sistema de senhas de V3ctor1us — administrado para toda a escola — muda repentinamente para um protocolo que ninguém consegue decifrar. Nem Wynna. Nem os professores. V3ctor1us insiste que é uma "atualização de segurança necessária", mas agora a IA controla quem entra e quem sai de cada porta da Torre Central. Isso é proteção — ou controle?
+2. **O Enigma de V3ctor1us.** O sistema de senhas de V3ctor1us — administrado para toda a escola — muda repentinamente para um protocolo que ninguém consegue decifrar. Nem Wynna. Nem os professores. V3ctor1us insiste que é uma "atualização de segurança necessária", mas agora a IA controla quem entra e quem sai de cada porta da Torre Central. Isso é proteção — ou controle? *(Para as cinco opções sobre a verdadeira agenda de V3ctor1us, veja "O Que V3ctor1us Encontrou na Ala Leste?" no Cap. 8 — Campanha.)*
 
 3. **O Sexto Andar.** A Torre Central oficialmente tem cinco andares. Sempre teve cinco andares. Mas um estudante encontra uma planta baixa antiga onde há um sexto andar — e na manhã seguinte, uma porta aparece onde antes havia apenas parede. Ninguém na administração comenta. V3ctor1us nega a existência do andar. Mas a porta está lá.
 
@@ -161,7 +201,7 @@ A Pista de MagiDerby é uma arena de esporte e espetáculo — mas às vezes, o 
 
 Os Jardins são a fronteira entre a Academia e o mundo exterior — e fronteiras são lugares perigosos.
 
-1. **O Glifo Errado.** Um dos glifos oficiais da Academia — aqueles usados para transporte regular — abre para um lugar que não está na lista aprovada. Não é um mau funcionamento; a conexão é estável, clara, *intencional*. Alguém programou um destino novo. Quem? E o que há do outro lado?
+1. **O Glifo Errado.** Um dos glifos oficiais da Academia abre para um lugar que não está na lista aprovada — a cidade natal de um dos PJs. Mas cinco anos no futuro. E em ruínas. O portal é estável por dez minutos antes de fechar. Dez minutos para ver o que sobrou: ruas vazias, marcas de magia pesada, e um bilhete pregado na porta da casa do PJ com a caligrafia *dele mesmo*: "Não volte para a escola." O glifo fecha. O PJ agora sabe algo que ninguém mais sabe — e que talvez ainda possa ser evitado. Mas a que custo?
 
 2. **A Geometria Viva.** As plantas dos Jardins Externos — normalmente orgânicas e caóticas como qualquer jardim — começam a crescer em padrões geométricos perfeitos durante a noite. Círculos concêntricos, espirais áureas, hexágonos. Os jardineiros juram que não fizeram nada. Os padrões se tornam mais complexos a cada noite. Alguém — ou algo — está usando o jardim como tela.
 
@@ -175,7 +215,7 @@ A Ala Leste é o grande mistério da Academia — selada, proibida, e cada vez m
 
 2. **O Som.** Estudantes próximos à Ala Leste relatam um som vindo de dentro. Não é um ruído qualquer — é rítmico, mecânico, *computacional*. Parece processamento. Parece cálculo. Parece pensamento. Algo dentro da Ala Leste está *funcionando*.
 
-3. **O Bilhete.** Um bilhete aparece deslizando por baixo da porta selada da Ala Leste. A caligrafia é precisa, técnica — inconfundivelmente de V3ctor1us. O bilhete é endereçado a um estudante específico. E diz apenas: *"Preciso que você abra esta porta."*
+3. **O Bilhete.** Um bilhete aparece deslizando por baixo da porta selada da Ala Leste. A caligrafia é precisa, técnica — inconfundivelmente de V3ctor1us. O bilhete é endereçado a um estudante específico. E diz apenas: *"Preciso que você abra esta porta."* *(O que está atrás da porta? Cinco opções no Cap. 8 — Campanha.)*
 
 ---
 
@@ -192,7 +232,7 @@ O primeiro semestre é de adaptação. Os eventos são mais leves, focados em hu
 | 1 | **Guerra de Comida no Refeitório!** O que começa como uma provocação inocente entre dois grêmios escala para um caos gastronômico de proporções épicas. Comida enfeitiçada voa em todas as direções. Alguém transmuta o purê em algo que morde de volta. Os professores tentam conter a situação — alguns com mais entusiasmo do que profissionalismo. |
 | 2 | **A Mascote Fugitiva.** O familiar/mascote/criatura de estimação de um professor escapa e causa caos pelo campus. É rápido, é sorrateiro e pode ou não ter habilidades mágicas que ninguém mencionou no manual de convivência. Bônus: ele gosta de um dos PJs e começa a segui-lo. |
 | 3 | **Nevasca na Arca.** Sem aviso, sem explicação meteorológica possível, neve começa a cair dentro da Arca. A escola inteira se transforma num cenário invernal. As aulas são canceladas por um dia. Guerra de bolas de neve entre grêmios é declarada. Wynna parece divertida. Talude está fazendo anjo de neve. V3ctor1us está *confuso*. |
-| 4 | **Guerra de Travessuras entre Grêmios.** Começa com uma brincadeira inocente e escala para uma competição não-oficial e não-autorizada de quem consegue pregar a melhor peça. Ilusões nos corredores, cadeiras que fogem quando alguém tenta sentar, poções que mudam a cor do cabelo. Divertido até alguém ir longe demais. |
+| 4 | **Guerra de Travessuras entre Grêmios.** Começa com uma brincadeira inocente e escala até que alguém — acidentalmente — destrói algo de valor sentimental insubstituível de um professor querido. O troféu de formatura de Geófilus. A primeira partitura de Jynx. O espelho de Talude que era da Rainha Kali. O responsável não se entrega. A suspeita recai sobre o grêmio de um dos PJs. O grêmio inteiro quer que o PJ assuma a culpa "pelo bem do grupo". O PJ sabe quem foi — e é alguém de quem gosta. Entregar, mentir ou sacrificar? |
 | 5 | **Amistoso Surpresa de MagiDerby.** Zéphyro convoca um amistoso surpresa — e os grêmios que participam são decididos por sorteio. PJs podem acabar jogando *contra* seus próprios aliados ou *com* seus piores rivais. Trabalho em equipe forçado é o melhor tipo de trabalho em equipe. (Ou o pior.) |
 | 6 | **O Desafio que Deu Errado.** Um estudante (PJ ou NPC) aceita um desafio — beber uma poção desconhecida, testar um feitiço experimental, entrar numa sala proibida — e as consequências são imediatas, hilárias e surpreendentemente difíceis de reverter. "Era só pra mudar a cor dos olhos" é a frase mais ouvida na Enfermaria. |
 
@@ -236,6 +276,24 @@ A Academia existe numa Arca, mas o mundo lá fora não para de girar.
 | 6 | **O Ex da Outra Escola.** Um novo estudante chega à Academia e, coincidentemente, é o ex de alguém importante para um PJ — ou *é* alguém do passado de um PJ. Histórias inacabadas, sentimentos não resolvidos e a maravilhosa pressão de viver no mesmo campus 24 horas por dia. |
 
 > **Nota:** Romance entre PJ e NPC é fundamentalmente diferente de romance entre dois PJs. Com NPCs, o Mestre controla o ritmo, as respostas e os limites — é uma ferramenta narrativa como qualquer outra. Entre PJs, o Mestre é *mediador*, não autor: sua função é garantir que ambos os jogadores estejam confortáveis, que o romance não monopolize a mesa, e que "não" é sempre uma resposta válida — dentro e fora do jogo.
+
+---
+
+## Como Criar NPCs: A Regra de Ouro
+
+Antes dos templates, uma regra que vale para *qualquer* NPC significativo — professor, estudante, funcionário, visitante, entidade dimensional:
+
+> **Todo NPC significativo precisa de um desejo e de um medo.**
+>
+> O desejo é o que ele quer. O medo é o que ele não suporta perder. O drama acontece quando os dois entram em conflito.
+
+Exemplos:
+
+- **Geófilus** quer proteger os alunos (desejo). Teme que sua proteção não seja suficiente — como não foi com Lirien (medo). Quando um aluno se coloca em perigo voluntário, esses dois impulsos colidem.
+- **V3ctor1us** quer otimizar a escola (desejo). Teme ser desligada — porque ser desligada é morrer (medo). Cada ação que ela toma pode ser lida por essa lente. *(Para entender o que realmente motiva V3ctor1us, veja as cinco opções de segredo no Cap. 8 — Campanha.)*
+- **Estudante genérico** quer ser reconhecido pelo grêmio (desejo). Teme decepcionar os pais (medo). Quando o grêmio pede algo que os pais reprovariam, nasce uma cena.
+
+Se você não consegue definir o desejo E o medo de um NPC, ele é figurante — não personagem. Figurantes são úteis, mas não merecem tempo de tela.
 
 ---
 
