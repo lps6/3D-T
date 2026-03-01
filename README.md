@@ -6,8 +6,8 @@ Além do material atual, o repositório está preparado para receber novos livro
 
 ## Estrutura do Repositório
 
-- **Academia Arcana Victory/Livro/**: Main book chapters and character sheets.
-- **Academia Arcana Victory/Suplementos/**: Campaign supplements, additional rules, and narrative expansions.
+- **Academia Arcana Victory/Livro/**: Livro principal e atualizado.
+- **Academia Arcana Victory/Suplementos/**: Suplementos, +regras e expansões narrativas.
 
 ## Creditos
 
