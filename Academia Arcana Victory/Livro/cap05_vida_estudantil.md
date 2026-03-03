@@ -89,6 +89,16 @@ Cada ano é progressivamente mais difícil. Não apenas em termos de conteúdo a
 
 ---
 
+> **📖 Revisão Rápida — XP e Progressão**
+> A Academia usa o sistema de XP padrão do 3D&T Victory:
+> - **XP (Pontos de Experiência):** ganhos ao fim de aventuras e marcos narrativos; usados para melhorar atributos, comprar kits e vantagens.
+> - **Progressão:** cada ponto de atributo custa XP conforme a tabela do *Manual do Arcanauta*; kits custam 1 ponto de personagem adicional.
+> - **Pontos de Personagem:** recurso de criação e progressão; novos pontos são concedidos pelo Mestre em marcos significativos.
+>
+> Regras completas no **Kit Introdutório Demo** (gratuito) ou no *Manual do Arcanauta*.
+
+---
+
 ## Sistema de Progressão Acadêmica
 
 ### XP na Academia

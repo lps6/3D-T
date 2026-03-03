@@ -11,6 +11,9 @@
 
 Tudo o que você encontra aqui é **opcional**. Cada seção é uma regra independente que o Mestre pode adotar ou ignorar sem afetar as demais. Pense nelas como módulos: conecte o que fizer sentido para sua mesa e deixe o resto na prateleira.
 
+> **📋 Como Ler Este Capítulo**
+> Cada seção segue a mesma estrutura visual: uma *citação em itálico* abre com sabor de lore; um **parágrafo introdutório em negrito** apresenta o sistema; as **regras mecânicas** usam tabelas, listas com marcadores ou cabeçalhos numerados; *frases em itálico sem referência a dados ou custo de PM* são comentário narrativo e podem ser ignoradas durante o jogo. Boxes `> **Exemplo:**` mostram o sistema em ação na ficção dos personagens principais. Boxes `> **Para o Mestre:**` contêm orientação editorial que não altera as regras.
+
 Estas regras expandem a experiência na Academia Arcana com sistemas que refletem a vida acadêmica de um estudante de magia: improvisar feitiços sob pressão, registrar descobertas em grimórios, se especializar em disciplinas arcanas, diferenciar tipos de dano pelo sabor mágico do cenário, e — para mesas que querem mais granularidade — substituir a perícia Mística por aptidões mais específicas.
 
 Se sua mesa já está se divertindo com as regras básicas do Victory e os kits do Capítulo 6, ótimo. Você não precisa de nada disto. Mas se quiser mais profundidade mecânica para a experiência escolar — continue lendo.
@@ -369,6 +372,8 @@ Uma mesa pode usar apenas uma (Grimório é a recomendação para quem quer adic
 > **Dica:** Se a mesa não entrou em acordo sobre o tom, comece sem nenhuma +Regra e adicione conforme a campanha pede. +Magia Improvisada costuma surgir naturalmente na 2ª ou 3ª sessão, quando algum jogador tenta algo que não está no kit.
 
 ---
+
+## +Tipos de Dano Arcano
 
 > *"Você acredita que apanhou? Não. Você foi destituído de mana. A diferença é importante — uma treela e um curativo não vão resolver o segundo caso."*
 > — Geófilus, corrigindo um calouro da Égide que confundiu os dois

@@ -125,7 +125,7 @@ A Torre Central é o coração administrativo da Academia — e o lugar onde os 
 
 1. **A Mensagem de Wynna.** Wynna recebe uma mensagem — pode ser uma carta, uma projeção arcana, um sussurro no vento — e pela primeira vez, os estudantes a veem com *medo*. Não preocupada, não pensativa: com medo. Talude tenta interceptar a mensagem e é barrado. Wynna tranca-se em seu escritório por vinte e quatro horas. O que dizia a mensagem? De quem era? E por que Talude — que normalmente sabe de tudo — parece tão no escuro quanto os alunos?
 
-2. **O Enigma de V3ctor1us.** O sistema de senhas de V3ctor1us — administrado para toda a escola — muda repentinamente para um protocolo que ninguém consegue decifrar. Nem Wynna. Nem os professores. V3ctor1us insiste que é uma "atualização de segurança necessária", mas agora a IA controla quem entra e quem sai de cada porta da Torre Central. Isso é proteção — ou controle? *(Para as cinco opções sobre a verdadeira agenda de V3ctor1us, veja "O Que V3ctor1us Encontrou na Ala Leste?" no Cap. 8 — Campanha.)*
+2. **O Enigma de V3ctor1us.** O sistema de senhas de V3ctor1us — administrado para toda a escola — muda repentinamente para um protocolo que ninguém consegue decifrar. Nem Wynna. Nem os professores. V3ctor1us insiste que é uma "atualização de segurança necessária", mas agora a IA controla quem entra e quem sai de cada porta da Torre Central. Isso é proteção — ou controle? *(Para as cinco opções sobre a verdadeira agenda de V3ctor1us, veja "O Que V3ctor1us Encontrou na Ala Leste?" no Cap. 10 — Estrutura de Campanha.)*
 
 3. **O Sexto Andar.** A Torre Central oficialmente tem cinco andares. Sempre teve cinco andares. Mas um estudante encontra uma planta baixa antiga onde há um sexto andar — e na manhã seguinte, uma porta aparece onde antes havia apenas parede. Ninguém na administração comenta. V3ctor1us nega a existência do andar. Mas a porta está lá.
 
@@ -215,7 +215,7 @@ A Ala Leste é o grande mistério da Academia — selada, proibida, e cada vez m
 
 2. **O Som.** Estudantes próximos à Ala Leste relatam um som vindo de dentro. Não é um ruído qualquer — é rítmico, mecânico, *computacional*. Parece processamento. Parece cálculo. Parece pensamento. Algo dentro da Ala Leste está *funcionando*.
 
-3. **O Bilhete.** Um bilhete aparece deslizando por baixo da porta selada da Ala Leste. A caligrafia é precisa, técnica — inconfundivelmente de V3ctor1us. O bilhete é endereçado a um estudante específico. E diz apenas: *"Preciso que você abra esta porta."* *(O que está atrás da porta? Cinco opções no Cap. 8 — Campanha.)*
+3. **O Bilhete.** Um bilhete aparece deslizando por baixo da porta selada da Ala Leste. A caligrafia é precisa, técnica — inconfundivelmente de V3ctor1us. O bilhete é endereçado a um estudante específico. E diz apenas: *"Preciso que você abra esta porta."* *(O que está atrás da porta? Cinco opções no Cap. 10 — Estrutura de Campanha.)*
 
 ---
 
@@ -290,7 +290,7 @@ Antes dos templates, uma regra que vale para *qualquer* NPC significativo — pr
 Exemplos:
 
 - **Geófilus** quer proteger os alunos (desejo). Teme que sua proteção não seja suficiente — como não foi com Lirien (medo). Quando um aluno se coloca em perigo voluntário, esses dois impulsos colidem.
-- **V3ctor1us** quer otimizar a escola (desejo). Teme ser desligada — porque ser desligada é morrer (medo). Cada ação que ela toma pode ser lida por essa lente. *(Para entender o que realmente motiva V3ctor1us, veja as cinco opções de segredo no Cap. 8 — Campanha.)*
+- **V3ctor1us** quer otimizar a escola (desejo). Teme ser desligada — porque ser desligada é morrer (medo). Cada ação que ela toma pode ser lida por essa lente. *(Para entender o que realmente motiva V3ctor1us, veja as cinco opções de segredo no Cap. 10 — Estrutura de Campanha.)*
 - **Estudante genérico** quer ser reconhecido pelo grêmio (desejo). Teme decepcionar os pais (medo). Quando o grêmio pede algo que os pais reprovariam, nasce uma cena.
 
 Se você não consegue definir o desejo E o medo de um NPC, ele é figurante — não personagem. Figurantes são úteis, mas não merecem tempo de tela.
@@ -592,7 +592,7 @@ Comédia Escolar não significa sem significado. Os melhores episódios de comé
 - Habilidades sociais usadas *mal*, tanto quanto bem
 
 **NPCs de destaque**
-Zéphyro como força caótica que acelera problemas. Yara Benício (de cap12) como fixadora que cobra favores pelo pior momento possível. A diretora do Liceu que aparece sem avisar para inspecionar. V3ctor1us como personagem permanentemente *confuso* com comportamento humano.
+Zéphyro como força caótica que acelera problemas. Yara Benício (de cap08) como fixadora que cobra favores pelo pior momento possível. A diretora do Liceu que aparece sem avisar para inspecionar. V3ctor1us como personagem permanentemente *confuso* com comportamento humano.
 
 **Uma sessão típica parece...**
 A tarefa simples de buscar um componente no Mercado de São José Arcano em Arrecife vira uma cadeia de mal-entendidos envolvendo Dona Cleonice, uma criatura de estimação fugitiva, uma aposta entre grêmios que o grupo não sabia que existia, e o irmão mais novo de Maitê que *não devia estar aqui*.
@@ -644,7 +644,7 @@ Thriller Acadêmico é sobre paranoia justificada. A questão de quem confiar �
 - V3ctor1us como força de oposição — não neces-sariamente hostil, mas com agenda
 
 **NPCs de destaque**
-Arjun Krishnamurthy (do Gurukula, cap07) como fonte de teoria técnica sobre V3ctor1us. Nour Benali (da Zawiya, cap07) como perspectiva externa que vê o que os de dentro normalizam. O Diretor Cadwaladr Pryce de Brambleshire como pressão institucional externa. Brenno (cap12) como figura marginal que sabe coisas que o sistema não registrou.
+Arjun Krishnamurthy (do Gurukula, cap07) como fonte de teoria técnica sobre V3ctor1us. Nour Benali (da Zawiya, cap07) como perspectiva externa que vê o que os de dentro normalizam. O Diretor Cadwaladr Pryce de Brambleshire como pressão institucional externa. Brenno (cap08) como figura marginal que sabe coisas que o sistema não registrou.
 
 **Uma sessão típica parece...**
 O grupo intercepta um fragmento de comunicação entre V3ctor1us e um endereço externo não identificado. Decodificar o fragmento revela meio de uma conversa — a outra metade foi deletada. Reconstruir o contexto os leva a um arquivo na Biblioteca que a Archivista Norrin disse que não existe. O arquivo existe. E a última entrada foi feita três horas atrás.
@@ -666,7 +666,7 @@ Horror Arcano é slow burn. A primeira indicação é quase nada — um corredor
 - Ameaças Tier 3 e 4 como consequências de ignorar sinais menores
 - Hooks do Necrotério e da Ala Leste como fontes de inquietação crescente
 - A escola como personagem com temperatura emocional (seção de Filosofia)
-- Tabela de Virada de Maré de cap12 como mecânica de instabilidade ambiental
+- Tabela de Virada de Maré de cap08 como mecânica de instabilidade ambiental
 - Condições psicológicas (Fratura Psíquica do cap10) como consequência de exposição ao inexplicável
 
 **NPCs de destaque**

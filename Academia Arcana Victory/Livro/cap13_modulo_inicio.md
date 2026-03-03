@@ -295,7 +295,15 @@ Para os outros: mensagem urgente no Cristal de Comunicação — quem avisou dep
 **O Que Atravessou o Glifo:**
 Não é um monstro. É uma **criatura dimensional de tamanho médio** — algo que em Arton chamaria de "anômalo menor", parecida com uma raposa mas com três caudas, olhos que brilham cor de âmbar, e a habilidade de se tornar parcialmente translúcida quando assustada. Ela não é agressiva. Está com medo. Está fazendo barulho suficiente para que, em quinze minutos, algum professor vai notar.
 
-Use o bloco de stats do **Familiar Rebelde** do Cap. 9, mas com uma diferença: esta criatura tem uma tag de identificação arcana presa na orelha — um pequeno disco metálico com um símbolo que Kenji reconhece.
+Estatísticas da criatura (inline para jogabilidade gratuita):
+
+> **Criatura Dimensional Anômala**
+> P1 | H3 | R1 | PV 5
+> **Perícias:** Furtividade, Sobrevivência
+> • *Escorregadio* (Gatilho: alguém tenta agarrá-la): teste de captura sofre Perda.
+> • *Caos Adorável* (Gatilho: entra em nova área): causa destruição cosmética — não causa dano, mas gera complicações narrativas.
+
+Esta criatura tem uma tag de identificação arcana presa na orelha — um pequeno disco metálico com um símbolo que Kenji reconhece.
 
 *Se Kenji rolar Investigação (dificuldade 7):* O símbolo é uma marca de pesquisa do Porto Arcano de Arrecife. A criatura veio de Arrecife. Alguém estava fazendo experimentos dimensionais com ela.
 
@@ -424,7 +432,7 @@ O módulo planta três fios que podem se desenvolver em diferentes direções:
 **Fio 1 — A Criatura do Porto Arcano**
 Alguém em Arrecife quer a criatura de volta. Quem a enviou? Por quê? O glifo não-mapeado foi criado por dentro (alguém na Academia) ou por fora (alguém com acesso à Arca). A resposta revela se a ameaça é interna ou externa.
 
-*Conecta com:* Cap. 12 (Arrecife Arcano), especificamente a Polvo Arcano e o gancho "Sinal Interceptado".
+*Conecta com:* Cap. 8 (Arrecife Arcano), especificamente a Polvo Arcano e o gancho "Sinal Interceptado".
 
 **Fio 2 — Os Outros Dois Glifos**
 Vetrix mencionou dois glifos não-mapeados adicionais. Para onde levam? Quem os criou? Se o primeiro foi recente (a criatura atravessou ontem), os outros podem ser mais antigos — e o que está do outro lado pode ter tido mais tempo para se preparar.
@@ -434,7 +442,7 @@ Vetrix mencionou dois glifos não-mapeados adicionais. Para onde levam? Quem os 
 **Fio 3 — V3ctor1us Sabia**
 Talude sabe que V3ctor1us registrou o glifo antes de qualquer estudante. V3ctor1us não informou Wynna. Por quê? O personagem que respondeu á pergunta de V3ctor1us no Refeitório agora tem uma relação com a IA — seja de confiança precária ou de suspeita mútua.
 
-*Conecta com:* O arco principal de V3ctor1us no Cap. 8 e os hooks da Torre Central no Cap. 9.
+*Conecta com:* O arco principal de V3ctor1us no Cap. 10 e os hooks da Torre Central no Cap. 9.
 
 ---
 

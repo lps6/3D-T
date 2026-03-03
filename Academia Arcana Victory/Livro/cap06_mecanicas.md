@@ -13,9 +13,29 @@ Então pegue seu lápis, sua borracha (você vai precisar de muita borracha) e v
 
 ---
 
+> **📖 Revisão Rápida — Termos do Sistema**
+> Este capítulo apresenta kits, vantagens e desvantagens que usam os termos abaixo:
+> - **Kit:** pacote temático de 3 poderes (custa 1 ponto de personagem; exige pré-requisitos).
+> - **Ganho / Perda:** role 2D e fique com o maior / menor resultado, respectivamente.
+> - **PM (Pontos de Mana):** custo para ativar poderes; recuperado com descanso.
+> - **Vantagem / Desvantagem:** traços permanentes do personagem; vantagens custam pontos, desvantagens rendem pontos.
+> - **Técnica:** habilidade especial geralmente ligada a um kit ou vantagem.
+>
+> Regras completas no **Kit Introdutório Demo** (gratuito) ou no *Manual do Arcanauta*.
+
+---
+
 ## Novos Kits da Academia
 
 Kits custam **1 ponto** de personagem, possuem Exigências que precisam ser cumpridas para adquiri-los e concedem 3 Poderes. Estes kits foram desenhados especificamente para a ambientação da Academia Arcana — eles combinam com os grêmios, mas qualquer aluno pode pegar qualquer kit, independentemente de sua filiação. (A magia não liga para política estudantil. Geralmente.)
+
+> **📋 Como Ler um Kit**
+> Cada entrada de kit segue este padrão:
+> - **Núcleos / Exigências** — contexto e pré-requisitos mecânicos.
+> - *Citação ou parágrafo em itálico* — texto de lore: atmosfera, voz do personagem, sabor narrativo. Não contém regras.
+> - **Poderes:** (lista com marcadores) — texto mecânico: efeitos, custos, testes, durações. Em caso de dúvida entre lore e mecânica, as regras estão aqui.
+> - *Frases finais em itálico dentro dos poderes* — comentário narrativo que não afeta a mecânica; pode ser ignorado durante o jogo sem perda de informação.
+> - `> **Nota para o Mestre:**` — orientação editorial fora do texto do poder propriamente dito.
 
 ---
 
@@ -47,14 +67,14 @@ Para o Mentalista, um duelo não começa quando os feitiços voam — começa tr
 
 **Poderes:**
 
-- **Avaliação Tática.** Como ação, você pode fazer um teste de Poder + Saber contra a Habilidade de um alvo que você possa ver. Se tiver sucesso, o Mestre revela **uma** informação mecânica sobre o alvo: seu atributo mais alto, uma vantagem que possua, ou uma técnica que conheça. Informação é a arma mais afiada que existe — e não deixa marcas.
+- **Avaliação Tática.** Como ação, você pode fazer um teste de Poder + Saber contra a Habilidade de um alvo que você possa ver. Se tiver sucesso, o Mestre revela **uma** informação mecânica sobre o alvo: seu atributo mais alto, uma vantagem que possua, ou uma técnica que conheça. *Informação é a arma mais afiada que existe — e não deixa marcas.*
 
 > **Nota para o Mestre:** *Avaliação Tática* funciona em qualquer contexto, não apenas em combate. Numa negociação, pode identificar que o NPC precisa de algo que não disse abertamente. Numa investigação, pode revelar que o "líder" do grupo age por medo de outro. Em sala de aula, pode revelar que o professor que parece seguro está improvisando. Sempre revele *uma* informação real — e deixe os jogadores decidirem como usá-la.
 
-- **Preparação Arcana.** No início de cada cena, você pode declarar que "já havia previsto isso" e designar uma magia ou técnica que conheça como *preparada*. A primeira vez que usar essa técnica na cena, ela custa 1 PM a menos (mínimo 0). Afinal, você já fez todos os cálculos de antemão.
+- **Preparação Arcana.** No início de cada cena, você pode declarar que "já havia previsto isso" e designar uma magia ou técnica que conheça como *preparada*. A primeira vez que usar essa técnica na cena, ela custa 1 PM a menos (mínimo 0). *Afinal, você já fez todos os cálculos de antemão.*
   *Nota:* O Mestre pode vetar preparações que não fazem sentido narrativo — "prever" um encontro específico que o personagem não teria como antecipar não é Preparação Arcana.
 
-- **Comando Inspirado.** Você pode gastar 1 PM para dar uma ordem tática a um aliado Perto. Na próxima ação dele, o aliado recebe **Ganho** no teste, desde que siga a sua instrução. Se ele ignorar seu conselho e fizer outra coisa, o Ganho não se aplica. Estratégia só funciona quando as pessoas ouvem.
+- **Comando Inspirado.** Você pode gastar 1 PM para dar uma ordem tática a um aliado Perto. Na próxima ação dele, o aliado recebe **Ganho** no teste, desde que siga a sua instrução. Se ele ignorar seu conselho e fizer outra coisa, o Ganho não se aplica. *Estratégia só funciona quando as pessoas ouvem.*
 
 ---
 
@@ -117,7 +137,7 @@ Existe um tipo de mago que não separa o corpo da magia — e não separa a dan�
 
 - **Passo Cortante.** Seus movimentos de dança criam arcos de energia arcana que cortam o ar. Ao realizar um ataque corpo-a-corpo ou contra um alvo adjacente, você pode gastar 1 PM para canalizar a dança em um golpe mágico — o movimento gera uma lâmina de energia que causa **+1d de dano mágico** adicional. O ataque é visualmente espetacular: rastros de luz seguem seus movimentos como fitas de energia. Funciona com ataques desarmados, armas corpo-a-corpo ou canalizadores.
 
-- **Ritmo de Batalha.** Enquanto estiver em combate contínuo (sem pular turnos de ataque), você entra em um estado de fluxo que acelera seus reflexos. A cada **2 rodadas consecutivas** em que você ataca, recebe **+1 em testes de ataque** (máximo +2). Se parar de atacar por uma rodada, o bônus reseta a zero. Manter o ritmo é tudo — a dança não pode parar.
+- **Ritmo de Batalha.** Enquanto estiver em combate contínuo (sem pular turnos de ataque), você entra em um estado de fluxo que acelera seus reflexos. A cada **2 rodadas consecutivas** em que você ataca, recebe **+1 em testes de ataque** (máximo +2). Se parar de atacar por uma rodada, o bônus reseta a zero. *Manter o ritmo é tudo — a dança não pode parar.*
 
 ---
 
@@ -132,7 +152,7 @@ Não todo herói usa capa. Alguns usam joelheira, capacete encantado e voam a se
 
 **Poderes:**
 
-- **Sintonia com a Vassoura.** Você e sua vassoura são um só. Testes de pilotagem e manobra em vassoura recebem **Ganho.** Além disso, se você for derrubado da vassoura, pode tentar um teste de Habilidade + Atletismo (dificuldade 7) como reação para se agarrar de volta antes de cair. Pilotos de Derby caem — pilotos de Derby *bons* caem com estilo e voltam.
+- **Sintonia com a Vassoura.** Você e sua vassoura são um só. Testes de pilotagem e manobra em vassoura recebem **Ganho.** Além disso, se você for derrubado da vassoura, pode tentar um teste de Habilidade + Atletismo (dificuldade 7) como reação para se agarrar de volta antes de cair. *Pilotos de Derby caem — pilotos de Derby bons caem com estilo e voltam.*
 
 - **Manobra Evasiva.** Quando montado em uma vassoura, você pode gastar 1 PM para realizar uma manobra defensiva espetacular. Até o início do seu próximo turno, ataques direcionados a você sofrem **Perda.** Isso inclui colisões, feitiços e objetos arremessados. Você gira, mergulha e desvia de tudo — pelo menos até acabar o efeito.
 
@@ -155,7 +175,7 @@ O duelo arcano é uma tradição tão antiga quanto a própria magia — duas pe
 
 - **Contra-Feitiço.** Quando um oponente lança uma magia ou técnica com alvo em você, pode gastar sua reação e 2 PM para tentar anulá-la. Faça um teste de Habilidade + Mística contra o teste de ataque do oponente. Se vencer, a magia é desfeita antes de surtir efeito. Se perder, você ainda sofre o efeito normalmente, mas pelo menos tentou parecer impressionante.
 
-- **Ritmo de Duelo.** Em combate um-contra-um (sem aliados ou outros inimigos na mesma zona), você recebe +1 em Poder e +1 em Habilidade. Esse bônus desaparece imediatamente se qualquer outra criatura entrar na briga. O Duelista brilha sozinho — quando a plateia entra em cena, a magia se dissipa.
+- **Ritmo de Duelo.** Em combate um-contra-um (sem aliados ou outros inimigos na mesma zona), você recebe +1 em Poder e +1 em Habilidade. Esse bônus desaparece imediatamente se qualquer outra criatura entrar na briga. *O Duelista brilha sozinho — quando a plateia entra em cena, a magia se dissipa.*
 
 ---
 
@@ -195,7 +215,7 @@ Você não deveria estar aqui. Sério. Seu teste de aptidão foi irregular, seus
 
 - **Talento Inesperado.** Uma vez por cena, quando você faz um teste em uma perícia que *não* possui, pode rolar com **Ganho** em vez de rolar normalmente. Representa aquele momento em que o calouro que não sabe nada simplesmente... acerta. Ninguém sabe explicar como. Nem você. Especialmente você.
 
-- **Magnetismo Narrativo.** Problemas te encontram — mas soluções também. Uma vez por sessão, você pode pedir ao Mestre que introduza uma coincidência narrativa a seu favor: um NPC aparece no momento certo, você encontra exatamente o que precisa em uma gaveta, ou ouve uma conversa que não deveria ouvir. O Mestre decide os limites, mas o universo conspira a seu favor. O custo? A coincidência sempre vem com complicação.
+- **Magnetismo Narrativo.** Problemas te encontram — mas soluções também. Uma vez por sessão, você pode pedir ao Mestre que introduza uma coincidência narrativa a seu favor: um NPC aparece no momento certo, você encontra exatamente o que precisa em uma gaveta, ou ouve uma conversa que não deveria ouvir. O Mestre decide os limites, mas o universo conspira a seu favor. *O custo? A coincidência sempre vem com complicação.*
 
 ---
 
@@ -268,6 +288,13 @@ Kits não existem apenas para bater em coisas. Numa campanha de escola, a maiori
 Kits definem *quem* seu personagem é como arcanista. Técnicas Avulsas definem *o que* ele sabe fazer além disso — manobras, feitiços e truques aprendidos no dia a dia da Academia que não se encaixam num kit específico mas que fazem toda a diferença nas situações certas.
 
 Qualquer personagem pode aprender qualquer técnica que cumpra os pré-requisitos, independentemente de kit ou grêmio. Técnicas não custam pontos de personagem — elas são adquiridas narrativamente (treinadas com o professor certo, encontradas em um grimório, praticadas até virar segunda natureza) ou, em campanhas com progressão formal, como recompensa de progressão.
+
+> **📋 Como Ler uma Técnica**
+> Cada técnica usa campos explícitos para separar a informação mecânica do texto narrativo:
+> - *Exigências / Alcance / Custo / Duração* (em itálico) — metadados mecânicos; tudo o que você precisa para usar a técnica.
+> - Parágrafo principal — descrição do efeito. Texto normal = mecânico; *frases em itálico no corpo* = sabor narrativo.
+> - *Limitação:* (em itálico) — restrição adicional que altera o uso padrão; sempre leia antes de usar.
+> - *Variante narrativa:* — sugestão editorial opcional para mesas que preferem menos julgamento de dado.
 
 Cada técnica tem:
 - **Exigências** — atributo ou perícia mínima para aprender

@@ -28,6 +28,19 @@ Cada passo destaca um ou dois personagens diferentes, mostrando como as mesmas r
 
 ---
 
+> **📖 Revisão Rápida — Termos do Sistema**
+> Este capítulo usa termos mecânicos do 3D&T Victory. Uma referência rápida:
+> - **Ganho:** role 2D e fique com o maior resultado.
+> - **Perda:** role 2D e fique com o menor resultado.
+> - **PM (Pontos de Mana):** recurso gasto para ativar poderes; recuperado com descanso.
+> - **PV (Pontos de Vida):** quanto dano seu personagem aguenta antes de ser derrotado.
+> - **Teste:** role 1D; resultado igual ou maior que a dificuldade = sucesso (padrão: 5).
+> - **Kit:** pacote temático de 3 poderes que define o estilo de ação do personagem.
+>
+> Regras completas no **Kit Introdutório Demo** (gratuito em jamboeditora.com.br) ou no *Manual do Arcanauta*.
+
+---
+
 ## Passo 1 — Quem é você? (Conceito e Origem)
 
 Antes de qualquer número, responda duas perguntas:
