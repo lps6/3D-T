@@ -28,15 +28,13 @@ Kits custam **1 ponto** de personagem, possuem Exigências que precisam ser cump
 
 O Arcavaleiro combina proteção com investigação — é o mago que patrulha, vigia e intervém. Não se coloca entre o perigo e os outros apenas por instinto; faz isso porque *mapeou* o perigo antes que ele chegasse. Na Academia, Arcavaleiros são os alunos que a Égide recruta primeiro e que V3ctor1us monitora mais de perto — porque alguém que sabe encontrar ameaças também sabe encontrar segredos.
 
-(Pense em aurores — mas com espírito de cavaleiro mágico. Agora tire a burocracia e coloque universitários. Sim, é tão caótico quanto parece.)
-
 **Poderes:**
 
 - **Escudo Ressonante.** Você pode, como ação, erguer uma barreira mágica translúcida ao seu redor ou ao redor de um aliado Perto. Enquanto o escudo estiver ativo, o protegido recebe +1 em Resistência para resistir ao próximo ataque que sofrer. O escudo dura até ser atingido ou até o fim da rodada, o que vier primeiro. Usar este poder não custa PM, mas você só pode manter um escudo por vez.
 
 - **Varredura Arcana.** Você aprendeu a farejar magia como um cão fareja rastros. Testes de Percepção e Mística para detectar encantamentos ativos, presenças ocultas, ilusões ou magia residual recebem **Ganho**. Além disso, quando você entra em uma área nova, o Mestre deve informar se há presença mágica anômala — você sente, como um arrepio na nuca. Não sabe *o que* é, mas sabe que *algo* está ali.
 
-- **Custódia Protetora.** Você pode gastar 1 PM para criar uma zona de proteção com alcance Perto que dura até o início do seu próximo turno. Todos os aliados dentro dessa zona têm **Ganho** em testes de Resistência para resistir a efeitos mágicos. A zona é visível como um brilho sutil no chão — inimigos espertos vão tentar arrastar seus aliados para fora dela.
+- **Vigília Tática.** Escolha um aliado Perto como seu *vigiado* (custa 1 PM). Enquanto o vigiado estiver a distância Perto e você puder vê-lo, seus testes de Percepção para detectar ameaças direcionadas a ele recebem **Ganho**. Uma vez por cena, quando o vigiado sofrer dano ou um efeito negativo, você pode gastar 1 PM como reação para bloquear fisicamente — o efeito passa a atingir você em vez do vigiado (você deve estar a distância Perto). O vigiado permanece até o fim da cena ou até você designar outro.
 
 ---
 
@@ -51,7 +49,10 @@ Para o Mentalista, um duelo não começa quando os feitiços voam — começa tr
 
 - **Avaliação Tática.** Como ação, você pode fazer um teste de Poder + Saber contra a Habilidade de um alvo que você possa ver. Se tiver sucesso, o Mestre revela **uma** informação mecânica sobre o alvo: seu atributo mais alto, uma vantagem que possua, ou uma técnica que conheça. Informação é a arma mais afiada que existe — e não deixa marcas.
 
-- **Preparação Arcana.** No início de cada cena, você pode declarar que "já havia previsto isso" e designar uma magia ou técnica que conheça como *preparada*. A primeira vez que usar essa técnica na cena, ela custa 1 PM a menos (mínimo 0). Afinal, você já fez todos os cálculos de antemão. (O Mestre pode vetar preparações absurdas. "Eu já havia previsto que um dragão atacaria o refeitório" não cola.)
+> **Nota para o Mestre:** *Avaliação Tática* funciona em qualquer contexto, não apenas em combate. Numa negociação, pode identificar que o NPC precisa de algo que não disse abertamente. Numa investigação, pode revelar que o "líder" do grupo age por medo de outro. Em sala de aula, pode revelar que o professor que parece seguro está improvisando. Sempre revele *uma* informação real — e deixe os jogadores decidirem como usá-la.
+
+- **Preparação Arcana.** No início de cada cena, você pode declarar que "já havia previsto isso" e designar uma magia ou técnica que conheça como *preparada*. A primeira vez que usar essa técnica na cena, ela custa 1 PM a menos (mínimo 0). Afinal, você já fez todos os cálculos de antemão.
+  *Nota:* O Mestre pode vetar preparações que não fazem sentido narrativo — "prever" um encontro específico que o personagem não teria como antecipar não é Preparação Arcana.
 
 - **Comando Inspirado.** Você pode gastar 1 PM para dar uma ordem tática a um aliado Perto. Na próxima ação dele, o aliado recebe **Ganho** no teste, desde que siga a sua instrução. Se ele ignorar seu conselho e fizer outra coisa, o Ganho não se aplica. Estratégia só funciona quando as pessoas ouvem.
 
@@ -64,9 +65,7 @@ Para o Mentalista, um duelo não começa quando os feitiços voam — começa tr
 
 *A diferença entre um feitiço e uma obra de arte? A obra de arte dura mais. E às vezes morde.*
 
-O Glifista é o mago que transforma tinta em poder e caligrafia em conjuração. Enquanto outros magos gesticulam e entoam palavras arcanas, o Glifista pinta, desenha, inscreve — e suas criações ganham vida própria. Glifos traçados no ar que explodem em criaturas de tinta, palavras de poder escritas em superfícies que ativam ao toque, pinturas que saltam da tela para o campo de batalha. Onde a Lâmina Dançante canaliza magia *através do corpo em movimento*, o Glifista canaliza magia *através da arte que cria* — e suas criações existem independente do criador. Este kit é a cara do Grêmio Aurora, onde a expressão criativa é tratada como a forma mais pura de poder.
-
-(Pense em Sai de Naruto com suas criaturas de tinta, ou nas bruxas de Witch Hat Atelier que desenham seus feitiços. O Glifista fez do caderno de desenho um grimório — e do pincel, uma varinha.)
+O Glifista é o mago que transforma tinta em poder e caligrafia em conjuração. Enquanto outros magos gesticulam e entoam palavras arcanas, o Glifista pinta, desenha, inscreve — e suas criações ganham vida própria. Glifos traçados no ar que explodem em criaturas de tinta, palavras de poder escritas em superfícies que ativam ao toque, pinturas que saltam da tela para o campo de batalha. Onde a Lâmina Dançante canaliza magia *através do corpo em movimento*, o Glifista canaliza magia *através da arte que cria* — e suas criações existem independente do criador. Este kit é a cara do Grêmio Aurora, onde a expressão criativa é tratada como a forma mais pura de poder. O Glifista fez do caderno de desenho um grimório — e do pincel, uma varinha.
 
 **Poderes:**
 
@@ -92,8 +91,12 @@ O Bruxo das Trevas caminha na fronteira entre o aceito e o proibido. Não por re
 **Poderes:**
 
 - **Magia das Sombras.** Você aprendeu a conjurar usando a própria escuridão como componente. Em condições de pouca luz ou escuridão, seus testes de Mística recebem **Ganho**. Além disso, magias que você lança são visualmente escuras — sombras que se movem, fumaça negra, brilho invertido — tornando extremamente difícil para outros identificarem *qual* magia você usou. Testes para reconhecer ou analisar seus feitiços sofrem **Perda**.
+  *Nota:* O Ganho se aplica mesmo a escuridão que você mesmo criou — se uma magia sua apagou as luzes, você pode se beneficiar imediatamente.
 
 - **Segredos Proibidos.** Você tem acesso a conhecimento que a maioria dos alunos não tem. Quando encontra um texto, artefato ou magia que é classificada como "restrita" ou "proibida", você pode fazer um teste de Habilidade + Saber (dificuldade definida pelo Mestre) para compreendê-la sem precisar de autorização formal. Além disso, uma vez por sessão, pode pedir ao Mestre uma informação sobre a história oculta de um lugar, pessoa ou objeto — algo que foi deliberadamente apagado ou escondido.
+
+> **Nota para o Mestre — O Que Segredos Proibidos Pode Revelar:**
+> Quando o jogador usar este poder, use exemplos como: quem fundou um lugar e o que teria que esconder; por que um professor nunca menciona certo período; que um artefato teve dono anterior — e o que aconteceu a ele; que uma regra da Academia foi mais rígida por um motivo específico; que dois NPCs têm uma história que ambos preferem esquecer. Se não tiver resposta imediata, diga "vou descobrir até a próxima sessão" — segredos bons são sementes, não dump de lore.
 
 - **Resiliência ao Profano.** Mexer com forças proibidas endurece a mente. Testes de Resistência contra efeitos de medo, corrupção, loucura e controle mental recebem **Ganho**. Além disso, se você for alvo de magia das trevas, necromancia ou encantamentos de dominação, pode gastar 1 PM como reação para anular completamente o efeito uma vez por sessão. Você reconhece essas magias como um nativo reconhece seu idioma.
 
@@ -1010,13 +1013,14 @@ A Academia mantém uma lista oficial de itens proibidos que é atualizada todo s
 
 O Mestre é encorajado a criar itens mágicos adicionais conforme a campanha avança. A Academia é um lugar antigo, cheio de salas esquecidas e armários trancados. Não faltam oportunidades para os personagens encontrarem algo que não deviam.
 
+
 ---
 
 ## Fechamento
 
-Essas são as ferramentas mecânicas que vocês, jogadores e Mestres, têm à disposição para dar vida à experiência na Academia Arcana. Kits definem como seu personagem opera magicamente; vantagens e desvantagens acrescentam profundidade e complicações; o MagiDerby oferece um esporte inteiro para jogar dentro do jogo; e os itens mágicos adicionam sabor ao dia a dia.
+Essas são as ferramentas mecânicas à disposição de jogadores e Mestres para dar vida à experiência na Academia Arcana. Os kits originais deste capítulo definem como seu personagem opera magicamente dentro deste cenário; vantagens e desvantagens acrescentam profundidade e complicações; o MagiDerby oferece um esporte inteiro para jogar dentro do jogo; e os itens mágicos adicionam sabor ao dia a dia.
 
-Mas mecânicas são só metade da história. A outra metade — a parte que transforma números em narrativa — está no que ainda falta discutir.
+Para um guia completo de como os kits do *Manual do Arcanauta* e os desafios de *Ferozes & Furiosos* se encaixam na Academia, veja o **Capítulo 12 — Arsenal do Arcanauta Acadêmico**.
 
 No **Capítulo 7**, vamos expandir o olhar para além dos muros da escola — o mundo ao redor da Academia, as cidades onde seus alunos compram suprimentos, as escolas rivais que olham para vocês com inveja (ou desconfiança), e as ameaças que invariavelmente batem na porta. Porque saber *como* seu personagem funciona é importante — mas saber *onde* ele está lutando é o que define o contexto.
 

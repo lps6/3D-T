@@ -2,7 +2,7 @@
 
 ---
 
-## Capítulo 1 — Bem-vindo à Academia Arcana
+## Introdução — Bem-vindo à Academia Arcana
 - Uma Escola. Um Mundo. Uma Porrada Mágica na Sua Realidade.
 - O Que É Este Livro
 - A Era das Arcas e a Academia
@@ -12,6 +12,22 @@
 - O Que Você Precisa Para Jogar
 - Como é Uma Sessão na Academia?
 - Glossário Rápido de Termos
+
+---
+
+## Capítulo 1 — Criação de Personagem
+- Passo 1 — Conceito e Origem
+- Passo 2 — Atributos
+- Passo 3 — Perícias
+- Passo 4 — Kit
+- Passo 5 — Vantagens e Desvantagens
+- Passo 6 — Grêmio
+- Passo 7 — Objetivos Pessoais
+- O Grupo Como Personagem
+  - Os Cinco Papéis Narrativos
+  - Como Compor um Grupo
+  - Conflito Interno É Drama, Não Problema
+- Passo 8 — A Ficha Completa
 
 ---
 
@@ -85,12 +101,12 @@
   - XP na Academia
   - Níveis Acadêmicos e Desbloqueios
   - Pontos de Grêmio
-  - Graus Formais e Investidura *(novo — open beta)*
-  - Conquistas de Grêmio *(novo — open beta)*
+  - Graus Formais e Investidura
+  - Conquistas de Grêmio
 - Matérias e Aulas
 - Regras de Comportamento e Punições
 - Dormitórios e Rotina
-- Economia do Campus *(novo — open beta)*
+- Economia do Campus
   - Créditos Arcanos
   - Cinco Formas de Adquirir Recursos
   - Vinte Consumíveis do Campus
@@ -103,12 +119,8 @@
 - Novos Kits da Academia
   - Arcavaleiro, Mentalista, Glifista, Bruxo das Trevas, Lâmina Dançante, Astro do Derby
   - Duelista Arcano, Caçador de Segredos, Calouro Sortudo, Magizoólogo, Curamago
-  - Kits de Outros Livros na Academia
-- Técnicas Avulsas *(novo — open beta)*
-  - Sala de Aula
-  - Corredor
-  - Combate Arcano
-  - Exploração
+- Técnicas Avulsas
+  - Sala de Aula, Corredor, Combate Arcano, Exploração
 - Novas Vantagens
 - Novas Desvantagens
 - MagiDerby — Roller Derby de Vassouras
@@ -121,11 +133,11 @@
 - A Era das Arcas — O Essencial
 - Vallindra — A Capital Arcanauta
 - Neo Sampa
-- Arrecife *(intro; detalhes completos no Cap. 12)*
+- Arrecife *(detalhes completos no Cap. 8)*
 - Comunidade Élfica do Litoral Norte
 - Portais Instáveis
 - Escolas de Ensino Médio Mágico
-- Outras Escolas e Rivais Institucionais *(expandido — open beta)*
+- Outras Escolas e Rivais Institucionais
   - Brambleshire Academy
   - Zawiya do Espelho Partido
   - Escola Flutuante de Uiara
@@ -137,61 +149,8 @@
 
 ---
 
-## Capítulo 8 — Estrutura de Campanha: O Ano Letivo
-- O Ano Como Unidade Narrativa
-- O Grande Arco: V3ctor1us
-- Arco por Ano (1º ao 4º Ano)
-- Milestones Narrativos por Semestre
-- Como Escalar o Perigo
-- Beats por Episódio/Sessão
-- Campanhas Alternativas
-
----
-
-## Capítulo 9 — Toolkit do Mestre
-- Filosofia: Dirigir Uma Campanha Escolar
-- Hooks de Aventura por Área do Campus
-- Tabelas de Eventos Aleatórios por Semestre
-- Como Criar Professores Novos
-- Como Criar Estudantes Rivais e Aliados
-- Complicações Acadêmicas
-- Ameaças Escaláveis (Tier 1–4)
-- Tons de Campanha *(novo — open beta)*
-  - Tropos do Anime Escolar Mágico
-  - Seis Subgêneros de Campanha
-  - Combinando Tons
-
----
-
-## Capítulo 10 — +Regras da Academia
-- +Magia Improvisada
-- +Sistema de Grimório
-- +Especializações Mágicas (Disciplinas Arcanas)
-- +Perícias Mágicas (Regra Avançada)
-- Combinando as +Regras
-- +Tipos de Dano Arcano *(expandido — open beta)*
-  - 11 tipos: Arcano, Cármico, Emocional, Dimensional, Metamágico, Entrópico, Verbal, Primordial, Vital, Material, Temporal
-
----
-
-## Capítulo 11 — Criação de Personagem
-- Passo 1 — Conceito e Origem
-- Passo 2 — Atributos
-- Passo 3 — Perícias
-- Passo 4 — Kit
-- Passo 5 — Vantagens e Desvantagens
-- Passo 6 — Grêmio
-- Passo 7 — Objetivos Pessoais
-- O Grupo Como Personagem *(novo — open beta)*
-  - Os Cinco Papéis Narrativos
-  - Como Compor um Grupo
-  - Conflito Interno É Drama, Não Problema
-- Passo 8 — A Ficha Completa
-
----
-
-## Capítulo 12 — Arrecife Arcano: A Cidade que Respira com o Mar
-- Arrecife — A Cidade que Respira com o Mar
+## Capítulo 8 — Arrecife Arcano: A Cidade que Respira com o Mar
+- A Cidade que Respira com o Mar
 - A Mecânica das Marés
 - Seis Locais de Arrecife
   - Recife Antigo Convergido
@@ -203,6 +162,59 @@
 - Quatro NPCs de Arrecife
 - Sistema de Ressonância de Glifo
 - Cinco Ganchos de Aventura
+
+---
+
+## Capítulo 9 — Toolkit do Mestre
+- Filosofia: Dirigir Uma Campanha Escolar
+- Hooks de Aventura por Área do Campus
+- Tabelas de Eventos Aleatórios por Semestre
+- Como Criar Professores Novos
+- Como Criar Estudantes Rivais e Aliados
+- Complicações Acadêmicas
+- Ameaças Escaláveis (Tier 1–4)
+- Tons de Campanha
+  - Tropos do Anime Escolar Mágico
+  - Seis Subgêneros de Campanha
+  - Combinando Tons
+
+---
+
+## Capítulo 10 — Estrutura de Campanha: O Ano Letivo
+- O Ano Como Unidade Narrativa
+- O Grande Arco: V3ctor1us
+- Arco por Ano (1º ao 4º Ano)
+- Milestones Narrativos por Semestre
+- Como Escalar o Perigo
+- Beats por Episódio/Sessão
+- Campanhas Alternativas
+
+---
+
+## Capítulo 11 — +Regras da Academia
+- +Magia Improvisada
+- +Sistema de Grimório
+- +Especializações Mágicas (Disciplinas Arcanas)
+- +Perícias Mágicas (Regra Avançada)
+- Combinando as +Regras
+- +Tipos de Dano Arcano
+  - 11 tipos: Arcano, Cármico, Emocional, Dimensional, Metamágico, Entrópico, Verbal, Primordial, Vital, Material, Temporal
+
+---
+
+## Capítulo 12 — Arsenal do Arcanauta Acadêmico
+*Guia de uso dos livros oficiais (Manual do Arcanauta + Ferozes & Furiosos) no cenário da Academia. Sem reprodução de regras — apenas contextualização e referências de página.*
+- O Cânone do Arcanauta: Kits de Encaixe Perfeito
+  - Mago *(p. 39)*, Guerreira Mágica *(p. 30)*, Elementalista *(p. 22)*, Necromante *(p. 45)*, Ilusionista *(p. 34)*
+  - Alquimista / Cientista / Psiônico *(pp. 6, 15, 54)*, Maginauta *(p. 38)*, Druida / Treinador de Monstros *(pp. 21, 62)*
+- O Currículo Extracurricular: Kits de Bom Encaixe
+  - Clérigo / Paladino *(pp. 16, 49)*, Ladino *(p. 37)*, CARD Gamer *(p. 12)*
+- Os Especialistas: Kits de Nicho
+  - Cavaleiro / Monge *(pp. 13, 43)*, Celebridade / Idol *(p. 14)*, Ninja *(p. 47)*
+- Além dos Muros: Desafios e Aliados de *Ferozes & Furiosos*
+  - Criaturas das Arcas *(pp. 4–8)*, Mascotes, Arcanautas Rivais e Arcanerds *(p. 22)*
+  - Construtos *(p. 66)* e Armadilhas *(p. 30)*, Mechanopolis e Metalianos
+  - Neo Sampa e o Mundo Exterior, Bruxas e Youkai *(p. 194)*, Dinossauros / Dragões / Kaiju
 
 ---
 
@@ -221,9 +233,24 @@
   - Primeira Aula
   - Fechamento do Módulo
 - Ganchos para o Próximo Arco
-- Uma Nota Final
 
 ---
 
-*Suplementos standalone (publicações separadas): A1–A3 (Artigos), K1, T1–T3, Y1–Y3*
-*Suplementos integrados ao livro (arquivados): G1 Arrecife Arcano → Cap12, G2 Outras Escolas → Cap07, G3 Tipos de Dano → Cap10*
+## Capítulo 14 — O Custo da Magia
+- Introdução: O Preço do Poder
+- Mecânicas de Consequência Arcana
+- Tipos de Custo e Efeitos Narrativos
+- Ganchos e Aventuras
+
+---
+
+## Capítulo 15 — Os Renegados
+- Introdução: Quando a Magia Sai do Controle
+- Os Renegados — Quem São
+- Mecânicas e Antagonistas
+- Arcos e Ganchos de Campanha
+- Apoie os Criadores Oficiais
+
+---
+
+*Suplementos standalone (publicações separadas): A1–A3 (Artigos), ALA, C1–C3, F-series, FAM1, K1, N1, T1–T4*

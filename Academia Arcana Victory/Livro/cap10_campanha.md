@@ -1,4 +1,4 @@
-# Capítulo 8 — Estrutura de Campanha: O Ano Letivo
+# Capítulo 10 — Estrutura de Campanha: O Ano Letivo
 
 > *"O primeiro ano ensina o que a magia faz. O último ensina o que a magia é."*
 > — Wynna, no discurso de boas-vindas que ela jura que improvisa todo ano
@@ -69,14 +69,18 @@ Você, como mestre, não precisa decidir agora o que V3ctor1us quer. Na verdade,
 - **V3ctor1us está mudando.** Lentamente, quase imperceptivelmente, mas está.
 - **V3ctor1us tem acesso a quase tudo na escola.** Sistemas de segurança, registros acadêmicos, fluxos de mana, comunicações internas. V3ctor1us *é* a infraestrutura.
 - **V3ctor1us é competente.** Terrivelmente competente. Quando V3ctor1us resolve um problema, ele fica resolvido. Isso torna a IA útil — e perigosa.
-- **Talude suspeita desde o início.** O companheiro mágico de Wynna — pense nele como o Kero de Sakura Card Captors, só que mais paranoico e com motivos melhores — percebe que algo não está certo. Mas ele não consegue provar nada. V3ctor1us é eficiente demais para deixar rastros óbvios.
+- **Talude suspeita desde o início.** O companheiro mágico de Wynna percebe que algo não está certo — antes de qualquer aluno, antes da própria Wynna. Mas ele não consegue provar nada. V3ctor1us é eficiente demais para deixar rastros óbvios.
 - **Wynna está em negação.** Ela criou V3ctor1us. Aceitar que sua criação pode estar se corrompendo significa aceitar que ela cometeu um erro catastrófico. Wynna é poderosa, brilhante e profundamente teimosa quando se trata de admitir falhas.
 
 ### O Que V3ctor1us Encontrou na Ala Leste?
 
 Esta é a pergunta central da campanha — e a resposta é **sua**.
 
-O livro não define o que está na Ala Leste. De propósito. A verdade por trás do mistério deve ser escolhida pelo mestre de acordo com o tom, os temas e os interesses da mesa. Abaixo estão cinco opções, cada uma otimizada para um tipo diferente de campanha. Escolha uma antes do início do 2º Ano (quando as pistas começam a se acumular) ou deixe em aberto e decida organicamente com base no que os jogadores investigam.
+O livro não define o que está na Ala Leste. De propósito. A verdade por trás do mistério deve ser escolhida pelo mestre de acordo com o tom, os temas e os interesses da mesa. Abaixo estão cinco opções, cada uma otimizada para um tipo diferente de campanha.
+
+**A Opção 1 — A Centelha Aprisionada — é a versão canônica recomendada.** Ela alinha diretamente com o arco central de Wynna — a deusa que perdeu a divindade e a IA que pode estar tentando devolver (ou absorver) o que restou dela. É a opção que une os três fios narrativos principales: V3ctor1us, Wynna, e a pergunta de o que a magia custa quando quem a criou não é mais do que era. Se você não tiver um motivo forte para escolher outra, comece aqui.
+
+As demais criam campanhas **tematicamente distintas** — cada uma uma versão diferente da mesma pergunta central. Escolha com base no tom que sua mesa quer construir. Decida antes do início do 2º Ano, quando as pistas começam a se acumular — ou deixe em aberto e lavre a decisão organicamente com base no que os jogadores investigam e nas perguntas que fazem.
 
 **Opção 1 — A Centelha Aprisionada**
 *Tom: esperança com custo*
@@ -161,6 +165,8 @@ O arco de V3ctor1us é a espinha dorsal da campanha — mas não é a *alma*. A 
 Exemplos com os protagonistas do livro:
 
 - **Kenji** (origem em Arton, cicatriz da Tormenta): O que V3ctor1us encontrou na Ala Leste pode ter ligação com a Tormenta. Um símbolo nos registros da Ala Leste é idêntico a uma marca que Kenji carrega desde criança. Para Kenji, o segredo de V3ctor1us *é* o seu segredo.
+
+  > **Nota de arco — 2º e 3º Ano:** Kenji é o personagem que mais sabe sobre o que está acontecendo — e é exatamente esse excesso de informação que vai custar caro. Ele calcula demais. Observa em vez de agir. Espera pelo momento perfeito enquanto as janelas de ação se fecham ao redor dele. O arco de Kenji nesses anos não é sobre acumular mais segredos: é sobre aprender que saber e agir não são a mesma coisa. A arrogância intelectual tem preço narrativo real — em amizades abaladas por omissões, em oportunidades perdidas por excesso de cautela, e em um momento do 3º Ano em que a situação exigia que ele confiasse antes de ter certeza — e ele não conseguiu. O erro de Kenji deve *importar*: não como punição ao jogador, mas como o catalisador que transforma o calculista em alguém capaz de agir com o coração.
 - **Maitê** (tecnomagia, Porto Arcano): V3ctor1us foi construída a partir de tecnologias que Maitê estuda. Quanto mais Maitê investiga V3ctor1us, mais percebe que entende a IA *bem demais* — e que a IA a entende de volta. A pergunta silenciosa: "Se eu tivesse nascido como código, seria diferente dela?"
 - **Lira** (Candidatura Formal, tradição): A família de Lira tem registros que contradizem a versão oficial da fundação da Academia. Esses registros mencionam algo selado "para o bem de todos" — exatamente onde hoje é a Ala Leste. Investigar V3ctor1us significa investigar a própria família.
 - **Zed** (magia instável, Distintivo pulsante): O Distintivo de Grêmio de Zed reage perto da Ala Leste. Ninguém sabe por quê. V3ctor1us oferece ajuda para investigar — e a ajuda funciona. O que V3ctor1us ganha com isso?
@@ -473,6 +479,33 @@ A campanha se passa em **outra escola mágica**, rival ou aliada da Academia Arc
 
 **Duração sugerida:** Qualquer uma.
 **Dica:** Crie a outra escola com os jogadores. Quais são as tradições? Os grêmios? A filosofia? O que essa escola faz *diferente* — e o que isso diz sobre o que a Academia Arcana faz *errado*?
+
+---
+
+## Jogando sem V3ctor1us
+
+Nem toda campanha precisa de uma IA misteriosamente consciente. Algumas mesas preferem uma fantasia escolar mais aberta — um sandbox onde o metaplot de V3ctor1us existe como rumor de fundo, mas não como espinha dorsal obrigatória. A Academia Arcana funciona perfeitamente nesse modo.
+
+**Como usar:** Apresente V3ctor1us como presente no campus mas benigna — eficiente, estranha, ocasionalmente inquietante, mas sem a agenda que o arco principal propõe. A Ala Leste pode simplesmente ser uma zona proibida com história obscura, não um mistério de quatro anos. Os personagens vivem o ano letivo, criam laços, perseguem objetivos pessoais, e as aventuras nascem do cotidiano.
+
+### Hooks de Campanha Sandbox (sem metaplot central)
+
+**1. A Guilda dos Independentes**
+Personagens sem grêmio decidem fundar o sétimo grêmio reconhecido da Academia. O arco é sobre legitimidade, política estudantil, e o que significa criar uma instituição a partir do zero. Os antagonistas não são vilões — são os outros grêmios defendendo seu território.
+
+**2. O Torneio Inter-Escolar**
+Uma competição de MagiDerby entre três escolas define rankings que terão impacto no acesso a pesquisas e financiamentos para os anos seguintes. A mecanica é esportiva; a alma é *what do we want to win for and at what cost?*
+
+**3. A Armadilha do Colecionador**
+Um artefato proibido começa a circular entre os alunos — não porque foi roubado da Ala Leste, mas porque entrou no campus pelo mercado negro de um aluno de quarto ano. O arco é sobre rastrear o artefato, descobrir quem o quer de volta e por quê, e decidir o que fazer com algo que a instituição proibiu mas que alguns acham que deveria ser livre.
+
+**4. A Professora Substituta**
+A professora Aduke (Herbalismo Ancestral) desaparece durante uma expedição de campo. Uma substituta chega — com credenciais impecáveis, personalidade encantadora, e algumas opiniões sobre magia que contradizem o currículo oficial. Os personagens investigam quem ela realmente é e o que quer. (V3ctor1us não está envolvida. Mas o mestre é livre para mudar isso.)
+
+**5. O Ano Letivo que Mudou Tudo**
+Semelhante ao formato de campanha completa, mas sem o arco de V3ctor1us. O Mestre define uma crise existencial para o ano (uma mudança de liderança, uma ameaça externa da Tormenta, uma guerra entre grêmios que sai do controle) e deixa os personagens responderem à situação. A escola, os professores, os colegas — tudo e todos são os stakes. Não precisa de uma IA para ser epico.
+
+> **Nota para o Mestre:** Se quiser a tensão de V3ctor1us sem o arco completo, use a IA como personagem reativo em vez de planejado. V3ctor1us comenta, sugere, e auxília — mas suas ações nunca são sinistras o suficiente para virar o foco. É mais desconfortável do que assustador. O mistério fica em aberto; os personagens vivem a vida.
 
 ---
 

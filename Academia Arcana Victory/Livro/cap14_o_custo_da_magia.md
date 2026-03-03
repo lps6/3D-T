@@ -1,4 +1,4 @@
-# Capítulo 15 — O Custo da Magia
+# Capítulo 14 — O Custo da Magia
 
 > *"Toda magia tem preço. Na maioria das aulas, o professor não menciona qual é. Isso não é descuido. É política."*
 > — Nota no verso de um caderno de segundo ano, sem autoria identificada

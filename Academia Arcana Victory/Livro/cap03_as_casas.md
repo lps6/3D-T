@@ -118,7 +118,11 @@ A Égide leva esse estereótipo a sério. Esse é o problema.
 
 **Piada de corredor:** "Égide não dorme. Égide faz turnos."
 
-**Gancho:** Um veterano da Égide descobriu que um dos professores está quebrando uma regra da escola sistematicamente. A regra é menor. A quebra é consistente. E o professor em questão é Geófilus — o patrono do grêmio. O veterano não sabe o que fazer com essa informação. A regra que Geófilus quebra é, ironicamente, uma que ele considera injusta — e isso desafia tudo que a Égide ensina sobre seguir o dever.
+**Gancho:** Um veterano da Égide descobriu que um dos professores está quebrando uma regra da escola sistematicamente. A regra é menor. A quebra é consistente. E o professor em questão é Geófilus — o patrono do grêmio. O vetarano não sabe o que fazer com essa informação. A regra que Geófilus quebra é, ironicamente, uma que ele considera injusta — e isso desafia tudo que a Égide ensina sobre seguir o dever.
+
+#### Benefício de Grêmio
+
+Membros da **Égide** recebem **Ganho** em testes de Resistência contra efeitos de vulnerabilidade, obrigação ou coerção (medo, charm, ameaças). Quando um aliado Perto está incapacitado ou em perigo imediato, o membro da Égide pode agir antes de sua iniciativa para se interpor — uma vez por cena, sem custo de PM.
 
 ---
 
@@ -191,6 +195,14 @@ A Coroa não desmente esse estereótipo. Às vezes porque é verdade. Às vezes 
 
 **Gancho:** A líder atual da Coroa está convocando membros para uma reunião que não aparece em nenhum calendário oficial. Ela é uma aluna do quarto ano com histórico impecável e notas perfeitas. Nereus sabe sobre a reunião. Não a impediu. Isso preocupa mais do que a própria reunião.
 
+#### Benefício de Grêmio
+
+Membros da **Casa da Coroa** recebem **Ganho** em testes de Saber para recordar informações táticas, históricas ou sobre NPCs já encontrados. Uma vez por sessão, podem declarar que "planejaram para isso" — revertendo uma situação desfavorável para neutra, desde que o Mestre considere plausível.
+
+#### Benefício de Grêmio
+
+**Maestria Estratégica.** Uma vez por cena, você pode gastar 1 PM para dar uma instrução tática a um aliado Perto (uma frase de ação concreta). O aliado recebe **Ganho** no próximo teste se seguir a instrução. Se ignorá-la, o Ganho não se aplica.
+
 ---
 
 ### Nova Aurora
@@ -262,6 +274,14 @@ A Aurora aceita esse estereótipo como elogio. Esse é exatamente o problema.
 
 **Gancho:** Um grupo de membros da Aurora está planejando algo que eles chamam de "O Grande Despertar" — um evento não autorizado envolvendo magia, arte, e uma mensagem que, segundo eles, "a Academia precisa ouvir." Ignatus sabe. Ele não só não os impediu como parece estar ajudando. Discretamente. O evento envolve uma forma de magia emocional coletiva que, tecnicamente, é proibida desde o antigo Arton. Há razões para a proibição. Há razões melhores para quebrá-la.
 
+#### Benefício de Grêmio
+
+Membros da **Nova Aurora** recebem **Ganho** em testes de Manobra ou improvíso mágico — situações onde não há técnica preparada e a solução exige criatividade. Uma vez por cena, quando agirem por impulso emocional genuinamente motivado pela narrativa (amor, raiva justa, alegria), podem gastar 0 PM em uma técnica que custaria 1 PM.
+
+#### Benefício de Grêmio
+
+**Ressonância Emocional.** Seus testes de Mística recebem **Ganho** quando você está sob pressão emocional intensa — medo real, raiva justificada, alegria genuina ou comovição profunda. O Mestre determina quando o gatilho está ativo. O estado é invounitário: não é possível fingi-lo para acionar o bônus.
+
 ---
 
 ### Castelo Obsidiana
@@ -332,6 +352,14 @@ A Obsidiana não desmente seus estereótipos. Isso também é calculado.
 **Piada de corredor:** "Obsidiana não faz amigos. Obsidiana faz aliados que sabem seu nome."
 
 **Gancho:** Um aluno de primeiro ano foi convidado para a Obsidiana — algo raro, já que o grêmio normalmente espera que candidatos venham até ele. O aluno é Terrano, sem contatos no mundo mágico, sem histórico relevante. Zéphyro foi visto conversando com esse aluno. Zéphyro nunca conversa com calouros. Algo não está certo — ou está mais certo do que parece. O aluno demonstra um estilo de magia que não se encaixa em nenhuma tradição conhecida. Zéphyro reconhece o padrão. Ele não deveria reconhecê-lo.
+
+#### Benefício de Grêmio
+
+Membros do **Castelo Obsidiana** recebem **Ganho** em testes de resistência a manipulação, charme ou ilusao: já viram esse jogo antes. Uma vez por sessão, podem fazer um test de Habilidade para descobrir a **motivação real** de um NPC — o que estão escondendo, o que temem ou o que querem de verdade.
+
+#### Benefício de Grêmio
+
+**Oportunismo.** Uma vez por cena, você pode gastar 1 PM para usar qualquer perícia que não possui como se a possuísse, desde que consiga narrar como improvisa a abordagem. O Mestre pode pedir um teste adicional para ações especialmente fora do perfil do personagem.
 
 ---
 
@@ -476,7 +504,9 @@ A Monsoon aceita qualquer estereótipo e o transforma em número de abertura. Es
 **Piada de corredor:** "Monsoon não estuda. Monsoon ensaia."
 
 **Gancho:** Jynx Monsoon está preparando algo que ela chama de "O Grande Espetáculo" — uma demonstração de magia performática aberta para toda a Academia. O evento é autorizado. Mas os rumores dizem que o que Jynx está realmente planejando vai muito além de entretenimento. Ela está tentando provar que magia performática pode fazer algo que os acadêmicos tradicionais consideram impossível. Se ela estiver certa, muda tudo o que a Academia sabe sobre conjuração. Se estiver errada, a explosão vai ser fabulosa.
+#### Benefício de Grêmio
 
+Membros do **Grêmio Monsoon** recebem **Ganho** em quaisquer testes sociais (persuadir, intimidar, encantar, distrair) quando estiverem se expressando de forma autentícamente sua — voz, corpo, performance. Quando entram em cena de forma espetáculo (transformação, número performativo, entrada no estilo), todos os NPCs neutros ficam com atenção máxima por pelo menos um turno.
 ---
 
 ### Grêmio Síntese
@@ -485,6 +515,10 @@ A Monsoon aceita qualquer estereótipo e o transforma em número de abertura. Es
 **Moralidade mágica:** *Magia é ferramenta — e ferramentas podem ser melhoradas.*
 
 Fundado por um grupo de alunos Terranos e Viajantes que acreditam que a fusão de tecnologia e magia é o futuro. Pequeno mas crescente. Membros da Síntese encantam celulares, programam círculos mágicos em linhas de código, e estão convencidos de que existe uma equação por trás de cada feitiço. Não tem patrono entre os mestres seniores — V3ctor1us demonstrou interesse, o que os outros grêmios consideram "preocupante." (Uma IA que se interessa por um grêmio que quer fundir magia com tecnologia? Ninguém está confortável com isso.)
+
+**Benefício de Grêmio:** Membros da **Síntese** recebem **Ganho** em testes para operar, analisar ou hackear equipamentos mágicos e tecnológicos. Uma vez por sessão, podem tentar melhorar um item mágico temporáriamente — acrescentando uma função extra que dura até o fim da cena (dificuldade definida pelo Mestre).
+
+**Benefício de Grêmio:** *Hack Arcano.* Uma vez por cena, você pode gastar 1 PM para fazer um teste de Saber (dificuldade 7) ao detectar uma magia sendo conjurada a distância Perto ou Longe. Com sucesso, o Mestre revela o nome e efeito básico do feitiço antes que seja completado.
 
 ---
 
@@ -495,12 +529,20 @@ Fundado por um grupo de alunos Terranos e Viajantes que acreditam que a fusão d
 
 Dedicado à preservação de conhecimento do antigo Arton. Composto majoritariamente de Viajantes e historiadores. Funciona mais como um clube acadêmico que uma fraternidade, mas reivindica status de grêmio e acumula pontos. Membros da Memória acreditam que a magia mais poderosa já foi lançada — no passado — e que o dever de todo mago é garantir que ela não se perca.
 
+**Benefício de Grêmio:** Membros da **Memória** recebem **Ganho** em testes de Saber relacionados ao antigo Arton, história mágica, etimologia de feitiços e identificação de magia antiga. Uma vez por sessão, podem "lembrar" um detalhe histórico relevante que não foi mencionado — o Mestre confirma ou nega se é possível dado o que o personagem sabe.
+
+**Benefício de Grêmio:** *Precedente Histórico.* Uma vez por sessão, em situação de conflito social, argumento ou negociação, você pode fazer um teste de Saber (dificuldade 7) para invocar um precedente histórico ou mágico relevante. Com sucesso, o teste de interação seguinte recebe **Ganho**.
+
 ---
 
 ### Grêmio do Subsolo
 *(não oficialmente reconhecido)*
 
 Rumores persistentes de um grêmio que opera sem autorização, composto de alunos de todos os outros grêmios e independentes. Ninguém sabe o que fazem. A administração diz que não existe. Os alunos trocam olhares. Se tem uma moralidade mágica, ninguém de fora sabe qual é. Se não tem, isso por si só já é uma declaração.
+
+**Benefício de Grêmio:** Membros do **Subsolo** recebem **Ganho** em testes de furtividade, segredos e informação extra-oficial. Uma vez por sessão, podem pedir ao Mestre um rumor ou informação que "circula pelos corredores" — parcialmente verdadeiro, parcialmente distorcido ao ser repassado.
+
+**Benefício de Grêmio:** *Conexões.* Uma vez por sessão, você pode declarar que "conhece alguém" em qualquer local, facção ou meio social presente na cena. Isso abre uma linha de contato — o Mestre decide se esse contato está disponível e o que pede em troca.
 
 ---
 

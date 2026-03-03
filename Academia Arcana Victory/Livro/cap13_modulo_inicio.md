@@ -16,6 +16,20 @@ Se você já tem personagens próprios, use este módulo como base e substitua o
 
 ---
 
+> **Jogando com o Kit Introdutório**
+>
+> Este módulo foi desenhado para funcionar com o **Kit Introdutório Demo** (PDF gratuito da Jambô, disponível em loja.jamboeditora.com.br) e as fichas incluidas neste capítulo. Você não precisa do *Manual do Arcanauta* para jogar.
+>
+> **O que você precisa:**
+> - **Este capítulo:** fichas prontas, resumo de regras, aventura completa em 3 cenas
+> - **Kit Introdutório Demo:** regras de testes, combate, PM e PV (ou use apenas o resumo abaixo)
+> - **Dados:** um d6 — idealmente três
+> - **Tempo:** 2–3 sessões de 3–4 horas
+>
+> Os cinco personagens foram construídos com regras compatíveis com o Demo. Se algum poder usar termos que o Demo não define, a descrição narrativa do poder é suficiente para jogar.
+
+---
+
 ## Regras em Revisão Rápida
 
 *Para jogadores que nunca tocaram em 3D&T Victory. Players experientes podem pular para a próxima seção.*
@@ -84,15 +98,15 @@ Todo personagem tem três atributos de 1 a 5 (ou 0 em casos extremos):
 
 ### Como Fazer Testes
 
-Quando um resultado é incerto, o Mestre pede um **teste**. Role 1d20, some o atributo mais relevante e compare com a dificuldade:
+Quando um resultado é incerto, o Mestre pede um **teste**. Role 1D (um dado de 6 faces), some o atributo mais relevante e compare com a dificuldade:
 
 | Dificuldade | Equivalente |
 |---|---|
-| 5 | Fácil — qualquer um conseguiria |
-| 7 | Moderado — exige habilidade básica |
-| 9 | Difícil — exige treinamento |
-| 11 | Muito difícil — exige especialização |
-| 13+ | Extremamente difícil — exige maestria |
+| 3 | Fácil — qualquer um conseguiria |
+| 5 | Moderado — exige habilidade básica |
+| 7 | Difícil — exige treinamento |
+| 9 | Muito difícil — exige especialização |
+| 11+ | Extremamente difícil — exige maestria e/ou Ganho |
 
 **Perícias:** Se o personagem tem uma perícia relevante, ela se soma ao atributo. Sem perícia, só o atributo.
 
@@ -101,7 +115,7 @@ Quando um resultado é incerto, o Mestre pede um **teste**. Role 1d20, some o at
 
 ### Combate Resumido
 
-1. **Iniciativa:** Todos fazem teste de H (1d20 + H). Ordem do maior para o menor.
+1. **Iniciativa:** Todos fazem teste de H (1D + H). Ordem do maior para o menor.
 2. **Ataque:** Teste de H ou P (depende do tipo de ataque) contra a Resistência do alvo.
 3. **Dano:** Em caso de sucesso, cause dano = atributo de ataque (P para físico, H para mágico/técnico).
 4. **Defesa:** O alvo pode gastar uma reação para tentar resistir (teste oposto ou R vs dificuldade).

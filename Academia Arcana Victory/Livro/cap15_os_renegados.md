@@ -1,4 +1,4 @@
-# Capítulo 16 — Os Renegados
+# Capítulo 15 — Os Renegados
 
 > *"Você está se perguntando se devia estar aqui. Todos estão. A diferença é que você está perguntando pela razão certa."*
 > — Professora Varela, ex-Portadora, em conversa cuja existência ela nega oficialmente
@@ -342,3 +342,21 @@ Uma mesa com os três kits ativos tem dinâmica particular:
 ---
 
 *Referências cruzadas: Kit Calouro Sortudo (base para Caminho Sem Magia) — Cap. 06. Acidente de Glifo e chegadas não-padrão — Cap. 02. V3ctor1us e arquivos de monitoramento — Cap. 09. Ermos de Talude e criaturas atraídas por Relíquias — Cap. 02. T4_Magia_Hard_e_Soft — limites de escala física vs. mágica.*
+
+---
+
+## Apoie os Criadores Oficiais
+
+Este livro é um projeto de fãs, feito com carinho pela comunidade de 3D&T. Ele só existe porque **Marcelo Cassaro** criou o sistema e a **Jambô Editora** publicou um jogo que inspira comunidades como esta.
+
+Para jogar Academia Arcana Victory em sua plenitude, você precisará dos livros oficiais. Adquira-os diretamente e apoie quem tornou tudo isso possível:
+
+🔗 **[loja.jamboeditora.com.br](https://loja.jamboeditora.com.br)**
+
+| Livro | Para que serve neste suplemento |
+|---|---|
+| **3D&T Victory** (livro básico) | Regras completas do sistema: atributos, testes, perícias, combate |
+| **Manual do Arcanauta** | Todos os kits do Capítulo 6, vantagens e desvantagens expandidas |
+| **Ferozes & Furiosos** | Fichas de criaturas, construtos, armadilhas e Arcanautas Rivais |
+
+> *"3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*

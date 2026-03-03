@@ -61,6 +61,9 @@ Cada ano é progressivamente mais difícil. Não apenas em termos de conteúdo a
 | Provas Parciais | Novembro | Primeira rodada de avaliações |
 | MagiDerby — Fase de Grupos | Outubro-Dezembro | Competições entre grêmios começam |
 | Recesso de Fim de Ano | Última semana de Dezembro — 1a semana de Janeiro | Pausa (alguns alunos ficam no campus) |
+
+> **O Que é MagiDerby?** O esporte oficial da Academia — roller derby em vassouras voadoras, jogado em pista oval arcana. Cada grêmio monta um time, e as competições são o principal mecanismo de acumular Pontos de Grêmio durante o ano. As regras completas, posições, técnicas e vassouras estão no **Capítulo 6 — Novas Mecânicas**. Por enquanto, saiba que: vencer partidas acumula pontos; comportamento antidesportivo é punido com desconto; e é absolutamente permitido usar magia — dentro de certos limites.
+
 | Provas Finais do 1o Semestre | Fevereiro | Avaliações de encerramento |
 | Início do 2o Semestre | 1a semana de Março | Retorno às aulas |
 | MagiDerby — Eliminatórias e Final | Abril-Maio | As competições esquentam |

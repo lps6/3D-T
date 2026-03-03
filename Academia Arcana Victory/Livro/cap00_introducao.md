@@ -1,4 +1,14 @@
-# Capítulo 1 — Bem-vindo à Academia Arcana
+# Introdução — Bem-vindo à Academia Arcana
+
+---
+
+> **📚 Nota Legal — Conteúdo de Fãs**
+>
+> Este projeto é uma **produção de fãs** baseada em *3D&T Victory*, criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**. Este conteúdo é não-oficial, não possui afiliação com a Jambô Editora e é distribuído gratuitamente.
+>
+> *"3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
+>
+> Para jogar, você precisará dos livros oficiais. Apoie os criadores: **[loja.jamboeditora.com.br](https://loja.jamboeditora.com.br)**
 
 ---
 
@@ -146,6 +156,18 @@ A Academia Arcana como destino de uma única aventura. Os personagens visitam, c
 
 ---
 
+## Guia de Leitura
+
+Não existe uma ordem errada de ler este livro — mas existe uma ordem mais eficiente, dependendo do seu papel na mesa:
+
+**Para jogadores:** Leia esta *Introdução* para o contexto e a deixe animado. Depois vá direto ao **Capítulo 1** (criação de personagem). Em seguida, Capsítulos **2 e 3** apresentam a escola e os grêmios. **Capítulo 6** tem os onze kits exclusivos. Com isso, você está pronto para jogar. Os outros capítulos são leitura de interesse, não pré-requisito.
+
+**Para o Mestre:** Leitura completa é recomendada — mas comece pelos **Capítulos 1–6** para saber o que os jogadores têm à disposição, depois vá para os **Capítulos 9 e 10** (toolkit e estrutura de campanha). O **Capítulo 13** é a aventura de início pronta — tem informação que só o Mestre deve ler antes da primeira sessão. Capsítulos 14 e 15 são módulos e mecânicas opcionais.
+
+**Para jogar hoje:** Vá direto ao **Capítulo 13 — Aventura Pronta: Os Primeiros Três Dias**. As fichas estão lá. As regras essenciais também. Você precisa de um d6 e de aproximadamente três horas.
+
+---
+
 ## A Academia Arcana Victory vs. o Original
 
 Para os veteranos de Tormenta que conhecem o suplemento original de Academia Arcana: este livro não é uma tradução ou atualização direta. É uma **reimaginação**.
@@ -170,19 +192,60 @@ A diversidade na Academia Arcana não é tema de aventura — é pano de fundo. 
 
 ## O Que Você Precisa Para Jogar
 
-- O **Manual do Arcanauta** (3D&T Victory) — o livro básico com as regras de criação de personagem, combate, perícias, vantagens e desvantagens. Este suplemento não substitui o manual base; ele conversa com ele.
-- **Dados** — d6 e ocasionalmente outros dados poliédricos, dependendo da técnica ou situação.
-- **Fichas de personagem** — as do Victory padrão funcionam perfeitamente. Há uma ficha adaptada para a Academia nos apêndices deste livro, com campos para grêmio, ano letivo e Pontos de Grêmio.
-- **Um Mestre** disposto a equilibrar drama escolar com catástrofe dimensional. (Se você não sabe o que isso significa, vai aprender. Rápido.)
-- **Jogadores** dispostos a se importar com notas, rivalidades de grêmio e o que tem no terceiro andar da Biblioteca antes de se importarem com salvar o mundo.
+Este livro foi projetado para ser jogável em três camadas de acesso:
 
-**Suplementos Compatíveis:** Qualquer material de **3D&T Victory** funciona sem adaptação — o **Manual do Arcanauta** para kits adicionais, **Ferozes & Furiosos** para bestas e desafios, e quaisquer expansões futuras. A Academia existe na Era das Arcas; tudo que existe na Era das Arcas existe na Academia.
+---
+
+### Camada 1 — Gratuito *(você pode jogar agora)*
+
+- **Kit Introdutório Demo** — o PDF gratuito da Jambô Editora, disponível em [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br). Contém as regras essenciais: atributos (P/H/R), testes com dados, PM, PV e o conceito de kit.
+- **Este livro** — todos os kits originais da Academia (Cap. 1 e 6), as regras de campus (Cap. 5), o módulo de início pronto para jogar (Cap. 13) e os cinco personagens pré-gerados são autossuficientes.
+- **Dados** — um d6 para a maioria das situações; algumas técnicas avançadas usam outros dados.
+- **Fichas de personagem** — a ficha no final deste livro tem campos para grêmio, ano letivo e Pontos de Grêmio.
+
+> **Jogabilidade gratuita:** O Mestre pode conduzir uma campanha completa da Academia — personagens, combates, intrigas e o arco da V3ctor1us — usando apenas o Kit Demo e este livro.
+
+---
+
+### Camada 2 — Completo *(recomendado)*
+
+- **Manual do Arcanauta** *(3D&T Victory)* — abre todos os kits oficiais, a lista completa de vantagens e desvantagens, regras de combate detalhadas e progressão por XP. O **Capítulo 12 — Arsenal do Arcanauta Acadêmico** deste livro mostra como cada kit oficial se encaixa na Academia.
+
+---
+
+### Camada 3 — Expandido
+
+- **Ferozes & Furiosos** *(3D&T Victory)* — bestiário completo, sistema de desafios (Graus de Ameaça), construtos, armadilhas e fauna da Era das Arcas. Referenciado com páginas específicas no **Capítulo 12**.
+- Qualquer outro suplemento de *3D&T Victory* funciona sem adaptação — a Academia existe na Era das Arcas; tudo que existe na Era das Arcas existe na Academia.
+
+> **Apoie os criadores:** todos os livros oficiais estão disponíveis em [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br). Comprar os livros é o que mantém o 3D&T vivo.
 
 ---
 
 ## Glossário Rápido de Termos
 
-Para facilitar a leitura, alguns termos usados ao longo do livro:
+### Termos Mecânicos
+
+Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, estes são os termos de regras que aparecem ao longo do livro:
+
+| Termo | Significado |
+|---|---|
+| **Atributos (P/H/R)** | As três estatísticas base de todo personagem: **Poder** (força física e mágica bruta), **Habilidade** (destreza, reflexo e precisão) e **Resistência** (vitalidade e força de vontade) |
+| **Teste** | Quando o resultado de uma ação é incerto, o Mestre pede um teste: role 1D (um dado de 6 faces), some o atributo relevante e compare ao nível de dificuldade. Resultados altos são sucesso |
+| **Ganho (+1D)** | Uma vantagem situacional — role um dado extra e use o resultado mais alto |
+| **Perda (−1D)** | Uma desvantagem situacional — role um dado extra e use o resultado mais *baixo* |
+| **PV (Pontos de Vida)** | Medida de saúde física. Quando chegam a zero, o personagem está fora de combate |
+| **PM (Pontos de Mana)** | Recurso gasto para usar poderes especiais do kit e vantagens mágicas |
+| **Perícia** | Área de especialização que concede +1D em testes relacionados |
+| **Kit** | O arquétipo do personagem — define seus poderes, estilo de magia e papel no grupo. Equivalente a uma classe em outros RPGs |
+| **Vantagem** | Habilidade ou traço especial que o personagem possui além do kit base. Custa pontos na criação |
+| **Desvantagem** | Limitação, fraqueza ou complicação que o personagem carrega. Concede pontos extras na criação |
+| **Técnica** | Manobra especial com custo em PM, geralmente associada a um kit ou aprendida avulsamente |
+| **Grau de Ameaça** | Medida de perigo de um desafio ou criatura, em escala de 1 a 5 (sistema de *Ferozes & Furiosos*) |
+
+---
+
+### Termos de Cenário
 
 | Termo | Significado |
 |---|---|
@@ -202,6 +265,6 @@ Para facilitar a leitura, alguns termos usados ao longo do livro:
 
 ---
 
-*Continue para o Capítulo 2, onde descrevemos em detalhe a Academia Arcana: sua história, seu campus, seus segredos, e o motivo pelo qual a ala leste está permanentemente interditada.*
+*Continue para o Capítulo 1, onde você cria seu personagem para a Academia Arcana — com exemplos passo a passo, fichas prontas e tudo que precisa para chegar ao campus pronto para jogar.*
 
 ---

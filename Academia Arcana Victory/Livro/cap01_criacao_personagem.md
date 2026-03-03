@@ -1,4 +1,4 @@
-# Capítulo 11 — Criação de Personagem
+# Capítulo 1 — Criação de Personagem
 
 ---
 
@@ -7,7 +7,16 @@
 
 ---
 
+> **"Os grêmios não são tipos de personalidade. São filosofias mágicas."**
+> — Talude, *Aula Inaugural*, primeiro dia de cada ano letivo
+
 ## Introdução
+
+Este não é *mais um* cenário de escola mágica.
+
+É o cenário que pergunta: **para quem a magia existe?** Os grêmios não são tipos de personalidade sorteados por um chapéu encantado — são filosofias mágicas em conflito real, respostas diferentes à mesma pergunta fundamental sobre o que poder significa e a quem pertence. Os professores não são arquétipos de fantasia — são pessoas que sobreviveram a uma catástrofe dimensional e estão tentando construir algo mais justo com os pedaços. E a escola em si — a *Arca*, esse campus arrancado de outro universo — não é pano de fundo. É personagem, mistério e stake ao mesmo tempo.
+
+A diferença não está nas vassouras voadoras ou nos testes de Teoria Arcana. Está no fato de que a resposta à pergunta "para que serve a magia?" é genuinamente contestada — por cada grêmio, cada professor, cada personagem que você vai criar agora.
 
 Este capítulo guia você pelo processo de criação de um personagem para a Academia Arcana Victory, passo a passo. Em vez de explicações abstratas, vamos usar os cinco calouros que acompanham o livro — Maitê, Xeipe, Zed, Lira e Kenji — como exemplos vivos de cada decisão.
 
@@ -34,7 +43,7 @@ A origem não tem efeito mecânico direto — mas define como o mundo reage a vo
 
 > **Exemplo — Maitê (Terrana):** Conceito: *estudante de computação recifense que esbarrou num glifo mágico durante uma tempestade e agora está numa escola de magia.* Maitê é Terrana da forma mais literal possível — não queria estar aqui, não pediu para estar aqui, e está compensando o deslocamento com estudo obsessivo e interfaces entre tecnologia e magia. Sua admissão foi por **Acidente de Glifo**: esbarrou num glifo de maré instável durante uma tempestade em Arrecife. Ainda tem o celular no bolso — com o código que estava debugando.
 
-> **Exemplo — Kenji (Viajante):** Conceito: *meio-gênio de Arton com passado mutável e sorriso que esconde segredos.* Kenji é Viajante — meio-gênio, descendente de uma linhagem artoniana. A magia foi parte da sua vida desde sempre. Passou pela Escola Nova Arton antes da Academia, absorvendo conhecimento arcaico de outro universo. Sua admissão não surpreendeu ninguém. O que surpreende é *por que* ele está aqui e não em outro lugar.
+> **Exemplo — Kenji (Viajante):** Conceito: *meio-gênio de Arton com passado mutável e sorriso que esconde segredos.* Kenji é Viajante — meio-gênio, descendente de uma linhagem artoniana. A magia foi parte da sua vida desde sempre. Passou pela Escola Nova Arton antes da Academia, absorvendo conhecimento arcaico de outro universo. Sua admissão não surpreendeu ninguém. O que surpreende é *por que* ele está aqui e não em outro lugar. Sua vulnerabilidade visível — aquela que os outros percebem antes de ganharem sua confiança — é esta: ele calcula *demais*. Observa em vez de agir. E às vezes o momento já passou quando ele finalmente decide se mover.
 
 ### Como Chegou à Academia?
 
@@ -102,7 +111,7 @@ Na Academia, perícias não servem só para combate:
 
 ## Passo 4 — Que tipo de mago você é? (Kit)
 
-Kits são o coração mecânico do personagem — definindo seus poderes especiais e seu arquétipo dentro da Academia. O Capítulo 6 tem onze kits exclusivos, cada um com três poderes e uma identidade clara — e o *Manual do Arcanauta* fornece dezenas de outros que funcionam perfeitamente no cenário (ver Capítulo 7). A pergunta é: *o que seu personagem faz quando a situação exige mais do que o básico?*
+Kits são o coração mecânico do personagem — definindo seus poderes especiais e seu arquétipo dentro da Academia. O Capítulo 6 tem onze kits exclusivos, cada um com três poderes e uma identidade clara — e o *Manual do Arcanauta* fornece dezenas de outros que funcionam perfeitamente no cenário (ver Capítulo 12). A pergunta é: *o que seu personagem faz quando a situação exige mais do que o básico?*
 
 > **Exemplo — Maitê (Maginauta):** Maitê resolve problemas tratando a magia como um sistema a ser hackeado. O kit Maginauta reflete isso perfeitamente: imersão no magiespaço para enxergar a estrutura mística, interferência em feitiços alheios e sobrecarga dos próprios. É a build da pessoa que fecha os olhos na aula de Teoria Arcana — não porque está dormindo, mas porque está vendo a magia por dentro.
 
@@ -110,13 +119,13 @@ Kits são o coração mecânico do personagem — definindo seus poderes especia
 
 > **Exemplo — Zed (Calouro Sortudo):** Zed não deveria estar vive. O kit Calouro Sortudo transforma incompetência técnica em protagonismo narrativo: Escape Miraculoso para sobreviver ao impossível, Talento Inesperado para acertar o que não deveria, e Magnetismo Narrativo para atrair soluções junto com os problemas. É o kit para quem quer jogar o Goku da escola: fraco no papel, imbatível na prática.
 
-(Os onze kits exclusivos estão no Capítulo 6. Os kits do *Manual do Arcanauta* estão contextualizados no Capítulo 7. Leia tudo antes de escolher — a graça é que nenhum deles faz a mesma coisa.)
+(Os onze kits exclusivos estão no Capítulo 6. Os kits do *Manual do Arcanauta* estão contextualizados no Capítulo 12. Leia tudo antes de escolher — a graça é que nenhum deles faz a mesma coisa.)
 
 ### Arsenal do Arcanauta Acadêmico
 
 Além dos onze kits exclusivos da Academia Arcana, o *Manual do Arcanauta* é a base de conhecimento para qualquer estudante. Os kits daquele livro não são apenas permitidos; são o fundamento sobre o qual os kits da Academia são construídos.
 
-Este não é um livro de regras redundantes. É um livro de cenário. Para uma análise detalhada de como os kits clássicos do *Manual do Arcanauta* se encaixam na vida, nos grêmios e nos corredores da Academia Arcana, veja o **Capítulo 7: Arsenal do Arcanauta Acadêmico**.
+Este não é um livro de regras redundantes. É um livro de cenário. Para uma análise detalhada de como os kits clássicos do *Manual do Arcanauta* se encaixam na vida, nos grêmios e nos corredores da Academia Arcana, veja o **Capítulo 12 — Arsenal do Arcanauta Acadêmico**.
 
 ---
 

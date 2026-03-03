@@ -1,4 +1,4 @@
-# Capítulo 9 — Chapéu do Mestre
+# Capítulo 9 — Toolkit do Mestre
 
 > *"Você passou oito capítulos aprendendo as regras. Agora é hora de aprender a quebrá-las — com estilo, propósito e um sorriso no rosto. Bem-vindo ao lado de cá da tela, Mestre. A escola é sua."*
 
@@ -57,9 +57,9 @@ Use o campus como um termômetro emocional da narrativa. Se os jogadores prestar
 
 Quando você estiver perdido — quando não souber o que acontece a seguir, quando não souber que tom usar, quando não souber como reagir — faça esta pergunta:
 
-**"Como seria um episódio de Harry Potter escrito como um anime?"**
+**"Esta sessão está equilibrando drama escolar com peso mágico real — ou caiu inteiramente para um dos lados?"**
 
-Isso significa: momentos de ternura genuína seguidos de revelações dramáticas. Significa cenas de comédia no refeitório interrompidas por um estrondo vindo da Ala Leste. Significa flashbacks emocionais, rivais que se tornam aliados, professores excêntricos com passados trágicos e — acima de tudo — personagens jovens definindo quem querem se tornar enquanto o mundo ao redor fica cada vez mais perigoso.
+A Academia funciona quando os dois estão presentes ao mesmo tempo. Situações mágicas sem investimento emocional viram exercícios táticos. Drama emocional sem peso mágico vira melodrama. A pergunta mantém a bússola apontada para o que este jogo faz de melhor. Concretamente, isso significa: momentos de ternura genuína seguidos de revelações dramáticas. Significa cenas de comédia no refeitório interrompidas por um estrondo vindo da Ala Leste. Significa flashbacks emocionais, rivais que se tornam aliados, professores excêntricos com passados trágicos e — acima de tudo — personagens jovens definindo quem querem se tornar enquanto o mundo ao redor fica cada vez mais perigoso.
 
 ### O Sistema de Grêmios é Drama Gratuito
 
@@ -354,6 +354,17 @@ A verdade sobre NPCs escolares é esta: **os melhores NPCs são aliados *e* riva
 
 Pessoas são complicadas. NPCs também devem ser.
 
+> **Nota para o Mestre: o perigo do NPC "Sabe Tudo"**
+>
+> O NPC calculista — aquele que aparece com a informação certa na hora certa, que parece já ter previsto tudo — é um arquétipo difícil de mestrar bem. Bem conduzido, cria tensão e mistério; mal conduzido, rouba a agência dos PJs e cria uma hierarquia narrativa onde um NPC sempre sabe mais que os personagens dos jogadores.
+>
+> **A chave:** esse personagem *não é onisciente* — é apenas muito bom em *parecer* onisciente.
+> - Seu conhecimento está frequentemente **incompleto** — ele sabe a forma do problema, não a resposta.
+> - Ele erra quando age *tarde demais* — sua tendência de observar antes de agir significa que, às vezes, os PJs têm que salvá-lo.
+> - Quando revelar que ele está errado, faça isso de forma que importe narrativamente — não apenas para equilibrar a mesa, mas porque o erro *muda* algo que ele valorizava.
+>
+> Kenji, nos anos 2 e 3 da campanha, funciona melhor quando sua arrogância intelectual começa a cobrar preço: ele sabe demais para pedir ajuda, então é tarde demais quando precisa. Esse é o arco dele — aprender que calcular nãosubstitui confiar.
+
 ---
 
 ## Complicações Acadêmicas
@@ -513,7 +524,7 @@ Nível de ameaça: **máximo**. Consequências: **potencialmente irreversíveis*
 
 ## Tons de Campanha
 
-A "Pergunta de Ouro" deste capítulo — como seria um episódio de Harry Potter escrito como um anime? — aponta em uma direção, mas há muitas direções possíveis. Uma campanha de Academia Arcana pode ser comédia pura ou horror lento. Pode ser sobre calouros descobrindo o mundo ou veteranos carregando o peso de quatro anos de consequências. Pode ser levíssima ou absolutamente devastadora em termos emocionais.
+A "Pergunta de Ouro" deste capítulo — *esta sessão está equilibrando drama escolar com peso mágico real?* — aponta em uma direção, mas há muitas direções possíveis. Uma campanha de Academia Arcana pode ser comédia pura ou horror lento. Pode ser sobre calouros descobrindo o mundo ou veteranos carregando o peso de quatro anos de consequências. Pode ser levíssima ou absolutamente devastadora em termos emocionais.
 
 O tom não é uma configuração invisível que acontece por acidente — é uma **escolha que o Mestre e os jogadores fazem juntos**, idealmente na sessão zero. Esta seção dá linguagem e ferramentas para fazer essa escolha conscientemente.
 

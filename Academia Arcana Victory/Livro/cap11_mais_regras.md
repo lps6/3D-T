@@ -1,4 +1,4 @@
-# Capítulo 10 — +Regras da Academia
+# Capítulo 11 — +Regras da Academia
 
 ---
 
@@ -355,7 +355,20 @@ Uma mesa pode usar apenas uma (Grimório é a recomendação para quem quer adic
 
 ---
 
-## +Tipos de Dano Arcano
+### Guia Rápido: Quais +Regras Para Cada Tom de Campanha
+
+| Tom de Campanha | Regras Recomendadas | Deixar de Fora |
+|---|---|---|
+| **Comédia escolar leve** (Ranma, Ouran) | +Magia Improvisada (caos é divertido) | +Perícias Mágicas, +Tipos de Dano Arcano |
+| **Drama com magia** (Harry Potter, Little Witch Academia) | +Grimório + +Especializações | +Perícias Mágicas |
+| **Ação/shonen** (Naruto, Fairy Tail, Mashle) | +Magia Improvisada + +Especializações | +Grimório |
+| **Intriga e mistério** (The Magicians, Deadly Education) | +Grimório + +Perícias Mágicas + +Tipos de Dano | +Magia Improvisada |
+| **Terror/horror acadêmico** | Todos os cinco sistemas | — |
+| **Sandbox relaxado** (slice-of-life mágico) | Nenhum obrigatório — use o sistema base do Kit Demo | — |
+
+> **Dica:** Se a mesa não entrou em acordo sobre o tom, comece sem nenhuma +Regra e adicione conforme a campanha pede. +Magia Improvisada costuma surgir naturalmente na 2ª ou 3ª sessão, quando algum jogador tenta algo que não está no kit.
+
+---
 
 > *"Você acredita que apanhou? Não. Você foi destituído de mana. A diferença é importante — uma treela e um curativo não vão resolver o segundo caso."*
 > — Geófilus, corrigindo um calouro da Égide que confundiu os dois
