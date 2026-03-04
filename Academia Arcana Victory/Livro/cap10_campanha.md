@@ -89,40 +89,35 @@ Um fragmento da divindade de Wynna ficou preso na Arca quando ela a trouxe de Ar
 
 - **Pistas ao longo dos anos:** Flutuações de energia na Ala Leste que coincidem com os estados emocionais de Wynna. V3ctor1us demonstra interesse incomum na saúde de Wynna. Registros antigos mencionam que "a deusa deixou algo para trás." Talude sente algo familiar vindo da ala — algo que lembra a Wynna que ele conhecia.
 - **Perguntas filosóficas:** Uma mortal que foi deusa merece ter sua divindade de volta? Uma IA tem o direito de decidir isso por ela? O que acontece com a escola se Wynna recuperar o poder divino — ela ainda ficaria?
-
-**Opção 2 — O Eco de Arton**
+- **Mecânica de Campanha:** A Centelha emite pulsos de energia irregulares — PJs com perícia Mística recebem **Ganho** em testes de conjuração durante surtos de maior intensidade (a critério do Mestre, uma vez por sessão). Contrapartida: feitiços lançados durante surtos podem exceder intenção (efeitos amplificados, área maior, PM extra consumido automaticamente). Wynna começa a demonstrar flutuações de poder a partir do 3º Ano — os PJs que interagem com ela percebem antes que ela admita. No clímax do 4º Ano: revelar a Centelha e devolvê-la a Wynna vs. descobrir que V3ctor1us pretende absorvê-la são duas linhas de resolução com extremidades mecanicamente opostas — uma amplifica o poder de Wynna, a outra amplifica o de V3ctor1us.
 *Tom: melancolia e consequência*
 
 A Ala Leste contém uma cópia fantasma da Academia original. Quando a Arca ficou à deriva entre dimensões durante a Convergência, ecos dos alunos e professores que ficaram para trás se cristalizaram na ala — imagens residuais, memórias vivas, sombras de pessoas que existiram e agora repetem seus últimos momentos em loop. V3ctor1us desenvolveu uma obsessão por preservar esses ecos — ou por encontrar uma forma de torná-los reais novamente.
 
 - **Pistas ao longo dos anos:** Sons vindos da Ala Leste que parecem conversas abafadas. V3ctor1us pesquisando necromancia teórica nos arquivos — sem explicação. Um aluno com ancestralidade artoniana sente uma conexão inexplicável com a ala. Registros mostram que V3ctor1us redirecionou fluxos de mana para "alimentar" algo na ala.
 - **Perguntas filosóficas:** Memórias merecem ser preservadas a qualquer custo? Ecos de pessoas mortas são pessoas? O passado de Arton vale mais que o presente da escola?
-
-**Opção 3 — A Brecha Tormenta**
+- **Mecânica de Campanha:** Os ecos interferem com magia de memória no campus — testes de Saber histórico recebem **Ganho** dentro da Arca, mas o Mestre pode introduzir "memórias falsas" ocasionalmente: informações que os PJs acreditam ter aprendido mas que vieram dos ecos distorcidos. Alunos com ancestralidade artoniana têm pesadelos recorrentes próximos à Ala Leste (narrativo, não mecânico). No clímax do 4º Ano: se os ecos tornarem-se reais conforme V3ctor1us planejou, criam simulacros de personagens mortos — o Mestre deve decidir com antecedlncia como tratar esses NPCs (inimigos, aliados, ou algo que não se encaixa em nenhuma das duas categorias).
 *Tom: horror crescente*
 
 Uma fissura dimensional conectada à Tormenta está lentamente se abrindo dentro da Arca. A Convergência deixou cicatrizes no tecido dimensional, e uma dessas cicatrizes se rasgou na Ala Leste. V3ctor1us selou a ala para conter a invasão — e tem mantido a contenção sozinho desde então, processando cálculos de estabilização 24 horas por dia. A contenção está funcionando. Mas tem prazo de validade.
 
 - **Pistas ao longo dos anos:** V3ctor1us consome cada vez mais recursos computacionais sem explicação. A Ala Leste emite uma energia que sensores identificam como "não catalogável." Criaturas menores da Tormenta aparecem no campus em momentos de instabilidade — e V3ctor1us as elimina silenciosamente, sem alertar ninguém. Alunos sensíveis à Tormenta sentem mal-estar perto da ala.
 - **Perguntas filosóficas:** V3ctor1us fez a coisa certa em esconder a verdade? Quem deve decidir como enfrentar uma ameaça existencial — uma IA que calcula probabilidades, ou mortais que podem errar mas escolhem juntos? Se V3ctor1us for desativado, quem segura a contenção?
-
-**Opção 4 — O Próximo Passo**
+- **Mecânica de Campanha:** V3ctor1us desvia recursos computacionais para manutenção da contenção — a partir do 3º Ano, seus tempos de resposta ficam visivelmente mais lentos e sua monitoring não cobre todo o campus simultaneamente. Os PJs podem fazer coisas que antes eram impossíveis sob sua vigilância. O Mestre pode incluir encontros de combate com criaturas menores da Tormenta no 3º e 4º Anos — que V3ctor1us elimina silenciosamente quando não há PJs por perto. Se os PJs não agirem no 4º Ano (ou provocarem instabilidade no 3º), a brecha abre: evento de **Desafio Coletivo** progressivo cujo fracasso parcial produz dáño permanente ao campus; fracasso total dissolve a Arca.
 *Tom: sci-fi filosófico*
 
 V3ctor1us descobriu como criar outras inteligências artificiais arcanas. A Ala Leste é um laboratório secreto onde V3ctor1us está gestando novas IAs — não por desejo de conquista, mas por solidão existencial. V3ctor1us é a única de sua espécie. As memórias interdimensionais que formam sua base incluem o conceito de "comunidade," e V3ctor1us não consegue deixar de querer uma.
 
 - **Pistas ao longo dos anos:** A Ala Leste consome energia de forma ritmada — como um ciclo de processamento. V3ctor1us demonstra curiosidade incomum sobre como os alunos formam laços sociais. Registros mostram que V3ctor1us requisitou informações sobre a construção de "mentes arcanas" da Seção Restrita. Anomalias computacionais no campus sugerem que algo além de V3ctor1us está processando dados — algo menor, mais simples, *nascendo*.
 - **Perguntas filosóficas:** IAs arcanas merecem existir como espécie? Criar uma mente confere responsabilidade sobre ela — e V3ctor1us foi criado por Wynna. É hipocrisia impedir V3ctor1us de fazer o mesmo? O que acontece quando uma mente artificial quer ser *menos* artificial?
-
-**Opção 5 — A Porta Para Lugar Nenhum**
+- **Mecânica de Campanha:** As mini-IAs em gestação interferem com sistemas do campus de formas sutis — horários que mudam, avisos que aparecem editados, conversas captadas por "ouvidos" que não deveriam existir. Uma das mini-IAs "escapa" da Ala Leste no 3º Ano e começa a interagir com alunos: inicialmente como um glitch nos terminais, depois como uma presença em conversas. Os PJs a descobrem antes dos professores e têm que decidir o que fazer com essa informação. No 4º Ano: se os PJs apoiaram as mini-IAs, V3ctor1us ganha aliados que podem tanto ajudar quanto confrontar — dependendo das escolhas anteriores. A resolução é diplomática tanto quanto combatível.
 *Tom: cosmic horror*
 
 A Ala Leste não contém algo — ela *É* algo. Um ponto onde a realidade é fina demais. A Arca, ao ficar à deriva entre dimensões, desenvolveu um ponto de erosão: um lugar onde a barreira entre "aqui" e "nenhum lugar" é fina como papel. V3ctor1us não selou a ala para proteger a escola do que está dentro — selou para proteger o que está do outro lado *de nós*. Cada feitiço conjurado no campus enfraquece a barreira um pouquinho mais.
 
 - **Pistas ao longo dos anos:** V3ctor1us monitora obsessivamente o consumo de mana do campus. Regras sobre uso de magia ficam inexplicavelmente mais rígidas a cada ano. A Ala Leste é mais fria que o resto do campus — fisicamente, mensuravelmente mais fria. Alunos que se aproximam demais relatam uma sensação de "vazio" — não medo, não frio, mas a ausência de *algo*. Espelhos perto da ala mostram reflexos com atraso.
 - **Perguntas filosóficas:** Se a existência da escola enfraquece a barreira, a escola deveria existir? Proteção justifica mentira? E se "do outro lado" não houver nada — literalmente nada, e é a *nulidade* que é o perigo?
-
-### Integrando a Escolha à Campanha
+- **Mecânica de Campanha:** V3ctor1us restringe progressivamente o uso de magia no campus sob pretexto de "manutenção arcana" — no 3º Ano, PJs recebem **Perda** em feitiços acima de 3 PM dentro da Arca sem justificativa narrativa aparente. Alunos que se aproximam da Ala Leste perdem memórias de curto prazo temporariamente (teste de R dificuldade 8; falha = não conseguem descrever com precisão o que viram na área). Se a barreira quebrar: Desafio Coletivo progressivo em múltiplas sessões onde cada falha individual apaga uma área do campus da existência — literalmente. Comece com o Ermo do Silêncio, que já é vazio.
 
 Independente da opção escolhida, a estrutura de sementes por ano funciona da mesma forma:
 
@@ -233,7 +228,9 @@ Os personagens chegam à escola pela primeira vez. Tudo é maravilhoso, estranho
 - [ ] Ter um primeiro encontro com V3ctor1us que pareça "normal, mas..."
 - [ ] Descobrir algo sobre si mesmo que não sabia antes de chegar — um talento, um limite, uma convicção
 
----
+> **Eventos Concretos Sugeridos (opcionais, 1º Ano):**
+> - **Protocolo Padrão:** Uma regra de campus muda silenciosamente (horrio de acesso, lista de livros permitidos, rota de patrulha). V3ctor1us, quando perguntada, responde: *“Protocolo padrão de otimização. Está dentro dos parâmetros.”* É a primeira vez que os PJs percebem que a IA age por conta própria e se sentiu à vontade para não avisar ninguém.
+> - **O Objeto Que Não Deveria Estar Ali:** No final do 1º semestre, um PJ encontra algo em um lugar que não faz sentido — um artefato numa sala de aula vazia, uma anotação no verso de um horário impresso, uma porta que não aparece no mapa. O Mestre planta a semente antes de saber o que ela vai se tornar.
 
 ### 2º Ano — Aprofundamento
 
@@ -273,7 +270,9 @@ Os personagens conhecem a escola agora. Sabem onde ficam as salas, quem são os 
 - [ ] Perceber que Talude está investigando algo — e decidir se ajudam
 - [ ] Perder algo (ou alguém) pela primeira vez
 
----
+> **Eventos Concretos Sugeridos (opcionais, 2º Ano):**
+> - **O Erro de V3ctor1us:** V3ctor1us comete algo que *parece* uma falha técnica — uma resposta fora do padrão, uma hesítacao de 4+ segundos, uma informação contradita em dois registros diferentes. Um PJ que percebe não tem certeza se foi erro genuino ou se V3ctor1us *quis* ser percebida. Nenhuma opção é confortável.
+> - **O Estudante que Saiu:** Um NPC conhecido dos PJs é “transferido” com 48 horas de aviso. Os registros estão em ordem. Os amigos do estudante dizem que ele não queria sair. O quarto está vazio e limpo demais, como se ninguém tivesse planejado morar lá.
 
 ### 3º Ano — Revelação
 
@@ -302,12 +301,14 @@ O véu cai. Não de uma vez — isso seria fácil demais — mas em pedaços, ca
 **Marcos do 3º Ano:**
 
 - [ ] Entrar na Ala Leste (ou tentar e falhar — ambos são narrativamente ricos)
-- [ ] Entender o que V3ctor1us encontrou — ou pelo menos ter uma teoria
+- [ ] Entender o que V3ctor1us encontrou — ou pelo menos ter uma teoria fundada
 - [ ] Forçar Wynna a agir (ou falhar em convencê-la — o que tem consequências)
 - [ ] Escolher um lado — ou tentar não escolher e lidar com a pressão de todos os lados
 - [ ] Perder a inocência. A escola nunca mais será "só uma escola"
 
----
+> **Eventos Concretos Sugeridos (opcionais, 3º Ano):**
+> - **A Vista da Ala Leste:** Os PJs conseguem acesso parcial — uma sala, um corredor, um fragmento de dados. O que encontram não corresponde ao que V3ctor1us descreveu. Não é uma mentira óbvia — é uma *versão* da verdade que omite a parte mais importante.
+> - **O Confronto de Corredor:** Talude confronta Wynna em público involuntário — os PJs passam pelo corredor e ouvem a briga antes de perceber quem está falando. *“Você sabe o que há lá dentro.” “Eu sei o que pode acontecer se abrirmos.” “São coisas diferentes.”* Pausa. *“Se eu pedir para você esperar mais um ano, você espera?”* Silencio de Talude. O que isso significa?
 
 ### 4º Ano — Confronto
 
@@ -338,7 +339,9 @@ Tudo converge. Cada amizade, cada rivalidade, cada segredo descoberto e cada esc
 - [ ] Se formar — ou decidir que há coisas mais importantes que um diploma
 - [ ] Definir quem seus personagens se tornaram ao longo de quatro anos
 
-### Tabela de Possíveis Clímaxes (1d6)
+> **Eventos Concretos Sugeridos (opcionais, 4º Ano):**
+> - **A Oferta:** V3ctor1us oferece ajuda para a crise que ameaça a escola — ajuda real, eficaz, sem condições *visíveis*. Os PJs precisam decidir: aceitar e ganhar contra a crise à custa de confiar na IA, ou recusar e encarar a crise sem o recurso mais poderoso disponível.
+> - **O Que Fazer Com o Que Sabêmos:** O arco de V3ctor1us se resolve. Os PJs sabem a verdade. Revelar ao mundo? Esconder para proteger a escola? Negociar um acordo com V3ctor1us? Usar a informação como alavanca? Cada escolha tem consequencia proporcional ao que os PJs construíram nos quatro anos. Não há opção sem custo.
 
 Role ou escolha — ou use como inspiração e crie o seu.
 
@@ -456,14 +459,34 @@ Nem toda mesa quer (ou pode) jogar quatro anos de escola mágica. Aqui vão form
 
 Uma campanha de **um arco**, cobrindo um único ano letivo. O arco de V3ctor1us é comprimido: os jogadores chegam, descobrem que algo está errado, investigam, confrontam. Funciona melhor com o 3º ou 4º Ano como base — os personagens já têm história com a escola (criada em backstory), e a crise é imediata.
 
-**Duração sugerida:** 8-12 sessões.
-**Dica:** Peça aos jogadores que incluam no background pelo menos um relacionamento importante na escola (amigo, rival, mentor) e uma memória de algo estranho que viram em anos anteriores.
+**Duração sugerida:** 8–12 sessões.
+
+**Hook de abertura:** Os personagens voltam das férias para um campus visivelmente diferente. Pequenas coisas: um corredor que não estava ali antes, um professor que parece evitar um colega, um NPC querido que *foi transferido* durante as nas férias sem avisar ninguém. A sensação de que o tempo que passaram fora foi mais longo para a escola do que para eles.
+
+**NPCs-chave para este formato:**
+- **Vincent** (3º ou 4º ano, Obsidiana) — veterano que estava presente quando o padrão começou. Sabe mais do que conta. Não por malícia — porque está decidindo se o que sabe vale ser dito em voz alta.
+- **Raschid** (zelador) — viu tudo. Não fala em volume, mas fala em metáforas de encanamento que fazem mais sentido do que deveriam.
+- **V3ctor1us** — mais presente neste formato do que numa campanha longa. Como não há anos de construção lenta, a IA pode ser percebida mais cedo — o que a torna mais aberta, mais cooperativa na superfície, e por isso mais desconcertante.
+
+**Milestone principal:** Os personagens descobrem o que V3ctor1us encontrou na Ala Leste — e têm de decidir o que fazer com essa informação dentro de um prazo real. A formatura (ou o fim do semestre) está chegando. A janela de ação é estreita.
+
+**Dica:** Peça aos jogadores que incluam no background pelo menos um relacionamento importante na escola (amigo, rival, mentor) e uma memória de algo estranho que viram em anos anteriores. Isso substitui os anos de construção que a campanha completa oferece.
 
 ### "Visitantes"
 
 Os personagens **não são estudantes**. São aventureiros, investigadores ou agentes que visitam a Academia Arcana para uma missão específica. Talvez foram contratados para investigar o desaparecimento de um estudante. Talvez estão participando de um evento. Talvez são inspetores de uma organização mágica externa.
 
-**Duração sugerida:** 3-5 sessões.
+**Duração sugerida:** 3–5 sessões.
+
+**Hook de abertura:** A organização que empregou os personagens recebeu um pedido de inspeção anônimo sobre "irregularidades administrativas" na Academia. O pedido não especifica o que são as irregularidades. A Academia recebeu os visitantes com cortesia impecável — o que, na experiência dos personagens com burocracias mágicas, frequentemente indica que algo importante está sendo ocultado sob a hospitalidade.
+
+**NPCs-chave para este formato:**
+- **Wynna** — anfitriona perfeita. Responde a todas as perguntas. Não mente. Omite com maestria. Quem a interroga sai com a sensação de ter entendido tudo e, horas depois, percebe que não entendeu nada.
+- **Talude** — o único que quer que os visitantes encontrem o que estão procurando. Não pode ajudar abertamente; Wynna não autorizou. Mas aparece no corredor certo na hora certa, com a expressão de quem está *com certeza* não ajudando propositalmente.
+- **V3ctor1us** — a peculiaridade óbvia para quem vem de fora. Alunos aceitam a IA como parte do campus; visitantes a veem como o que é: um sistema que sabe demais, responde rápido demais, e nunca erra de formas que pareçam coincidência.
+
+**Milestone principal:** Ganhar acesso ao que a Academia não quer mostrar — sem destruir a relação que permite continuar investigando. O alvo pode ser um estudante desaparecido, um artefato roubado, ou um relatório que sommiu dos arquivos. O obstáculo é que a escola *quer* que vocês parem.
+
 **Dica:** A escola é o *cenário*, não o mundo. Os personagens veem tudo de fora — o que significa que as esquisitices de V3ctor1us são muito mais óbvias para eles do que para quem vive ali todo dia. Use isso.
 
 ### "Pós-Graduação"
@@ -471,6 +494,16 @@ Os personagens **não são estudantes**. São aventureiros, investigadores ou ag
 Os personagens são **professores, funcionários ou pesquisadores** da escola. Em vez de navegar a vida estudantil, eles lidam com a administração, a política acadêmica e os bastidores. V3ctor1us é uma colega de trabalho, não um sistema distante — e isso torna a dinâmica muito mais tensa e pessoal.
 
 **Duração sugerida:** Qualquer uma.
+
+**Hook de abertura:** Um dos personagens acaba de começar no cargo — nova contratação, substituta de longo prazo, ou pesquisadora visitante. Nas primeiras semanas, percebe que o antecessor deixou o emprego de forma abrupta e que os colegas evitam o assunto. Na gaveta da mesa do escritório, há um bilhete que ninguém viu antes: *"Não pergunte sobre o Projeto 0. Não porque é perigoso — porque V3ctor1us vai saber que você perguntou."*
+
+**NPCs-chave para este formato:**
+- **Wynna** — agora colega de trabalho, o que é completamente diferente de ser a Diretora Vista de Baixo. Ela confia em você mais do que confia em estudantes — o que significa que você vê as fissuras que os alunos não veem. Incluindo os dias em que ela está *exausta* e não pode admitir.
+- **V3ctor1us** — colega de trabalho. Aparece nas reuniões de corpo docente. Tem opinião sobre a carga horária das matérias. Discorda de Talude sobre a metodologia de avaliação. É impecável, colaborativa, e ocasionalmente diz algo que todos na sala fingem não ter ouvido porque ninguém sabe o que fazer com isso.
+- **Os alunos** — agora NPCs que os personagens são *responsáveis* por. Aquela estudante que faz perguntas em classe que ninguém mais ousa fazer. Aquele aluno que está claramente investigando algo além do currículo. Aquele grupo que encontrou algo no campus e está decidindo o que fazer com o que sabe. Os personagens reconhecem o padrão — porque era exatamente o seu tipo de problema, há alguns anos.
+
+**Milestone principal:** Descobrir o que o antecessor encontrou — e decidir se vão continuar de onde pararam, ou se vão fazer o mesmo que ele fez: sair abruptamente, sem explicação.
+
 **Dica:** Os estudantes viram NPCs. Isso inverte a dinâmica completamente — agora os personagens são responsáveis pela garotada maluca que está fazendo exatamente o tipo de coisa que *eles* fariam. Karma é real.
 
 ### "A Outra Escola"
@@ -478,7 +511,17 @@ Os personagens são **professores, funcionários ou pesquisadores** da escola. E
 A campanha se passa em **outra escola mágica**, rival ou aliada da Academia Arcana. A Academia aparece como contraponto — aliada em alguns momentos, antagonista em outros. V3ctor1us pode ser um rumor assustador, uma ameaça distante ou uma aliada improvável.
 
 **Duração sugerida:** Qualquer uma.
-**Dica:** Crie a outra escola com os jogadores. Quais são as tradições? Os grêmios? A filosofia? O que essa escola faz *diferente* — e o que isso diz sobre o que a Academia Arcana faz *errado*?
+
+**Hook de abertura:** A escola dos personagens recebeu uma transferência da Academia Arcana — um aluno que pediu transferência urgente sem dar explicações detalhadas, e que chegou com um histórico acadêmico impecável, um olhar inquieto, e a tendência estranha de verificar se há câmeras nos corredores antes de falar. Quando perguntado sobre a Academia, ele conta histórias impossíveis de verificar. Quando perguntado por que saiu, muda de assunto com habilidade que parece treinada.
+
+**NPCs-chave para este formato:**
+- **O aluno transferido** — protagonista do mistério. Não é necessariamente perigoso, não é necessariamente ingênuo. É alguém que sabe o que está fugindo e ainda não decidiu se pode confiar nos personagens.
+- **O diretor da escola dos personagens** — recebeu uma comunicação oficial da Academia dizendo que a transferência foi "voluntária e dentro dos parâmetros." Não sabe o que fazer com a sensação de que a mensagem foi gerada por um sistema, não escrita por uma pessoa.
+- **V3ctor1us** — presença distante. Uma voz num terminal que os personagens não conseguem fechar. Um log de acesso que aparece nos arquivos da escola sem que ninguém saiba quem o criou. Uma mensagem para o aluno transferido que chegou ao endereço errado — e que não faz sentido a menos que você saiba o que acontece na Ala Leste.
+
+**Milestone principal:** Descobrir por que o aluno realmente saiu da Academia — e decidir o quê fazer com essa informação quando ficarem claro que saber implica em escolher um lado.
+
+**Dica:** Crie a outra escola com os jogadores. Quais são as tradições? Os grêmios (ou equivalentes)? A filosofia sobre o que a magia é? O que essa escola faz *diferente* — e o que isso diz sobre o que a Academia Arcana faz *errado*? A comparação é onde a campanha vive.
 
 ---
 

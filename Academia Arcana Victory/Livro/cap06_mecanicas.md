@@ -95,6 +95,8 @@ O Glifista é o mago que transforma tinta em poder e caligrafia em conjuração.
 
 - **Palavras de Poder.** Você pode gastar 1 PM para inscrever uma palavra arcana em uma superfície que possa alcançar (chão, parede, mesa, porta). A inscrição funciona como uma armadilha mágica: a próxima criatura que tocar ou pisar na superfície inscrita ativa o efeito. Escolha um ao inscrever: dano (1d+Habilidade), lentidão (o alvo sofre **Perda** na próxima ação), ou empurrão (o alvo é arremessado para Perto). A inscrição brilha com um leve pulso de luz — observadores atentos podem notar com um teste de Percepção (dificuldade 8). Dura até o fim da cena ou até ser ativada.
 
+> **Grimório e Improviso:** O Glifista tem afinidade natural com os sistemas opcionais de **+Sistema de Grimório** e **+Magia Improvisada** do Capítulo 11. Se a mesa usa esses sistemas, o Glifista reduz em 2 a dificuldade de magia improvisada e pode rolar com **Ganho** na Tabela de Efeitos Colaterais. Além disso, cada nível extra de slot de grimório obtido pelo kit representa literalmente mais páginas de um caderno de glifos. Ver **Capítulo 11 — +Regras da Academia** para os detalhes completos.
+
 ---
 
 ### Kit: Bruxo das Trevas
@@ -152,7 +154,7 @@ Não todo herói usa capa. Alguns usam joelheira, capacete encantado e voam a se
 
 **Poderes:**
 
-- **Sintonia com a Vassoura.** Você e sua vassoura são um só. Testes de pilotagem e manobra em vassoura recebem **Ganho.** Além disso, se você for derrubado da vassoura, pode tentar um teste de Habilidade + Atletismo (dificuldade 7) como reação para se agarrar de volta antes de cair. *Pilotos de Derby caem — pilotos de Derby bons caem com estilo e voltam.*
+- **Sintonia com a Vassoura.** Você e sua vassoura são um só. Testes de pilotagem e manobra em vassoura recebem **Ganho.** Além disso, se você for derrubado da vassoura, pode tentar um teste de Habilidade + Atletismo (dificuldade 7) como reação para se agarrar de volta antes de cair. *Pilotos de Derby caem — pilotos de Derby bons caem com estilo e voltam.* **Presença de Arena:** Sua fama no Derby se traduz em capital social. Dentro do campus, quando identificado como jogador de Derby, testes de Influência para impressionar, convencer ou intimidar estudantes recebem **Ganho**. Fora do campus, o efeito se inverte: ninguém sabe o que é MagiDerby, e você recebe **Perda** em tentativas de se gabar disso.
 
 - **Manobra Evasiva.** Quando montado em uma vassoura, você pode gastar 1 PM para realizar uma manobra defensiva espetacular. Até o início do seu próximo turno, ataques direcionados a você sofrem **Perda.** Isso inclui colisões, feitiços e objetos arremessados. Você gira, mergulha e desvia de tudo — pelo menos até acabar o efeito.
 
@@ -213,9 +215,9 @@ Você não deveria estar aqui. Sério. Seu teste de aptidão foi irregular, seus
 
 > **Nota para o Mestre:** Escape Miraculoso funciona melhor quando a *forma* da fuga é tão memorável quanto o fato de ter sobrevivido. Quando o jogador declarar o Escape, pergunte: *"O que aconteceu?"* Deixe o jogador descrever a cena. As melhores histórias da mesa vão nascer desses momentos — e o custo narrativo de ter que explicar *como* sobreviveu é mais valioso que qualquer penalidade mecânica.
 
-- **Talento Inesperado.** Uma vez por cena, quando você faz um teste em uma perícia que *não* possui, pode rolar com **Ganho** em vez de rolar normalmente. Representa aquele momento em que o calouro que não sabe nada simplesmente... acerta. Ninguém sabe explicar como. Nem você. Especialmente você.
+- **Talento Inesperado.** Uma vez por cena, quando você faz um teste em uma perícia que *não* possui, pode gastar **1 PM** para rolar com **Ganho** em vez de rolar normalmente. Representa aquele momento em que o calouro que não sabe nada simplesmente... acerta. Ninguém sabe explicar como. Nem você. Especialmente você.
 
-- **Magnetismo Narrativo.** Problemas te encontram — mas soluções também. Uma vez por sessão, você pode pedir ao Mestre que introduza uma coincidência narrativa a seu favor: um NPC aparece no momento certo, você encontra exatamente o que precisa em uma gaveta, ou ouve uma conversa que não deveria ouvir. O Mestre decide os limites, mas o universo conspira a seu favor. *O custo? A coincidência sempre vem com complicação.*
+- **Magnetismo Narrativo.** Problemas te encontram — mas soluções também. Uma vez por sessão, pode gastar **2 PM** para pedir ao Mestre que introduza uma coincidência narrativa a seu favor: um NPC aparece no momento certo, você encontra exatamente o que precisa em uma gaveta, ou ouve uma conversa que não deveria ouvir. O Mestre decide os limites, mas o universo conspira a seu favor. *O custo? A coincidência sempre vem com complicação — e 2 PM que você gastou.*
 
 ---
 
@@ -232,7 +234,7 @@ Este kit é perfeito para futuros draconólogos, cuidadores de criaturas, ecolog
 
 **Poderes:**
 
-- **Empatia Bestial.** Você entende criaturas mágicas em um nível que outros acham perturbador. Testes de Sobrevivência e Mística para identificar, acalmar, atrair ou se comunicar com criaturas mágicas recebem **Ganho**. Você pode tentar acalmar uma criatura hostil como ação, fazendo um teste de Habilidade + Sobrevivência contra a Resistência da criatura. Se tiver sucesso, a criatura hesita por 1 rodada — não ataca, mas ainda não é sua amiga. É o bastante para um começo.
+- **Empatia Bestial.** Você entende criaturas mágicas em um nível que outros acham perturbador. Testes de Sobrevivência e Mística para identificar, acalmar, atrair ou se comunicar com criaturas mágicas recebem **Ganho**. Você pode tentar acalmar uma criatura hostil como ação, fazendo um teste de Habilidade + Sobrevivência contra a Resistência da criatura. Se tiver sucesso, a criatura hesita por 1 rodada — não ataca, mas ainda não é sua amiga. É o bastante para um começo. **Instinto de Manada:** Seu entendimento de comportamento animal se estende a grupos humanos. Uma vez por cena, pode fazer um teste de Habilidade + Sobrevivência para "ler" a dinâmica social de qualquer grupo presente na cena: quem lidera, quem segue, quem está prestes a quebrar a hierarquia. Funciona em reuniões de grêmio, salas de aula e jantares políticos tão bem quanto em matilhas.
 
 - **Constituição de Campo.** Anos de picadas, mordidas, arranhaduras e exposição a substâncias que não deveriam existir endureceram seu corpo. Você recebe +2 PV permanentes e **Ganho** em testes de Resistência contra venenos, doenças e efeitos biológicos de criaturas mágicas. Isso não significa que você é imune — significa que quando o dragonete cospe ácido na sua cara, você apenas faz uma careta em vez de ir para a enfermaria.
 
@@ -255,7 +257,7 @@ O Curamago é o aluno que todos querem no grupo e que ninguém agradece o sufici
 
 - **Toque Restaurador.** Você pode gastar 1 PM e uma ação para curar 1d+R pontos de vida de um aliado adjacente. Alternativamente, pode gastar 2 PM para remover uma condição negativa menor (envenenado, cego, atordoado) em vez de curar PV. Este poder não exige equipamento — suas mãos brilham com uma luz suave e quente que Séphora chama de "o sinal de quem nasceu para isso."
 
-- **Diagnóstico Instantâneo.** Ao tocar uma criatura ou examiná-la por uma rodada, você identifica automaticamente: quantos PV restam (em termos gerais: saudável, ferido, crítico), se está sob efeito de veneno ou doença, e se há magia ativa afetando o alvo. O Mestre fornece essas informações sem necessidade de teste. Além disso, seus testes de Medicina recebem **Ganho** permanente.
+- **Diagnóstico Instantâneo.** Ao tocar uma criatura ou examiná-la por uma rodada, você identifica automaticamente: quantos PV restam (em termos gerais: saudável, ferido, crítico), se está sob efeito de veneno ou doença, e se há magia ativa afetando o alvo. O Mestre fornece essas informações sem necessidade de teste. Além disso, seus testes de Medicina recebem **Ganho** permanente. **Cuidador Nato:** Fora de combate, ao tocar ou examinar uma pessoa por uma rodada, você também percebe seu estado emocional geral (ansioso, triste, em conflito, em paz). Testes de Influência para acalmar, consolar ou ganhar a confiança de alguém emocionalmente vulnerável recebem **Ganho**.
 
 - **Zona Neutra.** Uma vez por cena, você pode declarar uma área Perto como "zona de cuidado." Enquanto a zona estiver ativa (até o fim da cena ou até você se mover para fora dela), aliados dentro dela regeneram 1 PV no início de cada rodada. Além disso, qualquer ataque direcionado a um alvo dentro da zona tem a dificuldade aumentada em +1 — a magia curativa cria uma resistência passiva contra agressão. Quebrar a zona neutra exige esforço deliberado.
 
@@ -307,6 +309,8 @@ Cada técnica tem:
 ---
 
 ### Sala de Aula
+
+*Disponíveis a partir do 1º ano — sem restrição de progressão acadêmica.*
 
 Técnicas aprendidas no contexto acadêmico — estudo, absorção de informação, análise arcana, sobrevivência em ambientes de alta exigência intelectual. Úteis dentro e fora da sala de aula, qualquer vez que as circunstâncias exigem pensar em vez de agir.
 
@@ -405,6 +409,8 @@ Não cria efeitos ofensivos ou defensivos — essa é a versão "post-it" da mag
 
 ### Corredor
 
+*Disponíveis a partir do 1º ano — transmitidas informalmente por veteranos nos primeiros meses de Academia.*
+
 Técnicas para navegar o espaço social e físico da Academia: se mover sem ser notado, comunicar sem ser ouvido, ler pessoas com precisão. O corredor é onde a política estudantil acontece de verdade — e onde ter a técnica certa pode ser mais valioso do que qualquer prova.
 
 ---
@@ -499,6 +505,8 @@ Você modula sutilmente a sua presença — postura, tom de voz, intensidade do 
 ---
 
 ### Combate Arcano
+
+*Disponíveis a partir do **2º ano** — a Academia exige base arcana desenvolvida antes de autorizar técnicas ofensivas não supervisionadas.*
 
 Técnicas para situações de confronto — mas técnicas que *qualquer* arcanista pode aprender, não vinculadas a kits específicos. Mais simples e diretas do que as capacidades de kit avançado, mais versáteis do que ter que depender de um estilo combativo único.
 
@@ -596,6 +604,8 @@ Você acumula energia arcana por uma rodada inteira sem gastar em outro ataque. 
 ---
 
 ### Exploração
+
+*Disponíveis a partir do **2º ano** — a Academia não encoraja exploração autônoma no 1º ano, e estas técnicas refletem um grau de independência que calouros ainda estão conquistando.*
 
 Técnicas para navegar espaços físicos não-mapeados, detectar o que não está visível, e mover-se por ambientes arquitetonicamente estranhos — como, digamos, os corredores da Academia, que têm a tendência de serem diferentes na quinta vez que você passa por eles.
 
@@ -824,6 +834,8 @@ O Mestre pode, a qualquer momento, introduzir consequências do seu segredo: pes
 
 Imagine roller derby. Agora coloque todo mundo em vassouras voadoras. Agora adicione magia. Agora adicione a intensidade emocional de estudantes mágicos que representam a honra de seus grêmios. Parabéns, você tem o MagiDerby — o esporte mais assistido, mais gritado e mais controverso da Academia Arcana.
 
+> *O MagiDerby não é Quadribol com outro nome — é roller derby em vassouras com magia. A dinâmica é radicalmente diferente: corrida + bloqueio + magia cooperativa em vez de perseguição de objeto volante. A pontuação vem de ultrapassagens, não de capturas. A equipe inteira contribui para cada ponto. Se alguém na sua mesa disser "isso é igual a Quadribol," convide-essa pessoa a jogar uma partida. Vai parar de dizer.*
+
 O MagiDerby é disputado em uma **pista oval flutuante** (sim, a própria pista flutua — a uma altura que varia de partida para partida, porque o Departamento de Esportes acha que isso "adiciona emoção"). Times de **5 jogadores** competem em alta velocidade, usando uma combinação de habilidade de pilotagem, força bruta e magia para marcar pontos e impedir o time adversário de fazer o mesmo.
 
 Há competições inter-grêmios (o campeonato interno da Academia, que é tratado com a seriedade de uma Copa do Mundo) e competições inter-escolas (quando academias de outras regiões enviam seus times e as coisas ficam *realmente* intensas).
@@ -877,7 +889,7 @@ A estrela. O Atacante é o jogador que marca pontos, avançando pela pista e ult
 O cérebro. O Estrategista coordena o time, chamando jogadas e ajustando a formação em tempo real. Usam **Poder** para a maioria dos seus testes (comandos táticos, magias de suporte, leitura de jogo). O Pivot pode trocar de posição com o Jammer uma vez por jam, se necessário — a chamada "passagem de estrela".
 
 **Piloto Livre**
-O coringa. Sem posição fixa, o Piloto Livre voa onde for mais necessário, criando oportunidades e caos em igual medida. Pode usar **qualquer atributo** para seus testes, dependendo da ação (o Mestre decide). É a posição mais imprevisível — e a mais divertida de jogar.
+O coringa. Sem posição fixa, o Piloto Livre voa onde for mais necessário, criando oportunidades e caos em igual medida. No início de cada jam, o Piloto Livre escolhe um atributo (Poder, Habilidade ou Resistência) que usará em todos os seus testes durante aquele jam inteiro — isso representa adaptação estratégica entre períodos, não versatilidade ilimitada rodada a rodada. É a posição mais imprevisível — e a mais divertida de jogar.
 
 **Goleiro de Linha**
 O último bastião. O Goleiro de Linha protege a zona de pontuação, sendo a última barreira antes que o Jammer adversário complete a volta. Usam **Resistência** para a maioria dos seus testes. É a posição mais ingrata — ninguém nota quando você faz certo, todo mundo nota quando você falha.
@@ -950,6 +962,24 @@ O time com **mais pontos após 3 jams** vence. Em caso de empate, há um jam ext
 
 ---
 
+### MagiDerby — Resolução Rápida
+
+**Quando usar:** Quando a partida é contexto narrativo de fundo (não o foco da sessão), quando nem todos os PJs participam, ou quando o tempo de mesa é limitado.
+
+**Mecânica:** Cada jam é resolvido com 3 testes, um por fase:
+
+1. **Corrida (Habilidade):** O Jammer de cada time faz um teste de Habilidade. Quem tiver o maior resultado tomou a liderança deste jam e está na posição vantajosa.
+2. **Bloqueio (Resistência):** Teste oposto de Resistência entre os Bloqueadores dos dois times. Quem vencer conteve efetivamente o avanço adversário.
+3. **Jogada Especial (livre):** Um jogador por time declara uma técnica ou manobra de MagiDerby. Teste oposto; o vencedor marca **+1 ponto** para o time.
+
+O time que vencer **2 dos 3 testes** por jam marca **1 ponto** naquele jam. O time com mais pontos após 3 jams vence. Em empate, jam de Morte Súbita: um teste oposto de Habilidade entre os Jammers.
+
+**Total:** 9 testes por partida (3 jams × 3 fases). Duração estimada na mesa: **20–30 minutos.**
+
+> *MagiDerby completo (15 rodadas) oferece toda a tensão cena-a-cena. A Resolução Rápida oferece resultado narrativo com impacto emocional — use conforme o ritmo da sessão pede.*
+
+---
+
 ### Técnicas de MagiDerby
 
 Estas técnicas são específicas para uso no MagiDerby, embora o Mestre possa permitir adaptações para uso fora da pista em situações narrativas apropriadas.
@@ -958,12 +988,12 @@ Estas técnicas são específicas para uso no MagiDerby, embora o Mestre possa p
 
 **Turbinada**
 
-*Exigências:* Habilidade 1, Kit Astro do Derby
+*Exigências:* Habilidade 1
 *Alcance:* Pessoal
 *Custo:* 1 PM
 *Duração:* 1 rodada
 
-Você canaliza energia mágica direto para sua vassoura, arrancando um burst de velocidade insana. Até o fim da rodada, você recebe **Ganho** no seu próximo teste de movimento. Ideal para Jammers que precisam daquela ultrapassagem decisiva, ou para qualquer piloto que queira sentir o vento arrancar as lágrimas dos olhos.
+Você canaliza energia mágica direto para sua vassoura, arrancando um burst de velocidade insana. Até o fim da rodada, você recebe **Ganho** no seu próximo teste de movimento. Ideal para Jammers que precisam daquela ultrapassagem decisiva, ou para qualquer piloto que queira sentir o vento arrancar as lágrimas dos olhos. *(Astro do Derby: a velocidade é maior ainda — em vez de Ganho no teste de movimento, você avança automaticamente uma zona extra sem teste.)*
 
 ---
 

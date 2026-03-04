@@ -135,6 +135,13 @@ Expulsa da Academia Victory no segundo ano por decisão de V3ctor1us, classifica
 
 *Como usá-la:* Elisa não é vilã. Ela é uma antagonista com causa legítima e métodos questionáveis. Os PJs que investigam honestamente vão se ver na posição desconfortável de entender por que ela faz o que faz. Arcos de confronto puro são possíveis mas empobrecedores — o potencial dramático está no reconhecimento, não na derrota.
 
+**A Voz de Elisa — 5 Frases:**
+> 1. *"Como você consegue dormir achando que está do lado certo?"*
+> 2. *"Eu não sou sua inimiga. Sou a prova de que o sistema que vocês defendem falha."*
+> 3. *"Você quer saber o que me radicalizou? Não foi injustiça. Foi* procedimento*. A injustiça tinha número de protocolo."*
+> 4. *"Não peço que concordem comigo. Peço que parem de fingir que discordar é a mesma coisa que estar errado."*
+> 5. *(Para um PJ da Égide:)* *"Você protege quem, exatamente? As pessoas que a Academia deixou entrar? E as que ela não deixou?"*
+
 ---
 
 ### Os Quatro Tenentes

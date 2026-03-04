@@ -17,7 +17,7 @@
 
 ---
 
-> *O refeitório está lotado. Maitê — terrana, negra, caloura, grêmio Monsoon — está tentando estudar para a prova de Teoria Arcana com o livro apoiado na jarra de suco, enquanto Xeipe — elfo da Coroa — explica pela terceira vez por que a resposta dela sobre ressonância planar está "tecnicamente correta mas filosoficamente equivocada."*
+> *O refeitório está lotado. Cheira a café, canela e ozônio — esse último, restobrasil de um feitizo que alguém deixou ativo na mesa do fundo. O zum zum de conversão se mistura ao zumbido baixo dos glifos-luminária no teto. Maitê — terrana, negra, caloura, grêmio Monsoon — está tentando estudar para a prova de Teoria Arcana com o livro apoiado na jarra de suco, enquanto Xeipe — elfo da Coroa — explica pela terceira vez por que a resposta dela sobre ressonância planar está "tecnicamente correta mas filosoficamente equivocada."**
 >
 > *"Filosoficamente equivocada não reprova," responde Maitê sem levantar os olhos.*
 >
@@ -158,6 +158,13 @@ A Academia Arcana como destino de uma única aventura. Os personagens visitam, c
 
 ## Guia de Leitura
 
+> **⚡ Quero jogar AGORA:** Capítulo 13. Fichas prontas. Regras resumidas. 3 horas.
+> **📖 Sou jogador:** Capítulos 0, 1, 3, 6.
+> **🎲 Sou Mestre:** Tudo de 0–10. Depois, 13 para a primeira sessão.
+> **🔍 Sou curioso:** Leia na ordem. Cada capítulo funciona sozinho.
+>
+> *Este livro tem muitas páginas. Você não precisa ler todas para jogar. O Capítulo 13 sozinho basta para uma primeira sessão.*
+
 Não existe uma ordem errada de ler este livro — mas existe uma ordem mais eficiente, dependendo do seu papel na mesa:
 
 **Para jogadores:** Leia esta *Introdução* para o contexto e a deixe animado. Depois vá direto ao **Capítulo 1** (criação de personagem). Em seguida, Capsítulos **2 e 3** apresentam a escola e os grêmios. **Capítulo 6** tem os onze kits exclusivos. Com isso, você está pronto para jogar. Os outros capítulos são leitura de interesse, não pré-requisito.
@@ -236,7 +243,7 @@ Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, es
 | **Perda (−1D)** | Uma desvantagem situacional — role um dado extra e use o resultado mais *baixo* |
 | **PV (Pontos de Vida)** | Medida de saúde física. Quando chegam a zero, o personagem está fora de combate |
 | **PM (Pontos de Mana)** | Recurso gasto para usar poderes especiais do kit e vantagens mágicas |
-| **Perícia** | Área de especialização que concede +1D em testes relacionados |
+| **Perícia** | Área de especialização que concede **Ganho** (role 2D, fique com o maior) em testes relacionados |
 | **Kit** | O arquétipo do personagem — define seus poderes, estilo de magia e papel no grupo. Equivalente a uma classe em outros RPGs |
 | **Vantagem** | Habilidade ou traço especial que o personagem possui além do kit base. Custa pontos na criação |
 | **Desvantagem** | Limitação, fraqueza ou complicação que o personagem carrega. Concede pontos extras na criação |
@@ -246,6 +253,8 @@ Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, es
 ---
 
 ### Termos de Cenário
+
+> *A Academia Arcana Victory existe na Era das Arcas — o cenário atual de 3D&T Victory. Se você já conhece Arton e a Tormenta, vai reconhecer referências. Se não conhece, tudo o que precisa saber está neste livro. Nenhum suplemento anterior é pré-requisito.*
 
 | Termo | Significado |
 |---|---|
@@ -261,7 +270,9 @@ Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, es
 | **Conclave** | Reunião oficial de professores |
 | **O Conselho** | O corpo governante da Academia |
 | **MagiDerby** | O esporte oficial da Academia, disputado em vassouras voadoras (ver Capítulo 6) |
-| **Pontos de Grêmio** | Sistema de pontuação por grêmio, acumulados e perdidos ao longo do ano |
+| **Pontos de Grêmio** | Sistema de pontuação por grêmio, acumulados e perdidos ao longo do ano (ver Capítulo 3) |
+
+> *Outros termos específicos — como Graus Formais, Grau de Ameaça, Conclave, e nomenclaturas dos grêmios — são explicados em detalhe nos capítulos onde aparecem. Calouro e Veterano são autoexplicativos assim que você chegar ao campus.*
 
 ---
 

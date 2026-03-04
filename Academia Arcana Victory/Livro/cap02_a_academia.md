@@ -153,6 +153,17 @@ Os pontos de acesso à Arca são **glifos**: portais mágicos criados durante a 
 
 Uma vez ativado um glifo, a transição é imediata: você estava em Vallindra, agora está nos **Jardins Externos da Academia**, sentindo o ar levemente mais limpo, levemente mais carregado de energia, e com a certeza absoluta de que você está dentro de uma Arca que não obedece completamente às regras normais da física. Seu celular ainda funciona, mas o sinal oscila de formas que nenhuma operadora consegue explicar.
 
+> **Viagem por Glifo — Regras**
+>
+> | Destino | Distância Narrativa | Custo PM | Tempo |
+> |---|---|---|---|
+> | Glifo principal (Vallindra, Neo Sampa, Litoral Norte) | Acesso imediato, glifo aberto ao público | 0 PM | Instantâneo |
+> | Glifo secundário em Arca conhecida | Ponto familiar, pode exigir entrada furtiva | 1 PM | Instantâneo |
+> | Glifo instável ou desconhecido | Coordenadas incertas — chegada imprevisível | 2 PM | Instantâneo, localização aleatória |
+> | Glifo selado ou proibido (ex: Ala Leste) | Bloqueado por selos arcanos ativos | — | Impossível sem contornar o selo |
+>
+> Usar um **glifo instável** exige um teste de **Mística, dificuldade 8**. Em caso de falha, o viajante chega em um ponto errado dentro do mesmo plano — nunca em um plano dimensional diferente, e nunca em perigo imediato, mas com uma explicação muito inconveniente para a própria presença. Sair da Academia sem autorização por escrita não tem custo extra em PM, mas tem consequências disciplinares independente de como foi feito.
+
 Para calouros vindos de colégios preparatórios — Solaris, Yggdrasil, Ifé-Bahia — a transição por glifo é familiar; já fizeram isso dezenas de vezes para acessar as Arcas de treino das suas escolas. Para Terranos chegando por Acidente de Glifo, é o momento mais desorientador de suas vidas.
 
 ---
@@ -227,6 +238,8 @@ O escritório de Wynna é acessível por um corredor que, segundo rumores, fica 
 ---
 
 #### Biblioteca e Centro de Estudos
+*Cheira a pergaminho antigo e ozônio fresco, com aquele silêncio específico que só existe quando cada pessoa presente está fingindo não estar observando as outras.*
+
 Três andares de estantes que vão do chão ao teto, com acessos de mezzanino e uma área de leitura no centro com mesas que emitem luz própria. A Biblioteca é supervisionada por **Archivista Norrin**, um golem de papel e tinta criado especificamente para o propósito — e que leva isso mais a sério do que qualquer ser vivo conseguiria. Norrin não fala; *cataloga em voz alta*. Suas frases parecem fichas bibliográficas com opinião. “Autor: desconhecido. Tema: presunção. Destino provável: prateleira de autoajuda.” Incapaz de enganar. Incapaz de perder um livro. E absolutamente implacável com atrasos: Norrin não cobra multas — cobra *constrangimento*. A devolução atrasada gera uma recitação pública do histórico de atrasos do aluno, com datas, títulos e comentários editoriais que fariam um crítico literário corar.
 
 A Biblioteca contém livros do antigo Arton — alguns preservados perfeitamente, outros com danos dimensionais das décadas à deriva — e material moderno adquirido desde a re-fundação. As prateleiras de "Teoria Arcana Clássica" ficam ao lado de "Introdução à Programação Encantada." O catálogo é pesquisável por um terminal mágico-digital que Geófilus se recusa a usar por princípio.
@@ -320,6 +333,17 @@ Os dormitórios ficam animados e barulhentos nas noites antes de provas. Ficam a
 
 ---
 
+#### Área de Treino — Ginásio Ignatos
+*Cheira a carvão arcano e suor de treino do dia anterior, com aquele calor residual que parece nunca sair completamente, mesmo quando o espaço está vazio.*
+
+A área de treino principal do campus — nomeada em homenagem ao Professor Ignatus, que lecionou combate arcano no antigo Arton por décadas. O espaço inclui um ringue de duelo central com selos de contenção no chão (que brilham cor de laranja quando absorvem um golpe errante), um circuito de obstáculos reconfiguráveis, e um muro de alvos que se regenera automaticamente. É onde Reynard realiza as aulas de Combate e onde, nas noites de quarta-feira, grupos de alunos se encontram para treinos informais que tecnicamente não constam em nenhuma programação oficial.
+
+A regra não escrita do Ginásio: você nunca interrompe o treino de alguém. Você espera, você observa, você aprende. Lira chegou às 5h30 da manhã no primeiro dia achando que estaria sozinha. Reynard já estava lá. Ele não disse nada. Ela não disse nada. Treinaram cada um por conta própria, de costas um para o outro, por quarenta minutos. Ela considera que foi o melhor treino da vida.
+
+**Gancho:** Durante um treino noturno informal, o ringue de duelo ativa seus selos sozinho — sem nenhum combatente presente. A contenção está absorvendo *algo*. V3ctor1us não registra nenhuma causa.
+
+---
+
 #### Pista de Derby
 Descrita em detalhes no Capítulo 6. Por ora: é oval, com marcações no chão que não foram pintadas (aparecem sozinhas quando uma partida está agendada), e os assentos para espectadores sobem das bordas da pista como uma arquibancada que escolheu existir. As redes de proteção lateral são encantadas para devolver projéteis com o dobro da força original.
 
@@ -361,6 +385,11 @@ Os acessos aos Ermos estão espalhados pelo campus: uma porta que não deveria e
 ---
 
 #### A Ala Leste — Interditada
+
+> *Sim, a Academia tem uma ala proibida. Todas as escolas de magia têm — é tradição genérica que existe desde que escolas de magia existem. O que torna a Ala Leste diferente não é o cadeado. É a guardiã: V3ctor1us monitora a Ala com dados em tempo real e tem razões próprias — calculadas, não sentimentais — para mantê-la fechada. A porta trancada é o clichê. A IA por trás dela, não.*
+
+*Silêncio. Não o silêncio de ausência — o silêncio de algo que escolheu não fazer barulho. Nenhum aluno que passou diante da fachada da Ala Leste consegue explicar exatamente por que acelerou o passo. Só sabe que o fez.*
+
 A Ala Leste existe no campus. Está documentada nas plantas originais do antigo Arton. Os alunos podem vê-la de fora — uma extensão de prédio que corresponde ao lado leste do campus, janelas entaipadas, porta principal fechada com três ferrolhos modernos e dois selos arcanos, uma tabuleta dizendo "ÁREA RESTRITA: ACESSO PROIBIDO POR ORDEM DA DIREÇÃO" que está lá desde o dia da re-fundação.
 
 Ninguém entra. Ninguém sai. Guardas mágicos de contenção estão ativos vinte e quatro horas.
@@ -399,25 +428,27 @@ Avaliação prática de potencial arcano. Não mede conhecimento — mede *capac
 
 Maitê falhou espetacularmente nesta prova — seus cristais mostraram leituras que V3ctor1us inicialmente classificou como "erro de calibração." Então ela hackeou o cristal de avaliação, reescreveu o algoritmo de leitura usando uma linguagem de programação que ela inventou no Porto Arcano, e mostrou por que os resultados estavam *corretos* — só que mediam algo que os cristais padrão não foram projetados para detectar. V3ctor1us ficou impressionado. Talude ficou preocupado com ambos.
 
+> **Se jogada na mesa:** Habilidade + Mística, dificuldade 7. **Sucesso:** demonstração de controle impressiona — Wynna anota positivamente, Geófilus acena. **Falha:** poder bruto evidente mas descontrolado — o candidato *passa assim mesmo* (aptidão conta mais que controle nesta prova), mas Nereus franze a testa e V3ctor1us registra "estabilidade abaixo do esperado" no prontuário. Essa nota vão aparecer na Prova de Ação.
+
 ### 2. Prova de Caráter
 
 Não é um teste de moralidade simplista do tipo "o que você faz se encontrar uma carteira no chão?". É uma **simulação personalizada** gerada por V3ctor1us — um cenário de dilema moral sem resposta correta, calibrado especificamente para o candidato com base em dados coletados durante a Prova de Aptidão. Não existe resposta "certa." A resposta *revela* — e V3ctor1us analisa não apenas a escolha, mas o processo de decisão.
 
 Wynna insistiu que esta prova existisse. V3ctor1us projetou-a. Talude supervisiona para garantir que V3ctor1us não use as simulações para... outros fins.
 
-### 3. Prova de Ação
+> **Se jogada na mesa:** não há teste único — o Mestre prepara um dilema personalizado para o personagem com base no que já sabe sobre ele. Após o dilema, o personagem faz um teste de Poder + Mística ou Saber (dificuldade 8) para comunicar sua lógica de forma coesa. **Sucesso:** V3ctor1us classifica o processo decisório como "coerente; padrões identificados." **Falha:** V3ctor1us classifica como "inconsístente" — não é reprovação, é uma nota que aparecerá inexplicavelmente no prontuário mais tarde. O Mestre guarda essa informação.
 
 Exercício prático numa Arca de treino — um dos Ermos de Talude reconfigurado para o propósito. Pode ser combate. Pode ser fuga. Pode ser resgate. O objetivo não é vencer — é demonstrar como o candidato lida com pressão real, decisões sob estresse, e a realidade de que magia tem consequências.
 
 **Reynard** supervisiona esta prova desde que chegou à Academia. Sua filosofia é simples: "Se você não aguenta um Ermo de treino, não vai aguentar o mundo lá fora." Ele nunca baixa a dificuldade. Ele nunca levanta a voz. A reprovação vem em silêncio — o que, segundo os calouros que passaram, é infinitamente pior do que gritos.
 
-### 4. Entrevista
+> **Se jogada na mesa:** O Mestre cria um Desafio Coletivo (ou individual) de dificuldade 8 com 3–5 obstáculos adaptáveis. Não há "vitória": Reynard avalia como o candidato responde ao fracasso tanto quanto ao sucesso. **Resultado positivo:** resolve 3+ obstáculos ou demonstra adaptabilidade criativa em falha. **Resultado negativo:** abandona, recusa agir, ou ignora aliados — Reynard manda um relatório a Wynna mas não para a admissão, para o arquivo pessoal. Isso é pior do que reprovação.
 
 Com Wynna pessoalmente. Talude está presente, flutuando no ombro dela com a expressão de quem já viu dez mil candidatos e sabe reconhecer os que vão dar problema (spoiler: são os melhores). V3ctor1us monitora remotamente — e analisa padrões vocais, frequência cardíaca, e flutuações de mana que o candidato não sabe que está emitindo.
 
 A entrevista é uma conversa. Wynna faz perguntas que parecem banais — "por que você quer estudar aqui?", "o que você faria com poder ilimitado?", "qual foi a última vez que você errou e o que aprendeu com isso?" — mas ela foi deusa por milênios e lê intenções como quem lê um livro aberto. Candidatos que tentam impressionar fracassam. Candidatos que são honestos passam. Na maioria das vezes.
 
-### A Exceção
+> **Se jogada na mesa:** O Mestre interpreta Wynna durante uma conversa de 5–10 minutos. Ao final, o personagem faz um teste de Habilidade + Influência, dificuldade 7 — não para *convencer* Wynna, mas para comunicar autenticidade. **Sucesso:** Wynna diz "Bem-vindo(a)." **Falha:** Wynna diz "Bem-vindo(a)" — Wynna *nunca* recusa um candidato com aptidão — mas Talude sussurra algo no ouvido dela enquanto você sai, e V3ctor1us anotou algo que você não sabe que foi anotado. O Mestre arquiva.
 
 Aproximadamente **12% do corpo discente** atual chegou à Academia por **Acidente de Glifo** — tropeçando em portais instáveis que os cuspiram nos corredores da escola sem aviso, sem preparo, e frequentemente sem calçados adequados (detalhes no Capítulo 7).
 

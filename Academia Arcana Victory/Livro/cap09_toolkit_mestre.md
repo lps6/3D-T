@@ -277,6 +277,15 @@ A Academia existe numa Arca, mas o mundo lá fora não para de girar.
 
 > **Nota:** Romance entre PJ e NPC é fundamentalmente diferente de romance entre dois PJs. Com NPCs, o Mestre controla o ritmo, as respostas e os limites — é uma ferramenta narrativa como qualquer outra. Entre PJs, o Mestre é *mediador*, não autor: sua função é garantir que ambos os jogadores estejam confortáveis, que o romance não monopolize a mesa, e que "não" é sempre uma resposta válida — dentro e fora do jogo.
 
+**Orientações para Romance na Mesa:**
+
+- **Sessão Zero primeiro.** Pergunte explicitamente: *romance é bem-vindo nesta campanha? Com que profundidade? Algum jogador prefere não se envolver em cenas romanticas?* Não assuma que todo mundo quer.
+- **Consentimento duplo para romance entre PJs.** Ambos os jogadores precisam querer a cena — e qualquer um pode sair dela a qualquer momento, sem justificativa, sem drama fora da ficha.
+- **NPCs têm vida além do romance.** Se um NPC só existe para ser o amor do PJ, ele vai parecer plano. O NPC que os PJs amam é o que tem objetivos próprios, amigos, medos, outras prioridades. O romance é uma dimensão da vida desse NPC — não a definição dele.
+- **O NPC pode dizer não.** Isso é drama genuinamente bom. Uma rejeição bem-interpretada cria mais profundidade do que um aceite imediato.
+- **Ferramentas de segurança funcionam.** Use o X-Card, linhas e véus, ou qualquer sistema de conforto que a mesa já usa. Campanhas escolares geram envolvimento emocional forte — e cenas romanticas podem surpreender de formas que não anteciparam.
+- **Mecânica opcional:** o sistema Social Links (Suplemento F4.5 Persona) oferece uma estrutura de progressão de relacionamento em 10 níveis que funciona tanto para amizades quanto para romances. É especialmente útil em campanhas longas onde construir relacionamentos gradualmente é parte do prazer.
+
 ---
 
 ## Como Criar NPCs: A Regra de Ouro
@@ -519,6 +528,48 @@ Nível de ameaça: **máximo**. Consequências: **potencialmente irreversíveis*
 > **Recompensa:** A Academia sobrevive. Os personagens se tornam lendas da escola. E algo muda permanentemente no campus — um lembrete físico de que a Arca quase deixou de existir.
 
 > **Nota de Escalada:** Se sua campanha está no 1o Ano e você está pensando em usar Tier 4, leia o Capítulo 8 (Estrutura de Campanha) sobre escalada de ameaças primeiro. Tier 4 funciona melhor como *destino*, não como ponto de partida. A jornada até a catástrofe é o que dá peso a ela.
+
+---
+
+## Fórmula de Criação de Desafios
+
+Quando as fichas prontas não forem suficientes, use esta tabela como base para criar qualquer ameaça no nível certo da sua campanha. A fórmula é um ponto de partida — ajuste conforme o contexto narrativo.
+
+| Tier | PV | P / H / R base | Poderes Únicos | Tipo de Gatilho | Tom |
+|---|---|---|---|---|---|
+| **1 — Travessura** | 5–10 | 1–2 / 2–3 / 1–2 | 1 poder simples | Situacional (reage ao ambiente) | Cômico, consequências reversíveis |
+| **2 — Incidente** | 12–20 | 2–3 / 2–4 / 2–3 | 2 poderes (1 ofensivo + 1 especial) | Reativo (responde a ações dos PJs) | Sério, com subplote emocional |
+| **3 — Crise** | 20–30 | 3–5 / 3–4 / 3–4 | 3 poderes (ofensivo + defensivo + gatilho de clímax) | Proativo (tem agenda própria) | Tenso, com consequências narrativas permanentes |
+| **4 — Catástrofe** | Ambiental ou ilimitado | Varia / alto / alto | Testes cooperativos em vez de combate direto | Progressivo (escala a cada rodada) | Existencial, irreversível se falhar |
+
+**Receita rápida por tier:**
+- **Tier 1:** Um poder que atrapalha sem matar. Uma fraqueza óbvia. Uma recompensa narrativa (favor, item, informação).
+- **Tier 2:** Um poder que faz os jogadores pensarem. Uma complicação que persiste após o confronto. Uma pista sobre algo maior.
+- **Tier 3:** Um poder que muda como os jogadores *precisam* lutar. Uma decisão difícil no clímax. Uma consequência que não volta atrás.
+- **Tier 4:** Não é um inimigo — é uma situação. Defina uma *condição de vitória* clara, um *relógio de pressão*, e pelo menos uma ação heroica individual que só um personagem específico pode fazer.
+
+> **Dica de design:** Todo desafio interessante tem pelo menos uma coisa que os jogadores não esperam na primeira rodada. Surpreenda sem ser injusto — inclua pistas sobre o comportamento especial antes do confronto direto.
+
+---
+
+## Quando a Campanha Não Funciona
+
+Toda campanha longa tem sessões que não funcionam. Conheção das causas mais comuns é metade da solução:
+
+**Os jogadores pulam o beat de Vida Diária sempre.**
+O cotidiano não está interessante o suficiente para competir com a trama. Soluzão: adicione agenda aos NPCs secundarios. Quando um NPC que os jogadores gostam apa numa cena cotidiana com um problema próprio, o cotidiano vira drama. Também funciona: um rumor que pique genuinamente a curiosidade antes do final da sessão anterior.
+
+**O mistério de V3ctor1us perdeu tração.**
+Os jogadores deixaram de se importar ativamente com a IA. Isso costuma acontecer quando V3ctor1us vira wallpaper — presente mas nunca consequente. Solução: faça V3ctor1us tomar uma decisão que afeta diretamente um PJ específico. Não algo genérico — algo pessoal. O acesso a uma materiéria que o PJ queria. Uma mudança no quarto. Uma nota de avaliação que não faz sentido. A IA só fica de volta no centro quando os PJs sentem que estão sendo observados.
+
+**Os jogadores ignoram os grêmios.**
+Estado estão jogando aventura genérica numa escola. Os grêmios não importam mecanicamente para eles. Solução: faça um conflito entre grêmios que tenha **consequências concretas** (pontos de grêmio, acesso a espaços, desbloqueio de oportunidades). O sistema de grêmios é drama gratuito — mas só funciona se os grêmios tiverem poder real no mundo do jogo.
+
+**O tom está errado — mas ningum sabe como articular isso.**
+A sessão zero definiu um dial, mas a campanha derivou. Solução: pergunte diretamente, fora de jogo: *"Que tipo de história vocês querem contar AGORA?"* A resposta pode ter mudado desde a sessão zero. Se mudou, recalibrar juntos é mais produtivo que tentar salvar o rumo original.
+
+**Jogadores estam constantemente dividos sobre o que seus personagens querem.**
+Isto costuma ser um sintoma de falta de motivação clara nas fichas. Solução: faça uma conversa curta de quatro minutos fora de jogo — *"No que seu personagem mais acredita agora? O que ele mais teme perder?"* Dois minutos de reflexão fora de jogo valem quatro sessões de deriva.
 
 ---
 

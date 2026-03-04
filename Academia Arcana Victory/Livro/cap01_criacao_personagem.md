@@ -160,6 +160,8 @@ Na Academia Arcana, a vantagem **Arcano** é obrigatória para qualquer personag
 
 Uma boa desvantagem não é uma punição — é uma promessa de drama. Toda vez que a Desvantagem de um personagem entra em jogo, o Mestre ganha material e o jogador ganha holofote. Escolha desvantagens que você *quer* que apareçam, não que você espera que o Mestre esqueça.
 
+> *Além das vantagens e desvantagens do Manual do Arcanauta, a Academia oferece opções exclusivas — ver **Capítulo 11: +Regras da Academia**.*
+
 ---
 
 ## Passo 6 — No que você acredita? (Grêmio)
@@ -360,6 +362,14 @@ Conflito interno bem-gerenciado gera as melhores cenas de uma campanha: o moment
 **Para jogadores:** o conflito interno funciona quando *todos* concordam com a ameaça externa, mesmo divergindo na resposta. Dois personagens que discordam sobre como derrotar o vilão são drama interessante. Dois personagens que discordam sobre *se* o vilão é uma ameaça criam impasse que a mesa inteira sente.
 
 **Para o Mestre:** não resolva o conflito pelos jogadores. Crie as condições em que o conflito tem que se resolver — uma decisão que não pode ser adiada, uma situação que exige que eles se fiem um no outro antes de estar prontos para isso. As melhores resoluções de conflito interno emergem de crises externas que forçam co-dependência.
+
+---
+
+### E Se Todos Forem do Mesmo Grêmio?
+
+Funciona — e muda a campanha. Um grupo só de Obsidiana joga política interna. Um grupo só de Égide parece um esquadrão tático. Discuta na sessão zero: o grêmio unificado traz coesão, mas reduz a tensão filosófica entre os PJs. Compense dando ao grupo NPCs aliados de outros grêmios que gerem esse atrito. Os professores e os NPCs estudantis do Capítulo 4 existem exatamente para isso.
+
+**E se ninguém entrar em grêmio?** Perfeitamente válido. Independentes têm liberdade total, mas perdem os benefícios mecânicos de grêmio e as redes sociais que eles criam. Isso *pode* ser a história: o que significa estar fora das fraternidades quando toda a escola se organiza em torno delas?
 
 ---
 
