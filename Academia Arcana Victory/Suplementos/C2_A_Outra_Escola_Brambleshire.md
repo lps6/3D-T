@@ -275,7 +275,7 @@ Estes kits representam especializações da tradição arcana britânica. Dispon
 | ALA — Protocolo Ala Leste | A ressonância do Quarto do Espelho é o mesmo fenômeno dimensional que a Ala Leste investiga — os PJs chegam ao mesmo problema por dois caminhos |
 | T1 — Somática Arcana | A metodologia Dunmore tem pontos de contato com Somática; um PC com T1 pode reconhecer a base técnica de Thornblade |
 | S4/S5 | A questão de V3ctor1us como observador silencioso ativa com força total em S8 desta campanha |
-| C1 — Neo Sampa | A Arca Funda de C1 e a ressonância do Quarto do Espelho podem ser dois vértices do mesmo triângulo dimensional — o terceiro é a Ala Leste |
+| C1 — Caldeira | A Arca Funda de C1 e a ressonância do Quarto do Espelho podem ser dois vértices do mesmo triângulo dimensional — o terceiro é a Ala Leste |
 | C3 — Pós-Graduação | A Dra. MacAllan como NPC recorrente de outro campus; a comunicação formal que ela envia afeta a vida política da Academia |
 | G2 — As Outras Escolas | Brambleshire é expandida aqui com história e contextura britânica adicional |
 

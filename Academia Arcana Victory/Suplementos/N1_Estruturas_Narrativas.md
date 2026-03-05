@@ -514,7 +514,7 @@ O revelação no clímax ou imediatamente depois que recontextualiza o que acont
 
 ### Como Funciona na Academia
 
-Esta estrutura funciona bem para **arcos de exploração e missão** — especialmente para grupos que saem do campus (C1 em Neo Sampa usa essa estrutura implicitamente).
+Esta estrutura funciona bem para **arcos de exploração e missão** — especialmente para grupos que saem do campus (C1 em Caldeira usa essa estrutura implicitamente).
 
 Dentro do campus, a estrutura se adapta bem para a Ala Leste (ver suplemento ALA):
 - **Exploração:** os corredores exteriores da Ala, descobrindo padrões e recursos antes de tentar avançar

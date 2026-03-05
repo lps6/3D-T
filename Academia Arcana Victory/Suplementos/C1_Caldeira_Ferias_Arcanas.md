@@ -1,5 +1,5 @@
 # LIVROS CURTOS DE CAMPANHA — ACADEMIA ARCANA VICTORY
-## C1: Neo Sampa: Férias Arcanas
+## C1: Caldeira: Férias Arcanas
 
 **Tipo:** Livro Curto de Campanha  
 **Escopo:** 6–8 sessões (férias de verão fora do campus)  
@@ -11,7 +11,7 @@
 
 ## Como Usar Este Livro
 
-Este livro é uma campanha completa de férias — 6 a 8 sessões que acontecem *fora* do campus da Academia, durante as férias de verão. Os PJs voltam à Neo Sampa (ou chegam nela pela primeira vez) e se veem envolvidos em algo que começou muito antes deles.
+Este livro é uma campanha completa de férias — 6 a 8 sessões que acontecem *fora* do campus da Academia, durante as férias de verão. Os PJs voltam à Caldeira (ou chegam nela pela primeira vez) e se veem envolvidos em algo que começou muito antes deles.
 
 **Para o Mestre:** você pode jogar esta campanha:
 - **Entre anos letivos** — como pausa entre o 1º e 2º ano, ou 2º e 3º
@@ -33,9 +33,9 @@ Este livro é uma campanha completa de férias — 6 a 8 sessões que acontecem 
 
 ## Premissa
 
-As férias de verão duram seis semanas. Sem o campus, sem V3ctor1us monitorando, sem professores. Os PJs estão em Neo Sampa — a maior cidade pós-Convergência do Brasil, onde magia e tecnologia se fundiram sem nenhum planejamento e resultaram em algo que ninguém pediu e que, sinceramente, não poderia existir em mais lugar nenhum.
+As férias de verão duram seis semanas. Sem o campus, sem V3ctor1us monitorando, sem professores. Os PJs estão em Caldeira — a maior cidade pós-Convergência do Brasil, onde magia e tecnologia se fundiram sem nenhum planejamento e resultaram em algo que ninguém pediu e que, sinceramente, não poderia existir em mais lugar nenhum.
 
-Mas Neo Sampa tem camadas. E embaixo do estrato de barracas de comida arcana, escolas preparatórias, e praças onde elfos ensaiam candomblé-magia, existe **O Circuito** — uma rede de ex-alunos expulsos de escolas de magia que decidiu que a resposta para ser rejeitado pelo sistema era construir o próprio.
+Mas Caldeira tem camadas. E embaixo do estrato de barracas de comida arcana, escolas preparatórias, e praças onde elfos ensaiam candomblé-magia, existe **O Circuito** — uma rede de ex-alunos expulsos de escolas de magia que decidiu que a resposta para ser rejeitado pelo sistema era construir o próprio.
 
 Eles exploram Arcas não-catalogadas. Vendem acesso a elas para quem pagar. Usam os recursos extraídos para financiar um estilo de vida que as escolas legítimas nunca lhes dariam. E estão crescendo.
 
@@ -43,9 +43,9 @@ Eles exploram Arcas não-catalogadas. Vendem acesso a elas para quem pagar. Usam
 
 ---
 
-## Neo Sampa: Gazetteer Urbano
+## Caldeira: Gazetteer Urbano
 
-Neo Sampa foi redesenhada após a Terceira Convergência — oito setores em formato radial, cada um com identidade própria. Os PJs vão se mover principalmente em três:
+Caldeira foi redesenhada após a Terceira Convergência — oito setores em formato radial, cada um com identidade própria. Os PJs vão se mover principalmente em três:
 
 ---
 
@@ -84,7 +84,7 @@ Fundada por Viajantes de origem afro-artoniana que chegaram durante a Convergên
 *Mestra Kofi:* P1/H5/R5 — PV 15/PM 30. Líder espiritual e professora. Sabe que O Circuito recruta de suas fileiras. Não aprova, mas entende. Ajudará os PJs se confiar na intenção deles. Desconfia de estudantes de academia formal por padrão.
 
 **Bar do Eclipse** — *Ponto de encontro neutro*  
-Bar de tecno-samba ao vivo quatro noites por semana. O dono, Ezequiel, cobra "taxa de neutralidade" — qualquer conflito que começa dentro do bar é resolvido no cimento do lado de fora. No Bar do Eclipse você pode encontrar qualquer facção arcana de Neo Sampa, porque todo mundo precisa de um lugar neutro. NPCs de O Circuito frequentam aqui nas quintas.
+Bar de tecno-samba ao vivo quatro noites por semana. O dono, Ezequiel, cobra "taxa de neutralidade" — qualquer conflito que começa dentro do bar é resolvido no cimento do lado de fora. No Bar do Eclipse você pode encontrar qualquer facção arcana de Caldeira, porque todo mundo precisa de um lugar neutro. NPCs de O Circuito frequentam aqui nas quintas.
 
 **Terreiro da Convergência**  
 Espaço sagrado gerenciado pela comunidade afro-arcana local. Aceita qualquer tradição, mas tem suas próprias regras. Magia de proteção aqui é mais forte sem razão explicada pelo sistema Victory. PJs que forem respeitosos e passarem um teste de R vs 3 (humildade genuína, não apenas polidez formal) podem acessar uma rede de aviso comunitária que O Circuito não consegue monitorar.
@@ -130,7 +130,7 @@ Expulsa da Academia Victory no segundo ano por decisão de V3ctor1us, classifica
 
 *Poderes:*
 - *Frequência Ilegal* (3PM): sintoniza qualquer Arca próxima na frequência que descobriu — inverte as defesas automáticas por 2 rodadas
-- *Rede de Contatos* (passivo): qualquer teste de informação em Neo Sampa tem Ganho
+- *Rede de Contatos* (passivo): qualquer teste de informação em Caldeira tem Ganho
 - *Memória Fotográfica Arcana* (0PM): recorda qualquer padrão de glifo que viu uma vez
 
 *Como usá-la:* Elisa não é vilã. Ela é uma antagonista com causa legítima e métodos questionáveis. Os PJs que investigam honestamente vão se ver na posição desconfortável de entender por que ela faz o que faz. Arcos de confronto puro são possíveis mas empobrecedores — o potencial dramático está no reconhecimento, não na derrota.
@@ -180,7 +180,7 @@ Terrano expulsa da Academia por "violação do protocolo de uso de laboratório"
 
 ### Contatos de Rua
 
-A moeda social de Neo Sampa não é dinheiro — é reciprocidade. Os PJs constroem uma **Rede de Contatos** ao longo da campanha: cada NPC ajudado, cada favor trocado, cada informação partilhada honestamente cria um vínculo que pode ser ativado depois.
+A moeda social de Caldeira não é dinheiro — é reciprocidade. Os PJs constroem uma **Rede de Contatos** ao longo da campanha: cada NPC ajudado, cada favor trocado, cada informação partilhada honestamente cria um vínculo que pode ser ativado depois.
 
 **Mecânica de Contatos:**  
 Cada contato tem um **Nível de Confiança** (1–3):
@@ -209,7 +209,7 @@ As duas dimensões são inversamente tensionadas: agir como braço do Conselho s
 
 ### Arcas Ilegais
 
-O Circuito opera quatro Arcas não-catalogadas sob Neo Sampa. Cada uma tem características próprias:
+O Circuito opera quatro Arcas não-catalogadas sob Caldeira. Cada uma tem características próprias:
 
 | Arca | Localização de Entrada | Conteúdo Principal | Risco |
 |---|---|---|---|
@@ -226,18 +226,18 @@ A **Arca Funda** é o núcleo do conflito. Elisa a descobriu enquanto pesquisava
 
 ### Sessão 1 — Chegada
 
-Os PJs chegam a Neo Sampa ou já estão lá. **Gancho de entrada** (o Mestre escolhe um):
+Os PJs chegam a Caldeira ou já estão lá. **Gancho de entrada** (o Mestre escolhe um):
 
 | d6 | Gancho |
 |----|--------|
 | 1 | Um amigo ou familiar de um PC desapareceu. O último sinal foi perto do Galpão 17 |
 | 2 | Diegão Costa aborda os PJs no Bar do Eclipse — ele precisa de "arcanautas com ética" para uma missão que não é exatamente legal mas definitivamente não é errada |
 | 3 | Seu Valdomiro pede um favor: alguém está usando o glifo de entrada da Academia como ponto de coleta para entregas não-identificadas |
-| 4 | Um NPC de sessão anterior da série S (Mira, Leo, Petra) está em Neo Sampa e está em apuros |
+| 4 | Um NPC de sessão anterior da série S (Mira, Leo, Petra) está em Caldeira e está em apuros |
 | 5 | Os PJs são contratados pelo Conselho Arcano como "consultores temporários" para investigar denúncias de Arcas irregulares — trabalho legítimo com incentivos moralmente complicados |
 | 6 | Uma Arca ilegal ativa espontaneamente e cospe três criaturas no mercado do Centro Arcano. Os PJs são os arcanautas mais próximos |
 
-**Objetivo da sessão:** estabelecer Neo Sampa como espaço, introduzir 2–3 NPCs de contato, plantar o primeiro fio que leva a O Circuito.
+**Objetivo da sessão:** estabelecer Caldeira como espaço, introduzir 2–3 NPCs de contato, plantar o primeiro fio que leva a O Circuito.
 
 ---
 
@@ -286,7 +286,7 @@ A campanha bifurca aqui. Os PJs precisam tomar uma posição:
 
 ### Sessão 5 — Escalada
 
-Independente da via escolhida, algo força a mão: **a Arca Funda ativa espontaneamente.** Elisa não estava pronta para isso. A ressonância com a Ala Leste da Academia é detectável a distância — V3ctor1us envia um sinal aos PJs, se eles ainda têm acesso aos sistemas da Academia: *"Anomalia dimensional detectada. Origem: Neo Sampa, Setor 6. Classificada como Nível de Atenção Quatro. Recomendo investigação imediata."*
+Independente da via escolhida, algo força a mão: **a Arca Funda ativa espontaneamente.** Elisa não estava pronta para isso. A ressonância com a Ala Leste da Academia é detectável a distância — V3ctor1us envia um sinal aos PJs, se eles ainda têm acesso aos sistemas da Academia: *"Anomalia dimensional detectada. Origem: Caldeira, Setor 6. Classificada como Nível de Atenção Quatro. Recomendo investigação imediata."*
 
 É o primeiro sinal de que V3ctor1us sabe exatamente onde a Arca Funda fica — e provavelmente sabia desde o início da campanha.
 
@@ -329,7 +329,7 @@ Para grupos que querem explorar o aftermath:
 
 ## Novos Kits Urbanos
 
-Estes kits representam especializações desenvolvidas *fora* do currículo formal. Disponíveis como kits secundários para personagens que passaram tempo substancial em Neo Sampa (ou cidades equivalentes pós-Convergência).
+Estes kits representam especializações desenvolvidas *fora* do currículo formal. Disponíveis como kits secundários para personagens que passaram tempo substancial em Caldeira (ou cidades equivalentes pós-Convergência).
 
 ---
 
@@ -393,6 +393,6 @@ Estes kits representam especializações desenvolvidas *fora* do currículo form
 ## Sementes para Futuras Campanhas
 
 - **Elisa não desaparece.** O que ela faz com o que encontrou na Arca Funda — e o que os PJs decidiram — vai moldar onde ela está quando aparecer de novo
-- **As comunidades de Neo Sampa.** Mestra Kofi, o Terreiro da Convergência, a Escola Livre da Rua 7 — todos foram afetados pelo que aconteceu. Nenhum deles está esperando passivamente
+- **As comunidades de Caldeira.** Mestra Kofi, o Terreiro da Convergência, a Escola Livre da Rua 7 — todos foram afetados pelo que aconteceu. Nenhum deles está esperando passivamente
 - **V3ctor1us sabia da Arca Funda.** Por quanto tempo? Por quê não agiu? O que isso diz sobre o que mais ela sabe e não age?
 - **Os outros expulsos.** Beto, Nara, Ines, Diegão — cada um foi empurrado para fora de um sistema que deveria incluí-los. Histórias individuais disponíveis para o Mestre expandir

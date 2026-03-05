@@ -33,12 +33,12 @@ Enquanto os PJs competem (ou apóiam o time da Academia), uma série de sabotage
 **Estilo de jogo:** Físico, resistência extrema, pouquíssima magia — usam o mínimo de PM para durar mais do que o adversário  
 **Flavor:** O campus de magia da UniPotência em Akibara, fundado por Viajantes que trouxeram tradição italiana de caçadores de monstros pós-Convergência. O MagiDerby deles é mais parecido com luta livre do que com esgrima arcana. São totalmente legais. Apenas assustadores.
 
-### Escola Solaris *(Neo Sampa — colégio preparatório de tecnomagia)*
+### Escola Solaris *(Caldeira — colégio preparatório de tecnomagia)*
 **Cores:** Branco e laranja  
 **Mascote:** O Fênix Menor  
 **Capitão:** Adriel Suntouched (P5/H3/R3 — ataque devastador, mobilidade extrema)  
 **Estilo de jogo:** Velocidade e poder bruto. Vencem fast ou não vencem.  
-**Flavor:** O colégio preparatório de tecnomagia de Neo Sampa tem muitos filhos de diplomatas e empresários arcanos. Muito confiantes em seu prestígio. Adriel é carismático mas arrogante — ele genuinamente acredita que Solaris vai ganhar e que o torneio é só uma formalidade.
+**Flavor:** O colégio preparatório de tecnomagia de Caldeira tem muitos filhos de diplomatas e empresários arcanos. Muito confiantes em seu prestígio. Adriel é carismático mas arrogante — ele genuinamente acredita que Solaris vai ganhar e que o torneio é só uma formalidade.
 
 ### Escola Nova Arton *(campus urbano, Vallindra — fundada por Viajantes)*
 **Cores:** Verde e preto  

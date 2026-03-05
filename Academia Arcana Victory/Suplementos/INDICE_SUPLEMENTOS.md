@@ -27,7 +27,7 @@
 
 | Código | Nome | Tipo | Dependências | Descrição |
 |---|---|---|---|---|
-| **C1** | Neo Sampa: Férias Arcanas | C | Caps. 7, 9 | Mini-campanha urbana de 3–4 sessões. Os PJs passam as férias em Neo Sampa e cruzam com Elisa Wanderley — antagonista moral que questiona o sistema que os PJs defendem. Introduz sistema de Reputação dual (Legitimidade × Cred) (**overlay**). |
+| **C1** | Caldeira: Férias Arcanas | C | Caps. 7, 9 | Mini-campanha urbana de 3–4 sessões. Os PJs passam as férias em Caldeira e cruzam com Elisa Wanderley — antagonista moral que questiona o sistema que os PJs defendem. Introduz sistema de Reputação dual (Legitimidade × Cred) (**overlay**). |
 | **C3** | Pós-Graduação: Os Mestres | C | C1, C2, ALA | Campanha de endgame: os PJs se formam e voltam como professores. Perspectiva invertida — agora eles são os NPCs que os calouros precisam navegar. Ideal para fechar arcos de campanha longa. |
 | **S4** | O Calouro Que Sumiu | S | ALA | Aventura de 1 sessão centrada na desaparição de Leo Bateman. Revelação significativa sobre V3ctor1us e seus critérios de "transferência vs. desaparecimento". Jogar após ALA para impacto máximo. |
 | **S5** | Quando a Arca Estremece | S | S4 | Aventura de 1–2 sessões. Setup do endgame da campanha: a Arca sofre um evento estrutural e V3ctor1us toma uma decisão autônoma com consequências para todos. Introduz Índice de Coesão (**overlay**). |
@@ -97,7 +97,7 @@ Para campanhas que seguem os 4 anos letivos completos:
 |---|---|---|
 | 1º Ano, 1º sem. | S1 (Primeiro Derby) | Tutorial de MagiDerby |
 | 1º Ano, 2º sem. | S2 (Noite na Biblioteca) | Primeiro suspense real |
-| Férias Ano 1–2 | C1 (Neo Sampa) | Mundo fora da escola |
+| Férias Ano 1–2 | C1 (Caldeira) | Mundo fora da escola |
 | 2º Ano, 1º sem. | S3 (Torneio) | Expansão de rival externo |
 | 2º Ano, 2º sem. | S4 (Calouro Que Sumiu) | Revelação sobre V3ctor1us |
 | 2º–3º Ano | ALA (Ala Leste) | Investigação do mistério central |
@@ -122,7 +122,7 @@ Classificação de todos os subsistemas introduzidos pelos suplementos:
 | **Social Links** | F4.5 | Persistent | Progressão de relacionamento 1–10. Ativar apenas se a campanha for de 30+ sessões. |
 | **Índice de Coesão** | S5 | Overlay | Estabilidade da Arca (100%→0%). Só durante S5 e arco de endgame. |
 | **Combustível Emocional** | Cap. 14 | Persistent | Track de 5 níveis de custo emocional da magia. Ativo se usando Cap. 14. |
-| **Reputação (L/C)** | C1 | Overlay | Legitimidade × Cred em Neo Sampa. Só durante C1. |
+| **Reputação (L/C)** | C1 | Overlay | Legitimidade × Cred em Caldeira. Só durante C1. |
 | **Rune-God Vínculo** | F2.5 | Overlay | Vinculo progressivo com criatura de Vontade. Por campanha MKR. |
 | **Sintonia Ninja** | F4.3 | Overlay | Caminho Ninja com progressão. Por campanha Naruto. |
 | **Resonância de Equipe** | F4.4 | Overlay | Poder de equipe por laços. Por campanha Fairy Tail. |
