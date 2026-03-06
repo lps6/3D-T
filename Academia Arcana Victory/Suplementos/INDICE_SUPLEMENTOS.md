@@ -10,16 +10,16 @@
 
 ## Visão Geral dos 8 Livros
 
-| Livro | Título | Tom | Franquias-Fonte | Aventura(s) | Mecânica Nova Central |
-|-------|--------|-----|-----------------|-------------|----------------------|
-| **L0** | A Verdade da Arca | Suspense institucional | — (conteúdo original) | S4, S5, C3, ALA | Contador de Detecção, Índice de Coesão |
-| **L1** | Estrelas & Cristais | Luminoso, épico | Sailor Moon, Cardcaptor, Precure, Rayearth | S1 + nova | Mecânica de Transformação |
-| **L2** | Tinta & Sombras | Sombrio, horror atmosférico | Deadly Education, The Magicians | S2 + nova | Custo da Magia unificado |
-| **L3** | Palavras de Poder | Contemplativo, rigoroso | Kingkiller, Eragon | Nova | Débito de Equilíbrio |
-| **L4** | Sangue & Legado | Aventureiro, institucional | Harry Potter, Percy Jackson, Shadowhunters | C2, S3 | Sistema de Linhagem + Glifos |
-| **L5** | Fogo & Liberdade | Épico, político | Mistborn, Owl House, Avatar | C1 + nova | Reputação Faccional |
-| **L6** | Laços & Máscaras | Shōnen, psicológico | Naruto, Fairy Tail, Persona | S6 + nova | Vínculos de Campanha |
-| **L7** | Desejos & Portais | Cômico, colorido | Padrinhos Mágicos, Star vs. Mal | Nova | Consequência Criativa |
+| Livro | Título | Tom | Temas Centrais | Aventura(s) | Mecânica Nova Central |
+|-------|--------|-----|----------------|-------------|----------------------|
+| **L0** | A Verdade da Arca | Suspense institucional | Conteúdo original | S4, S5, C3, ALA | Contador de Detecção, Índice de Coesão |
+| **L1** | Estrelas & Cristais | Luminoso, épico | Identidade planetária, Coleção de Artefatos, Poder de Amizade, Sacrifício Fundacional | S1 + nova | Mecânica de Transformação |
+| **L2** | Tinta & Sombras | Sombrio, horror atmosférico | Pressão ambiental letal, rigor técnico e custo mental | S2 + nova | Custo da Magia unificado |
+| **L3** | Palavras de Poder | Contemplativo, rigoroso | Compreensão como poder, Língua dos Nomes, Hard/Soft magic | Nova | Débito de Equilíbrio |
+| **L4** | Sangue & Legado | Aventureiro, institucional | Linhagem como mecânica, glifos corporais, sociedades secretas | C2, S3 | Sistema de Linhagem + Glifos |
+| **L5** | Fogo & Liberdade | Épico, político | Revolução faccional, glifomagia livre, disciplina filosófica | C1 + nova | Reputação Faccional |
+| **L6** | Laços & Máscaras | Shōnen, psicológico | Times ninjas, força dos laços, vida dupla e o Avesso | S6 + nova | Vínculos de Campanha |
+| **L7** | Desejos & Portais | Cômico, colorido | Desejos com consequências, magia dimensional pessoal | Nova | Consequência Criativa |
 
 ---
 
@@ -63,17 +63,17 @@
 
 **Tom:** Luminoso, épico, otimista  
 **Para quem:** Mesas que querem campanhas de identidade e vínculos; poder que vem de quem você é.  
-**Fontes consolidadas:** F2.2 (Sailor Moon), F2.3 (Cardcaptor Sakura), F2.4 (Precure), F2.5 (Magic Knight Rayearth), S1 (O Primeiro Derby)
+**Fontes consolidadas:** F2.2 (A Ordem das Sentinelas do Solstício), F2.3 (Guardiãs de Coleção), F2.4 (Parceiras de Ressonância), F2.5 (A Ordem das Cavaleiras do Vórtice), S1 (O Primeiro Derby)
 
 ### Capítulos
 
 | # | Título | Tipo | Conteúdo |
 |---|--------|------|----------|
 | cap00 | Mahou Shoujo na Mesa | Novo | Guia de tom e estrutura de sessão para o subgênero; como tratar a leveza com seriedade |
-| cap01 | Bishoujo Senshi Sailor Moon | F2.2 | Identidade planetária; Despertar Planetário como motor de progressão; 4 fichas |
-| cap02 | Cardcaptor Sakura | F2.3 | Coleção de Artefatos Arcanamente Independentes; aventuras auto-contidas; Kero como familiar |
-| cap03 | Pretty Cure | F2.4 | Subsistema Poder de Amizade; combate físico direto; transformação em duo |
-| cap04 | Magic Knight Rayearth | F2.5 | Cristais de Vontade; convocação de Rune-Gods; Sistema de Pilar (sacrifício fundacional) |
+| cap01 | A Ordem das Sentinelas do Solstício | F2.2 | Identidade planetária; Despertar Planetário como motor de progressão; 4 fichas |
+| cap02 | Guardiãs de Coleção | F2.3 | Coleção de Artefatos Arcanamente Independentes; aventuras auto-contidas; familiar arcano guardião |
+| cap03 | Parceiras de Ressonância | F2.4 | Subsistema Poder de Amizade; combate físico direto; transformação em duo |
+| cap04 | A Ordem das Cavaleiras do Vórtice | F2.5 | Cristais de Vontade; convocação de Pilares vinculados; Sistema de Pilar (sacrifício fundacional) |
 | cap05 | O Primeiro Derby | S1 | Aventura tutorial de 1 sessão; primeira partida de MagiDerby |
 | cap06 | Mecânica de Transformação | Novo | Sistema unificado que consolida os 4 subsistemas F2.x em base coerente |
 | cap07 | O Primeiro Despertar | Novo | Aventura nova: aluna descobre poderes de forma descontrolada durante aula comum |
@@ -86,13 +86,13 @@
 | **Despertar Planetário** | Persistent | Progressão de identidade mágica em camadas; desbloqueio por marcos emocionais |
 | **Subsistema Poder de Amizade** | Overlay | Bônus de combate proporcional ao número de aliados ativos na cena |
 | **Sistema de Pilar** | Overlay | Mecânica de sacrifício fundacional; personagem sustenta estrutura ao custo de si |
-| **Rune-God Vínculo** | Overlay | Vínculo progressivo com criatura de Vontade convocada |
+| **Vínculo do Pilar** | Overlay | Vínculo progressivo com Pilar de Vontade convocado |
 
 ### Grêmios, Escolas & Locais
 
 | O Que | Tipo | Novidade |
 |-------|------|----------|
-| **Mapeamento Franquia → Grêmio** | Conteúdo | Sailor Moon → Égide; Cardcaptor → Aurora; Precure → Monsoon; Rayearth → Casa da Coroa |
+| **Mapeamento Tom → Grêmio** | Conteúdo | Sentinelas → Égide; Guardiãs → Aurora; Parceiras → Monsoon; Cavaleiras → Casa da Coroa |
 | **Escola de Uiara** (Amazônia) | Escola externa | Magia conectada à natureza; referência cruzada com L3 |
 
 ---
@@ -101,15 +101,15 @@
 
 **Tom:** Sombrio, psicológico, horror atmosférico  
 **Para quem:** Mesas que querem magia com preço real, escola como ameaça, drama pesado.  
-**Fontes consolidadas:** F3.2 (Deadly Education), F3.3 (The Magicians), T1 (Somática Arcana), T2 (Academia Gótica), Y1 (O Crisol Sem Mestre), S2 (A Noite na Biblioteca)
+**Fontes consolidadas:** F3.2 (A Escola de Farhaven), F3.3 (O Colegiado de Thaumaturgia Aplicada), T1 (Somática Arcana), T2 (Academia Gótica), Y1 (O Crisol Sem Mestre), S2 (A Noite na Biblioteca)
 
 ### Capítulos
 
 | # | Título | Tipo | Conteúdo |
 |---|--------|------|----------|
 | cap00 | Calibrando a Escuridão | Novo | Guia de segurança e consent para temas pesados; calibração de tom em 5 dials |
-| cap01 | A Deadly Education | F3.2 | Pressão Ambiental; Afinidade Destrutiva; currículo letal; 3 fichas de sobreviventes |
-| cap02 | The Magicians | F3.3 | Rigor técnico; Fragmentação mental; Especialização por disciplina; vazio existencial |
+| cap01 | A Escola de Farhaven | F3.2 | Pressão Ambiental; Afinidade Destrutiva; currículo letal; 3 fichas de sobreviventes |
+| cap02 | O Colegiado de Thaumaturgia Aplicada | F3.3 | Rigor técnico; Fragmentação mental; Especialização por disciplina; vazio existencial |
 | cap03 | Somática Arcana | T1 | Magia gestual; Vício Arcano; modificadores de feitiço por gesto (alcance, intensidade, tempo) |
 | cap04 | Academia Gótica | T2 | 6 subgêneros de horror escolar; ferramentas de pacing; kit Visionária Sombria |
 | cap05 | O Crisol Sem Mestre | Y1 | Survival horror overlay; magia sem professor com risco de fragmentação |
@@ -130,7 +130,7 @@
 
 | O Que | Tipo | Novidade |
 |-------|------|----------|
-| **Mapeamento Franquia → Grêmio** | Conteúdo | Deadly Education → Obsidiana; The Magicians → Casa da Coroa |
+| **Mapeamento Tom → Grêmio** | Conteúdo | Farhaven → Obsidiana; Colegiado → Casa da Coroa |
 | **NPCs sombrios com ganchos cruzados** | Conteúdo | Cruzamentos entre criaturas de F3.2 e NPCs de F3.3 |
 
 ---
@@ -139,15 +139,15 @@
 
 **Tom:** Contemplativo, lírico, rigoroso  
 **Para quem:** Mesas que querem magic systems onde entender é poder; alto custo de conhecimento.  
-**Fontes consolidadas:** F3.4 (The Kingkiller Chronicle), F3.6 (Eragon/Ciclo da Herança), Y3 (Mecânica dos Nomes Verdadeiros), T4 (Magia Hard e Soft)
+**Fontes consolidadas:** F3.4 (A Universidade de Saleth), F3.6 (A Língua Antiga / Ciclo do Eco), Y3 (Mecânica dos Nomes Verdadeiros), T4 (Magia Hard e Soft)
 
 ### Capítulos
 
 | # | Título | Tipo | Conteúdo |
 |---|--------|------|----------|
 | cap00 | Palavras que Fazem Coisas | Novo | Framework unificado "compreensão como poder"; jogável sem conhecer nenhuma franquia |
-| cap01 | A Universidade | F3.4 | Simpatia, Alar, Sigilaria, Nomeação; 3 fichas (Kvothe, Denna, Ambrose); tensão de classe |
-| cap02 | A Língua Antiga | F3.6 | Proficiência na Língua dos Nomes (1–5); custo em PV; Vínculo Dragão; 5 Kits; 4 raças |
+| cap01 | A Universidade de Saleth | F3.4 | Vínculos Arcanos, Enfoque Duplo, Sigilaria, Nomeação; 3 fichas (Asel Marr, Seralind Vex, Korvin da Matta); tensão de classe |
+| cap02 | A Língua Antiga | F3.6 | Proficiência na Língua dos Nomes (1–5); custo em PV; Vínculo com Eco; 5 Kits; 4 raças |
 | cap03 | O Nome das Coisas | Y3 | Kit Nomeador; 3 métodos de descoberta; trilha de Débito de Equilíbrio; Bibliotecário do 3º Andar |
 | cap04 | Hard, Soft & o Gradiente | T4 | Três Leis de Sanderson para RPG; 3 Kits Hard; 3 modos Soft; 7 cenas-exemplo |
 | cap05 | O Nome Que o Grimório Esqueceu | Novo | Aventura de 2–3 sessões; Nome Verdadeiro incompleto; Débito como tensão central; 3 clímaces |
@@ -159,7 +159,7 @@
 |----------|------|-----------|
 | **Débito de Equilíbrio** | Persistent | Custo acumulativo de Nomes Verdadeiros (0–5); cada Nome descobre poder e vulnerabilidade |
 | **Proficiência na Língua dos Nomes** | Overlay | Escala 1–5; feitiços em Língua custam PV proporcional ao nível de proficiência |
-| **Simpatia / Alar** | Overlay | Magia técnica de Kingkiller; divisão de atenção mental como limite de poder |
+| **Vínculos Arcanos / Enfoque Duplo** | Overlay | Magia técnica de Saleth; divisão de atenção mental como limite de poder |
 | **Rigor da Universidade** | Passiva | Sem Perda em feitiços já lançados 3+ vezes; com Perda na primeira tentativa de feitiços novos |
 | **Kit Nomeador** | Kit | Magia de nomeação com 3 métodos de descoberta e penalidade narrativa de Débito |
 
@@ -167,11 +167,11 @@
 
 | O Que | Tipo | Novidade |
 |-------|------|----------|
-| **A Universidade** | Nova escola | Escola de magia técnica medieval; currículo segmentado; pobreza como obstáculo institucional |
-| **Academia dos Cavaleiros Renascentes** | Nova escola | Vínculo e tradição; floresta élfica-humana; ovos de dragão redescobertos; 5 kits |
+| **A Universidade de Saleth** | Nova escola | Escola de magia técnica medieval; currículo segmentado; pobreza como obstáculo institucional |
+| **Ordem dos Cavaleiros do Eco** | Nova escola | Vínculo e tradição; floresta élfica-humana; ovos do Eco redescobertos; 5 kits |
 | **Gurukula da Confluência** | Escola externa | Rigor contemplativo; espelho do Alar; sem competitividade institucional |
 | **Zawiya** (referência cruzada) | Escola externa | Abordagem filosófica à prática — T4 como framework de diálogo |
-| **Mapeamento → Grêmios** | Conteúdo | Kingkiller → Casa da Coroa; Eragon → Égide; Y3 → Grêmio Memória; T4 → Grêmio Síntese |
+| **Mapeamento Tom → Grêmios** | Conteúdo | Saleth → Casa da Coroa; Eco → Égide; Y3 → Grêmio Memória; T4 → Grêmio Síntese |
 
 ---
 
@@ -179,16 +179,16 @@
 
 **Tom:** Aventureiro, dramático, institucional  
 **Para quem:** Mesas que querem linhagem como mecânica; maior volume de opções de personagem da linha.  
-**Fontes consolidadas:** F3.1 (Harry Potter), F3.5 (Percy Jackson), F3.8 (Shadowhunters), T3 (Sociedades Secretas), K1 (Manual do Estudante Arcano), C2 (Brambleshire), S3 (O Torneio das Escolas)
+**Fontes consolidadas:** F3.1 (Academia Thornwall), F3.5 (Campo das Convergências), F3.8 (Ordem dos Glifeiros), T3 (Sociedades Secretas), K1 (Manual do Estudante Arcano), C2 (Brambleshire), S3 (O Torneio das Escolas)
 
 ### Capítulos
 
 | # | Título | Tipo | Conteúdo |
 |---|--------|------|----------|
 | cap00 | Linhagem como Mecânica | Novo | Framework genérico: Traço + Fardo + Status + Instrumento; sem franquia obrigatória |
-| cap01 | Harry Potter e a Escola que Criou um Gênero | F3.1 | Casas→Grêmios; varinhas; pontos de casa; 4 fichas (Harry, Hermione, Ron, Draco) |
-| cap02 | Percy Jackson e os Filhos dos Deuses | F3.5 | Herança Arcana: Dom Passivo + Marca Narrativa; cabines por divindade; 4 fichas |
-| cap03 | Caçadores das Sombras | F3.8 | Glifos Arcanos; Vínculo de Alma; Status de Facção; bestiário demoníaco; 6 kits |
+| cap01 | Academia Thornwall | F3.1 | Casas→Grêmios; varinhas; pontos de casa; 4 fichas pré-geradas |
+| cap02 | Campo das Convergências | F3.5 | Herança Arcana: Dom Passivo + Marca Narrativa; linhagens por divindade; 4 fichas |
+| cap03 | Ordem dos Glifeiros | F3.8 | Glifos Arcanos; Vínculo de Alma; Status de Facção; bestiário dimensional; 6 kits |
 | cap04 | Sociedades Secretas | T3 | 5 facções ocultas dentro dos grêmios; kit Agente Duplo; vantagem Membro de Sociedade |
 | cap05 | Manual do Estudante Arcano | K1 | 11 arquétipos acadêmicos (reskins do Manual do Arcanauta); tabela de uso por paradigma |
 | cap06 | A Outra Escola: Brambleshire | C2 | Campanha de intercâmbio de 8–12 sessões; escola britânica; 3 kits; o Quarto do Espelho |
@@ -212,10 +212,10 @@
 | O Que | Tipo | Novidade |
 |-------|------|----------|
 | **Brambleshire Academy** | Nova escola | Academia britânica; Sistema de Prefeitura; Quarto do Espelho; 3 kits exclusivos |
-| **Campo Meio-Sangue** | Novo local | Local de treinamento fora da cidade; franquia Percy Jackson |
-| **Mundo Oculto** | Setting-layer | Camada de sombras sobre a Academia; facções de Subterrâneos; hierarquia angelical |
+| **Campo das Convergências** | Novo local | Local de treinamento fora da cidade; PJs de origem não-arcana |
+| **Mundo Oculto** | Setting-layer | Camada de sombras sobre a Academia; facções de Subterrâneos *(🟡 nome AAV pendente — ver Parecer 34)* |
 | **5 Sociedades Secretas** | Novas facções | Dentro dos grêmios; cada uma com agenda e rito de iniciação próprios |
-| **Mapeamento Casas HP → Grêmios** | Conteúdo | Grifinória → Égide; Sonserina → Obsidiana; Corvinal → Casa da Coroa; Lufa-Lufa → Aurora |
+| **Mapeamento Casas Thornwall → Grêmios** | Conteúdo | Âncora → Aurora; Vértice → Casa da Coroa; Faísca → Égide; Meridiano → Obsidiana *(🟡 confirmar — ver Parecer 36)* |
 
 ---
 
@@ -223,7 +223,7 @@
 
 **Tom:** Épico, político, filosófico  
 **Para quem:** Mesas que querem questionar o sistema; arcos de revolução e conflito de valores.  
-**Fontes consolidadas:** F3.7 (Mistborn), F4.1 (Owl House), F4.2 (Avatar), C1 (Caldeira: Férias Arcanas)
+**Fontes consolidadas:** F3.7 (A Era dos Metais), F4.1 (A Escola da Bruxa Coruja), F4.2 (Quatro Nações, Uma Disciplina), C1 (Caldeira: Férias Arcanas)
 
 ### Capítulos
 
@@ -253,8 +253,8 @@
 |-------|------|----------|
 | **Caldeira** | Nova cidade | Cidade fora da Academia; rede de expulsos; economia paralela; Escola Livre da Rua 7 |
 | **Escola Livre da Rua 7** | Novo local | Escola informal de Mestra Kofi; ensino sem credencial; fora da jurisdição de V3ctor1us |
-| **Mundo dos Démônios** | Setting-layer | Camada de fundo para franquia Owl House; hierarquia cômica com consequências reais |
-| **Mapeamento Franquia → Grêmio** | Conteúdo | Mistborn → Obsidiana; Owl House → Nova Aurora; Avatar → Casa da Coroa/Síntese |
+| **Mundo dos Démônios** | Setting-layer | Camada de fundo dimensional; hierarquia cômica com consequências reais *(🟡 nome AAV pendente — ver Parecer 35)* |
+| **Mapeamento Tom → Grêmio** | Conteúdo | Era dos Metais → Obsidiana; Bruxa Coruja → Nova Aurora; Quatro Nações → Casa da Coroa/Síntese |
 
 ---
 
@@ -262,7 +262,7 @@
 
 **Tom:** Shōnen, psicológico, vínculo como poder  
 **Para quem:** Mesas onde relacionamentos têm peso mecânico; times, guildas, social links.  
-**Fontes consolidadas:** F4.3 (Naruto), F4.4 (Fairy Tail), F4.5 (Persona), S6 (Festival de Inverno)
+**Fontes consolidadas:** F4.3 (A Academia Ninja), F4.4 (A Guilda e a Família), F4.5 (O Avesso e o Outro Mundo), S6 (Festival de Inverno)
 
 ### Capítulos
 
@@ -270,8 +270,8 @@
 |---|--------|------|----------|
 | cap00 | Laços como Sistema | Novo | Framework genérico de Vínculos de Campanha; jogável sem conhecer nenhuma franquia |
 | cap01 | A Academia Ninja | F4.3 | Chakra bidirecional; Times de Três; Caminho Ninja com progressão; Exames de Campo |
-| cap02 | A Guilda e a Família | F4.4 | Força dos Laços como multiplicador de dano; Dragon Slayer; Guilda como mecânica de suporte |
-| cap03 | Persona e o Outro Mundo | F4.5 | Vida Dupla; Despertar de Persona; Social Links 1–10; Palácio e Sombra |
+| cap02 | A Guilda e a Família | F4.4 | Força dos Laços como multiplicador de dano; Magia de Origem *(🟡 ver Parecer 37)*; Guilda como mecânica de suporte |
+| cap03 | O Avesso e o Outro Mundo | F4.5 | Vida Dupla; Despertar de Aspecto; Social Links 1–10; O Avesso e a Sombra |
 | cap04 | Festival de Inverno | S6 | Aventura social de 1 sessão sem combate; laços sem urgência; rumores e reencontros |
 | cap05 | Progressão de Vínculo | Novo | Sistema unificado de Vínculos de Campanha consolidando os 3 subsistemas |
 | cap06 | A Missão de Formatura | Novo | Aventura de 2–3 sessões fora do campus; o desafio é manter o grupo coeso, não o inimigo |
@@ -283,16 +283,16 @@
 | **Vínculos de Campanha** | Persistent | Nível 1–5 por relação; bônus mecânicos por presença/ausência do vínculo |
 | **Sintonia Ninja** | Overlay | Time de 3: ataques coordenados com bônus escalonado; penalidade por membro ausente |
 | **Força dos Laços** | Overlay | Laço nomeado = multiplicador de dano em combate; custo narrativo proporcional |
-| **Social Links** | Persistent | Progressão de relacionamento 1–10; desbloqueio de poderes de Persona por nível |
+| **Social Links** | Persistent | Progressão de relacionamento 1–10; desbloqueio de poderes de Aspecto por nível |
 | **Vida Dupla** | Overlay | Dois calendários paralelos: escola diurna e dungeon noturna; gestão de tempo |
-| **Despertar de Persona** | Evento | Momento único de revelação da Sombra; cena não repetível por personagem |
+| **Despertar de Aspecto** | Evento | Momento único de revelação do Aspecto; cena não repetível por personagem |
 
 ### Grêmios, Escolas & Locais
 
 | O Que | Tipo | Novidade |
 |-------|------|----------|
 | **Palácio** | Local procedural | Dungeon personalizada por NPC; gerada por valores distorcidos do dono; única por campanha |
-| **Mapeamento Franquia → Grêmio** | Conteúdo | Naruto → Égide; Fairy Tail → Monsoon; Persona → Grêmio Memória |
+| **Mapeamento Tom → Grêmio** | Conteúdo | Academia Ninja → Égide; Chama Livre → Monsoon; O Avesso → Grêmio Memória |
 
 ---
 
@@ -300,7 +300,7 @@
 
 **Tom:** Cômico, colorido, magia pessoal  
 **Para quem:** Mesas que querem magia definida pelos jogadores; consequências criativas; tom mais leve da linha.  
-**Fontes consolidadas:** F4.6 (Padrinhos Mágicos), F4.7 (Star vs. as Forças do Mal)
+**Fontes consolidadas:** F4.6 (Desejos e Travessuras), F4.7 (Magia Dimensional)
 
 ### Capítulos
 

@@ -102,6 +102,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1px;
+  text-decoration: none;
 }
 
 .header-main {
@@ -652,4 +653,235 @@ body {
   }
 
   .markdown-content h1 { font-size: 1.3rem; }
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   Landing Page
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ── Landing container ───────────────────────────────────────── */
+#landing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: var(--header-height);
+  background: var(--c-sidebar-bg);
+  overflow-y: auto;
+}
+
+/* ── Hero ────────────────────────────────────────────────────── */
+.landing-hero {
+  width: 100%;
+  max-width: 860px;
+  text-align: center;
+  padding: 5rem 2rem 3.5rem;
+  position: relative;
+}
+
+/* Decorative top rule */
+.landing-hero::before {
+  content: '';
+  display: block;
+  width: 3rem;
+  height: 2px;
+  background: var(--c-active-accent);
+  margin: 0 auto 2rem;
+}
+
+.landing-eyebrow {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--c-sidebar-muted);
+  margin-bottom: 1.25rem;
+}
+
+.landing-title {
+  font-family: var(--font-heading);
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  font-weight: 700;
+  color: var(--c-sidebar-text);
+  letter-spacing: 0.06em;
+  line-height: 1.15;
+  margin-bottom: 1.5rem;
+}
+
+.landing-tagline {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--c-sidebar-muted);
+  font-style: italic;
+}
+
+/* ── Book cards grid ─────────────────────────────────────────── */
+.landing-grid {
+  width: 100%;
+  max-width: 960px;
+  padding: 0 1.5rem 4rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+/* ── Book card ───────────────────────────────────────────────── */
+.book-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.25rem 1.25rem 1rem;
+  background: #111827;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-top: 3px solid var(--card-accent, #c9a84c);
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  transition: background 0.18s, border-color 0.18s, transform 0.18s;
+  overflow: hidden;
+}
+
+.book-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--card-accent, #c9a84c);
+  opacity: 0;
+  transition: opacity 0.18s;
+}
+
+.book-card:hover {
+  background: #161e2e;
+  transform: translateY(-2px);
+  border-color: var(--card-accent, #c9a84c);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+}
+
+.book-card:hover::before {
+  opacity: 0.04;
+}
+
+/* Featured card (Livro Base) — spans full row */
+.book-card--featured {
+  grid-column: 1 / -1;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem 1.75rem;
+}
+
+.book-card--featured .book-card__title {
+  font-size: 1.3rem;
+}
+
+.book-card--featured .book-card__arrow {
+  margin-left: auto;
+  font-size: 1.4rem;
+}
+
+/* Card elements */
+.book-card__badge {
+  font-family: var(--font-ui);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--card-accent, #c9a84c);
+  position: relative;
+}
+
+.book-card__title {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 600;
+  color: #e2e8f0;
+  letter-spacing: 0.02em;
+  line-height: 1.3;
+  position: relative;
+}
+
+.book-card__subtitle {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--c-sidebar-muted);
+  line-height: 1.4;
+  position: relative;
+}
+
+.book-card__meta {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  color: rgba(107, 114, 128, 0.8);
+  margin-top: auto;
+  padding-top: 0.5rem;
+  position: relative;
+}
+
+.book-card__arrow {
+  font-size: 1.1rem;
+  color: var(--card-accent, #c9a84c);
+  opacity: 0;
+  transition: opacity 0.18s, transform 0.18s;
+  position: relative;
+  align-self: flex-end;
+}
+
+.book-card:hover .book-card__arrow {
+  opacity: 1;
+  transform: translateX(3px);
+}
+
+/* ── Landing footer ──────────────────────────────────────────── */
+.landing-footer {
+  margin-top: auto;
+  width: 100%;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.landing-footer p {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  color: var(--c-sidebar-muted);
+  line-height: 1.6;
+}
+
+.landing-footer em {
+  color: rgba(201, 168, 76, 0.7);
+  font-style: normal;
+}
+
+/* ── Landing responsive ──────────────────────────────────────── */
+@media (max-width: 768px) {
+  .landing-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .book-card--featured {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.4rem;
+  }
+
+  .book-card--featured .book-card__arrow {
+    margin-left: 0;
+    align-self: flex-end;
+  }
+
+  .landing-hero {
+    padding: 3rem 1.5rem 2.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .landing-grid {
+    grid-template-columns: 1fr;
+    padding: 0 1rem 3rem;
+  }
+
+  .landing-title {
+    font-size: 2rem;
+  }
 }

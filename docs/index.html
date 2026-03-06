@@ -24,17 +24,31 @@
       <span></span>
       <span></span>
     </button>
-    <div class="header-title">
+    <a href="#" class="header-title" aria-label="Voltar à página inicial">
       <span class="header-main">Academia Arcana Victory</span>
       <span class="header-sub">3D&amp;T Victory &mdash; Fan Supplement</span>
-    </div>
+    </a>
   </header>
 
   <!-- ── Mobile overlay ─────────────────────────────────────── -->
   <div id="sidebar-overlay" role="presentation"></div>
 
-  <!-- ── App shell ──────────────────────────────────────────── -->
-  <div id="app">
+  <!-- ── Landing page ───────────────────────────────────────── -->
+  <div id="landing">
+    <div class="landing-hero">
+      <p class="landing-eyebrow">Suplemento de Fãs para 3D&amp;T Victory</p>
+      <h1 class="landing-title">Academia Arcana<br>Victory</h1>
+      <p class="landing-tagline">Escolha um livro para começar a leitura</p>
+    </div>
+    <div class="landing-grid" id="landing-books"></div>
+    <footer class="landing-footer">
+      <p>Produção de fãs baseada em <em>3D&amp;T Victory</em>, criado por Marcelo Cassaro e publicado pela Jambô Editora.<br>
+      Conteúdo não-oficial, sem afiliação com a Jambô Editora, distribuído gratuitamente.</p>
+    </footer>
+  </div>
+
+  <!-- ── App shell (reader) ─────────────────────────────────── -->
+  <div id="app" style="display:none">
 
     <!-- Sidebar -->
     <nav id="sidebar" aria-label="Navegação dos livros">
