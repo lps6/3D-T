@@ -123,6 +123,9 @@
   - Sala de Aula, Corredor, Combate Arcano, Exploração
 - Novas Vantagens
 - Novas Desvantagens
+- Sistema de Familiar
+  - O Que É Um Familiar, Categorias de Familiar, Ritual de Vinculação
+  - Estágios de Progressão, Mecânicas de Ressonância, Familiares Pré-fabricados
 - MagiDerby — Roller Derby de Vassouras
   - Vassouras, Posições, Regras da Partida, Técnicas de MagiDerby
 - Itens Mágicos da Academia
@@ -177,6 +180,9 @@
   - Tropos do Anime Escolar Mágico
   - Seis Subgêneros de Campanha
   - Combinando Tons
+- Estruturas Narrativas de Mídia
+  - Estruturas de Anime, Estruturas de Livro, Outras Mídias
+  - Fichas de Estrutura (imprimíveis), Índice Cruzado por Tom
 
 ---
 
@@ -253,4 +259,4 @@
 
 ---
 
-*Suplementos standalone (publicações separadas): A1–A3 (Artigos), ALA, C1–C3, F-series, FAM1, K1, N1, T1–T4*
+*Suplementos standalone (publicações separadas): A1–A3 (Artigos), ALA, C1–C3, F-series, K1, T1–T4*
