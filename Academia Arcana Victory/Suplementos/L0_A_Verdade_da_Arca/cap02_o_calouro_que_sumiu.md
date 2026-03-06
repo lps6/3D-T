@@ -11,7 +11,7 @@
 **Jogadores:** 3–5 PJs (funciona melhor se pelo menos um PC conhecia Leo)
 **Tom:** Investigação + tensão moral + semente de arco maior
 **Ano de campanha recomendado:** 1º ou 2º Ano
-**Suplementos usados:** cap04 (Professores NPCs), cap07 (Ermos de Talude), Y1 (loops temporais)
+**Suplementos usados:** Livro/cap04 (Professores NPCs), L0/cap01 (Protocolo Ala Leste), L2/cap05 (O Crisol Sem Mestre — loops temporais)
 
 ---
 
