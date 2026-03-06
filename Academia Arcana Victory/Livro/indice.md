@@ -119,6 +119,7 @@
 - Novos Kits da Academia
   - Arcavaleiro, Mentalista, Glifista, Bruxo das Trevas, Lâmina Dançante, Astro do Derby
   - Duelista Arcano, Caçador de Segredos, Calouro Sortudo, Magizoólogo, Curamago
+  - Herdeira da Varinha Quebrada, Engenheiro de Fórmulas, Retornado, Prodígio Sem Contexto
 - Técnicas Avulsas
   - Sala de Aula, Corredor, Combate Arcano, Exploração
 - Novas Vantagens
@@ -221,6 +222,11 @@
   - Criaturas das Arcas *(pp. 4–8)*, Mascotes, Arcanautas Rivais e Arcanerds *(p. 22)*
   - Construtos *(p. 66)* e Armadilhas *(p. 30)*, Mechanopolis e Metalianos
   - Neo Sampa e o Mundo Exterior, Bruxas e Youkai *(p. 194)*, Dinossauros / Dragões / Kaiju
+- Referência Rápida: *F&F* na Academia
+  - Tabela de Correspondência: *F&F* → Academia
+  - Adaptação de Grau de Ameaça por Ano Letivo
+  - Convertendo Tesouros em Recompensas Estudantis
+  - Seis Cenas Prontas: *F&F* no Campus
 
 ---
 

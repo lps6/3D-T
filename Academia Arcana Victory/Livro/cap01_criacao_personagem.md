@@ -124,7 +124,7 @@ Na Academia, perícias não servem só para combate:
 
 ## Passo 4 — Que tipo de mago você é? (Kit)
 
-Kits são o coração mecânico do personagem — definindo seus poderes especiais e seu arquétipo dentro da Academia. O Capítulo 6 tem onze kits exclusivos, cada um com três poderes e uma identidade clara — e o *Manual do Arcanauta* fornece dezenas de outros que funcionam perfeitamente no cenário (ver Capítulo 12). A pergunta é: *o que seu personagem faz quando a situação exige mais do que o básico?*
+Kits são o coração mecânico do personagem — definindo seus poderes especiais e seu arquétipo dentro da Academia. O Capítulo 6 tem quinze kits exclusivos, cada um com três poderes e uma identidade clara: onze kits originais da Academia e quatro kits de inspiração (a Série F, baseados em arquétipos clássicos do gênero). O *Manual do Arcanauta* fornece dezenas de outros que funcionam perfeitamente no cenário (ver Capítulo 12). A pergunta é: *o que seu personagem faz quando a situação exige mais do que o básico?*
 
 > **Exemplo — Maitê (Maginauta):** Maitê resolve problemas tratando a magia como um sistema a ser hackeado. O kit Maginauta reflete isso perfeitamente: imersão no magiespaço para enxergar a estrutura mística, interferência em feitiços alheios e sobrecarga dos próprios. É a build da pessoa que fecha os olhos na aula de Teoria Arcana — não porque está dormindo, mas porque está vendo a magia por dentro.
 
@@ -132,11 +132,11 @@ Kits são o coração mecânico do personagem — definindo seus poderes especia
 
 > **Exemplo — Zed (Calouro Sortudo):** Zed não deveria estar vive. O kit Calouro Sortudo transforma incompetência técnica em protagonismo narrativo: Escape Miraculoso para sobreviver ao impossível, Talento Inesperado para acertar o que não deveria, e Magnetismo Narrativo para atrair soluções junto com os problemas. É o kit para quem quer jogar o Goku da escola: fraco no papel, imbatível na prática.
 
-(Os onze kits exclusivos estão no Capítulo 6. Os kits do *Manual do Arcanauta* estão contextualizados no Capítulo 12. Leia tudo antes de escolher — a graça é que nenhum deles faz a mesma coisa.)
+(Os quinze kits exclusivos — onze originais e quatro da Série F — estão no Capítulo 6. Os kits do *Manual do Arcanauta* estão contextualizados no Capítulo 12. Leia tudo antes de escolher — a graça é que nenhum deles faz a mesma coisa.)
 
 ### Arsenal do Arcanauta Acadêmico
 
-Além dos onze kits exclusivos da Academia Arcana, o *Manual do Arcanauta* é a base de conhecimento para qualquer estudante. Os kits daquele livro não são apenas permitidos; são o fundamento sobre o qual os kits da Academia são construídos.
+Além dos quinze kits exclusivos da Academia Arcana (os onze originais e os quatro da Série F), o *Manual do Arcanauta* é a base de conhecimento para qualquer estudante. Os kits daquele livro não são apenas permitidos; são o fundamento sobre o qual os kits da Academia são construídos.
 
 Este não é um livro de regras redundantes. É um livro de cenário. Para uma análise detalhada de como os kits clássicos do *Manual do Arcanauta* se encaixam na vida, nos grêmios e nos corredores da Academia Arcana, veja o **Capítulo 12 — Arsenal do Arcanauta Acadêmico**.
 

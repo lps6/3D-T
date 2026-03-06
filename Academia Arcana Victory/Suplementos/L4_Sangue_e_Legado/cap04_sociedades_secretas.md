@@ -12,7 +12,7 @@
 
 ## Integração com o Sistema de Legado (cap00)
 
-Sociedades Secretas não são franquias — são **estruturas que cruzam qualquer paradigma de herança**. Uma Sociedade existe independentemente de a campanha usar Harry Potter, Percy Jackson, ou Shadowhunters como base. Mas a forma como cada Sociedade *opera* muda dependendo do paradigma de herança ativo.
+Sociedades Secretas não são franquias — são **estruturas que cruzam qualquer paradigma de herança**. Uma Sociedade existe independentemente de a campanha usar Thornwall, Campo das Convergências, ou a Ordem dos Glifeiros como base. Mas a forma como cada Sociedade *opera* muda dependendo do paradigma de herança ativo.
 
 O Status de Herança (cap00) interage diretamente com Sociedades: pertencer a uma Sociedade pode aumentar ou diminuir seu Status com facções do paradigma escolhido. E o Fardo de Linhagem ganha uma camada extra quando o personagem carrega lealdades secretas além das declaradas.
 
@@ -29,7 +29,7 @@ O Status de Herança (cap00) interage diretamente com Sociedades: pertencer a um
 
 Esta seção é **nova** — não existia no suplemento original. Mostra como cada Sociedade funciona de modo diferente dependendo do paradigma ativo na campanha.
 
-### Em uma Campanha Harry Potter (cap01)
+### Em uma Campanha Thornwall (cap01)
 
 | Sociedade | Papel no Paradigma HP |
 |-----------|----------------------|
@@ -41,7 +41,7 @@ Esta seção é **nova** — não existia no suplemento original. Mostra como ca
 
 **Ajuste de Status:** Filhos da Convergência concedem +1 Status com famílias tradicionais e –1 com Terranos. Os Sem Nome concedem +1 com marginalizados e –1 com conservadores.
 
-### Em uma Campanha Percy Jackson (cap02)
+### Em uma Campanha Campo das Convergências (cap02)
 
 | Sociedade | Papel no Paradigma Percy |
 |-----------|--------------------------|
@@ -53,7 +53,7 @@ Esta seção é **nova** — não existia no suplemento original. Mostra como ca
 
 **Ajuste de Status:** Filhos da Convergência concedem +1 Status com panteão Artoniano e –1 com divindades estrangeiras. Os Sem Nome concedem +1 com espíritos da natureza e –1 com hierarquias divinas.
 
-### Em uma Campanha Shadowhunters (cap03)
+### Em uma Campanha Ordem dos Glifeiros (cap03)
 
 | Sociedade | Papel no Paradigma Shadowhunters |
 |-----------|----------------------------------|
@@ -247,9 +247,9 @@ O ritual planejado é colaboração arcana em larga escala — se conseguirem re
 | Referência | Relevância |
 |---|---|
 | cap00 — Linhagem como Mecânica (este livro) | Sociedades ajustam Status de Herança conforme paradigma ativo |
-| cap01 — Harry Potter (este livro) | Paralelos com purismo de sangue, Câmara Secreta, Ordem da Fênix |
-| cap02 — Percy Jackson (este livro) | Filhos não-reivindicados → Os Sem Nome; tradição divina → Filhos da Convergência |
-| cap03 — Shadowhunters (este livro) | Lista de Severin = recrutamento para reforma = Os Sem Nome; Conselho = Círculo Vectoriano |
+| cap01 — Academia Thornwall (este livro) | Paralelos com purismo de sangue, segredos institucionais, recrutamento por lealdade |
+| cap02 — Campo das Convergências (este livro) | Descendentes não-reconhecidos → Os Sem Nome; linhagem de Era das Arcas → Filhos da Convergência |
+| cap03 — Ordem dos Glifeiros (este livro) | Lista de Severin = recrutamento para reforma = Os Sem Nome; Conselho = Círculo Vectoriano |
 | L0 — A Verdade da Arca | A Ala Leste é o centro gravitacional de três Sociedades |
 | Cap. 3, Cap. 4, Cap. 9 do livro base | Grêmios, Wynna, V3ctor1us, Talude |
 

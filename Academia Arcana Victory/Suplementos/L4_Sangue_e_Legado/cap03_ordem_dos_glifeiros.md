@@ -1,23 +1,22 @@
-# Capítulo 3 — Caçadores das Sombras
+# Capítulo 3 — Ordem dos Glifeiros
 
 > *"Os glifos doem. Sempre doem. Se alguém te disser que parou de doer, é porque parou de sentir — e isso é pior."*
 > — Mestra Isolde Crain, durante treinamento de inscrição
 
 ---
 
-**Franquia:** Shadowhunters / The Mortal Instruments (terminologia genericizada)
 **Compatível com:** cap06 (Kits), cap09 (Toolkit do Mestre), A1 (Contrato Cármico), cap04 deste livro (Sociedades Secretas), FAM1
 
 ---
 
 ## Integração com o Sistema de Legado (cap00)
 
-Shadowhunters é a instância do Sistema de Legado em que a herança opera por **Sangue + Instituição**. O poder vem do sangue angelical — físico, inegável — mas é a Instituição (a Ordem dos Caçadores) que treina, controla, e limita o uso desse poder. É o paradigma mais denso mecanicamente deste livro: glifos permanentes e temporários, Vínculo de Alma, Status por facção em escala 1–5, hierarquia institucional com três segredos que mudam a campanha.
+A Ordem dos Glifeiros é a instância do Sistema de Legado em que a herança opera por **Sangue + Instituição**. O poder vem do sangue arcano-ancestral — físico, inegável — mas é a Instituição (a Ordem dos Glifeiros) que treina, controla, e limita o uso desse poder. É o paradigma mais denso mecanicamente deste livro: glifos permanentes e temporários, Vínculo de Alma, Status por facção em escala 1–5, hierarquia institucional com três segredos que mudam a campanha.
 
-| Componente | Em Shadowhunters |
-|------------|-----------------|
-| **Fonte de Legado** | Sangue (angelical) + Instituição (a Ordem dos Caçadores) |
-| **Traço de Linhagem** | Glifos Permanentes (até 3 na criação) + capacidades angelicais |
+| Componente | Na Ordem dos Glifeiros |
+|------------|------------------------|
+| **Fonte de Legado** | Sangue arcano-ancestral + Instituição (a Ordem dos Glifeiros) |
+| **Traço de Linhagem** | Glifos Permanentes (até 3 na criação) + capacidades da linhagem |
 | **Fardo de Linhagem** | Dor (cada glifo, sempre) + Expectativa (hierarquia opressora) |
 | **Status de Herança** | Status por Facção 1–5 com Conselho, Vampiros, Licantropos, Fadas, Warlocks |
 | **Instrumento** | Estilete Arcano — inscrito na pele, o corpo é o foco |
@@ -30,14 +29,14 @@ Shadowhunters é a instância do Sistema de Legado em que a herança opera por *
 
 ## Inscrição e Dor
 
-Glifos Arcanos são símbolos inscritos na pele com o Estilete Arcano. O Estilete é um instrumento metálico com ponta luminosa que queima o glifo na carne — não como tatuagem, mas como circuito mágico integrado ao corpo. A energia angelical do sangue do Caçador reage com o símbolo e ativa o poder.
+Glifos Arcanos são símbolos inscritos na pele com o Estilete Arcano. O Estilete é um instrumento metálico com ponta luminosa que queima o glifo na carne — não como tatuagem, mas como circuito mágico integrado ao corpo. A energia arcano-ancestral do sangue do Glifeiro reage com o símbolo e ativa o poder.
 
 Cada inscrição dói. O personagem nunca se acostuma. O que muda é a relação com a dor — de medo para aceitação, de aceitação para ritual, de ritual para necessidade.
 
 ## Tipos de Glifos
 
 ### Glifos Permanentes
-Inscritos no início da campanha (ou da vida do Caçador). Definem as especializações do personagem. Uma vez inscritos, não podem ser removidos sem consequência.
+Inscritos no início da campanha (ou da vida do Glifeiro). Definem as especializações do personagem. Uma vez inscritos, não podem ser removidos sem consequência.
 
 **Lista de Glifos Permanentes:**
 
@@ -93,7 +92,7 @@ Existem glifos que o Conselho da Ordem proibiu. Alguns foram banidos por instabi
 | Glifo Proibido | Efeito | Por Que é Proibido |
 |----------------|--------|-------------------|
 | **Mortem** (Morte) | Ataque instantâneo: se o teste de P vs. R do alvo vencer por 5+, o alvo morre | Poder excessivo — só o Conselho deveria autorizar execuções |
-| **Vindicta** (Memória Angelical) | Acesso a memórias de antepassados Caçadores | As memórias revelam segredos que o Conselho prefere esquecidos |
+| **Vindicta** (Memória Ancestral) | Acesso a memórias ancestrais da Era das Arcas | As memórias revelam segredos que o Conselho prefere esquecidos |
 | **Libertas** (Quebra de Vínculo) | Dissolve um Vínculo de Alma instantaneamente | A dor de ambos os parceiros é tão intensa que já matou — e o Conselho não quer o precedente |
 
 Uso de glifos proibidos é **detectável** — o Conselho tem sentinelas arcanas que registram assinaturas de glifos não-autorizados. A detecção leva 1d6 horas. Punição: julgamento sumário, com penas que vão de confinamento a exílio.
@@ -104,7 +103,7 @@ Uso de glifos proibidos é **detectável** — o Conselho tem sentinelas arcanas
 
 ## O Laço Sagrado
 
-O Vínculo de Alma é a relação mais profunda e consequente que dois Caçadores podem ter. É permanente, voluntário, e gravado em glifo — ambos os parceiros recebem a mesma inscrição, na mesma hora, com o mesmo Estilete.
+O Vínculo de Alma é a relação mais profunda e consequente que dois Glifeiros podem ter. É permanente, voluntário, e gravado em glifo — ambos os parceiros recebem a mesma inscrição, na mesma hora, com o mesmo Estilete.
 
 A partir desse momento, são dois, mas funcionam como um. Sentem a dor do outro. Sabem a direção do outro. Podem compartilhar energia em combate. E a morte de um machuca o outro de forma que vai além de luto.
 
@@ -145,14 +144,15 @@ Vínculo de Alma é **recomendado apenas para grupos que querem esse nível de i
 
 ## Os Quatro Pilares do Mundo Oculto
 
-### 1. Caçadores das Sombras
-Descendentes de humanos que receberam sangue angelical em um ritual há milênios. A herança os divide entre:
-- **Puristas:** Acreditam na superioridade inata dos Caçadores. Tratam Subterrâneos como ameaças a serem geridas.
+### 1. Glifeiros
+Descendentes de famílias com sangue arcano-ancestral desde a Era das Arcas. A herança os divide entre:
+- **Puristas:** Acreditam na superioridade inata dos Glifeiros. Tratam Subterrâneos como ameaças a serem geridas.
 - **Reformistas:** Reconhecem que a Ordem tem errado — historicamente e no presente — e querem mudança de dentro.
 - **Pragmáticos:** Não se importam com filosofia. Querem matar demônios e ir para casa.
+- **Questionadores do Sangue:** Argumentam que os glifos respondem ao treino e à intenção, não ao sangue. Sentem que a exigência do "sangue da Linha" é política, não fato — e que a Ordem usa esse critério para manter o poder nas mesmas famílias.
 
 ### 2. Subterrâneos
-O termo coletivo para seres sobrenaturais que não são Caçadores nem demônios: Vampiros, Licantropos, Fadas, e Warlocks. Cada grupo tem história, cultura, e ressentimentos legítimos contra a Ordem.
+O termo coletivo para seres sobrenaturais que não são Glifeiros nem demônios: Vampiros, Licantropos, Fadas, e Warlocks. Cada grupo tem história, cultura, e ressentimentos legítimos contra a Ordem.
 
 ### 3. Demônios
 A ameaça externa. Variados em forma, poder, e inteligência. Desde enxames instintivos até entidades estratégicas com planos de séculos. Demônios não são mal cartunesco — são predadores com motivações alienas mas internas.
@@ -219,7 +219,7 @@ Cada facção tem: atitude padrão, 2 mecânicas próprias, e 2 NPCs representat
 2. **Dívida de Honra:** Violação de território cria Dívida que só pode ser paga com ação, nunca com palavras.
 
 **NPCs:**
-- **Alpha Sorn:** Líder da Matilha. Cicatrizes que contam histórias que ele não conta. Respeita Caçadores que lutam ao lado dele. Despreza os que dão ordens de longe.
+- **Alpha Sorn:** Líder da Matilha. Cicatrizes que contam histórias que ele não conta. Respeita Glifeiros que lutam ao lado dele. Despreza os que dão ordens de longe.
 - **Jovem Rekke:** O mais novo da Matilha. Ansioso para provar valor. Perigosamente impulsivo. Os PCs provavelmente vão se identificar.
 
 ## Corte das Fadas
@@ -243,12 +243,12 @@ Cada facção tem: atitude padrão, 2 mecânicas próprias, e 2 NPCs representat
 2. **Pagamento Prévio Obrigatório:** Nenhum acordo sem pagamento feito antes. Sem crédito. Sem promessas.
 
 **NPCs:**
-- **Mestra Vaux:** A Warlock mais poderosa da região. Imortal. Cansada de Caçadores prometerem e falharem. Trata negociações como transações. Se genuinamente impressionada por um ato de coragem, pode oferecer desconto — que jamais admitiria.
-- **Estudante Oreth:** Warlock jovem na Academia dos Caçadores (ver Kit Warlock Estudante). Não deveria estar lá. Está porque Mestra Vaux mandou — e o motivo só será revelado quando a campanha exigir.
+- **Mestra Vaux:** A Warlock mais poderosa da região. Imortal. Cansada de Glifeiros prometerem e falharem. Trata negociações como transações. Se genuinamente impressionada por um ato de coragem, pode oferecer desconto — que jamais admitiria.
+- **Estudante Oreth:** Warlock jovem na Academia dos Glifeiros (ver Kit Warlock Estudante). Não deveria estar lá. Está porque Mestra Vaux mandou — e o motivo só será revelado quando a campanha exigir.
 
 ---
 
-# Parte V — A Academia dos Caçadores
+# Parte V — A Academia dos Glifeiros
 
 ## Cursos Oferecidos
 
@@ -276,7 +276,7 @@ Adorada. Não por ser gentil — por ser justa. Crain exige muito e é generosa 
 
 Temido. Notas impiedosas. Não simpatiza com argumentos sobre tratamento justo dos Subterrâneos.
 
-**O segredo:** Varne é parcialmente Subterrâneo. Meio-Warlock — mãe Caçadora, pai Warlock. Esconde isso com glifos que suprimem a assinatura mágica. Se descobrirem, sua carreira e sua vida acabam. Sua dureza com Subterrâneos é parcialmente compensação, parcialmente medo.
+**O segredo:** Varne é parcialmente Subterrâneo. Meio-Warlock — mãe Glifeira, pai Warlock. Esconde isso com glifos que suprimem a assinatura mágica. Se descobrirem, sua carreira e sua vida acabam. Sua dureza com Subterrâneos é parcialmente compensação, parcialmente medo.
 
 - P: 2 | H: 5 | R: 3
 - Kit: Investigador de Demônios (2 glifos ativos — mínimo necessário)
@@ -333,31 +333,31 @@ Temido. Notas impiedosas. Não simpatiza com argumentos sobre tratamento justo d
 
 ### Kit: Herdeiro Contestado
 
-**Exigências:** H 1, linhagem de Caçador
+**Exigências:** H 1, linhagem de Glifeiro
 
 *A linhagem abre portas. A linhagem também coloca alvos nas suas costas.*
 
 **Poderes:**
-- **Nome de Família.** +1 em testes sociais com Conselho e Caçadores conservadores. –1 com Subterrâneos que desconfiam da linhagem.
+- **Nome de Família.** +1 em testes sociais com Conselho e Glifeiros conservadores. –1 com Subterrâneos que desconfiam da linhagem.
 - **Acesso Privilegiado.** Pode acessar o Arquivo da Ordem 1×/arco sem autorização formal.
-- **Política como Arma.** 1×/sessão, pode invocar regra ou precedente da Ordem para forçar NPC a recuar de posição. Funciona contra Caçadores. Não funciona contra Subterrâneos.
+- **Política como Arma.** 1×/sessão, pode invocar regra ou precedente da Ordem para forçar NPC a recuar de posição. Funciona contra Glifeiros. Não funciona contra Subterrâneos.
 
 ### Kit: Warlock Estudante
 
 **Exigências:** H 2, segredo de identidade como Desvantagem
 
-*Você não usa glifos. Não tem sangue angelical. Está em uma escola de Caçadores e sua presença é um problema político.*
+*Você não usa glifos. Não tem sangue arcano-ancestral. Está em uma escola de Glifeiros e sua presença é um problema político.*
 
 **Poderes:**
 - **Magia Arcana.** Em vez de glifos, usa magia arcana: feitiços com custo em PM, versatilidade ilimitada, sem limite de "glifos ativos."
-- **Presença Controversa.** NPCs Caçadores conservadores: –1 em testes sociais. NPCs Subterrâneos: +1 (você é "um dos deles" no território inimigo).
+- **Presença Controversa.** NPCs Glifeiros conservadores: –1 em testes sociais. NPCs Subterrâneos: +1 (você é "um dos deles" no território inimigo).
 - **Guideline de Equilíbrio:** Garanta pelo menos 1 cena por sessão onde o Warlock é a solução mais eficiente.
 
 ### Kit: Investigador de Demônios
 
 **Exigências:** H 2
 
-*Alguns Caçadores matam demônios. Você quer saber por que eles estão aqui.*
+*Alguns Glifeiros matam demônios. Você quer saber por que eles estão aqui.*
 
 **Poderes:**
 - **Catalogação.** Ao encontrar demônio, teste de H: sucesso revela espécie, fraqueza, e comportamento padrão.
@@ -371,7 +371,7 @@ Temido. Notas impiedosas. Não simpatiza com argumentos sobre tratamento justo d
 | **Vínculo de Alma** | 3 pts | Mecânica completa da Parte II. Dois jogadores compram simultaneamente. |
 | **Biblioteca de Glifos Raros** | 2 pts | Acesso a 2 glifos temporários fora da lista padrão. Efeitos criados com o GM. |
 | **Aliança com Clã Subterrâneo** | 1 pt | Status 3 com um Clã à escolha no início da campanha (em vez de 1). |
-| **Sangue Excepcionalmente Forte** | 2 pts | Glifos permanentes concedem +1 bônus adicional. Preço: Subterrâneos sentem o sangue (+1 em detecção). |
+| **Sangue Excepcionalmente Forte** | 2 pts | Glifos permanentes concedem +1 bônus adicional. Preço: Subterrâneos sentem a linhagem (+1 em detecção). |
 | **Conexão com o Conselho** | 1 pt | 1 contato no Conselho. 1×/arco, informação privilegiada ou intervenção. O contato cobra reciprocidade. |
 | **Segredo Proibido** | 2 pts | Sabe algo que não deveria: identidade de Varne, lista de Severin, ou localização de glifo proibido. Poder — e perigo constante. |
 
@@ -383,7 +383,7 @@ Temido. Notas impiedosas. Não simpatiza com argumentos sobre tratamento justo d
 
 ### Vínculos e Vulnerabilidade
 
-A campanha de Caçadores das Sombras funciona melhor quando os PCs têm laços fortes entre si e com NPCs — porque esses laços são o que os inimigos vão tentar explorar.
+A campanha da Ordem dos Glifeiros funciona melhor quando os PCs têm laços fortes entre si e com NPCs — porque esses laços são o que os inimigos vão tentar explorar.
 
 **Regra para o GM:** A cada 3 sessões, identifique o NPC ou PC com quem cada personagem tem a relação mais forte. Crie uma situação onde essa relação é testada.
 
@@ -435,15 +435,15 @@ Severin mostra aos PCs uma profecia que afirma que um dos membros do grupo é a 
 |---|---|
 | A1 — O Contrato Cármico | Débito Cármico cruza com glifos proibidos |
 | cap00 — Linhagem como Mecânica (este livro) | Status por Facção = instância do Status de Herança; Glifos = Instrumento |
-| cap01 — Harry Potter (este livro) | Contraste: escola que protege vs. escola que forma soldados |
-| cap02 — Percy Jackson (este livro) | Herança divina vs. herança angelical — duas linhagens, custos diferentes |
+| cap01 — Academia Thornwall (este livro) | Contraste: escola que protege vs. escola que forma soldados |
+| cap02 — Campo das Convergências (este livro) | Herança divina vs. herança arcano-ancestral — duas linhagens, custos diferentes |
 | cap04 — Sociedades Secretas (este livro) | Severin recruta reformistas; o Círculo Vectoriano tem paralelo com o Conselho |
 | L2 — Tinta & Sombras | Tom sombrio compartilhado; Vício Arcano (T1) cruza com uso excessivo de glifos |
 | L6 — Laços & Máscaras | Vínculo de Alma dialoga com mecânicas de relacionamento |
 
 ---
 
-> *"Os glifos doem porque a magia custa. Se fosse de graça, qualquer um seria Caçador. E se qualquer um fosse Caçador, ninguém seria."*
+> *"Os glifos doem porque a magia custa. Se fosse de graça, qualquer um seria Glifeiro. E se qualquer um fosse Glifeiro, ninguém seria."*
 > — Diretor Caelum Varne, discurso de abertura do ano letivo
 
 ---

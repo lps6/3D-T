@@ -1,5 +1,5 @@
 # Cap. 01 — Desejos & Travessuras
-## Padrinhos Mágicos na Academia
+## O Tribunal das Fadas Arcanas na Academia
 
 ---
 
@@ -11,7 +11,11 @@
 
 ## Introdução
 
-A magia aqui não vem de estudo, disciplina ou talento inato. Vem de **Padrinhos Mágicos** — fadas atribuídas a estudantes que passam por dificuldades genuínas e cujos desejos têm força suficiente para dobrar a realidade.
+O **Tribunal das Fadas Arcanas** é uma instituição paralela à Academia Victory — antiga, burocrática, e funcionando de acordo com regras que nenhum professor de Teoria Arcana conseguiu colocar em nenhuma tabela de forma satisfatória. Não está na estrutura oficial. Não responde à Reitora Valdris. V3ctor1us tem registros de sua existência e os classifica como "eventos de magia não-catalogável, dentro de parâmetros observáveis."
+
+O Tribunal opera através de **Padrinhos Mágicos** — fadas atribuídas a estudantes que passam por dificuldades genuínas e cujos desejos têm força suficiente para dobrar a realidade.
+
+A magia aqui não vem de estudo, disciplina ou talento inato. Vem dos Padrinhos.
 
 O Padrinho ouve o desejo. Agita a varinha (ou estala os dedos, ou pisca — cada um tem sua maneira). O desejo se torna real.
 
@@ -27,7 +31,7 @@ Este capítulo é para mesas que querem **comédia com coração**. A diversão 
 
 ### Como Funciona a Atribuição
 
-Padrinhos Mágicos são fadas enviadas pelo **Departamento de Bem-Estar Juvenil Arcano** para estudantes que demonstram "Necessidade Emocional Verificável."
+Padrinhos Mágicos são fadas enviadas pelo **Departamento de Bem-Estar Juvenil Arcano** — braço operacional do Tribunal das Fadas Arcanas — para estudantes que demonstram "Necessidade Emocional Verificável."
 
 Tradução: você precisa estar genuinamente em dificuldade para receber um Padrinho. Não triste por capricho. Não entediado. *Em dificuldade real* — social, familiar, acadêmica, existencial.
 
@@ -182,7 +186,7 @@ A cadeia cresce. O personagem aprende. A solução, eventualmente, exige um pedi
 
 ## Da Rules — As Regras das Fadas
 
-As Regras existem para impedir que desejos destruam a realidade. Foram escritas ao longo de milênios pelo Departamento de Bem-Estar Juvenil Arcano. Como toda burocracia milenar: têm redundâncias, contradições e brechas que ninguém corrigiu.
+As Regras existem para impedir que desejos destruam a realidade. Foram escritas ao longo de milênios pelo Tribunal das Fadas Arcanas e compiladas pelo Departamento de Bem-Estar Juvenil Arcano. Como toda burocracia milenar: têm redundâncias, contradições e brechas que ninguém corrigiu.
 
 ### As 10 Regras Fundamentais
 

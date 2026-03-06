@@ -1,150 +1,118 @@
-# Apêndice — Grêmios, Escolas e Facções de L5
-## Usando as Franquias pela Lente da Academia
+# Apêndice — Estruturas e Entidades de L5
+
+Referência rápida das estruturas, instituições, sistemas e conexões introduzidas em *Fogo & Liberdade*.
 
 ---
 
-**Objetivo deste apêndice:** mapear cada franquia de L5 para grêmios existentes da Academia Victory, sugerir novas estruturas onde os IPs pedem algo que ainda não existe, e mostrar como usar os temas de cada capítulo via lente institucional — mesmo sem mencionar a franquia de origem.
+## Estruturas Introduzidas Neste Livro
 
-> **Nota de uso:** Todas as sugestões aqui assumem que o Mestre pode querer jogar os temas de L5 sem referenciar diretamente Mistborn, Owl House ou Avatar. O mapeamento de grêmio permite isso — o grêmio carrega os temas sem exigir que jogadores conheçam o IP.
+| Estrutura | Capítulo | Tipo | Localização |
+|-----------|----------|------|-------------|
+| Cidade de Lutharin | Cap. 01 | Metrópole com hierarquia arcana pós-revolução | Norte do continente; maior centro de Metalurgia Arcana |
+| Escola do Covil da Floresta Convergente | Cap. 02 | Escola mágica em floresta densa; dividida entre Trilha Única e Bile livre | Sul de Vallindra, floresta de vegetação arcana |
+| Escolas das Quatro Formas | Cap. 03 | Quatro academias elementais distintas; relação diplomática tensa entre si e com a Victory | Dispersas no continente por elemento (veja abaixo) |
 
 ---
 
-## Mistborn — Metais, Classe e a Nobre Questão
+## Lutharin — A Era dos Metais
 
-**Grêmio principal:** **Chama Perpétua**
-- Aristocracia estudantil — linhagem, herança, acesso privilegiado a certas Arcas
-- Tensão interna entre quem nasceu no prestígio e quem conquistou entrada
+**Natureza:** Metrópole; maior centro de Metalurgia Arcana do continente
+**Período Histórico:** A Era dos Metais durou aproximadamente três séculos, até a revolução de quarenta anos atrás
+**Estrutura pós-revolução:** Classes formais abolidas; estruturas informais intactas
 
-**Grêmio secundário:** **Forja Viva**
-- Manufatura, substância, trabalho prático sobre teoria
-- Alunos que processam recursos mágicos — análogo direto a Nascidos de Metal como trabalhadores do sistema
+**Classes Sociais:**
 
-**Dinâmica entre grêmios:**
-Chama Perpétua e Forja Viva têm relação historicamente assimétrica — Chama Perpétua tem mais representação no Conselho de Grêmios, Forja Viva produz mais das pesquisas que Chama Perpétua publica com seu nome. Nenhuma das duas costuma nomear isso diretamente.
+| Classe | Descrição | Status Atual |
+|--------|-----------|--------------|
+| Famílias Arcanas | Herança de Metalurgia de Ignição Ampla; controlam torres e acesso a recursos | Formalmente abolidas como classe — informalmente operacionais |
+| Cinzas | Habitantes dos bairros inferiores sob névoa metálica; historicamente sem acesso a Metalurgia | Emancipados formalmente; posição informal inalterada |
+| Mistos | Sangue de ambas as origens, frequentemente não documentado | Anomalia burocrática; fonte de tensão política |
 
-**School externa compatível:** Brambleshire (C2) — velha aristocracia mágica, hierarquia de linhagem mais explícita, antagonista natural para PJs de Forja Viva.
+**Mecânicas introduzidas:**
+- **Metalurgia de Ignição** — 8 metais com efeitos específicos; Reserva de Metal (R × 3); Ignição Ampla vs. Especialista
+- **Metalurgia de Armazenamento** — guarda de atributos em Reservatórios; custo imediato, ganho explosivo
+- **Metalurgia de Transferência** *(conteúdo do Mestre)* — Estacas Arcanas; custo permanente de Débito Cármico
+- **Reputação de Classe** — instância do sistema de Reputação Faccional (Cap. 05); eixos Legitimidade e Cred
 
-**Novo grêmio sugerido — Amalgama:**
-Se o Mestre quiser reproduzir o ciclo completo de Mistborn (o proscrito que aprende o sistema de dentro):
+**Conexões AAV:** ganchos cruzam com V3ctor1us (registros genealógicos), a Reitora Valdris (filial parceira em Lutharin), e a mecânica de Reputação Faccional (Cap. 05).
 
-| Elemento | Descrição |
+---
+
+## Escola do Covil da Floresta Convergente
+
+**Natureza:** Escola mágica em região de floresta de vegetação arcana
+**Fundação:** Dois séculos atrás — campus fora de cidade por incompatibilidade com modelo pedagógico urbano
+**Estado Atual:** Dividida entre facção conservadora (Trilha Única) e nova geração (Bile irrestrita)
+**Liderança:** Mestra Venarum — não se posiciona publicamente; votos internos selados há oito anos
+
+**Conceitos centrais:**
+
+| Conceito | Descrição |
 |----------|-----------|
-| Identidade | Alunos sem afiliação de casa clara; recém-transferidos; bolsistas de excelência sem rede social |
-| Função institucional | Tecnicamente têm acesso ao mesmo currículo — mas sem as redes informais que dão acesso real |
-| Conflito temático | Descobrir se o caminho é integrar o sistema ou questioná-lo |
-| Poder de grêmio | Acesso a informação que grêmios maiores não sabem que eles têm — logs, horários, rodapés de regulamento |
+| Magia de Bile | Energia biológica de fluido interno (bile sac); rápida, intuitiva, restrita à Trilha para seguidores |
+| Trilha Única | Regra de especialização única; multimagia é infração disciplinar para a facção conservadora |
+| Glifomagia | Método alternativo para praticantes sem bile sac; glifos compilados em qualquer superfície |
+| Palisman | Cristal-familiar que vincula a um praticante; pode ficar latente em objeto; tem personalidade mínima |
+| Status Irregular | Praticante fora da Trilha designada; acesso negado a recursos institucionais, acesso ampliado a redes não-institucionais |
+
+**Mecânicas introduzidas:**
+- **Regra da Trilha Única** — subsistema de campanha; Seguidor (+1 na Escola), Irregular (sem bônus, qualquer Escola), Glifista puro (invisibilidade burocrática)
+- **Kit Glifista** — 5 glifos básicos + combinações; preparação fora de combate; criação de novas combinações pela lógica interna
+- **Palisman** — extensão de FAM1 para familiar-objeto; ativo/inativo; trauma narrativo se objeto destruído
+
+**Conexões AAV:** ganchos cruzam com V3ctor1us (avaliação de aptidão que retorna erro), a Reitora Valdris (decisão de expulsão silenciosa), e o Cap. 05 (Reputação Faccional para status Irregular).
 
 ---
 
-## The Owl House — Trilhas, Grêmios Oficiais e o Que Não Couber
+## Escolas das Quatro Formas
 
-**Grêmio principal:** **Monsoon**
-- Acesso abrangente, mistura de estilos — alunos que não se encaixam num único caminho
-- Analogamente a alunos que constroem Trilha Própria
+**Natureza:** Quatro academias elementais independentes com campus próprios
+**Relação entre si:** Tratado de paz após guerra de oitenta anos; cicatriz institucional intacta
+**Relação com a Victory:** Troca de estudantes visitantes; raramente professores; tensão doutrinária frequente
 
-**Grêmio secundário:** **Tempestade Interior** (se existir na mesa) ou **Forja Viva**
-- Disciplina rígida, técnica sobre improviso
-- O oposto de Glifismo — alunos que dependem de infraestrutura de Bílis estabelecida
+**As Quatro Escolas:**
 
-**Dinâmica:**
-Monsoon frequentemente recebe alunos que foram "mal classificados" por outros grêmios. Isso cria um perfil de grêmio com alta diversidade de estilo e formação — e com a tensão entre quem está lá por escolha e quem está lá porque não tinha outra opção.
+| Escola | Elemento | Filosofia Central | Localização |
+|--------|----------|------------------|-------------|
+| Forma do Ar | Ar | Não-apego; deixar ir; movimento como estado natural | Planalto de Vanthur |
+| Forma da Água | Água | Adaptação; fluxo e dualidade; transformação sem perda de essência | Delta de Riven |
+| Forma da Terra | Terra | Firmeza; persistência; confronto direto como ato de honestidade | Planalto rochoso de Grenn |
+| Forma do Fogo | Fogo | Energia viva; paixão como motor; iniciativa como responsabilidade | Vale vulcânico de Ardhem |
 
-**Escola externa compatível:** Qualquer escola da rede V3ctor1us com sistema de trilhas mais rígido — o contraste entre "uma trilha por grêmio" e a abertura de Monsoon carrega o tema de Owl House sem nome.
+**A guerra de oitenta anos:** A Escola do Fogo tentou unificar as outras três à força. O tratado foi assinado. A nova liderança estuda a guerra como caso de falha filosófica. Se a crença é genuína ou performada permanece questão aberta.
 
-**Novo grêmio sugerido — Lacuna:**
-Para grupos que querem jogar diretamente com o tema "não existe trilha para isso":
-
-| Elemento | Descrição |
-|----------|-----------|
-| Identidade | Alunos cuja magia não foi classificada satisfatoriamente por V3ctor1us |
-| Função institucional | Tecnicamente são alunos regulares — mas o sistema não sabe bem o que fazer com eles |
-| Conflito temático | Provar que o que você faz é legítimo vs. decidir que não precisa ser |
-| Poder de grêmio | V3ctor1us tem dificuldade de prever alunos de Lacuna — Cred alto por padrão, Legitimidade sempre instável |
+**Mecânicas introduzidas:**
+- **Mapeamento de Kits** — Ar: Lâmina Dançante; Água: Curamago; Terra: Arcavaleiro; Fogo: Bruxo das Trevas
+- **Disciplina do Elemento — Marcadores de Chi** — 1 Marcador por demonstração de alinhamento filosófico genuíno; 3 Marcadores = –1 PM naquele elemento até fim da sessão; perde ao violar o alinhamento sob pressão
+- **Formas Especiais** — Domínio de Metal (Terra), Relâmpago (Fogo, Sugoi), Redirecionamento de Carga (defensivo), Domínio de Sangue (proibido)
+- **Portador do Equilíbrio** — papel especial para um PC; Estado de Equilíbrio (0 PM, condição narrativa); acesso a todos os quatro elementos
 
 ---
 
-## Avatar — Quatro Nações, Quatro Pilares
+## Tabela de Referência — Mecânicas por Capítulo
 
-**Grêmio principal:** Qualquer grêmio elemental existente na mesa — mas o tema de Avatar pede *quatro* casas em equilíbrio, não uma dominante.
-
-**Mapeamento recomendado:**
-
-| Nação | Grêmio |
-|-------|--------|
-| Nação do Ar | Monsoon |
-| Tribo da Água | Qualquer grêmio com foco em cura/adaptação |
-| Terra | Forja Viva |
-| Fogo | Chama Perpétua |
-
-**Dinâmica:**
-O tema de Avatar funciona melhor quando o Mestre trata os quatro grêmios mapeados como tendo filosofias genuinamente diferentes — não apenas como "times coloridos." A tensão que o Cap. 03 explora é sobre incompreensão entre estilos, não hierarquia.
-
-**Escola externa compatível:** S3 (Torneio das Escolas) é a estrutura natural para os "Quatro Pilares" — uma campanha sobre concorrência que se revela sobre entendimento mútuo.
-
-**Novo grêmio sugerido — Equilíbrio:**
-Para campanhas centradas no tema Avatar de integração de perspectivas:
-
-| Elemento | Descrição |
-|----------|-----------|
-| Identidade | Alunos que estudam em múltiplos grêmios, deliberadamente — não por indecisão, por método |
-| Função institucional | Reconhecidos formalmente como "intercâmbio interno" — sem casa fixa, mas com acesso múltiplo |
-| Conflito temático | Ser do meio não significa ter as respostas — significa ter acesso a todas as perguntas |
-| Poder de grêmio | Conexões cruzadas; podem activar recursos de qualquer grêmio aliado, mas sem profundidade em nenhum |
+| Mecânica | Capítulo | Complexidade |
+|----------|----------|--------------|
+| Metalurgia de Ignição (8 metais) | Cap. 01 | Média — Reserva de Metal separada de PM |
+| Metalurgia de Armazenamento | Cap. 01 | Alta — custo imediato + ganho diferido |
+| Metalurgia de Transferência | Cap. 01 (Mestre) | Alta — conteúdo pesado; requer ferramentas de consentimento |
+| Reputação de Classe | Cap. 01 | Baixa — instância de Cap. 05 |
+| Regra da Trilha Única | Cap. 02 | Baixa — subsistema de campanha on/off |
+| Kit Glifista | Cap. 02 | Média — preparação prévia + combinações |
+| Palisman | Cap. 02 | Baixa — extensão de FAM1 |
+| Marcadores de Chi | Cap. 03 | Média — rastreamento por elemento |
+| Estado de Equilíbrio | Cap. 03 | Alta — um PC específico; condicional narrativa |
+| Reputação Faccional | Cap. 05 | Alta — cola de todos os sistemas do livro |
 
 ---
 
-## Caldeira — A Arca Fora do Mapa
+## Compatibilidade com Outros Livros
 
-**Grêmio principal:** Não há equivalente direto. Caldeira é explicitamente extra-institucional.
-
-**Estrutura sugerida — Rede:** não é um grêmio registrado. É uma rede de alunos que têm conexão com Caldeira, em graus diferentes:
-
-| Nível de Conexão | Quem é |
-|-----------------|--------|
-| Visitante | Esteve em Caldeira, conhece alguém lá — sem afiliação |
-| Associado | Faz trabalhos ocasionais para O Circuito ou grupos similares |
-| Membro | Tem identidade dentro de Caldeira além da identidade acadêmica |
-| Residente | V3ctor1us sabe onde eles dormem. Ou acha que sabe. |
-
-**Grêmio que mais recebe alunos de perfil Caldeira:** Monsoon — por ser o grêmio que abriga quem não se encaixou em outras classificações.
-
-**Escola externa compatível:** Nenhuma escola equivale a Caldeira. Caldeira é o que acontece quando alguém crianças que deveriam estar em escola não têm escola. Isso é parte do ponto.
-
-**Novo grêmio sugerido — Circuito:**
-Para campanhas que incorporam os conflitos de Caldeira dentro da Academia:
-
-| Elemento | Descrição |
-|----------|-----------|
-| Identidade | Alunos com vida paralela fora da Academia — trabalho, família, comunidade que dependem deles |
-| Função institucional | Existem no papel; suas outras existências são invisíveis para o sistema |
-| Conflito temático | O que você deve à instituição que te financia vs. o que você deve a quem te criou |
-| Poder de grêmio | Redes externas; acesso a recursos que a Academia não sabe que existem; Cred em Caldeira automático |
-
----
-
-## Tabela de Referência Rápida
-
-| Franquia | Grêmio Principal | Grêmio Secundário | Escola Externa | Novo Grêmio Sugerido |
-|----------|-----------------|-------------------|----------------|---------------------|
-| Mistborn | Chama Perpétua | Forja Viva | Brambleshire | Amalgama |
-| Owl House | Monsoon | Forja Viva | Rede V3ctor1us (genérico) | Lacuna |
-| Avatar | Monsoon | Chama Perpétua / Forja Viva | S3 — Torneio das Escolas | Equilíbrio |
-| Caldeira | — | Monsoon | — | Circuito |
-
----
-
-## Como Usar Sem Mencionar a Franquia
-
-Para cada tema de L5, abaixo está a forma de introduzir o conflito via lente de grêmio — sem referenciar Mistborn, Owl House, ou Avatar.
-
-### Tema: Classe e Destino (Mistborn)
-*"Chama Perpétua e Forja Viva estão em conflito sobre quem tem direito de publicar pesquisa conjunta. Forja Viva fez o trabalho; Chama Perpétua tem o acesso ao periódico."*
-
-### Tema: Trilha Única vs. Improviso (Owl House)
-*"V3ctor1us está recommendando alunos de Monsoon para trilhas fora da academia com base em classificações que ninguém explicou. Alunos que não conseguem trilha reconhecida têm acesso limitado a certas Arcas."*
-
-### Tema: Quatro Filsofias, Uma Academia (Avatar)
-*"O Conselho de Grêmios tem representação desigual. Monsoon tem 2 votos. Chama Perpétua tem 4. Forja Viva tem 3. O quarto assento está vago desde que o último representante renunciou após tentativa de reforma."*
-
-### Tema: A Vida Fora do Mapa (Caldeira)
-*"Existe uma área nos andares inferiores da Academia que os mapas oficiais identificam como 'em manutenção' desde 2019. Alunos com conexão a Caldeira sabem que não está vazia."*
+| Sistema de L5 | Compatível com | Notas |
+|--------------|----------------|-------|
+| Metalurgia Arcana | T4 (Magia Hard e Soft) | Metalurgia é Hard Magic exemplar — derivação linear, custo claro |
+| Reputação de Classe | Cap. 05 (Reputação Faccional) | É instância direta; use o Cap. 05 como base |
+| Palisman | FAM1 (Sistema de Familiar) | Extensão do sistema; usar as regras de FAM1 como base |
+| Marcadores de Chi | T4 (Magia Hard e Soft) | Alinhamento filosófico como mecânica de calibração entre Hard e Soft |
+| Trilha Única | L2 (Tinta & Sombras) | L2 explora instituições opressivas por outros caminhos — sistemas se complementam |
+| Escola do Covil | L3 (Palavras de Poder, cap04) | O Gradiente Hard/Soft de L3 explica por que a Trilha Única é Hard e a Glifomagia é Soft |

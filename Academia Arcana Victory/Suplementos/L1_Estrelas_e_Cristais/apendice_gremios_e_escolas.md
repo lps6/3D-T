@@ -1,7 +1,4 @@
-# Apêndice — Grêmios, Escolas & Estrelas
-
-> *"Quatro franquias Mahou Shoujo, quatro filosofias de transformação. Quando vestimos essas referências na AAV, a pergunta não é 'em que grêmio a Sailor Moon estaria' — é 'que grêmio NASCE da filosofia que ela representa?'. A resposta já existe no Livro-Base."*
-> — Marcela Alban
+# Apêndice — Grêmios, Escolas & Entidades
 
 ---
 
@@ -20,38 +17,14 @@ O **Grêmio Prisma** é a tradução institucional de Estrelas & Cristais:
 | **Estilo de conjuração** | Transformação como catalisador; feitiços cooperativos; objetos pessoais como focos mágicos |
 | **Patrono potencial** | Esplenda (base teórica emocional) ou Jynx Monsoon (estética transformativa) |
 
-### As Quatro Franquias como Vertentes do Prisma
+### As Quatro Ordens como Vertentes do Prisma
 
-| Franquia | Filosofia de Poder | Vertente Prisma | Foco |
-|----------|-------------------|-----------------|------|
-| **Sailor Moon** | Identidade cósmica como destino | **Vertente Estelar** | Marcos emocionais despertam poder; transformação é revelação do eu verdadeiro |
-| **Cardcaptor Sakura** | Empatia e coleção como crescimento | **Vertente Curatorial** | Artefatos mágicos como extensão do cuidado; cada carta/objeto tem personalidade |
-| **Precure** | Amizade como combustível literal | **Vertente do Vínculo** | Poder compartilhado; sincronização de grupo; combate como ato de proteção |
-| **Magic Knight Rayearth** | Vontade inflexível molda realidade | **Vertente da Convicção** | Cristais que respondem à certeza interior; Mashins como extensão da crença |
-
----
-
-## Mapeamento para Grêmios Históricos
-
-Se o grupo **não** quiser fundar o Prisma, cada franquia se mapeia naturalmente:
-
-| Franquia | Grêmio Natural | Por quê |
-|----------|---------------|---------|
-| **Sailor Moon** | **Nova Aurora** | Identidade como expressão; transformação como ato de autenticidade; Lunar como magia emocional ampla |
-| **Cardcaptor Sakura** | **Grêmio Memória** | Colecionar, catalogar, preservar; cada carta tem história; a magia é relação com objetos de poder |
-| **Precure** | **Égide** | Proteção como motivação central; laços de equipe como dever; combate físico como última defesa |
-| **Magic Knight Rayearth** | **Castelo Obsidiana** | Vontade como poder bruto; a convicção individual supera a autoridade externa; Zagato e Pilar |
-
----
-
-## Mapeamento para Escolas Externas
-
-| Franquia | Escola | Conexão |
-|----------|--------|---------|
-| **Sailor Moon** | **Gurukula da Confluência** | A tradição de rituais longos que transcendem o mago individual — como Despertares Planetários que são maiores que a Senshi |
-| **Cardcaptor Sakura** | **Brambleshire Academy** | Stewardship de artefatos; Casa Caerwyn como tradição de custódia de objetos de poder; formalidade do processo |
-| **Precure** | **Escola de Uiara** | Magia como relação com o ambiente e com o grupo; poder coletivo que nasce de lugar e vínculo |
-| **Magic Knight Rayearth** | **Zawiya** | Magia como proposta, não como comando; o mundo responde à convicção genuína, o Pilar como forma extrema de diálogo |
+| Ordem | Filosofia de Poder | Vertente Prisma | Foco |
+|-------|-------------------|-----------------|------|
+| **Sentinelas do Solstício** | Identidade cósmica como destino | **Vertente Estelar** | Marcos emocionais despertam poder; transformação é revelação do eu verdadeiro |
+| **Guardiãs de Coleção** | Empatia e cuidado como crescimento | **Vertente Curatorial** | Artefatos mágicos como extensão do cuidado; cada objeto tem personalidade |
+| **Parceiras de Ressonância** | Amizade como combustível literal | **Vertente do Vínculo** | Poder compartilhado; sincronização de grupo; combate como ato de proteção |
+| **Cavaleiras do Vórtice** | Vontade infléxivel molda realidade | **Vertente da Convicção** | Cristais que respondem à certeza interior; Pilares como extensão da crença |
 
 ---
 
@@ -86,9 +59,28 @@ Se o Grêmio Prisma for fundado na campanha, sua primeira participação no Magi
 
 ---
 
+## Referência Rápida: Entidades Introduzidas no Livro 1
+
+| Entidade | Tipo | Capítulo | 
+|----------|------|----------|
+| Ordem das Sentinelas do Solstício | Ordem de guerreiras cósmicas | cap01 |
+| Núcleos Planetários | Artefatos de identidade (5 descritos) | cap01 |
+| Sistema Despertar Planetário | Mecânica de progressão por marcos | cap01 |
+| Artefatos Arcanamente Independentes | Entidades mágicas errantes com personalidade | cap02 |
+| Guardiã de Coleção | Papel narrativo (PC ou NPC) | cap02 |
+| Parceiras de Ressonância | Sistema de vínculo e Sintonia 0–3 | cap03 |
+| Valentina Arcos, Isabela Monteiro, Beatriz Cavalcante, Nara Okonkwo | PJs originais de Ressonância | cap03 |
+| Ordem das Cavaleiras do Vórtice | Ordem de praticantes de Magia de Vontade | cap04 |
+| Pilares | Entidades dimensionais de consciência difusa | cap04 |
+| Sistema de Cristais de Vontade | Mecânica de energia por convicção | cap04 |
+| Escola do Pilar | Escola conceitual (sem sede fixa) | Apêndice |
+| Grêmio Prisma | Grêmio da Academia fundado na filosofia deste livro | Apêndice |
+
+---
+
 ## Integração Recomendada
 
-1. **Ofereça o Grêmio Prisma como opção durante Sessão Zero.** Se alguém quer jogar Mahou Shoujo, o grêmio já tem base no Livro-Base.
+1. **Ofereça o Grêmio Prisma como opção durante Sessão Zero.** Se alguém quer jogar neste estilo de magia emocional, o grêmio já tem base no Livro-Base.
 
 2. **Use as vertentes como sub-especialidades.** Um grupo todo Prisma pode ter cada membro numa vertente diferente — criando dinâmica de equipe natural.
 

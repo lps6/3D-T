@@ -16,12 +16,12 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 
 | Kit | Fonte | Tipo | Exigências | Especialidade | Paradigma |
 |-----|-------|------|------------|---------------|-----------|
-| Guerreiro dos Glifos | cap03 (F3.8) | Combate | P2, R2 | Inscrição rápida, 5 glifos ativos, dano por marca | Shadowhunters |
-| Estratégico Vínculo | cap03 (F3.8) | Suporte/dupla | R2, Vínculo de Alma | Ressonância expandida, cobertura, telepatia | Shadowhunters |
-| Diplomata dos Subterrâneos | cap03 (F3.8) | Social | H2 | Rede de contatos, leitura de tensão, mediação | Shadowhunters |
-| Herdeiro Contestado | cap03 (F3.8) | Político | H1, linhagem | Nome de família, arquivo, política como arma | Qualquer |
-| Warlock Estudante | cap03 (F3.8) | Mágico | H2, segredo | Magia arcana (sem glifos), presença controversa | Shadowhunters |
-| Investigador de Demônios | cap03 (F3.8) | Investigação | H2 | Catalogação, rastreamento, ponto fraco | Shadowhunters |
+| Guerreiro dos Glifos | cap03 | Combate | P2, R2 | Inscrição rápida, 5 glifos ativos, dano por marca | Glifeiros |
+| Estratégico Vínculo | cap03 | Suporte/dupla | R2, Vínculo de Alma | Ressonância expandida, cobertura, telepatia | Glifeiros |
+| Diplomata dos Subterrâneos | cap03 | Social | H2 | Rede de contatos, leitura de tensão, mediação | Glifeiros |
+| Herdeiro Contestado | cap03 | Político | H1, linhagem | Nome de família, arquivo, política como arma | Qualquer |
+| Warlock Estudante | cap03 | Mágico | H2, segredo | Magia arcana (sem glifos), presença controversa | Glifeiros |
+| Investigador de Demônios | cap03 | Investigação | H2 | Catalogação, rastreamento, ponto fraco | Glifeiros |
 | Agente Duplo | cap04 (T3) | Intriga | H3, Enganação, MSS×2 | Dupla afiliação, rede de contatos, golpe interno | Qualquer |
 | Arcanist Warden | cap06 (C2) | Defesa/suporte | Saber, Thornwood 3+ | Wards, ressonância de fundação, memória de estrutura | Brambleshire |
 | Thornblade | cap06 (C2) | Combate | Luta, Dunmore 2+ | Corte arcano, dissolução, disciplina de impacto | Brambleshire |
@@ -31,17 +31,17 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 
 | Arquétipo | Kit Base | Exigências | Especialidade | Melhor Paradigma |
 |-----------|----------|------------|---------------|-----------------|
-| Veterano Acadêmico | Estudante | Qualquer perícia; Mentor | Rede + sobrevivência institucional | HP ★★★ |
-| Investigador de Anomalias | Detetive | Enganação, Percepção | Mistérios não-resolvidos | Shadowhunters ★★★ |
-| Pesquisador Arcano | Cientista | Saber | Magia como ciência | HP ★★★ |
-| Cronista da Academia | Menestreamer | Arte; Influência/Carismático; Famoso | Documentação + influência | HP ★★★ |
-| Assistente do Professor | Intendente | Arte/Sobrevivência; Improviso | Bastidores + coordenação | HP ★★★ |
-| Estrela do Campus | Idol | Arte; Carismático, Famoso | Carisma social | HP ★★ |
-| O Infiltrado | Impostor | Influência; Imitar | Persona sobre persona | Shadowhunters ★★★ |
+| Veterano Acadêmico | Estudante | Qualquer perícia; Mentor | Rede + sobrevivência institucional | Thornwall ★★★ |
+| Investigador de Anomalias | Detetive | Enganação, Percepção | Mistérios não-resolvidos | Glifeiros ★★★ |
+| Pesquisador Arcano | Cientista | Saber | Magia como ciência | Thornwall ★★★ |
+| Cronista da Academia | Menestreamer | Arte; Influência/Carismático; Famoso | Documentação + influência | Thornwall ★★★ |
+| Assistente do Professor | Intendente | Arte/Sobrevivência; Improviso | Bastidores + coordenação | Thornwall ★★★ |
+| Estrela do Campus | Idol | Arte; Carismático, Famoso | Carisma social | Thornwall ★★ |
+| O Infiltrado | Impostor | Influência; Imitar | Persona sobre persona | Glifeiros ★★★ |
 | Herdeiro Arcano | Abastado | Influência/Enganação; Riqueza | Linhagem + recursos + pressão | **Todos** ★★★ |
-| Presidente do Grêmio | Negociador | Influência; Carismático | Política estudantil | HP ★★★ |
-| Astro do MagiDerby | Superatleta | Esportes | Performance atlética | HP ★★★ |
-| Sombra do Campus | Ninja | Enganação; Mentor | Ciclos, brechas, infiltração | Shadowhunters ★★★ |
+| Presidente do Grêmio | Negociador | Influência; Carismático | Política estudantil | Thornwall ★★★ |
+| Astro do MagiDerby | Superatleta | Esportes | Performance atlética | Thornwall ★★★ |
+| Sombra do Campus | Ninja | Enganação; Mentor | Ciclos, brechas, infiltração | Glifeiros ★★★ |
 
 ---
 
@@ -49,12 +49,12 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 
 | Vantagem | Fonte | Custo | Efeito Resumido | Paradigma |
 |----------|-------|-------|-----------------|-----------|
-| Vínculo de Alma | cap03 (F3.8) | 3 pts | Laço permanente com parceiro: compartilhamento de PV, amplificação, telepatia | Shadowhunters |
-| Biblioteca de Glifos Raros | cap03 (F3.8) | 2 pts | 2 glifos temporários fora da lista padrão | Shadowhunters |
-| Aliança com Clã Subterrâneo | cap03 (F3.8) | 1 pt | Status 3 inicial com 1 Clã (em vez de 1) | Shadowhunters |
-| Sangue Excepcionalmente Forte | cap03 (F3.8) | 2 pts | Glifos permanentes com +1 bônus; Subterrâneos detectam sangue | Shadowhunters |
-| Conexão com o Conselho | cap03 (F3.8) | 1 pt | 1 contato no Conselho, informação 1×/arco | Shadowhunters |
-| Segredo Proibido | cap03 (F3.8) | 2 pts | Informação perigosa sobre NPCs ou glifos proibidos | Shadowhunters |
+| Vínculo de Alma | cap03 | 3 pts | Laço permanente com parceiro: compartilhamento de PV, amplificação, telepatia | Glifeiros |
+| Biblioteca de Glifos Raros | cap03 | 2 pts | 2 glifos temporários fora da lista padrão | Glifeiros |
+| Aliança com Clã Subterrâneo | cap03 | 1 pt | Status 3 inicial com 1 Clã (à escolha) | Glifeiros |
+| Sangue Excepcionalmente Forte | cap03 | 2 pts | Glifos permanentes com +1 bônus; Subterrâneos detectam sangue ancestral | Glifeiros |
+| Conexão com o Conselho | cap03 | 1 pt | 1 contato no Conselho, informação 1×/arco | Glifeiros |
+| Segredo Proibido | cap03 | 2 pts | Informação perigosa sobre NPCs ou glifos proibidos | Glifeiros |
 | Membro de Sociedade Secreta | cap04 (T3) | 2 pts | Poder Oculto + Vulnerabilidade de 1 Sociedade | Qualquer |
 
 ---
@@ -64,28 +64,28 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 | Subsistema | Fonte | Complexidade | O Que Faz | Paradigma Ideal |
 |------------|-------|-------------|-----------|-----------------|
 | **Sistema de Legado** | cap00 (novo) | Variável (2–4 componentes) | Framework genérico de herança: Traço + Fardo + Status + Instrumento | Qualquer / sem franquia |
-| **Varinhas e Vínculos** | cap01 (F3.1) | Baixa | Foco mágico com vínculo narrativo e comparação Hogwarts→Academia | HP |
-| **Herança Arcana** | cap02 (F3.5) | Média | Dom Passivo (poder) + Marca Narrativa (custo) por divindade progenitora | Percy |
-| **Glifos Arcanos** | cap03 (F3.8) | Alta | Sistema completo de inscrição: permanentes, temporários, proibidos, limites | Shadowhunters |
-| **Vínculo de Alma** | cap03 (F3.8) | Média | Mecânica de parceiros: ressonância, vulnerabilidade compartilhada | Shadowhunters |
-| **Status de Facção** | cap03 (F3.8) | Média | Tracking 1–5 por facção do Mundo Oculto | Shadowhunters |
+| **Focos Vinculados** | cap01 | Baixa | Foco mágico com vínculo narrativo e memória — comparação Thornwall→Academia | Thornwall |
+| **Herança Arcana** | cap02 | Média | Dom Passivo (poder) + Marca Narrativa (custo) por divindade da Era das Arcas | Campo |
+| **Glifos Arcanos** | cap03 | Alta | Sistema completo de inscrição: permanentes, temporários, proibidos, limites | Glifeiros |
+| **Vínculo de Alma** | cap03 | Média | Mecânica de parceiros: ressonância, vulnerabilidade compartilhada | Glifeiros |
+| **Status de Facção** | cap03 | Média | Tracking 1–5 por facção do Mundo Oculto | Glifeiros |
 | **Facções Ocultas** | cap04 (T3) | Média | 5 Sociedades com Poder Oculto + Vulnerabilidade + Agente Duplo | Qualquer |
 
 ---
 
 ## Guia Rápido: "O Que Escolher?"
 
-### Se sua campanha é de escola clássica (tom HP):
+### Se sua campanha é de escola clássica (tom Thornwall):
 - **Kit recomendado:** Veterano Acadêmico, Presidente do Grêmio, ou Herdeiro Arcano
 - **Subsistema:** Sistema de Legado (cap00) com Traço + Fardo (leve)
 - **Vantagem extra:** Membro de Sociedade Secreta para camada de intriga
 
-### Se sua campanha é de herança divina (tom Percy):
+### Se sua campanha é de herança divina (tom Campo):
 - **Kit recomendado:** Herdeiro Arcano (o mais sinérgico) ou Pesquisador Arcano
 - **Subsistema:** Herança Arcana (cap02) — Dom Passivo + Marca Narrativa
 - **Vantagem extra:** Qualquer do cap00 (Traço de Linhagem como vantagem narrativa)
 
-### Se sua campanha é institucional e sombria (tom Shadowhunters):
+### Se sua campanha é institucional e sombria (tom Glifeiros):
 - **Kit recomendado:** Guerreiro dos Glifos, Investigador de Demônios, ou Diplomata dos Subterrâneos
 - **Subsistema:** Glifos Arcanos + Status de Facção (denso, mas recompensador)
 - **Vantagem extra:** Vínculo de Alma (se dois jogadores quiserem) ou Segredo Proibido
@@ -105,10 +105,10 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 
 | Categoria | Quantidade | Fontes |
 |-----------|-----------|--------|
-| Kits de franquia (mecânicas novas) | 10 | F3.8 (6), T3 (1), C2 (3) |
+| Kits de franquia (mecânicas novas) | 10 | Glifeiros (6), T3 (1), C2 (3) |
 | Arquétipos acadêmicos (reskins) | 11 | K1 |
-| Vantagens exclusivas | 7 | F3.8 (6), T3 (1) |
-| Subsistemas mecânicos | 7 | cap00 (1), F3.1 (1), F3.5 (1), F3.8 (3), T3 (1) |
+| Vantagens exclusivas | 7 | Glifeiros (6), T3 (1) |
+| Subsistemas mecânicos | 7 | cap00 (1), Thornwall (1), Campo (1), Glifeiros (3), T3 (1) |
 | **Total de opções de personagem** | **35** | — |
 
 ---
@@ -120,12 +120,8 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 | Guerreiro dos Glifos + Warlock Estudante | Conceitos mutuamente exclusivos — um usa glifos, outro explicitamente não |
 | Agente Duplo + 0 Sociedades | Kit exige MSS×2; sem isso, não funciona |
 | Sistema de Legado + Herança Arcana + Glifos | Três subsistemas de herança simultâneos = burocracia, não drama. Escolha UM. |
-| Todas as 7 vantagens de F3.8 em um PC | Custo: 13 pts. Não sobra espaço para ser pessoa, só Caçador. |
+| Todas as 7 vantagens de Glifeiros em um PC | Custo: 13 pts. Não sobra espaço para ser pessoa, só Glifeiro. |
 
----
-
-> *"O propósito desta tabela é garantir que ninguém precise ler 400 páginas para escolher um kit. Se funcionou, me agradeça. Se não funcionou, me mande um e-mail."*
-> — Ribeiro, editora de equilíbrio mecânico, durante revisão final
 
 ---
 

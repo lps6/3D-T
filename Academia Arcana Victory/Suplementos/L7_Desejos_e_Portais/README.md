@@ -13,13 +13,13 @@ Este livro é sobre o tipo de magia que você não aprende — você *descobre*.
 
 Não há séculos de teoria por trás. Não há palavras precisas, metais calibrados ou glifos que exigem anos de prática para traçar sem sangrar. A magia aqui funciona porque *você existe* e porque *você quer*. A forma dela reflete isso: tem a sua cor, o seu cheiro, a sua personalidade. É pessoal a ponto de ser embaraçosa. É poderosa a ponto de ser perigosa. E é imprevisível de uma forma que nenhum professor de Teoria Arcana consegue explicar de forma satisfatória.
 
-As duas franquias deste livro chegaram à mesma conclusão por caminhos opostos:
+Este livro explora dois sistemas de magia criativa por caminhos complementares:
 
-- **Os Padrinhos Mágicos** descobriram que desejos são literais. Se você diz "eu desejo ser popular," todo mundo vai querer estar perto de você — todo mundo, sem exceção, ao mesmo tempo, de forma claustrofóbica e impossível de suportar. A magia não julga. A magia não interpreta. A magia *entrega*. E então você precisa lidar com o que pediu.
+- **O Tribunal das Fadas Arcanas** descobriu que desejos são literais. Se você diz "eu desejo ser popular," todo mundo vai querer estar perto de você — todo mundo, sem exceção, ao mesmo tempo, de forma claustrofóbica e impossível de suportar. A magia não julga. A magia não interpreta. A magia *entrega*. E então você precisa lidar com o que pediu.
 
-- **Star vs. as Forças do Mal** descobriu que magia é expressão. A mesma categoria de feitiço tem forma diferente dependendo de quem o lança: o que para uma aluna são borboletas de cristal que explodem em impacto, para outra é fumaça verde com olhinhos. A estética não é detalhe — é dado. E quando a magia sai do controle, ela revela exatamente o que o personagem foi treinado a esconder.
+- **A Tradição da Essência Manifesta** descobriu que magia é expressão. A mesma categoria de feitiço tem forma diferente dependendo de quem o lança: o que para uma aluna são borboletas de cristal que explodem em impacto, para outra é fumaça verde com olhinhos. A estética não é detalhe — é dado. E quando a magia sai do controle, ela revela exatamente o que o personagem foi treinado a esconder.
 
-O que une as duas: **criatividade tem peso**. Quanto mais criativo o uso da magia, mais imprevisível o resultado. Isso não é punição — é a premissa. A liberdade existe. As paredes também. O espaço entre os dois é onde as melhores histórias acontecem.
+O que une os dois sistemas: **criatividade tem peso**. Quanto mais criativo o uso da magia, mais imprevisível o resultado. Isso não é punição — é a premissa. A liberdade existe. As paredes também. O espaço entre os dois é onde as melhores histórias acontecem.
 
 ---
 
@@ -42,9 +42,9 @@ Para mesas que *não* querem:
 
 | Arquivo | Conteúdo |
 |---------|---------|
-| [cap00_criatividade_com_paredes.md](cap00_criatividade_com_paredes.md) | Framework genérico de Magia Criativa — jogável sem conhecer nenhuma franquia |
-| [cap01_desejos_e_travessuras.md](cap01_desejos_e_travessuras.md) | Padrinhos Mágicos: Desejos, Da Rules, Medidor de Necessidade, Padrinhos como NPCs |
-| [cap02_magia_dimensional.md](cap02_magia_dimensional.md) | Star vs. Mal: Essência Mágica, Grimório Familiar, Portais, Dimensões |
+| [cap00_criatividade_com_paredes.md](cap00_criatividade_com_paredes.md) | Framework genérico de Magia Criativa — jogável sem nenhum subsistema adicional |
+| [cap01_desejos_e_travessuras.md](cap01_desejos_e_travessuras.md) | Tribunal das Fadas Arcanas: Desejos, Da Rules, Medidor de Necessidade, Padrinhos como NPCs |
+| [cap02_magia_dimensional.md](cap02_magia_dimensional.md) | Tradição da Essência Manifesta: Essência Mágica, Grimório Familiar, Portais, Dimensões |
 | [cap03_consequencia_criativa.md](cap03_consequencia_criativa.md) | Sistema unificado: como combinar desejos e magia livre na mesma campanha |
 | [cap04_o_desejo_dimensional.md](cap04_o_desejo_dimensional.md) | Aventura nova: 1–2 sessões, tom cômico, tabela de complicações crescentes |
 | [apendice_20_dimensoes.md](apendice_20_dimensoes.md) | "20 Dimensões em 1 Frase" — toolkit rápido de improviso dimensional |
@@ -65,9 +65,9 @@ NPCs originais que aparecem neste livro.
 |------|--------|-------|----------------------|
 | Pancho | Fada Padrinho | NPC de suporte caótico | Fada rechonchuda com asas que batem devagar demais. Adoraria estar dormindo. Concede desejos com eficiência preguiçosa e surpreendente sabedoria. Já viu centenas de afilhados cometerem os mesmos erros — a preguiça não é incapacidade, é resignação de quem já sabe como acaba. |
 | Luz | Fada Padrinho | NPC de suporte entusiasta | Voa rápido demais, deixa trilha de glitter, fala como se estivesse narrando os próprios pensamentos. Sugere desejos antes de você terminar de pensar. O entusiasmo é real e o medo de ficar sozinha também. |
-| O Antigo | Fada Padrinho | NPC de informação críptica | Parece um avô muito velho muito pequeno. Fala em enigmas. Pode ser onisciente ou pode ser um ator extraordinário — ninguém no Tribunal das Fadas quer perguntar. |
+| O Antigo | Fada Padrinho | NPC de informação críptica | Parece um avô muito velho muito pequeno. Fala em enigmas. Pode ser onisciente ou pode ser um ator extraordinário — ninguém no Tribunal das Fadas Arcanas quer perguntar. |
 | Serra | Fada Padrinho | NPC de suporte emocional | Cheiro de pão assado, asas grandes, genuinamente preocupada com o afilhado. Já perdeu um afilhado para o esquecimento obrigatório das fadas. Cada relação nova é algo que ela sabe que vai olhar e não lembrar. |
-| Brix | Fada Padrinho | NPC transgressor | Jaqueta de couro, olheiras, lista de transgressões. Não é rebelde por diversão — viu as Regras causarem danos reais. Encontra brechas com competência profissional. |
+| Brix | Fada Padrinho | NPC transgressor | Jaqueta de couro, olheiras, lista de transgressões com o Tribunal. Não é rebelde por diversão — viu as Regras causarem danos reais. Encontra brechas com competência profissional. |
 | Mira Valdez | Estudante 3° ano | Desejadora Precisa | A aluna que tem um caderno com as Regras das Fadas anotadas e indexadas. Formulou cada desejo que já fez com três rascunhos antes de declarar. Os outros estudantes a odeiam até o dia que precisam dela. |
 | Tomás Espiral | Estudante 1° ano | Em situação de Caos Crescente | Chegou à Academia pensando que Padrinhos eram poder sem custo. Está na sua quarta cadeia de desejos consecutivos sem resolver nenhuma. O Padrinho dele (Luz) está exausta mas animada. |
 | Prof. Adélio Pires | Professor | Teórico Dimensional | Professor de Estudos Dimensionais. Tem opinião forte sobre portais abertos sem autorização e anotou todas elas em uma série de memorandos que ninguém leu. Entra em pânico controlado quando há instabilidade dimensional, o que é frequente neste livro. |
@@ -75,10 +75,10 @@ NPCs originais que aparecem neste livro.
 
 ---
 
-## Notas Editoriais
+## Notas de Uso
 
-**Cassaro:** *"O Livro 7 existe no polo oposto do Livro 2. Se Tinta & Sombras é o livro para mesas que querem sentir o peso da magia, Desejos & Portais é o livro para mesas que querem sentir a leveza dela. Nos melhores momentos, este livro deve fazer os jogadores rir em voz alta — e depois perceber que o personagem aprendeu algo antes de ele mesmo perceber. Comédia com coração não é comédia menor. É a mais difícil de escrever."*
+**Para o tema dos desejos sem Padrinhos como NPCs extensos:** o cap00 e o sistema do Medidor de Necessidade funcionam sem personalizar cada Padrinho. Escolha um tipo de Padrinho e simplifique a interação.
 
-**Lancaster:** *"A chave editorial deste livro é que cada franquia instancia o mesmo conceito — Magia Criativa — de formas que se complementam sem se sobrepor. Os Padrinhos Mágicos são o limite externo (o que acontece quando a magia atende literalmente). Star vs. Mal é o limite interno (o que acontece quando a magia atende emocionalmente). O cap03 é onde os dois sistemas constroem algo maior que a soma das partes."*
+**Para introduzir a Tradição da Essência Manifesta:** o sistema de Grimório Familiar (cap02) é o mais recompensador para mesas que querem progressão de longo prazo. Requer criação cuidadosa na sessão zero.
 
-**Teske:** *"Do ponto de vista mecânico, este é o livro com maior margem de erro criativo — o que é intencional. Um sistema que pune demais a criatividade mata a proposta. Um sistema que não pune nada vira Wish List. A Consequência Criativa (cap03) é o calibrador. Testem antes de publicar."*
+**Para mesas que querem os dois sistemas ao mesmo tempo:** o cap03 (Consequência Criativa) é o calibrador. Leia antes de combinar — o risco não é conflito mecânico, é volume de opções.

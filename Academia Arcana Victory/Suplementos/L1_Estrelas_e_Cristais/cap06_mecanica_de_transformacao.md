@@ -1,21 +1,20 @@
 # Cap. 06 — Mecânica de Transformação
 ## Sistema Unificado para Poderes de Identidade
 
-> *"O Cap. 06 é o mais importante do livro para equilíbrio de sistema. Os quatro suplementos F2.x foram escritos em momentos diferentes com premissas diferentes. A unificação preserva o que cada uma tem de especial enquanto garante que o sistema seja coerente."*
-> — Bruno Schlatter
+> *"Sentinelas do Solstício, Guardiãs de Coleção, Parceiras de Ressonância, Cavaleiras do Vórtice — quatro ordens chegaram à mesma descoberta por caminhos distintos: existe um estado entre quem você é e quem você pode ser. Esse espaço tem forma. Tem custo. E tem poder que o estado cotidiano não alcança."*
 
 ---
 
-## O Problema que Este Capítulo Resolve
+## O Que Este Capítulo Resolve
 
-Os quatro suplementos de franquia deste livro introduzem sistemas relacionados mas distintos:
+Os quatro capítulos anteriores introduzem sistemas relacionados mas distintos, cada um nascido de uma ordem ou prática diferente:
 
-| Franquia | Sistema Introduzido |
-|----------|-------------------|
-| Sailor Moon | Despertar Planetário (poderes por marcos emocionais) |
-| Cardcaptor Sakura | Artefatos Arcanamente Independentes (coleção expansível) |
-| Precure | Subsistema Poder de Amizade (mecânicas coletivas) |
-| Magic Knight Rayearth | Cristais de Vontade (energia por convicção) |
+| Capítulo | Sistema Introduzido | Origem |
+|----------|---------------------|--------|
+| Cap. 01 — Sentinelas do Solstício | Despertar Planetário (poderes por marcos emocionais) | Ordem das Sentinelas |
+| Cap. 02 — Guardiãs de Coleção | Artefatos Arcanamente Independentes (coleção expansível) | Prática das Guardiãs |
+| Cap. 03 — Parceiras de Ressonância | Subsistema Poder de Amizade (mecânicas coletivas) | Sistema de Sintonia |
+| Cap. 04 — Cavaleiras do Vórtice | Cristais de Vontade (energia por convicção) | Ordem das Cavaleiras |
 
 Um grupo que quer usar todos os quatro sistemas simultaneamente precisaria de uma camada de compatibilidade. Este capítulo fornece isso.
 
@@ -38,7 +37,7 @@ Toda personagem com poderes de identidade (de qualquer franquia deste livro) pod
 
 ## Como Cada Subsistema Se Integra
 
-### Despertar Planetário (Sailor Moon) + Estado Transformado
+### Despertar Planetário (Sentinelas do Solstício) + Estado Transformado
 
 O Estado Transformado base representa a forma de Sailor. O Despertar Planetário é uma *evolução* do Estado Transformado — quando ativado por Marco, o Despertar substitui o Estado Transformado padrão por uma versão de escala superior:
 
@@ -49,7 +48,7 @@ O Estado Transformado base representa a forma de Sailor. O Despertar Planetário
 
 Os dois não existem simultaneamente — Despertar ativado *substitui* o Estado Transformado padrão.
 
-### Artefatos Arcanamente Independentes (Cardcaptor Sakura) + Estado Transformado
+### Artefatos Arcanamente Independentes (Guardiãs de Coleção) + Estado Transformado
 
 Para personagens que coletam artefatos, o Estado Transformado se integra de forma diferente: em vez de representar transformação física, representa **estado de foco de selamento** — a personagem entra em modo de percepção expandida que habilita a mecânica de captura.
 
@@ -57,13 +56,13 @@ Para personagens que coletam artefatos, o Estado Transformado se integra de form
 - Dentro do Estado: automático — a personagem sente qualquer artefato na cena
 - Adicionalmente: o Selamento Empático pode ser usado sem custo de PM adicional enquanto o Estado está ativo (o PM já foi gasto na ativação)
 
-### Poder de Amizade (Precure) + Estado Transformado
+### Poder de Amizade (Parceiras de Ressonância) + Estado Transformado
 
 O subsistema Poder de Amizade é totalmente independente do Estado Transformado — é acoplável com qualquer franquia. Mas se dois PJs estão ambos em Estado Transformado quando Sincronização é ativada, o Ganho de cada um *se soma com* o Ganho do Estado Transformado — resultando em Ganho Duplo naqueles testes.
 
 Isso representa o pico de poder da Precure: quando todas estão transformadas e coordenadas, o poder combinado excede a soma das partes.
 
-### Cristais de Vontade (Rayearth) + Estado Transformado
+### Cristais de Vontade (Cavaleiras do Vórtice) + Estado Transformado
 
 Cristais de Vontade podem pagar o custo do Estado Transformado (1 Cristal = 1 PM para ativação). Mais importante: o Estado Transformado ativado via Cristal tem a seguinte propriedade extra:
 
@@ -93,12 +92,12 @@ Sem conflito. Use os subsistemas daquela franquia diretamente.
 
 Os quatro subsistemas foram calibrados para que o poder central de cada franquia chegue ao mesmo pico de escala aproximado:
 
-| Franquia | Pico de escala | Condição |
-|----------|---------------|----------|
-| Sailor Moon | Kami (Despertar) | Marco Narrativo resolvido |
-| Cardcaptor Sakura | Sugoi (artefato poderoso selado) | 9+ artefatos coletados |
-| Precure | Sugoi (Combo de Finalização) | Todos com PM para ativar simultaneamente |
-| Rayearth | Kami (Mashin invocado) | 5 Cristais acumulados |
+| Sistema | Pico de escala | Condição |
+|---------|---------------|---------|
+| Sentinelas — Despertar Planetário | Kami (Despertar) | Marco Narrativo resolvido |
+| Guardiãs — Artefatos Independentes | Sugoi (artefato poderoso selado) | 9+ artefatos coletados |
+| Parceiras — Combo de Finalização | Sugoi (Combo de Finalização) | Todos com PM + Sintonia 3 |
+| Cavaleiras — Pilar invocado | Kami (Pilar invocado) | 5 Cristais acumulados |
 
 Um grupo misto terá picos de escala distintos disponíveis em momentos distintos. Isso é intencional — o ciclo de "quem está no pico agora" cria spotlight rotativo natural.
 
@@ -108,15 +107,15 @@ Um grupo misto terá picos de escala distintos disponíveis em momentos distinto
 
 ### Mesa que quer simplicidade máxima
 
-Use **Estado Transformado base** + subsistema de **uma única franquia** para todos os PJs. Não misture subsistemas.
+Use **Estado Transformado base** + subsistema de **uma única prática** (Sentinelas, Guardiãs, Parceiras, ou Cavaleiras) para todos os PJs. Não misture subsistemas.
 
 ### Mesa que quer riqueza mecânica
 
-Combine Estado Transformado + Poder de Amizade (para todos) + subsistema individual por franquia (diferente para cada PC). Poder de Amizade funciona como cola que une PJs de franquias distintas.
+Combine Estado Transformado + Poder de Amizade (para todos) + subsistema individual por prática (diferente para cada PC). Poder de Amizade funciona como cola que une PJs de práticas distintas.
 
 ### Mesa que quer progressão longa
 
-Use Estado Transformado + Despertar Planetário (Sailor Moon) como sistema de progressão principal — o Despertar é o marco de maturidade do personagem que aguarda o momento certo por múltiplos arcos.
+Use Estado Transformado + Despertar Planetário (Sentinelas) como sistema de progressão principal — o Despertar é o marco de maturidade do personagem que aguarda o momento certo por múltiplos arcos.
 
 ---
 
@@ -129,10 +128,11 @@ Use Estado Transformado + Despertar Planetário (Sailor Moon) como sistema de pr
 | Artefato Arcanamente Independente | Item mágico com personalidade e intenção; pode ser selado como poder |
 | Poder de Amizade | Subsistema coletivo (Sincronização, Combo de Finalização, Barreira Emocional) |
 | Cristal de Vontade | Recurso gerado por ação alinhada com Crença Central; 1 Cristal = 2 PM equivalentes |
-| Mashin | Familiar de escala Kami desbloqueado com 5 Cristais de Vontade |
+| Pilar | Familiar de escala Kami desbloqueado com 5 Cristais de Vontade |
 | Crença Central | Axioma do personagem; define quando Cristais são ganhos ou perdidos |
 
 ---
 
 *Este capítulo é conteúdo original de mecânicas consolidadas.*
 *Os subsistemas individuais estão detalhados nos caps. 01–04.*
+*Sentinelas (cap01), Guardiãs (cap02), Parceiras (cap03), Cavaleiras (cap04).*

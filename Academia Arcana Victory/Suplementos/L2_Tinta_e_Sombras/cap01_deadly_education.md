@@ -1,20 +1,21 @@
-# Cap. 01 — A Deadly Education
-## Quando a Escola É a Ameaça
+# Cap. 01 — A Escola de Farhaven
+## Quando o Campus É a Ameaça
 
-> *"El Higgins não é heroína por ser poderosa. É heroína por decidir que sobreviver não vale a pena se for sozinha. Esse é o motor do capítulo: não o horror — a amizade que cresce apesar dele."*
-> — Bruno Schlatter
+> *"El não é heroína por ser poderosa. É heroína por decidir que sobreviver não vale a pena se for sozinha. Esse é o motor do capítulo: não o horror — a amizade que cresce apesar dele."*
 
 ---
 
 ## O Conceito
 
-Naomi Novik criou a Scholomance — uma escola sem professores, sem saídas antes da formatura, e onde aproximadamente 25% dos estudantes sem enclave morrem antes de sair. Os monstros (mals) infiltram cada corredor. O almoço é uma operação tática. A formatura é um Corredor da Morte literal.
+Farhaven é uma escola de magia sem campus fixo. Sem professores no sentido convencional. Sem saídas antes do ciclo de formatura se completar — e onde um percentual real de estudantes não sobrevive ao próprio currículo.
 
-Este capítulo traduz essa premissa para a Academia Arcana Victory sem replicar a Scholomance como cenário. Em vez disso, extrai os **três sistemas centrais** que fazem a obra funcionar como RPG:
+Não porque as criaturas sejam invencíveis. Porque o ambiente nunca foi domado para ser seguro. A escola cresceu em torno de uma anomalia arcana que produz maleficaria de forma contínua — *mals*, nas palavras dos estudantes, formas de energia hostil que tentam consumir qualquer presença mágica. Farhaven aprendeu a usar isso. Faz de conta que é pedagogia.
+
+Este capítulo não descreve Farhaven como cenário de campanha. Extrai os **três sistemas centrais** que fazem essa premissa funcionar como RPG — sistemas que podem ser usados dentro da Academia Victory para criar arcos de intensidade diferente:
 
 1. **Pressão Ambiental** — o campus como ameaça progressiva
 2. **Afinidade Arcana Destrutiva** — poder que puxa para o lado errado
-3. **Enclaves e Privilégio** — a escola reproduz a desigualdade do mundo
+3. **Protocolo Hostil** — o que acontece quando a escola para de fingir que é segura
 
 ---
 
@@ -56,7 +57,7 @@ Cada personagem tem um **Nível de Pressão** de 0 a 5:
 
 ## Afinidade Arcana
 
-Toda magia tem uma inclinação natural — destrutiva ou construtiva. Na Scholomance, El Higgins nasceu com Afinidade para destruição em massa. Na Academia Victory, isso traduz-se como:
+Toda magia tem uma inclinação natural — destrutiva ou construtiva. Na Escola de Farhaven, afinidade destrutiva é uma característica de linhagem que se manifesta em alguns estudantes desde o primeiro feitiço. Na Academia Victory, isso traduz-se como:
 
 ### Tabela de Afinidade Arcana
 
@@ -71,13 +72,13 @@ Na criação, o jogador escolhe (ou rola d6):
 
 **Mecânica:** Quando um personagem lança um feitiço **contra** sua Afinidade (destrutivo usando feitiço construtivo ou vice-versa), o custo em PM aumenta em 1 (moderada) ou 2 (extrema).
 
-**O Drama:** El Higgins tem Afinidade Destrutiva Extrema. Cada feitiço construtivo que ela lança custa mais do que deveria — porque toda fibra da sua magia *quer* destruir. O drama não é o poder; é a disciplina de usá-lo contra si mesmo.
+**O Drama:** El Cardoso tem Afinidade Destrutiva Extrema. Cada feitiço construtivo que ela lança custa mais do que deveria — porque toda fibra da sua magia *quer* destruir. O drama não é o poder; é a disciplina de usá-lo contra si mesmo.
 
 ---
 
 ## Escola Hostil: Modo de Campanha
 
-Para rodar uma campanha no estilo Scholomance dentro da Academia Victory:
+Para rodar uma campanha no estilo de Farhaven dentro da Academia Victory:
 
 ### Ativando o Modo Escola Hostil
 
@@ -92,7 +93,7 @@ O Mestre declara que, por motivo narrativo (falha de V3ctor1us, Tempestade de Ma
 
 ### O Corredor da Morte
 
-Clímax de arco Scholomance: saída do campus exige atravessar uma área onde maleficaria de alto nível se concentra.
+Clímax de arco de Farhaven: saída do campus exige atravessar uma área onde maleficaria de alto nível se concentra.
 
 **Mecânica:** Sequência de 3 testes em grupo:
 1. **Habilidade** (dificuldade 9) — navegação e esquiva
@@ -193,12 +194,12 @@ Cada falha individual custa ao personagem 5 PV. Duas falhas colocam o personagem
 
 ---
 
-## Tabela de Comparação: Scholomance vs. Academia
+## Tabela de Comparação: Escola de Farhaven vs. Academia Victory
 
-| Aspecto | Scholomance | Academia Victory |
-|---------|-------------|------------------|
-| Professores | Nenhum — livros auto-atualizados | Corpo docente completo |
-| Mortalidade | ~25% sem enclave morrem | Morte estudantil = escândalo |
+| Aspecto | Escola de Farhaven | Academia Victory |
+|---------|-------------------|------------------|
+| Professores | Supervisores à distância — livros auto-atualizados | Corpo docente completo |
+| Mortalidade | ~25% sem enclave morrem antes de formar | Morte estudantil = escândalo |
 | Ameaça principal | Mals onipresentes, escola nunca segura | Ameaças externas; campus relativamente seguro |
 | Formatura | Corredor da Morte literal | Cerimônia festiva |
 | Socialização | Alianças de sobrevivência | Grêmios como comunidade |
@@ -216,7 +217,7 @@ Um vórtice dimensional despeja Orion Monteiro no pátio da Academia às 7h de u
 **O Problema:** V3ctor1us detecta a anomalia. O vórtice está fechado — com sinais de que poderia ser reaberto. Do outro lado, PM acumulado equivalente a trezentos mals esperando.
 
 ### "Pressão 5"
-Surtos inexplicáveis transformam o campus: criaturas nos dutos, livros desaparecendo, um professor encontrado em material de teia-mal. A Academia está se comportando como a Scholomance.
+Surtos inexplicáveis transformam o campus: criaturas nos dutos, livros desaparecendo, um professor encontrado em material de teia-mal. A Academia está se comportando como Farhaven.
 
 **Responsável possível:** Professor com ideias radicais, estudante da Obsidiana testando "pedagogia de pressão", ou — mais sombrio — V3ctor1us testando hipótese sobre qual ambiente maximiza desenvolvimento arcano.
 
@@ -228,7 +229,7 @@ A premissa da escola hostil é um **modo de campanha distinto**, não o padrão.
 
 Use com parcimônia. O Subsistema de Pressão e os Marcadores são para arcos específicos — não campanha inteira, a menos que o grupo tenha sinalizado.
 
-E lembre: o ponto emocional de *A Deadly Education* não é o horror — é a amizade que emerge *apesar* do horror. El e Orion e Rory sobrevivem juntos não por serem invencíveis, mas por decidirem que valia a pena fazer isso juntos.
+E lembre: o ponto emocional de Farhaven não é o horror — é a amizade que emerge *apesar* do horror. El e Orion e Rory sobrevivem juntos não por serem invencíveis, mas por decidirem que valia a pena fazer isso juntos.
 
 ---
 
@@ -244,4 +245,4 @@ E lembre: o ponto emocional de *A Deadly Education* não é o horror — é a am
 
 ---
 
-*Referências: Y1 — O Crisol Sem Mestre (Cap. 05). T1 — Somática Arcana (Cap. 03). F3.3 — The Magicians (Cap. 02). Cap. 00 — Calibrando a Escuridão.*
+*Referências: Y1 — O Crisol Sem Mestre (Cap. 05). T1 — Somática Arcana (Cap. 03). Cap. 00 — Calibrando a Escuridão.*

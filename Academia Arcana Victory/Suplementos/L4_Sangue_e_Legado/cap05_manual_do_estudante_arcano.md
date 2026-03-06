@@ -12,13 +12,13 @@
 
 ## Integração com o Sistema de Legado (cap00)
 
-Os onze arquétipos deste capítulo não pertencem a nenhuma franquia — são genéricos para qualquer campanha de Academia Arcana Victory. Mas quando a campanha usa um dos três paradigmas de herança (Harry Potter, Percy Jackson, Shadowhunters), certos arquétipos brilham mais que outros.
+Os onze arquétipos deste capítulo não pertencem a nenhuma franquia — são genéricos para qualquer campanha de Academia Arcana Victory. Mas quando a campanha usa um dos três paradigmas de herança (Thornwall, Campo das Convergências, Ordem dos Glifeiros), certos arquétipos brilham mais que outros.
 
 A tabela abaixo é **nova** — indica a afinidade de cada arquétipo com cada paradigma. ★★★ = sinergia forte, ★★ = funciona bem, ★ = funcional mas sem sinergia especial.
 
 ### Tabela de Afinidade por Paradigma
 
-| Arquétipo | HP (cap01) | Percy (cap02) | Shadowhunters (cap03) | Nota |
+| Arquétipo | Thornwall (cap01) | Campo (cap02) | Glifeiros (cap03) | Nota |
 |-----------|:---:|:---:|:---:|------|
 | Veterano Acadêmico | ★★★ | ★★ | ★★ | Escola longa = mais anos; sinergia natural com casas/grêmios |
 | Investigador de Anomalias | ★★ | ★ | ★★★ | Melhor quando há conspiração institucional (Shadowhunters) |
@@ -227,10 +227,10 @@ Sabe como estar no lugar errado na hora errada sem que ninguém verifique. Não 
 
 | Combinação | Paradigma | Efeito |
 |-----------|-----------|--------|
-| Investigador de Anomalias + Investigador de Demônios (cap03) | Shadowhunters | Catalogação + Pistas = investigação paranormal completa |
-| Herdeiro Arcano + Herdeiro Contestado (cap03) | Shadowhunters | Legado duplo: família arcana + linhagem de Caçador |
+| Investigador de Anomalias + Investigador de Demônios (cap03) | Glifeiros | Catalogação + Pistas = investigação paranormal completa |
+| Herdeiro Arcano + Herdeiro Contestado (cap03) | Glifeiros | Legado duplo: família arcana + linhagem de Glifeiro |
 | Sombra do Campus + Agente Duplo (cap04) | Qualquer | Infiltração física + infiltração social = acesso total |
-| Presidente do Grêmio + Diplomata dos Subterrâneos (cap03) | Shadowhunters | Política escolar + política de facções = diplomata perpétuo |
+| Presidente do Grêmio + Diplomata dos Subterrâneos (cap03) | Glifeiros | Política escolar + política de facções = diplomata perpétuo |
 | Veterano Acadêmico + Kit qualquer de C2 (cap06) | Brambleshire | Veterano que já fez intercâmbio = guia natural |
 
 ---
@@ -258,7 +258,7 @@ Sabe como estar no lugar errado na hora errada sem que ninguém verifique. Não 
 | Referência | Relevância |
 |---|---|
 | cap00 — Linhagem como Mecânica (este livro) | Herdeiro Arcano = instância natural do Sistema de Legado |
-| cap03 — Shadowhunters (este livro) | 6 kits de franquia que combinam com estes 11 |
+| cap03 — Ordem dos Glifeiros (este livro) | 6 kits de Glifeiros que combinam com estes 11 |
 | cap04 — Sociedades Secretas (este livro) | Agente Duplo + Infiltrado/Sombra = combinações de espionagem |
 | Cap. 6 do livro base | Kits exclusivos da Academia (Arcavaleiro, Mentalista, Calouro Sortudo) |
 | Manual do Arcanauta | Mecânicas originais — idênticas; este capítulo é reskin, não rebalanceamento |

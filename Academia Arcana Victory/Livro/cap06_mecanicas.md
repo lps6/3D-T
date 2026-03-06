@@ -263,6 +263,106 @@ O Curamago é o aluno que todos querem no grupo e que ninguém agradece o sufici
 
 ---
 
+### Kit: Herdeira da Varinha Quebrada (2pt)
+
+**Núcleos:** Academia Arcana, Era das Arcas
+**Exigências:** Canalizador danificado ou herdado; Magia; H mínimo 2
+
+*Este kit representa um personagem cujo canalizador não funciona com eficiência mágica mensurável — herdado de alguém famoso, encontrado em ruínas, ou simplesmente vendido por alguém que garantiu que “praticamente funciona.” O poder não vem da ferramenta. A ferramenta só responde quando a pessoa que a usa é a pessoa que precisa ser.*
+
+Na Academia, esse perfil gera olhares. Uma varinha que funciona de formas imprevisíveis atrai a atenção de V3ctor1us, de colegas, e de pelo menos um professor que tentou confiscá-la três vezes sem sucesso. O confisco não funcionou por razões que a IA catalogou como “incongrueˆncia dimensional periódica.”
+
+**Poderes:**
+
+- **Chama Insistente** *(1×/sessão)*. Quando você tenta um feitiço que o Mestre considera genuinamente fora do seu nível técnico e o tenta *de qualquer forma*, role normalmente. Em caso de falha: o efeito acontece de forma errada, incompleta, ou que cria um segundo problema. Em caso de sucesso: a Varinha funcionou exatamente como você imaginou. O Mestre pode pedir que você descreva o que imaginou. O poder não se usa — se declara. “Estou tentando mesmo assim.”
+
+- **Sete Palavras da Arcana** *(Progressão narrativa)*. A Varinha tem sete marcos de poder trancados, cada um associado a uma compreensão sobre o mundo ou sobre si mesmo:
+
+| Palavra | Tema | Desbloqueio | Efeito |
+|---------|------|-------------|--------|
+| 1 | Esforço | Algo que não conseguia se tornar acessível | +1 PM |
+| 2 | Conexão | Alguém que importava passou a importar mais | Transferir PM para aliado (1×/cena, valor = Selos abertos) |
+| 3 | Forma | Encontrou um estilo que é genuinamente seu | Canalizador pode assumir forma diferente 1×/sessão |
+| 4 | Herança | Entendeu de onde a Varinha veio | Acessa memória do dono anterior (cena narrativa) |
+| 5 | Fracasso | Perdeu algo e continuou de qualquer forma | Nunca reduz a 0 PM — mínimo permanece 1 |
+| 6 | Ensino | Transmitiu algo que sabia para alguém que precisava | Ganho em testes de apoio a aliados |
+| 7 | Convicção | Sabia o que defendia e por quê | 1×/campanha: a Varinha funciona perfeitamente por uma cena |
+
+  Cada Palavra desbloqueia quando o Mestre e o grupo concordam que o tema foi vivido autenticamente. Não há teste. Acontece.
+
+- **Magnetismo da Convicção** *(Passivo)*. Quando você tenta algo impossível na presença de aliados e *consegue*, cada aliado que testemunhou recupera 1 PM. Não importa como você conseguiu. Importa que eles viram.
+
+**Gancho:** A varinha pertenceu a alguém famoso na Academia. Ninguém esperava que ela aparecesse de novo — muito menos nas mãos de alguém que tecnicamente não deveria conseguir segurá-la sem rejeição mágica.
+
+---
+
+### Kit: Engenheiro de Fórmulas (2pt)
+
+**Núcleos:** Academia Arcana, Era das Arcas
+**Exigências:** Mística especializada; H mínimo 3; acesso ao +Módulo de Magia (Cap. 11)
+
+*Este kit representa um personagem que trata magia como engenharia: feitiços são programas, canalizadores são compiladores, PM são recursos de processamento. Não é intuição — é arquitetura. Resultado: a maioria dos benchmarks acadêmicos subestima esse personagem, porque os benchmarks medem velocidade de instância e potência de Psions, não eficiência de Sequência de Ativação.*
+
+V3ctor1us tem opiniões sobre esse kit. A IA processa magia como dados; um Engenheiro de Fórmulas processa magia como código. Eles se entendem de formas que nem sempre beneficiam a conversa.
+
+**Poderes:**
+
+- **Sequência Otimizada** *(Passivo)*. Quando você prepara um feitiço com pelo menos 1 turno de concentração antes de lançá-lo, o custo em PM é reduzido pela metade (mínimo 1). Você está compilando o código antes de executar. A magia fica mais eficiente quando não é improvisada.
+
+- **Analisar e Dissolver** *(Reação, 3 PM)*. Quando um feitiço é lançado contra você ou aliado Perto, você pode gastar 3 PM e 1 rodada para analisá-lo. Na rodada seguinte, seu contra-feitiço recebe Ganho. Se a análise tiver sucesso (H + Mística dif. 12), o mesmo oponente não pode usar esse feitiço novamente na cena — você decompôs a sequência.
+
+- **Compilação Antecipada** *(Entre cenas)*. Fora de combate, você pode preparar até H feitiços “prontos para executar” anotados na ficha. Na cena seguinte, qualquer um deles pode ser ativado como ação livre (sem custo adicional de ação, apenas PM). A lista de compilação é perdida no final da sessão ou quando você dorme.
+
+**Gancho:** A metodologia que você aprendeu não é a da Academia. V3ctor1us cataloga seus feitiços como “estrutura reconhecida — metodologia não-padrão.” Pelo menos dois professores acharam isso digno de investigação. Um deles com curiosidade acadêmica. O outro com preocupação.
+
+---
+
+### Kit: Retornado (3pt)
+
+**Núcleos:** Academia Arcana, Era das Arcas
+**Exigências:** Escala Kami em pelo menos um domínio de magia específico (combinado com Mestre); Devoto; R mínimo 3
+
+*Este kit representa um personagem cujo poder genuinamente excede qualquer métrica de avaliação que a Academia possui. Os instrumentos de V3ctor1us não medem o que ele faz — registram overflow. A escola catalogou-o como “discrepância de aptidão não-resolvida — monitoramento contínuo.” Ele acha isso ligeiramente divertido.*
+
+O problema não é o poder. O poder é grande demais para ser o problema. O problema é que alguém, em algum momento nos últimos dois mil anos, reescreveu a história. Inclusive a sua.
+
+**Poderes:**
+
+- **Incomparável** *(Passivo)*. Em combate contra oponentes em escala Ningen ou Sugoi, você recebe Ganho automático e causa crítico automático em qualquer acerto. Ataques desses oponentes recebem Perda contra você. Isso não resolve os problemas reais da campanha. Isso é parte do ponto.
+
+- **Memória Antiga** *(1×/cena)*. Sabe algo que não deveria saber — dado, nome, protocolo, fraqueza — que não está no banco de dados de V3ctor1us. O Mestre decide o que você sabe; o jogador decide como usar. Esse conhecimento pode ser inconveniente além de útil.
+
+- **Impossível de Classificar** *(Passivo)*. Qualquer instrumento de medição mágica que tenta te avaliar falha. V3ctor1us registra “ERRO: OVERFLOW” no arquivo. Isso inclui os sistemas de monitoramento do campus — você aparece como “estudante” em vez de “estudante com atributos específicos.” Por razões que a IA preferia não examinar, isso não aciona o protocolo de anomalia.
+
+- **A Narrativa Que Foi Reescrita** *(Arco de campanha)*. Alguém reescreveu quem você é nos registros históricos. A versão que a Academia conhece é uma caricatura conveniente. Cada sessão, os PJs podem encontrar um fragmento da história real. Ao final do arco (o Mestre define o comprimento), quando a narrativa for restaurada, você ganha acesso a um poder de campanha específico (combine com o Mestre). Até lá, “provar quem você é” é mais difícil do que parece — porque as pessoas que acreditariam em você foram programadas para não acreditar.
+
+**Gancho:** V3ctor1us tem entradas fragmentadas que não deveriam existir sobre um nome que a IA não consegue pronunciar. Isso pode não ser coincidência.
+
+---
+
+### Kit: Prodígio Sem Contexto (1pt)
+
+**Núcleos:** Academia Arcana, Era das Arcas
+**Exigências:** H mínimo 3; Mística especializada; 0 em qualquer perícia social (Etiqueta, Persuasão, Enganação, etc. — o Mestre define “social” no contexto da campanha)
+
+*Este kit representa um personagem que domina magia em nível de pós-graduação e não sabe absolutamente nada sobre como uma escola funciona. Não por ignorância — por treinamento específico que simplesmente omitiu o contexto. O avô que te ensinou era o melhor mago vivo. Ele esqueceu de ensinar etiqueta acadêmica, hierarquia de professores, e por quê “derrotar o instrutor de demonstração no primeiro dia de aula” é problemático.*
+
+**Poderes:**
+
+- **Técnica Não-Catalogada** *(Passivo)*. Você usa uma metodologia que V3ctor1us não tem registro. A IA cataloga seus feitiços como “efeito reconhecido — mecanismo não-identificado.” **Testes contra você recebem Perda** quando tentam prever ou contrariar sua magia. **Testes acadêmicos formais recebem Perda** quando dependem de formato padrão — sua resposta é tecnicamente correta mas estruturalmente incompatível com o que o professor esperava.
+
+- **Interpretação Literal** *(1×/sessão)*. Quando uma regra, lei ou protocolo cria obstáculo, declare Interpretação Literal. Leia a regra como escrita, não como pretendida. Se houver uma solução que tecnicamente cumpre a letra sem cumprir o espírito, você encontrou. O Mestre confirma se a brecha existe — se existir, funciona. A primeira vez por sessão, a outra parte fica confusa em vez de com raiva. A segunda, fica com raiva.
+
+- **Velocidade de Aprendizado** *(Passivo)*. Quando você aprende uma norma social ao violá-la e entender *por quê* a violação importa (não apenas que importou), anote 1 ponto de Protocolo. Você pode gastar 1 ponto de Protocolo para evitar automaticamente repetir aquela gaffe específica no futuro. Você começa com 0 pontos de Protocolo. Isso se nota.
+
+**Gancho:** Sua Técnica Não-Catalogada resolve um problema que um professor de alto nível estava tentando resolver há três anos, em público, no primeiro dia de aula. O professor tem duas reações possíveis: humilhação funcional ou fascínio acadêmico genuinamente. Você vai descobrir qual foi nos próximos dias.
+
+---
+
+> **Nota sobre estes kits:** **Herdeira da Varinha Quebrada** e **Prodígio Sem Contexto** são opostos templáticos dos outros: operam por autenticidade progressiva em vez de poder imediato. **Engenheiro de Fórmulas** e **Prodígio Sem Contexto** são opostos interessantes — um resolve tudo com análise técnica, o outro com convicção social. **Retornado** é o único que requer acordo extenso com o Mestre antes do início da campanha — a Escala Kami e o arco de “narrativa reescrita” são ferramentas de campanha, não de sessão avulsa.
+
+---
+
 ### Fora de Combate: Kits na Vida Estudantil
 
 Kits não existem apenas para bater em coisas. Numa campanha de escola, a maioria das cenas acontece nos corredores, na biblioteca, no refeitório e nos bastidores do MagiDerby. Aqui vai um uso social ou de exploração para cada kit — o tipo de coisa que não aparece na ficha de combate mas que define quem o personagem *é*.
@@ -280,6 +380,10 @@ Kits não existem apenas para bater em coisas. Numa campanha de escola, a maiori
 | **Calouro Sortudo** | *Magnetismo Narrativo* é pura engrenagem social. "Por acaso" o PJ senta ao lado da pessoa certa no refeitório, encontra a chave que caiu do bolso do professor, ou ouve a frase exata que conecta duas pistas. A coincidência *sempre* vem com complicação — mas também com informação. |
 | **Magizoólogo** | *Empatia Bestial* impressiona qualquer NPC que tenha familiar. Acalme o gato de um veterano nervoso antes de uma prova e ganhe um aliado para o resto do semestre. Ou perceba que o familiar de alguém está *estressado demais* — sinal de que o dono está escondendo algo. |
 | **Curamago** | *Diagnóstico Instantâneo* revela quem dormiu mal, quem está doente, quem está sob efeito de magia — sem teste. Na fila do almoço, o Curamago olha para um NPC e *sabe* que algo está errado antes de qualquer um perceber. "Você não está bem." "Eu estou ótimo." "Não está." |
+| **Herdeira da Varinha Quebrada** | *Chama Insistente* se declara em voz alta. Em qualquer situação onde o personagem "não deveria poder" — entrar na sala, falar com o professor, tentar o feitiço — o ato de tentar mesmo assim abre uma brecha narrativa que o Mestre precisa responder. Não é teste. É intenção declarada. |
+| **Engenheiro de Fórmulas** | *Compilação Antecipada* funciona em qualquer cena com preparação prévia. Antes de uma prova, infiltração ou negociação difícil, declare até H "abordagens prontas". A primeira que executar na cena é ação livre — você já havia calculado isso. |
+| **Retornado** | *Memória Antiga* funciona como pesquisa instantânea. Em qualquer cena de investigação, o Mestre revela 1×/cena uma informação que o personagem "se lembra" — nome de um ator histórico, fraqueza de uma facção, protocolo esquecido. Sem teste. |
+| **Prodígio Sem Contexto** | *Velocidade de Aprendizado* é progresso visível. Toda gaffe social que o personagem entende vira Protocolo anotado. A mesa vê o personagem aprender — e isso cria arco de desenvolvimento mais visível do que qualquer progressão de atributo. |
 
 > **Para o Mestre:** Quando um PJ quiser usar seu kit fora de combate de uma forma criativa, diga "sim" primeiro e negocie os detalhes depois. Kits são identidades, não listas de combos.
 
@@ -1669,6 +1773,171 @@ A Academia mantém uma lista oficial de itens proibidos que é atualizada todo s
 
 O Mestre é encorajado a criar itens mágicos adicionais conforme a campanha avança. A Academia é um lugar antigo, cheio de salas esquecidas e armários trancados. Não faltam oportunidades para os personagens encontrarem algo que não deviam.
 
+
+
+
+### Kit A — Herdeira da Varinha Quebrada (2pt)
+
+*Inspirado em Little Witch Academia*
+
+**Exigências:** Canalizador danificado ou herdado; Magia; H mínimo 2
+
+*Este kit representa um personagem cujo canalizador não funciona com eficiência mágica mensurável — herdado de alguém famoso, encontrado em ruínas, ou simplesmente vendido por alguém que garantiu que "praticamente funciona." O poder não vem da ferramenta. A ferramenta só responde quando a pessoa que a usa é a pessoa que precisa ser.*
+
+Na Academia, esse perfil gera olhares. Uma varinha que funciona de formas imprevisíveis atrai a atenção de V3ctor1us, de colegas, e de pelo menos um professor que tentou confiscá-la três vezes sem sucesso. O confisco não funcionou por razões que a IA catalogou como "incongruência dimensional periódica."
+
+---
+
+**Chama Insistente** | *1×/sessão*
+
+Quando você tenta um feitiço que o Mestre considera genuinamente fora do seu nível técnico e o tenta *de qualquer forma*, role normalmente. Em caso de falha: o efeito acontece de forma errada, incompleta, ou que cria um segundo problema. Em caso de sucesso: a Varinha funcionou exatamente como você imaginou. O Mestre pode pedir que você descreva o que imaginou.
+
+O poder não se usa — se declara. "Estou tentando mesmo assim."
+
+---
+
+**Sete Palavras da Arcana** | *Progressão narrativa*
+
+A Varinha tem sete marcos de poder trancados, cada um associado a uma compreensão sobre o mundo ou sobre si mesmo:
+
+| Palavra | Tema | Desbloqueio | Efeito |
+|---------|------|-------------|--------|
+| 1 | Esforço | Algo que não conseguia se tornar acessível | +1 PM |
+| 2 | Conexão | Alguém que importava passou a importar mais | Transferir PM para aliado (1×/cena, valor = Selos abertos) |
+| 3 | Forma | Encontrou um estilo que é genuinamente seu | Canalizador pode assumir forma diferente 1×/sessão |
+| 4 | Herança | Entendeu de onde a Varinha veio | Acessa memória do dono anterior (cena narrativa) |
+| 5 | Fracasso | Perdeu algo e continuou de qualquer forma | Nunca reduz a 0 PM — mínimo permanece 1 |
+| 6 | Ensino | Transmitiu algo que sabia para alguém que precisava | Ganho em testes de apoio a aliados |
+| 7 | Convicção | Sabia o que defendia e por quê | 1×/campanha: a Varinha funciona perfeitamente por uma cena |
+
+**Desbloqueio:** Cada Palavra desbloqueia quando o Mestre e o grupo concordam que o tema foi vivido autenticamente. Não há teste. Acontece.
+
+---
+
+**Magnetismo da Convicção** | *Passivo*
+
+Quando você tenta algo impossível na presença de aliados e *consegue*, cada aliado que testemunhou recupera 1PM. Não importa como você conseguiu. Importa que eles viram.
+
+---
+
+**Gancho:** A varinha que você carrega pertenceu a alguém. Essa pessoa era famosa na Academia. Ninguém esperava que a varinha aparecesse de novo — muito menos nas mãos de alguém que tecnicamente não deveria conseguir segurá-la sem rejeição mágica.
+
+---
+
+### Kit B — Engenheiro de Fórmulas (2pt)
+
+*Inspirado em Mahouka Koukou no Rettousei*
+
+**Exigências:** Mística especializada; H mínimo 3; acesso ao +Módulo de Magia (Cap. 11)
+
+*Este kit representa um personagem que trata magia como engenharia: feitiços são programas, canalizadores são compiladores, PM são recursos de processamento. Não é intuição — é arquitetura. Resultado: a maioria dos benchmarks acadêmicos subestima esse personagem, porque os benchmarks medem velocidade de instância e potência de Psions, não eficiência de Sequência de Ativação.*
+
+V3ctor1us tem opiniões sobre esse kit. A IA processa magia como dados; um Engenheiro de Fórmulas processa magia como código. Eles se entendem de formas que nem sempre beneficiam a conversa.
+
+---
+
+**Sequência Otimizada** | *Passivo*
+
+Quando você prepara um feitiço com pelo menos 1 turno de concentração antes de lançá-lo, o custo em PM é reduzido em metade (mínimo 1). Você está compilando o código antes de executar. A magia fica mais eficiente quando não é improvisada.
+
+---
+
+**Analisar e Dissolver** | *Reação, 3PM*
+
+Quando um feitiço é lançado contra você ou contra aliado Perto, você pode gastar 3PM e 1 rodada para analisá-lo. Na rodada seguinte, seu contra-feitiço recebe Ganho. Se a análise tiver sucesso (H + Mística dif. 12), o mesmo oponente não pode usar esse feitiço novamente na cena — você decompôs a sequência.
+
+---
+
+**Compilação Antecipada** | *Entre cenas*
+
+Fora de combate, você pode preparar até H feitiços "prontos para executar" anotados na ficha. Na cena seguinte, qualquer um deles pode ser ativado como ação livre (sem custo adicional de ação, apenas PM). A lista de compilação é perdida no final da sessão ou quando você dorme.
+
+---
+
+**Gancho:** No Japão da cosmologia 3D&T Victory, existem nove escolas de magia com abordagens técnicas radicalmente diferentes. A metodologia que você aprendeu não é a da Academia. V3ctor1us cataloga seus feitiços como "estrutura reconhecida — metodologia não-padrão." Pelo menos dois professores acharam isso digno de investigação. Um deles com curiosidade acadêmica. O outro com preocupação.
+
+---
+
+### Kit C — Retornado (3pt)
+
+*Inspirado em Maou Gakuin no Futekigousha*
+
+**Exigências:** Escala Kami em pelo menos um domínio de magia específico (combinado com Mestre); Devoto; R mínimo 3
+
+*Este kit representa um personagem cujo poder genuíno excede qualquer métrica de avaliação que a Academia possui. Os instrumentos de V3ctor1us não medem o que ele faz — registram overflow. A escola catalogou-o como "discrepância de aptidão não-resolvida — monitoramento contínuo." Ele acha isso ligeiramente divertido.*
+
+O problema não é o poder. O poder é grande demais para ser o problema. O problema é que alguém, em algum momento nos últimos dois mil anos, reescreveu a história. Inclusive a sua.
+
+---
+
+**Incomparável** | *Passivo*
+
+Em combate contra oponentes em escala Ningen ou Sugoi, você recebe Ganho automático e causa crítico automático em qualquer acerto. Ataques desses oponentes recebem Perda contra você.
+
+Isso não resolve os problemas reais da campanha. Isso é parte do ponto.
+
+---
+
+**Memória Antiga** | *1×/cena*
+
+Sabe algo que não deveria saber — dado, nome, protocolo, fraqueza — que não está no banco de dados de V3ctor1us. O Mestre decide o que você sabe; o jogador decide como usar. Esse conhecimento pode ser inconveniente além de útil.
+
+---
+
+**Impossível de Classificar** | *Passivo*
+
+Qualquer instrumento de medição mágica que tenta te avaliar falha. V3ctor1us registra "ERRO: OVERFLOW" no arquivo. Isso inclui os sistemas de monitoramento do campus — você aparece como "estudante" em vez de "estudante com atributos específicos." Por razões que a IA preferia não examinar, isso não aciona o protocolo de anomalia.
+
+---
+
+**A Narrativa Que Foi Reescrita** | *Arco de campanha*
+
+Alguém reescreveu quem você é nos registros históricos. A versão que a Academia conhece é uma caricatura conveniente — vilão simples em vez de pessoa complexa, ameaça em vez de aliada, poder sem contexto em vez de poder com motivo.
+
+Cada sessão, os PJs podem encontrar um fragmento da história real. Ao final do arco (o Mestre define o comprimento), quando a narrativa for restaurada, você ganha acesso a um poder de campanha específico (combine com o Mestre). Até lá, "provar quem você é" é mais difícil do que parece — porque as pessoas que acreditariam em você foram programadas para não acreditar.
+
+---
+
+**Gancho:** A Academia Maou foi criada em sua honra por pessoas que entenderam mal quem você foi. A Academia Arcana não foi criada em sua honra — mas V3ctor1us tem entradas fragmentadas que não deveriam existir sobre um nome que a IA não consegue pronunciar. Isso pode não ser coincidência.
+
+---
+
+### Kit D — Prodígio Sem Contexto (1pt)
+
+*Inspirado em Kenja no Mago (Wise Man's Grandchild)*
+
+**Exigências:** H mínimo 3; Mística especializada; 0 em qualquer perícia social (Etiqueta, Persuasão, Enganação, etc. — o Mestre define "social" no contexto da campanha)
+
+*Este kit representa um personagem que domina magia em nível de pós-graduação e não saber absolutamente nada sobre como uma escola funciona. Não por ignorância — por treinamento específico que simplesmente omitiu o contexto. O avô que te ensinou era o melhor mago vivo. Ele esqueceu de ensinar etiqueta acadêmica, hierarquia de professores, e por que "derrotar o instrutor de demonstração no primeiro dia de aula" é problemático.*
+
+*Você aprendeu as coisas na ordem que seu mentor achou interessante. Agora está aqui.*
+
+---
+
+**Técnica Não-Catalogada** | *Passivo*
+
+Você usa uma metodologia que V3ctor1us não tem registro. A IA cataloga seus feitiços como "efeito reconhecido — mecanismo não-identificado." Isso tem duas consequências:
+
+- **Testes contra você recebem Perda** quando tentam prever ou contrariar sua magia — não têm referência para o que vem a seguir.
+- **Testes acadêmicos formais recebem Perda** quando dependem de formato padrão — sua resposta é tecnicamente correta mas estruturalmente incompatível com o que o professor esperava.
+
+---
+
+**Interpretação Literal** | *1×/sessão*
+
+Quando uma regra, lei ou protocolo cria obstáculo, você pode declarar Interpretação Literal. Leia a regra como escrita, não como pretendida. Se houver uma solução que tecnicamente cumpre a letra sem cumprir o espírito, você encontrou. O Mestre confirma se a brecha existe — se existir, funciona. A primeira vez que você usa isso por sessão, a outra parte fica confusa em vez de com raiva. A segunda vez, fica com raiva.
+
+---
+
+**Velocidade de Aprendizado** | *Passivo*
+
+Quando você aprende uma norma social ao violá-la e entender *por que* a violação importa (não apenas que importou), anote 1 ponto de Protocolo. Você pode gastar 1 ponto de Protocolo para evitar automaticamente repetir aquela gaffe específica no futuro.
+
+Você começa com 0 pontos de Protocolo. Isso se nota.
+
+---
+
+**Gancho:** Sua Técnica Não-Catalogada resolve um problema que um professor de alto nível estava tentando resolver há três anos, em público, no primeiro dia de aula. O professor tem duas reações possíveis: humilhação funcional ou fascínio acadêmico genuíno. Você vai descobrir qual foi nos próximos dias dependendo do que V3ctor1us disse a quem sobre o que aconteceu.
 
 ---
 
