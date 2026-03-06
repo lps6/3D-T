@@ -21,15 +21,15 @@ A tabela abaixo é **nova** — indica a afinidade de cada arquétipo com cada p
 | Arquétipo | Thornwall (cap01) | Campo (cap02) | Glifeiros (cap03) | Nota |
 |-----------|:---:|:---:|:---:|------|
 | Veterano Acadêmico | ★★★ | ★★ | ★★ | Escola longa = mais anos; sinergia natural com casas/grêmios |
-| Investigador de Anomalias | ★★ | ★ | ★★★ | Melhor quando há conspiração institucional (Shadowhunters) |
+| Investigador de Anomalias | ★★ | ★ | ★★★ | Melhor quando há conspiração institucional (Glifeiros) |
 | Pesquisador Arcano | ★★★ | ★★ | ★★ | Magia como ciência = tom de HP; funciona em qualquer paradigma |
-| Cronista da Academia | ★★★ | ★★ | ★ | Eventos escolares + rivalidade de casas = conteúdo; Shadowhunters é sombrio demais para cronista |
+| Cronista da Academia | ★★★ | ★★ | ★ | Eventos escolares + rivalidade de casas = conteúdo; Glifeiros é sombrio demais para cronista |
 | Assistente do Professor | ★★★ | ★ | ★★ | Bastidores da escola; melhor quando a escola É o cenário, não só o ponto de partida |
 | Estrela do Campus | ★★ | ★★ | ★ | Social puro; brilha em campanhas escolares, não em conspirações |
-| O Infiltrado | ★★ | ★ | ★★★ | Segunda identidade + instituição com segredos = Shadowhunters |
+| O Infiltrado | ★★ | ★ | ★★★ | Segunda identidade + instituição com segredos = Glifeiros |
 | Herdeiro Arcano | ★★★ | ★★★ | ★★★ | **Sinergia perfeita com o tema do livro.** Legado + recursos + pressão familiar |
-| Presidente do Grêmio | ★★★ | ★ | ★★ | Política de casas = HP; política de facções = Shadowhunters |
-| Astro do MagiDerby | ★★★ | ★★ | ★ | MagiDerby = HP puro; funciona em Percy (jogos do acampamento), não em Shadowhunters |
+| Presidente do Grêmio | ★★★ | ★ | ★★ | Política de casas = Thornwall; política de facções = Glifeiros |
+| Astro do MagiDerby | ★★★ | ★★ | ★ | MagiDerby = Thornwall puro; funciona em Campo (jogos do acampamento), não em Glifeiros |
 | Sombra do Campus | ★★ | ★★ | ★★★ | Infiltração + segredos + lugares proibidos = sinergia com conspiração institucional |
 
 ### Destaque: Herdeiro Arcano e o Sistema de Legado

@@ -11,9 +11,9 @@ Este é o livro da magia-como-compreensão. Enquanto outros livros da linha trat
 
 Essa premissa aparece em três tradições ficcionais que convergem de forma notável:
 
-1. **Simpatia e Nomeação** (Kingkiller Chronicle): A magia da Universidade divide-se entre o técnico (Simpatia — vínculos de causa e efeito) e o profundo (Nomeação — saber o verdadeiro nome de algo). O Alar — a capacidade de dividir a mente em duas crenças simultâneas — é o músculo que sustenta tudo.
+1. **Simpatia e Nomeação** (A Universidade de Saleth): A magia da Universidade divide-se entre o técnico (Simpatia — vínculos de causa e efeito) e o profundo (Nomeação — saber o verdadeiro nome de algo). O Alar — a capacidade de dividir a mente em duas crenças simultâneas — é o músculo que sustenta tudo.
 
-2. **A Língua dos Nomes** (Ciclo da Herança): Cada coisa tem um nome verdadeiro numa língua primordial. Pronunciar esse nome é declarar uma verdade — e verdades, nesse sistema, têm consequências físicas imediatas. O custo não é PM, é vida.
+2. **A Língua dos Nomes** (A Ordem dos Cavaleiros do Eco): Cada coisa tem um nome verdadeiro numa língua primordial. Pronunciar esse nome é declarar uma verdade — e verdades, nesse sistema, têm consequências físicas imediatas. O custo não é PM, é vida.
 
 3. **Nomes Verdadeiros** (Terramar / Y3): O subsistema original da AAV para nomear. Descobrir, usar e pagar o preço da Língua Antiga, com Débito de Equilíbrio como trilha de consequência.
 
@@ -31,8 +31,8 @@ A magia de compreensão não é gratuita. Nas três tradições deste livro, o p
 
 | Tradição | O Que Custa | Por Quê |
 |----------|-----------|---------|
-| Kingkiller (Simpatia) | Exaustão mental; risco de loucura se o Alar falha | A mente não foi feita para acreditar em duas coisas simultaneamente |
-| Eragon (Língua dos Nomes) | PV direto — vida como combustível | Dizer a verdade sobre o mundo consome o corpo que a pronuncia |
+| Saleth (Simpatia) | Exaustão mental; risco de loucura se o Alar falha | A mente não foi feita para acreditar em duas coisas simultaneamente |
+| Ordem do Eco (Língua dos Nomes) | PV direto — vida como combustível | Dizer a verdade sobre o mundo consome o corpo que a pronuncia |
 | Y3 (Nomes Verdadeiros) | Débito de Equilíbrio — o mundo se reajusta | Alterar algo pelo nome altera o equilíbrio; o universo cobra a diferença |
 
 O custo cria drama. E o drama cria campanha.
@@ -47,13 +47,13 @@ Escolha **uma** das três tradições como sistema mágico da sua campanha e ign
 
 | Se escolher... | Use... | Tom da campanha |
 |----------------|--------|----------------|
-| Kingkiller | Simpatia + Alar + Nomeação avançada | Acadêmico, técnico, com tensão de classe |
-| Eragon | Língua dos Nomes + Dragões + Raças | Épico, multicultural, com vínculo emocional central |
+| Saleth | Simpatia + Alar + Nomeação avançada | Acadêmico, técnico, com tensão de classe |
+| Ordem do Eco | Língua dos Nomes + Dragões + Raças | Épico, multicultural, com vínculo emocional central |
 | Y3 | Kit Nomeador + Débito de Equilíbrio | Investigativo, contemplativo, com custo crescente |
 
 ### Opção 2: Três Tradições, Uma Academia
 
-Use as três tradições como **cursos diferentes** dentro da Academia. A Nomeação (Kingkiller/Y3) é o curso avançado; a Língua dos Nomes (Eragon) é uma tradição externa trazida por intercambistas da Academia dos Cavaleiros Renascentes; a Simpatia é a disciplina técnica do 1º ano.
+Use as três tradições como **cursos diferentes** dentro da Academia. A Nomeação (Saleth/Y3) é o curso avançado; a Língua dos Nomes (Ordem do Eco) é uma tradição externa trazida por intercambistas da Academia dos Cavaleiros Renascentes; a Simpatia é a disciplina técnica do 1º ano.
 
 Isso cria uma hierarquia natural que espelha a Academia real: quem sabe simpatia é competente; quem sabe nomeação é perigoso; quem sabe a Língua dos Nomes é estrangeiro num campus que não sabe lidar com o que ele representa.
 
@@ -73,8 +73,8 @@ Isso se traduz em três escalas paralelas:
 
 ### Escala de Compreensão
 
-| Nível | Descrição | Kingkiller | Eragon | Y3 |
-|-------|-----------|-----------|--------|-----|
+| Nível | Descrição | Saleth | Ordem do Eco | Y3 |
+|-------|-----------|--------|--------------|-----|
 | 1 | Conhecimento superficial | Simpatia básica | Proficiência 1 (palavras físicas simples) | Fragmento de Nome |
 | 2 | Domínio técnico | Sigilaria; Alar dividido | Proficiência 2-3 (compostos + abstratos) | Nome completo de objeto/criatura |
 | 3 | Compreensão profunda | Nomeação de elementos | Proficiência 4 (conceitos complexos) | Nome completo de pessoa/conceito |
@@ -82,8 +82,8 @@ Isso se traduz em três escalas paralelas:
 
 ### Escala de Custo
 
-| Nível | Kingkiller | Eragon | Y3 |
-|-------|-----------|--------|-----|
+| Nível | Saleth | Ordem do Eco | Y3 |
+|-------|--------|--------------|-----|
 | 1 | PM leve | 1 PV | 0 Débito |
 | 2 | PM + risco de ruptura do Alar | 2-4 PV | +1 Débito |
 | 3 | PM alto + consequência narrativa | 6 PV | +2 Débito |
@@ -106,12 +106,12 @@ Para evitar confusão entre termos de tradições diferentes:
 
 | Termo | Origem | Significado neste livro |
 |-------|--------|------------------------|
-| **Simpatia** | Kingkiller | Magia de vínculo entre objetos; técnica, calculável |
-| **Alar** | Kingkiller | Divisão cognitiva que sustenta simpatia; músculo mental |
-| **Sigilaria** | Kingkiller | Inscrição permanente de feitiços em objetos (programação mágica) |
-| **Nomeação** | Kingkiller/Y3 | Saber o verdadeiro nome de algo para comandá-lo |
-| **Língua dos Nomes** | Eragon | Linguagem primordial onde cada palavra É o conceito |
-| **Proficiência** | Eragon | Nível 1-5 de domínio da Língua dos Nomes |
+| **Simpatia** | Saleth | Magia de vínculo entre objetos; técnica, calculável |
+| **Alar** | Saleth | Divisão cognitiva que sustenta simpatia; músculo mental |
+| **Sigilaria** | Saleth | Inscrição permanente de feitiços em objetos (programação mágica) |
+| **Nomeação** | Saleth/Y3 | Saber o verdadeiro nome de algo para comandá-lo |
+| **Língua dos Nomes** | Ordem do Eco | Linguagem primordial onde cada palavra É o conceito |
+| **Proficiência** | Ordem do Eco | Nível 1-5 de domínio da Língua dos Nomes |
 | **Nome Verdadeiro** | Y3 | Expressão na Língua Antiga do que algo realmente é |
 | **Débito de Equilíbrio** | Y3 | Trilha 0-5 de consequência por alterar o mundo via nomeação |
 | **Hard Magic** | T4 | Sistema com regras explícitas, custos previsíveis |
@@ -123,9 +123,9 @@ Para evitar confusão entre termos de tradições diferentes:
 
 Antes de jogar com material de Palavras de Poder, pergunte ao grupo:
 
-1. **Qual escala de compreensão interessa?** Querem começar sabendo pouco e aprender lentamente (Eragon, arcos longos)? Ou já entram competentes e o drama é sobre consequências (Kingkiller)?
+1. **Qual escala de compreensão interessa?** Querem começar sabendo pouco e aprender lentamente (Ordem do Eco, arcos longos)? Ou já entram competentes e o drama é sobre consequências (Saleth)?
 
-2. **A morte por magia é possível?** Eragon inclui regra de morte voluntária por exaustão. Kingkiller inclui risco de loucura por Alar. Y3 expõe o Nome do personagem em Débito 5. Qual limite a mesa aceita?
+2. **A morte por magia é possível?** Ordem do Eco inclui regra de morte voluntária por exaustão. Saleth inclui risco de loucura por Alar. Y3 expõe o Nome do personagem em Débito 5. Qual limite a mesa aceita?
 
 3. **Dragões?** Se sim, o Vínculo Dragão (Cap. 02) muda a campanha inteira. O dragão é personagem — não montaria. A mesa está pronta para interpretar dois papéis?
 
@@ -133,4 +133,4 @@ Antes de jogar com material de Palavras de Poder, pergunte ao grupo:
 
 ---
 
-*Próximo: Cap. 01 — A Universidade (Kingkiller: Simpatia, Alar, e a escola de magia mais mecanicamente detalhada da ficção).*
+*Próximo: Cap. 01 — A Universidade de Saleth (Simpatia, Alar, e Nomeação avançada).*

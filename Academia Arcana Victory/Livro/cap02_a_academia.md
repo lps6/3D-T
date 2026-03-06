@@ -358,7 +358,7 @@ Os Jardins são também o espaço social mais democrático do campus. Nos bancos
 
 Os glifos em si são estruturas de pedra negra gravadas com símbolos arcanos — visíveis apenas para quem tem aptidão mágica ou está ativamente buscando por eles. Para quem não tem nenhuma das duas coisas, o glifo parece uma parede de pedra comum. Do outro lado de cada glifo, no mundo moderno, há uma estrutura correspondente disfarçada (uma porta nos fundos de uma loja, uma parede em uma biblioteca, um arco em uma área de preservação).
 
-> *Maitê sai do glifo e quase tropeça na grama encantada. O ar é diferente aqui — mais denso, mais… vivo. Lira para ao lado dela, os olhos arregalados, absorvendo tudo como quem memorizou o mapa mas não estava pronta para a escala real. Atrás delas, Xeipe já está anotando algo num caderno; Kenji emerge da luz do glifo em silêncio, como se já soubesse exatamente para onde olhar. Zed é o últime — e o mais barulhente. "ISSO é a Academia?! É tipo… Hogwarts se fosse desenhada pelo CLAMP!" Ninguém discorda.*
+> *Maitê sai do glifo e quase tropeça na grama encantada. O ar é diferente aqui — mais denso, mais… vivo. Lira para ao lado dela, os olhos arregalados, absorvendo tudo como quem memorizou o mapa mas não estava pronta para a escala real. Atrás delas, Xeipe já está anotando algo num caderno; Kenji emerge da luz do glifo em silêncio, como se já soubesse exatamente para onde olhar. Zed é o últime — e o mais barulhente. "ISSO é a Academia?! Eu pensei que ia ser uma escola. Isso é uma CIDADE!" Ninguém discorda.*
 
 ---
 

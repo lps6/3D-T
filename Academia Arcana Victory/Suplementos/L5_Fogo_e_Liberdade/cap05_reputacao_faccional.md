@@ -4,7 +4,7 @@
 ---
 
 **Tipo:** Mecânica nova — framework genérico
-**Instâncias:** Reputação de Classe (Mistborn), Status Fora-da-Trilha (Owl House), Alinhamento Filosófico (Avatar), Legitimidade/Cred (Caldeira)
+**Instâncias:** Reputação de Classe (Era dos Metais), Status Fora-da-Trilha (O Covil), Alinhamento Filosófico (As Quatro Formas), Legitimidade/Cred (Caldeira)
 **Compatível com:** cap06 (mecânicas de facção no livro base), todos os subsistemas deste livro
 
 ---
@@ -13,9 +13,9 @@
 
 Os quatro capítulos anteriores introduzem formas distintas de como o sistema social afeta os personagens:
 
-- **Mistborn:** sua posição de classe (nobre, misto, skaa) determina acesso a poder e a como NPCs te tratam
-- **Owl House:** estar dentro ou fora da Trilha tem consequências institucionais e sociais concretas
-- **Avatar:** o alinhamento filosófico com seu elemento afeta a eficácia dos poderes em momentos críticos
+- **Era dos Metais:** sua posição de classe (Família Arcana, misto, Cinzas) determina acesso a poder e a como NPCs te tratam
+- **O Covil:** estar dentro ou fora da Trilha tem consequências institucionais e sociais concretas
+- **As Quatro Formas:** o alinhamento filosófico com seu elemento afeta a eficácia dos poderes em momentos críticos
 - **Caldeira:** dois eixos de reputação — Legitimidade com autoridades e Cred com comunidades — se tensionam ativamente
 
 Sem um sistema unificado, um GM que usa material de dois ou mais capítulos precisa reconciliar três ou quatro mecânicas de posição social separadas. Reputação Faccional substitui todas por um único framework de dois eixos que cada franquia instancia com sabor próprio.
@@ -70,7 +70,7 @@ Personagens começam com posição determinada pela origem e histórico:
 | Conhecido como crítico da instituição | 0 | +2 |
 | Agente ativo contra a instituição | -2 | +2 |
 
-O Mestre pode ajustar conforme a campanha. Em contexto de Mistborn, a origem de classe (nobre/misto/skaa) substitui a tabela acima — ver instância na Seção 5.1.
+O Mestre pode ajustar conforme a campanha. Em contexto de Era dos Metais, a origem de classe (Família/misto/Cinzas) substitui a tabela acima — ver instância na Seção 5.1.
 
 ---
 
@@ -113,31 +113,31 @@ O Mestre pode ajustar conforme a campanha. Em contexto de Mistborn, a origem de 
 
 ## 5. Instâncias por Franquia
 
-### 5.1 Mistborn — Reputação de Classe
+### 5.1 Era dos Metais — Reputação de Classe
 
 No contexto da Era dos Metais, os dois eixos mapeiam da seguinte forma:
 
-| Eixo | Equivalente em Mistborn |
+| Eixo | Equivalente em Era dos Metais |
 |------|------------------------|
 | Legitimidade | Posição de classe e reconhecimento pelo sistema nobre |
-| Cred | Reconhecimento pela rede skaa e comunidades oprimidas |
+| Cred | Reconhecimento pela rede das Cinzas e comunidades oprimidas |
 
 **Valores de início por origem:**
 
 | Origem | Legitimidade | Cred |
 |--------|-------------|------|
-| Nobre com Metalurgia completa | +3 | -1 |
-| Nobre sem Metalurgia | +2 | 0 |
-| Sangue misto (nobre + skaa) | +1 | +1 |
-| Skaa com Metalurgia (irregular) | -1 | +2 |
-| Skaa sem Metalurgia | -2 | +2 |
-| Skaa em rede revolucionária | -3 | +3 |
+| Família Arcana com Metalurgia completa | +3 | -1 |
+| Família Arcana sem Metalurgia | +2 | 0 |
+| Meio-sangue (Família + Cinzas) | +1 | +1 |
+| Cinzas com Metalurgia (irregular) | -1 | +2 |
+| Cinzas sem Metalurgia | -2 | +2 |
+| Cinzas em rede revolucionária | -3 | +3 |
 
-**Tensão mecânica específica:** acumular Cred enquanto se mantém Legitimidade positiva exige ações ativas e cuidadosas. A maioria das rotas que sobem um eixo desce o outro. Isso é intencional — é a tensão central de Mistborn.
+**Tensão mecânica específica:** acumular Cred enquanto se mantém Legitimidade positiva exige ações ativas e cuidadosas. A maioria das rotas que sobem um eixo desce o outro. Isso é intencional — é a tensão central de Era dos Metais.
 
-### 5.2 Owl House — Status de Trilha
+### 5.2 O Covil — Status de Trilha
 
-| Eixo | Equivalente em Owl House |
+| Eixo | Equivalente em O Covil |
 |------|--------------------------|
 | Legitimidade | Posição dentro do Covil; conformidade com a Regra da Trilha Única |
 | Cred | Reconhecimento pela rede de bruxas fora-da-trilha e mentores não-institucionais |
@@ -151,18 +151,18 @@ No contexto da Era dos Metais, os dois eixos mapeiam da seguinte forma:
 | Glifista puro | 0 | +1 | Invisibilidade burocrática: o sistema não sabe como catalogar |
 | Protegido de Eda | -2 | +2 | Acesso a todo o conhecimento de Eda; alvo de patrulhas do Covil |
 
-### 5.3 Avatar — Alinhamento Filosófico
+### 5.3 As Quatro Formas — Alinhamento Filosófico
 
-Em Avatar, os eixos funcionam de forma diferente: em vez de relação com uma instituição, medem relação com duas esferas de influência simultâneas.
+Em As Quatro Formas, os eixos funcionam de forma diferente: em vez de relação com uma instituição, medem relação com duas esferas de influência simultâneas.
 
-| Eixo | Equivalente em Avatar |
+| Eixo | Equivalente em As Quatro Formas |
 |------|----------------------|
 | Legitimidade | Reconhecimento pelas estruturas nacionais e acadêmicas de bending |
 | Cred | Alinhamento filosófico com o elemento (Marcadores de Chi) |
 
 **Conexão com Disciplina do Elemento:** cada Marcador de Chi acumulado (ver Cap. 03) funciona como +1 de Cred neste sistema. O sistema de Legitimidade representa relação com academias nacionais de bending — relevante para campanhas que incluem conflito inter-nacional.
 
-**Nota:** em campanhas focadas em Avatar que não usam conflito institucional, o Eixo de Legitimidade pode ser substituído por um terceiro eixo — **Alinhamento Espiritual** (relação com o mundo dos espíritos) — conforme necessidade do Mestre.
+**Nota:** em campanhas focadas em As Quatro Formas que não usam conflito institucional, o Eixo de Legitimidade pode ser substituído por um terceiro eixo — **Alinhamento Espiritual** (relação com o mundo dos espíritos) — conforme necessidade do Mestre.
 
 ### 5.4 Caldeira — Legitimidade e Cred Urbanos
 
@@ -227,4 +227,4 @@ O Mestre deve usar isso como gancho narrativo, não como punição mecânica. A 
 
 > **Este livro adiciona no máximo 2 subsistemas simultâneos à sua campanha:** Reputação Faccional (este capítulo) + um subsistema de magia de sua escolha (Metalurgia, Glifos, Bending, ou nenhum). As instâncias de Reputação por franquia são sabores do mesmo sistema — não sistemas empilhados.
 
-Se o Mestre usa material de dois capítulos de franquia simultaneamente (ex: Mistborn + Avatar), usa a Reputação de Grupo mas não duplica os eixos. Os dois sabores coexistem como contexto narrativo, mas o tracking mecânico é unificado.
+Se o Mestre usa material de dois capítulos de franquia simultaneamente (ex: Era dos Metais + As Quatro Formas), usa a Reputação de Grupo mas não duplica os eixos. Os dois sabores coexistem como contexto narrativo, mas o tracking mecânico é unificado.

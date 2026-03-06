@@ -785,7 +785,7 @@ Você distribui seu peso magicamente, tornando possível se mover sobre superfí
 
 Você calibra sua percepção para diferenças dimensionais — tensões no tecido da realidade causadas por instabilidades, portais, presenças de outro plano, ou áreas onde a magia foi significativamente perturbada. O Mestre informa se há anomalia dentro do alcance e em qual direção geral. Não identifica a natureza da anomalia — saiba onde olhar, não o que vai encontrar.
 
-Indispensável em Arrecife (cap12) e em qualquer área próxima da Ala Leste. Arcanistas que passam muito tempo em espaços instáveis eventualmente desenvolvem uma versão passiva disso — o Mestre pode conceder o efeito gratuitamente em contextos narrativos após experiência suficiente.
+Indispensável em Arrecife (cap08) e em qualquer área próxima da Ala Leste. Arcanistas que passam muito tempo em espaços instáveis eventualmente desenvolvem uma versão passiva disso — o Mestre pode conceder o efeito gratuitamente em contextos narrativos após experiência suficiente.
 
 ---
 

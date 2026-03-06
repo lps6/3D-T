@@ -160,7 +160,7 @@ Use APENAS cap00 (o framework genérico). Ele foi escrito para funcionar sem qua
 |------------------------|------------|
 | **Livro Base (AAV)** | cap03 (Grêmios), cap06 (Kits), cap08 (Arrecife Arcano) |
 | **L0 — A Verdade da Arca** | Ala Leste aparece em C2 (Quarto do Espelho) e S3 (Aram/Deko) |
-| **L2 — Tinta & Sombras** | F3.8 compartilha tom sombrio; Débito Cármico (A1) cruza com Draco e Nico |
+| **L2 — Tinta & Sombras** | cap03 compartilha tom sombrio; Débito Cármico (A1) cruza com Isolde Crain e Caelum Varne |
 | **L3 — Palavras de Poder** | Y3 (Nomes Verdadeiros) dialoga com herança como poder inato |
 | **L5 — Fogo & Liberdade** | T3 (Sociedades) alimentam arcos de revolução; Mistborn dialoga com hierarquia |
 | **L6 — Laços & Máscaras** | Vínculo de Alma (F3.8) dialoga com mecânicas de relacionamento |

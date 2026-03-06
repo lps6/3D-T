@@ -45,7 +45,7 @@ Na criação de personagem, o jogador define:
 | **Explosivo** | Padrão | 1 PV | Dano: dado de H em área de 2m × Nível |
 | **Controle** | Padrão | 1 PV | Duração: 1 cena ou até desfeito; 1 alvo ou área 3m |
 | **Transformação** | Padrão | 2 PV | Duração: nível de campanha em rodadas |
-| **Portal** | Ação + custo variável | Ver Cap. III | Abre caminho dimensional |
+| **Portal** | Ação + custo variável | Ver Cap. 3 | Abre caminho dimensional |
 | **Proteção** | Reação | 1 PV | Absorve R do personagem em dano por cena |
 
 > **Nota:** O custo é em **PV, não PM**. A magia do coração cobra do corpo — cada feitiço é sentido fisicamente como exaustão, calor, formigamento, ou a sensação de que algo interno foi *usado*.

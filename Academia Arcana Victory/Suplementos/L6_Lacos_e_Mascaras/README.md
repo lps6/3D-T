@@ -55,7 +55,7 @@ NPCs originais ou adaptados que aparecem neste livro, além das fichas de person
 | Sable Orin | Estudante 2° ano | Personagem de Vínculo Rompido | Chegou como parceiro próximo de outro estudante que foi expulso. Ficou. Não faz amigos facilmente porque carrega o custo do último laço que não sobreviveu. |
 | Mako Ferris | Estudante 1° ano | O que não sabe pedir ajuda | P alta, H alta, nenhum laço registrado. Tem o perfil de alguém que vai fazer tudo sozinho até o momento em que não consegue mais. |
 | Corvo | Familiar de Kenzo | Criatura com vínculo excepcional | Corvídeo com parcial-consciência arcana que conhece cada laço de Kenzo por nome e às vezes os chama de volta quando estão esquecendo que existem. |
-| A Sombra | Criatura do Palácio | Antagonista de arco interior (Persona) | Não é uma criatura real — é o que um PC recusou aceitar sobre si mesmo, tomando forma. A frase certa é diferente para cada PC. O Mestre cria. |
+| A Sombra | Criatura do Palácio | Antagonista de arco interior (O Avesso) | Não é uma criatura real — é o que um PC recusou aceitar sobre si mesmo, tomando forma. A frase certa é diferente para cada PC. O Mestre cria. |
 | Taiki Renn | NPC de missão (cap06) | Estudante da missão de formatura | Membro da equipe da missão que tem uma habilidade crítica e um problema de comunicação que vai testar a coesão do grupo exatamente quando o grupo mais precisa dela. |
 | Profa. Imara Vassaly | NPC de referência | Professora externa — observadora da missão | Avalia o grupo de fora. Não vai salvar ninguém — não é esse o papel dela — mas está de olho no processo, não só no resultado. |
 

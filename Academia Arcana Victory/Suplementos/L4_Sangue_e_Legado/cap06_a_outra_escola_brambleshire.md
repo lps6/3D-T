@@ -26,7 +26,7 @@ Em termos do Sistema de Legado (cap00):
 | **Fardo de Linhagem** | O peso de representar a escola em território estrangeiro + o segredo do Quarto do Espelho |
 | **Status de Herança** | Como cada casa trata os visitantes (Thornwood: respeito por competência; Ashveil: observação; Dunmore: teste) |
 
-**Para a campanha:** use Brambleshire com qualquer paradigma de herança como base. Os PJs levam suas linhagens (HP/Percy/Shadowhunters) para uma escola onde ninguém conhece suas famílias. O que valia em casa pode não valer aqui — e essa é a tensão.
+**Para a campanha:** use Brambleshire com qualquer paradigma de herança como base. Os PJs levam suas linhagens (Thornwall/Campo/Glifeiros) para uma escola onde ninguém conhece suas famílias. O que valia em casa pode não valer aqui — e essa é a tensão.
 
 ---
 
@@ -195,7 +195,7 @@ Kits secundários — complementam os kits Academy. Disponíveis para PJs que co
 |---|---|
 | ALA — Protocolo Ala Leste | Ressonância do Quarto do Espelho = mesmo fenômeno da Ala Leste |
 | L0 — A Verdade da Arca | V3ctor1us como observador silencioso da ressonância |
-| cap03 — Shadowhunters (este livro) | Lorekeep + Investigador de Demônios (cap03) = investigação completa em Brambleshire |
+| cap03 — Ordem dos Glifeiros (este livro) | Lorekeep + Investigador de Anomalias (cap03) = investigação completa em Brambleshire |
 | cap04 — Sociedades Secretas (este livro) | Ordem da Porta teria muito interesse em Fiona e no Quarto do Espelho |
 | T1 — Somática Arcana | Metodologia Dunmore com pontos de contato com Somática |
 | G2 — As Outras Escolas | Expansão de contexto britânico |

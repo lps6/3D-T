@@ -31,13 +31,13 @@ Esta seção é **nova** — não existia no suplemento original. Mostra como ca
 
 ### Em uma Campanha Thornwall (cap01)
 
-| Sociedade | Papel no Paradigma HP |
-|-----------|----------------------|
-| Vigilantes de Talude | Equivalem aos fãs de Dumbledore que desconfiam das instituições — monitoram o que a escola esconde |
-| Círculo Vectoriano | A facção que acredita em regras e sistemas — paralelo com o Ministério da Magia |
-| Ordem da Porta | Os que querem abrir a Câmara Secreta, a Sala Precisa, o que foi proibido — curiosidade que não para |
-| Filhos da Convergência | Puristas de sangue — mas com argumentos melhores e menos vilania cartunesca |
-| Os Sem Nome | Nascidos-trouxa, mestiços, e misfits que não se encaixam — a margem que se organiza |
+| Sociedade | Papel no Paradigma Thornwall |
+|-----------|------------------------------|
+| Vigilantes de Talude | Monitoram o que a escola esconde — alinhados com quem desconfia das instituições formais |
+| Círculo Vectoriano | A facção que confia em regras e sistemas — pragmáticos pró-Conselho |
+| Ordem da Porta | Buscam o que foi trancado: seções restritas, portas proibidas, o conhecimento que ninguém deveria ter |
+| Filhos da Convergência | Puristas de sangue — mas com argumentos mais elaborados e menos óbvios do que parecem |
+| Os Sem Nome | Terranos com magia, mestiços de convergência, e misfits que não se encaixam — a margem que se organiza |
 
 **Ajuste de Status:** Filhos da Convergência concedem +1 Status com famílias tradicionais e –1 com Terranos. Os Sem Nome concedem +1 com marginalizados e –1 com conservadores.
 
@@ -55,13 +55,13 @@ Esta seção é **nova** — não existia no suplemento original. Mostra como ca
 
 ### Em uma Campanha Ordem dos Glifeiros (cap03)
 
-| Sociedade | Papel no Paradigma Shadowhunters |
-|-----------|----------------------------------|
-| Vigilantes de Talude | Paralelo com dissidentes da Ordem que protegem algo que o Conselho quer controlar |
+| Sociedade | Papel no Paradigma Glifeiros |
+|-----------|------------------------------|
+| Vigilantes de Talude | Dissidentes que protegem algo que o Conselho dos Glifeiros quer controlar |
 | Círculo Vectoriano | O braço que defende a eficiência institucional a qualquer custo — o Conselho interno |
-| Ordem da Porta | Buscam glifos proibidos, conhecimento selado, os segredos que a Ordem dos Caçadores esconde |
-| Filhos da Convergência | Puristas de sangue angelical — só Caçadores de linhagem longa merecem a Ordem |
-| Os Sem Nome | Warlocks, meio-Subterrâneos, e Caçadores reformistas que rejeitam a hierarquia — a lista de Severin (cap03) |
+| Ordem da Porta | Buscam glifos proibidos, conhecimento selado, os segredos que a Ordem dos Glifeiros esconde |
+| Filhos da Convergência | Puristas de sangue arcano-ancestral — só Glifeiros de linhagem longa merecem a Ordem |
+| Os Sem Nome | Subterrâneos, meio-linhagens, e Glifeiros reformistas que rejeitam a hierarquia — a lista de Severin (cap03) |
 
 **Ajuste de Status:** Ordem da Porta: –1 Status com Conselho, +1 com Warlocks (compartilham fome de conhecimento proibido). Os Sem Nome: +1 com todos os Subterrâneos, –2 com o Conselho.
 

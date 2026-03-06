@@ -9,7 +9,7 @@
 
 > *Sim, esta escola tem casas. O formato vai parecer familiar: grupos com cores, filosofias próprias e rivalidades históricas. Não é por falta de criatividade — é porque dividir pessoas em grupos com base em valores compartilhados é uma das estruturas mais antigas da convivência humana, e escolas de magia não são exceção.*
 >
-> *A diferença real: em Hogwarts, um chapéu decide quem você é com base no caráter que você já tem. Aqui, você decide onde está com base no que acredita que a magia deveria ser — e pode mudar de ideia. Ninguém te seleciona. Você seleciona a si mesmo. E se a sua convicção mudar ao longo de quatro anos de escola, isso é crescimento, não traição.*
+> *A diferença real: em outras escolas, o sistema decide quem você é com base em traços que você já tem. Aqui, você decide onde está com base no que acredita que a magia deveria ser — e pode mudar de ideia. Ninguém te seleciona. Você seleciona a si mesmo. E se a sua convicção mudar ao longo de quatro anos de escola, isso é crescimento, não traição.*
 
 ---
 
@@ -17,7 +17,7 @@
 
 Na Academia Arcana, os grêmios não são casas onde você é colocado. São **irmandades** — organizações fundadas por estudantes, mantidas por estudantes, e escolhidas por estudantes.
 
-Ninguém distribui ninguém. Não há chapéu encantado. Não há cerimônia mística. Há um período de recrutamento, conversas em corredores, convites sussurrados, festas em sedes de grêmio onde você é avaliado enquanto acha que está socializando, e eventualmente uma decisão: a sua e a deles.
+Ninguém distribui ninguém. Não há cerimônia de seleção. Não há ritual místico de triagem. Há um período de recrutamento, conversas em corredores, convites sussurrados, festas em sedes de grêmio onde você é avaliado enquanto acha que está socializando, e eventualmente uma decisão: a sua e a deles.
 
 Calouros chegam à Academia sem grêmio. Vivem na **Residência Geral** — confortável, funcional, e deliberadamente neutra. Durante as primeiras semanas, os grêmios existentes fazem seu trabalho de recrutamento: apresentações oficiais no Pátio Principal, convites para visitas às sedes, conversas "casuais" que são tudo menos casuais. Alguns alunos são convidados por múltiplos grêmios. Alguns por nenhum. Alguns preferem assim.
 
@@ -627,7 +627,7 @@ As jogadoras escrevem (ou interpretam) a defesa de sua filosofia perante o Conse
 Os grêmios existentes reagem. A Égide pode ver o Prisma como uma versão mais suave do que eles já fazem ("proteção por amor não é proteção por dever — é mais fraco"). A Obsidiana pode considerar a filosofia ridícula — ou inesperadamente respeitá-la pela honestidade. A Aurora provavelmente ama a ideia mas quer saber por que não entraram na Aurora. A Coroa calcula se o Prisma é uma ameaça ou uma oportunidade.
 
 **Passo 6 — O Estilo de Conjuração:**
-O Prisma desenvolve sua magia naturalmente: sequências de transformação como catalisador (sim, como em Sailor Moon — e a Academia reage a isso exatamente como você esperaria), feitiços cooperativos que são mais fortes quando lançados em grupo, e o uso de objetos pessoais como focos mágicos. A estética é deliberada, colorida, e impossível de ignorar.
+O Prisma desenvolve sua magia naturalmente: sequências de transformação como catalisador — e a Academia reage a isso com um misto de fascínio e ceticismo acadêmico —, feitiços cooperativos que são mais fortes quando lançados em grupo, e o uso de objetos pessoais como focos mágicos. A estética é deliberada, colorida, e impossível de ignorar.
 
 **O resultado:** Fundar um grêmio não é um formulário. É uma campanha inteira. O processo de reunir membros, convencer um professor, defender uma filosofia perante o Conselho, e sobreviver à resistência dos grêmios estabelecidos oferece drama social, político, e pessoal suficiente para um arco de semestre completo.
 

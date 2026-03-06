@@ -122,10 +122,10 @@ Obrigatório narrativamente — aqui o Festival termina. Estrutura:
 
 O Festival de Inverno é o momento natural para **consolidar Laços** antes de testá-los:
 
-- Use a Ação de Socializar (Vida Dupla de Persona) para avançar Social Links durante o Festival
+- Use a Ação de Socializar (Vida Dupla de O Avesso) para avançar Social Links durante o Festival
 - Cenas de Laço espontâneas — especialmente as do Jardim das Lanternas — podem ser reconhecidas pelo Mestre como avanço de vínculo
-- A Força dos Laços (Fairy Tail) pode ter sua primeira ativação durante o Festival, especialmente na Cena d6=4 (mensagem durante o baile)
-- A Sintonia de Time (Naruto) pode ser calibrada informalmente durante a partida de MagiDerby de Festival
+- A Força dos Laços (Chama Livre) pode ter sua primeira ativação durante o Festival, especialmente na Cena d6=4 (mensagem durante o baile)
+- A Sintonia de Time (Academia Ninja) pode ser calibrada informalmente durante a partida de MagiDerby de Festival
 
 ---
 

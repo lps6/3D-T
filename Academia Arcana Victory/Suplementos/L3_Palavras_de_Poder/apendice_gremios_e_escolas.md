@@ -13,8 +13,8 @@ As duas franquias deste livro e os dois artigos consolidados revelam alinhamento
 
 | Fonte | Grêmio Natural | Por quê |
 |-------|---------------|---------|
-| **Kingkiller** (Cap. 01) | **Casa da Coroa** | A Universidade valoriza rigor, hierarquia de méritos, domínio técnico. Simpatia é hard magic institucional. Kvothe como Coroa que resiste ao sistema que o formou — tensão entre o grêmio que escolhe competência e o aluno que escolhe atalhos. |
-| **Eragon** (Cap. 02) | **Égide** | O Cavaleiro-Dragão protege. A Língua dos Nomes é poder sacrificial — custo em PV, morte por escolha, vínculo inquebrável. Eragon nunca usa poder para si; usa para outros. Égide reconhece isso. |
+| **Saleth** (Cap. 01) | **Casa da Coroa** | A Universidade valoriza rigor, hierarquia de méritos, domínio técnico. Simpatia é hard magic institucional. Asel Marr como Coroa que resiste ao sistema que o formou — tensão entre o grêmio que escolhe competência e o aluno que escolhe atalhos. |
+| **Ordem do Eco** (Cap. 02) | **Égide** | O Cavaleiro-Dragão protege. A Língua dos Nomes é poder sacrificial — custo em PV, morte por escolha, vínculo inquebrável. Um Cavaleiro nunca usa poder para si; usa para outros. Égide reconhece isso. |
 
 ### Artigos/Mecânicas
 
@@ -29,8 +29,8 @@ Nem toda franquia cabe em uma casa. As tensões criam personagens:
 
 | Fonte | Grêmio Secundário | Tensão |
 |-------|-------------------|--------|
-| **Kingkiller** | **Castelo Obsidiana** | Kvothe como Obsidiana — "poder para quem sabe usá-lo" — mas a tragédia de Kvothe é exatamente a arrogância que o Obsidiana cultiva. Um Kvothe no Obsidiana é o melhor aluno ou a maior catástrofe. |
-| **Eragon** | **Nova Aurora** | Eragon como Aurora — idealista, emocional, decide pelo coração. Mas Aurora sem a disciplina do Égide produz o tipo de herói que age antes de entender. O Vínculo Dragão como âncora. |
+| **Saleth** | **Castelo Obsidiana** | Asel Marr como Obsidiana — "poder para quem sabe usá-lo" — mas a tragédia de Asel é exatamente a arrogância que o Obsidiana cultiva. Um Asel no Obsidiana é o melhor aluno ou a maior catástrofe. |
+| **Ordem do Eco** | **Nova Aurora** | Um Cavaleiro novato como Aurora — idealista, emocional, decide pelo coração. Mas Aurora sem a disciplina do Égide produz o tipo de herói que age antes de entender. O Vínculo Dragão como âncora. |
 | **Y3** | **Castelo Obsidiana** | Nomeação como poder absoluto atrai o Obsidiana. Mas o Débito de Equilíbrio é o tipo de preço que o Obsidiana não costuma pagar — conhecimento como vulnerabilidade, não como vantagem. |
 | **T4** | **Casa da Coroa** | Design de sistemas é rigor intelectual. A Coroa aprecia quem constrói frameworks, não quem os quebra. |
 
@@ -42,8 +42,8 @@ Nem toda franquia cabe em uma casa. As tensões criam personagens:
 
 | Fonte | Escola | Conexão |
 |-------|--------|---------|
-| **Kingkiller** | **Gurukula da Confluência** | Rigor intelectual como meditação. A Simpatia e o Alar exigem disciplina cognitiva que espelha a prática contemplativa do Gurukula. Um estudante de Kingkiller que visitasse o Gurukula reconheceria o rigor — e estranharia a ausência de competitividade. |
-| **Eragon** | **Escola de Uiara** | Magia conectada à natureza e aos seres vivos. A Língua dos Nomes de Eragon respeita a essência das coisas — como a tradição de Uiara. O Vínculo Dragão como versão intensificada do relacionamento que Uiara cultiva com o ambiente. |
+| **Saleth** | **Gurukula da Confluência** | Rigor intelectual como meditação. A Simpatia e o Alar exigem disciplina cognitiva que espelha a prática contemplativa do Gurukula. Um estudante de Saleth que visitasse o Gurukula reconheceria o rigor — e estranharia a ausência de competitividade. |
+| **Ordem do Eco** | **Escola de Uiara** | Magia conectada à natureza e aos seres vivos. A Língua dos Nomes de Ordem do Eco respeita a essência das coisas — como a tradição de Uiara. O Vínculo Dragão como versão intensificada do relacionamento que Uiara cultiva com o ambiente. |
 | **Y3** | **Brambleshire Academy** | Arquivos, tradição, preservação. O terceiro andar da Biblioteca e a seção proibida de Brambleshire compartilham DNA: conhecimento guardado não por mesquinhez, mas por cautela. |
 | **T4** | **Zawiya** | Abordagem filosófica à prática mágica. A Zawiya trata magia como diálogo com o mundo — T4 como framework para entender *qual* tipo de diálogo (hard, soft, híbrido). |
 
@@ -70,8 +70,8 @@ O material deste livro sugere duas instituições que não existiam no cenário 
 **Conflito Interno:** A Universidade tem Mestres, não Grêmios. Cada mestre domina uma disciplina e compete por alunos, verbas e relevância. A política entre mestres é brutal, silenciosa e constante. Um aluno brilhante é moeda de troca — e o aluno que não aprende a navegar a política é tão vulnerável quanto o que não aprende a navegar a Simpatia.
 
 **NPCs formados na Universidade:**
-- Kvothe (Cap. 01) — se usado como NPC visitante, traz consigo a arrogância da formação técnica e a humildade de quem pagou o preço
-- Denna (Cap. 01) — se usada, contradiz tudo que a Universidade representa: talento sem estrutura formal, poder sem credencial
+- Asel Marr (Cap. 01) — se usado como NPC visitante, traz consigo a arrogância da formação técnica e a humildade de quem pagou o preço
+- Seralind Vex (Cap. 01) — se usada, contradiz tudo que a Universidade representa: talento sem estrutura formal, poder sem credencial
 
 ---
 
@@ -157,7 +157,7 @@ O Subsolo acolhe quem sabe coisas que a administração preferiria que não soub
 | Casa da Coroa | 01, 04 | Rigor técnico, Simpatia como competência formal |
 | Castelo Obsidiana | 01, 03 | Poder como mérito; Nomeação como tentação |
 | Égide | 02 | Proteção, sacrifício, Vínculo como dever |
-| Nova Aurora | 02 | Idealismo emocional; Eragon como herói impulsivo |
+| Nova Aurora | 02 | Idealismo emocional; protagonista que decide pelo coração |
 | Grêmio Memória | 03, 05 | Arquivo, Nomes Verdadeiros, Bibliotecário |
 | Grêmio Síntese | 04 | Meta-análise de sistemas mágicos |
 | Subsolo | 05 | Quem sabe demais precisa de aliados |
