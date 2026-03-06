@@ -257,10 +257,11 @@
 ---
 
 ## Capítulo 15 — Os Renegados
-- Introdução: Quando a Magia Sai do Controle
-- Os Renegados — Quem São
-- Mecânicas e Antagonistas
-- Arcos e Ganchos de Campanha
+- Os Três Renegados — Quem são e como chegaram
+- Kit 1 — Portadora da Relíquia (subsistema: Selos de Virtude)
+- Kit 2 — O Farsante Arcano (subsistema: Motor de Blefe)
+- Kit 3 — Caminho Sem Magia (subsistema: Pontos de Esforço)
+- Os Três Renegados em Conjunto
 - Apoie os Criadores Oficiais
 
 ---

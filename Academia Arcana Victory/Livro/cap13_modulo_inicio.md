@@ -329,7 +329,7 @@ Ele virou e foi embora antes que alguém pudesse perguntar qualquer coisa.
 
 Talude sabia do glifo. Há semanas. V3ctor1us também sabe — a IA registrou a anomalia três dias antes. Nenhum dos dois agiu porque estavam esperando ver quem usaria o glifo e de onde viria a criatura. Wynna *não* sabe do glifo. V3ctor1us não informou. Talude está preocupado com por que V3ctor1us não informou.
 
-O símbolo do Porto Arcano na criatura conecta com a Polvo Arcano (do Cap. 12) — um grupo que está fazendo pesquisa dimensional em Arrecife sem completa transparência com a Academia. A criatura foi enviada como teste. Para confirmar que o glifo funcionava. Para confirmar que havia movimento de retorno.
+O símbolo do Porto Arcano na criatura conecta com a Polvo Arcano (do Cap. 8) — um grupo que está fazendo pesquisa dimensional em Arrecife sem completa transparência com a Academia. A criatura foi enviada como teste. Para confirmar que o glifo funcionava. Para confirmar que havia movimento de retorno.
 
 Isso não é a ameaça principal da campanha. É o fio inicial.
 

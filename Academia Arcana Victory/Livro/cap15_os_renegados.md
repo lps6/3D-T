@@ -29,8 +29,6 @@ Estes kits podem coexistir numa mesma mesa. Um grupo inteiro de Renegados é uma
 
 ## Kit 1 — Portadora da Relíquia (1pt)
 
-*Inspirado em Little Witch Academia*
-
 **Exigências:** Nenhuma vantagem mágica ativa; Utensílio (a Relíquia)
 
 *Observação:* Este kit exige a ausência de vantagens mágicas inatas — não a ausência de qualquer capacidade. Um Arcavaleiro que perdeu acesso à Magia pode tornar-se Portadora. Uma personagem que comprou Médium como único poder pode. O Mestre arbitra caso a caso.
@@ -124,8 +122,6 @@ Ela chegou carregando um artefato que V3ctor1us não consegue identificar. Não 
 ---
 
 ## Kit 2 — O Farsante Arcano (1pt)
-
-*Inspirado em Mairimashita! Iruma-kun*
 
 **Exigências:** Enganação ou Persuasão; Carismático ou Gênio
 
@@ -223,8 +219,6 @@ Os PJs precisam decidir: contar a verdade, manter a Fachada, ou deixar Ivo se vi
 
 ## Kit 3 — Caminho Sem Magia (1pt + subsistema)
 
-*Inspirado em Mashle: Magic and Muscles*
-
 **Exigências:** Sem vantagem Magia; Sem Canalizador; 0 em Mística; P mínimo 3
 
 ---
@@ -257,7 +251,7 @@ Em vez de PM, este personagem tem **PE (Pontos de Esforço)**: R×5, recuperados
 
 Cada personagem neste caminho começa com os três poderes do Calouro Sortudo: Escape Miraculoso, Talento Inesperado, Magnetismo Narrativo. O Caminho Sem Magia acrescenta o subsistema de PE acima, não substitui o kit base.
 
-*Nota de design:* A combinação Calouro Sortudo + Caminho Sem Magia é o perfil mais preciso de Mash Burnedead. Escape Miraculoso funciona como "o que a magia tentou fazer simplesmente não funcionou pela razão que ninguém consegue articular." Talento Inesperado é a solução física óbvia que ninguém havia tentado. Magnetismo Narrativo é a pessoa certa que estava presente quando a cena terminou.
+*Nota de design:* A combinação Calouro Sortudo + Caminho Sem Magia constrói o arquétipo do estudante de força bruta numa academia de magia. Escape Miraculoso funciona como "o que a magia tentou fazer simplesmente não funcionou pela razão que ninguém consegue articular." Talento Inesperado é a solução física óbvia que ninguém havia tentado. Magnetismo Narrativo é a pessoa certa que estava presente quando a cena terminou.
 
 ---
 
