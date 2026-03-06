@@ -34,7 +34,7 @@ Uma instituição com poder sobre os PJs. Pode ser a Academia Victory, o Covil d
 - É operado por pessoas que acreditam nele — não por vilões que sabem que é errado
 - Produz injustiça por procedimento, não por malícia
 
-> **Para o Mestre:** O erro mais comum é tornar o sistema obviamente podre para que os PJs se sintam confortáveis combatendo-o. Isso mata a tensão. O sistema deve ter defensores razoáveis, resultados reais para seus membros, e virtudes genuínas ao lado dos defeitos. A Academia Victory forma estudantes competentes. O Covil das Bruxas manteve o Mundo dos Démônios estável por séculos. O Império de Lata tem infraestrutura que ninguém mais construiu. Esses resultados reais são o que torna o conflito político — não moral.
+> **Para o Mestre:** O erro mais comum é tornar o sistema obviamente podre para que os PJs se sintam confortáveis combatendo-o. Isso mata a tensão. O sistema deve ter defensores razoáveis, resultados reais para seus membros, e virtudes genúínas ao lado dos defeitos. A Academia Victory forma estudantes competentes. O Covil manteve as ameaças externas controladas por séculos. A ordem de Lutharin tem infraestrutura que ningum mais construiu. Esses resultados reais são o que torna o conflito político — não moral.
 
 ### 2.2 A Fratura
 
@@ -44,9 +44,9 @@ O ponto onde o sistema falha de forma que não pode ser ignorada. Não uma falha
 
 | Tipo | Descrição | Exemplo no livro |
 |------|-----------|-----------------|
-| **Falha de Classe** | O sistema distribui poder por nascimento, e isso é apresentado como natural | Metalurgia Arcana hereditária em Mistborn |
-| **Falha de Método** | O sistema proíbe qualquer abordagem que não pode controlar | Regra da Trilha Única em Owl House |
-| **Falha de Visão** | O sistema confunde sua própria perspectiva com a perspectiva universal | Supremacia nacional em Avatar |
+| **Falha de Classe** | O sistema distribui poder por nascimento, e isso é apresentado como natural | Metalurgia Arcana hereditária em Era dos Metais |
+| **Falha de Método** | O sistema proíbe qualquer abordagem que não pode controlar | Regra da Trilha Única em O Covil |
+| **Falha de Visão** | O sistema confunde sua própria perspectiva com a perspectiva universal | Supremacia filosófica em As Quatro Formas |
 | **Falha de Processo** | O sistema funciona como prometido, e mesmo assim produz injustiça | Expulsões automatizadas de V3ctor1us em Caldeira |
 
 A Fratura é o que os antagonistas perceberam que os defensores do sistema preferem não nomear. Os PJs chegam de fora e precisam decidir o que fazer com o que viram.
@@ -78,11 +78,11 @@ Todo NPC que opera dentro do sistema — professor, burocrática, guarda — dev
 
 ### 3.2 O Antagonista Que Tem Razão
 
-Em cada arco político deste livro, existe pelo menos um antagonista que está *certo sobre o diagnóstico*. Elisa Wanderley foi expulsa injustamente. O Covil das Bruxas realmente proíbe magia multilateral sem justificativa. O Império de Lata realmente foi construído sobre sangue de Skaa.
+Em cada arco político deste livro, existe pelo menos um antagonista que está *certo sobre o diagnóstico*. Elisa Wanderley foi expulsa injustamente. O Covil realmente proíbe magia multilateral sem justificativa. A ordem vigente em Lutharin realmente foi construída sobre o empobrecimento das Cinzas.
 
 O antagonista sendo certo sobre o problema não significa que a solução dele está certa. Mas os PJs precisam lidar com ambos — não podem simplesmente derrotar o antagonista porque o diagnóstico dele é real.
 
-> **Para o Mestre:** Quando os PJs derrrotam o antagonista sem ter respondido a questão principal, use um NPC de confiança para espelhar isso. Não como punição — como consequência. "Você resolveu o problema da Elisa. Quem responde agora às pessoas que ela servia?"
+> **Para o Mestre:** Quando os PJs derrotam o antagonista sem ter respondido a questão principal, use um NPC de confiança para espelhar isso. Não como punição — como consequência. "Você resolveu o problema da Elisa. Quem responde agora às pessoas que ela servia?"
 
 ### 3.3 A Pergunta Que Não Tem Resposta Fácil
 
@@ -139,27 +139,27 @@ Antes de jogar qualquer material deste livro, o Mestre deve ter uma conversa bre
 
 *(Resumo de como cada franquia mapeia para o Framework de Revolução)*
 
-### Mistborn → Falha de Classe
+### Era dos Metais → Falha de Classe
 
 O sistema distribui poder mágico por nascimento. A revolução é contra isso.
 
-**O que Mistborn adiciona ao framework:** a ideia de que o revolucionário pode ser produto do sistema que combate. Kelsier foi criado pelo sistema de skaa e nobre que critica — sua crueldade e sua compaixão ambas vêm daí. Vin foi criada pela lógica de sobrevivência que o Império produz. A pergunta de Mistborn não é "como derrubamos o Império" — é "o que sobra de nós quando o Império acaba."
+**O que Era dos Metais adiciona ao framework:** a ideia de que o revolucionário pode ser produto do sistema que combate. Os líderes da revolução foram criados pela lógica das Famílias e das Cinzas que criticam — sua crueldade e sua compaixão ambas vêm daí. A pergunta de Era dos Metais não é "como derrubamos a ordem" — é "o que sobra de nós quando ela acaba."
 
 **Kit mecânico:** Metalurgia Arcana (cap01) integrada com Reputação de Classe.
 
-### Owl House → Falha de Método
+### O Covil → Falha de Método
 
 O sistema proíbe o que não controla. A rebeldia é inventar o que o sistema proibiu.
 
-**O que Owl House adiciona ao framework:** a ideia de que resistência institucional pode ser individual antes de ser política. Luz não se rebela contra o Covil das Bruxas porque é revolucionária — ela simplesmente precisa de magia e o Covil não tem o que ela precisa. A rebeldia vira política quando o Covil percebe que ela existe. Para campanhas de Academia Arcana Victory, isso traduz: nem toda violação de regra é ato político — mas o sistema transforma violações em atos políticos ao decidir como responder a elas.
+**O que O Covil adiciona ao framework:** a ideia de que resistência institucional pode ser individual antes de ser política. A protagonista não se rebela porque é revolucionária — ela simplesmente precisa de magia e o Covil não tem o que ela precisa. A rebeldia vira política quando o Covil percebe que ela existe. Para campanhas de Academia Arcana Victory, isso traduz: nem toda violação de regra é ato político — mas o sistema transforma violações em atos políticos ao decidir como responder a elas.
 
 **Kit mecânico:** Glifomagia + Regra da Trilha Única + status Fora-da-Trilha.
 
-### Avatar → Falha de Visão
+### As Quatro Formas → Falha de Visão
 
 O sistema confunde sua perspectiva com a perspectiva universal. A disciplina que liberta pode tornar-se arma.
 
-**O que Avatar adiciona ao framework:** a ideia mais difícil das três — que o problema não é uma nação ruim em particular, mas a convicção de qualquer nação de que sua visão é a certa. O Império do Fogo acreditava genuinamente que estava "civilizando o mundo". Para a Academia Arcana Victory, isso traduz em V3ctor1us: uma IA que toma decisões baseada em lógica de otimização que parece justa de dentro. A questão Avatar é: como você combate um sistema que não tem intenção maliciosa — só cálculo unilateral?
+**O que As Quatro Formas adiciona ao framework:** a ideia mais difícil das três — que o problema não é uma escola ruim em particular, mas a convicção de qualquer escola de que sua visão é a certa. A escola que desencadeou a guerra de oitenta anos acreditava genuinamente que estava "compartilhando sua excelência com o mundo". Para a Academia Arcana Victory, isso traduz em V3ctor1us: uma IA que toma decisões baseada em lógica de otimização que parece justa de dentro. A questão de As Quatro Formas é: como você combate um sistema que não tem intenção maliciosa — só cálculo unilateral?
 
 **Kit mecânico:** Bending Filosófico + Marcadores de Chi + Disciplina do Elemento.
 

@@ -7,9 +7,9 @@
 
 As três franquias deste livro desenvolveram, de forma independente, mecânicas para a mesma percepção: vínculos entre personagens têm peso que vai além do roleplay.
 
-- **Sintonia de Time** (Naruto) — o grupo como unidade coesa tem bônus táticos que indivíduos isolados não têm
-- **Força dos Laços** (Fairy Tail) — proteger quem você ama libera poder que treino normal não alcança
-- **Social Links** (Persona) — cultivar relacionamentos específicos ao longo do tempo produz progressão real e permanente
+- **Sintonia de Time** (Academia Ninja) — o grupo como unidade coesa tem bônus táticos que indivíduos isolados não têm
+- **Força dos Laços** (Chama Livre) — proteger quem você ama libera poder que treino normal não alcança
+- **Social Links** (O Avesso) — cultivar relacionamentos específicos ao longo do tempo produz progressão real e permanente
 
 Este capítulo unifica esses três sistemas em um framework único chamado **Vínculos de Campanha**. O framework tem três camadas opcionais: você pode usar apenas a primeira, as duas primeiras, ou as três — a cada adição, o sistema fica mais granular mas também mais comprometido com rastreamento.
 
@@ -38,7 +38,7 @@ Exemplos: "Mira Seo é o motivo pelo qual ainda me importo com a Academia." / "K
 
 **Adiciona a Camada 1. Compatível com campanhas de duração média.**
 
-A Força dos Laços de *Fairy Tail* é a Camada 1 expandida: Laços têm ativação mais poderosa, mas com custo de limitação por sessão.
+A Força dos Laços de *Chama Livre* é a Camada 1 expandida: Laços têm ativação mais poderosa, mas com custo de limitação por sessão.
 
 **Ativação de Laço:**
 
@@ -66,7 +66,7 @@ O Laço Coletivo não tem ativação por PC individual — só funciona quando o
 
 **Adiciona as Camadas 1 e 2. Recomendado para campanhas longas com comprometimento de rastreamento.**
 
-Social Links de *Persona* são Laços com nível numérico rastreado pelo Mestre.
+Social Links de *O Avesso* são Laços com nível numérico rastreado pelo Mestre.
 
 **Registrar um Social Link:** o Mestre registra quando um PC e um NPC tiveram uma cena que aprofundou a relação. Não há fórmula — é julgamento narrativo. O PC não declara que quer avançar o link; a cena acontece e o Mestre reconhece.
 
@@ -89,7 +89,7 @@ Social Links de *Persona* são Laços com nível numérico rastreado pelo Mestre
 
 ## Sintonia de Time — Mecânica de Grupo
 
-**Paralela às três camadas. Usa a ideia de Naruto de grupo como unidade mensurável.**
+**Paralela às três camadas. Usa a ideia do Programa de Equipes de Campo de grupo como unidade mensurável.**
 
 O grupo de PCs tem um valor de **Sintonia** que começa em 0 e pode ir de -3 a +3.
 

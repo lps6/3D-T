@@ -6,7 +6,7 @@
 ---
 
 **Subsistema:** Nomes Verdadeiros (Y3)
-**Compatível com:** Cap. 01 (Kingkiller — Nomeação como disciplina avançada), Cap. 02 (Eragon — Língua dos Nomes como prima mecânica), Cap. 04 (Hard/Soft — Nomeação como exemplo de magic system rígido com custos)
+**Compatível com:** Cap. 01 (Saleth — Nomeação como disciplina avançada), Cap. 02 (Ordem do Eco — Língua dos Nomes como prima mecânica), Cap. 04 (Hard/Soft — Nomeação como exemplo de magic system rígido com custos)
 
 > **Se Você Não Conhece *Terramar*:** Série de fantasia em que cada coisa — rocha, vento, pessoa, conceito — tem um nome verdadeiro numa Língua Antiga, e saber esse nome é ter poder sobre a coisa. A magia não é força: é reconhecimento. Ged, o protagonista, aprende que nomear uma sombra é nomear a si mesmo — e que poder e responsabilidade são inseparáveis.
 
@@ -36,10 +36,10 @@ Os capítulos 01 e 02 deste livro já tocaram na Nomeação:
 
 | Sistema Anterior | Relação com Y3 |
 |-----------------|----------------|
-| **Nomeação de Kingkiller** (Cap. 01, §2.4) | Y3 é o sistema mecânico completo que a Nomeação instancia. Os custos em PM do Cap. 01 funcionam como alternativa simplificada; este capítulo oferece o sistema de Débito como alternativa mais dramática. |
-| **Língua dos Nomes de Eragon** (Cap. 02, §1) | A Língua dos Nomes e os Nomes Verdadeiros são tradições diferentes para o mesmo fenômeno. A Proficiência 1-5 de Eragon mede vocabulário; o sistema Y3 mede compreensão. Um personagem com Proficiência 4+ em Eragon já está operando no mesmo nível conceitual de um Nomeador Y3 — as mecânicas são intercambiáveis com ajuste de flavor. |
+| **Nomeação de Saleth** (Cap. 01, §2.4) | Y3 é o sistema mecânico completo que a Nomeação instancia. Os custos em PM do Cap. 01 funcionam como alternativa simplificada; este capítulo oferece o sistema de Débito como alternativa mais dramática. |
+| **Língua dos Nomes de Ordem do Eco** (Cap. 02, §1) | A Língua dos Nomes e os Nomes Verdadeiros são tradições diferentes para o mesmo fenômeno. A Proficiência 1-5 de Ordem do Eco mede vocabulário; o sistema Y3 mede compreensão. Um personagem com Proficiência 4+ em Ordem do Eco já está operando no mesmo nível conceitual de um Nomeador Y3 — as mecânicas são intercambiáveis com ajuste de flavor. |
 
-**Decisão de mesa:** Se a campanha já usa Simpatia/Nomeação de Kingkiller ou Língua dos Nomes de Eragon, este capítulo funciona como **expansão avançada** — o sistema para quando os personagens ultrapassam os limites dos outros dois. Se a campanha quer um sistema autônomo de nomeação sem franquia associada, este capítulo funciona **sozinho**.
+**Decisão de mesa:** Se a campanha já usa Simpatia/Nomeação de Saleth ou Língua dos Nomes de Ordem do Eco, este capítulo funciona como **expansão avançada** — o sistema para quando os personagens ultrapassam os limites dos outros dois. Se a campanha quer um sistema autônomo de nomeação sem franquia associada, este capítulo funciona **sozinho**.
 
 ---
 
@@ -158,15 +158,15 @@ O Débito só se reduz com descanso e silêncio deliberado — não usar a Líng
 
 Os sistemas dos capítulos 01 e 02 são **instâncias** do framework deste capítulo. Para evitar camadas desnecessárias:
 
-**Se a campanha usa Kingkiller (Cap. 01):**
+**Se a campanha usa Saleth (Cap. 01):**
 - Simpatia e Sigilaria funcionam com PM normalmente — não geram Débito
 - Nomeação (§2.4 do Cap. 01) pode usar os custos em PM do Cap. 01 OU o Débito de Equilíbrio — escolha uma escala na Sessão Zero
 - Um personagem com kit Nomeador (deste capítulo) E Elo Simpático (Cap. 01) é raro e potente — considere exigir 2+ arcos de play antes de permitir ambos
 
-**Se a campanha usa Eragon (Cap. 02):**
-- A Proficiência 1-5 de Eragon mede vocabulário; o Débito mede consequência. Podem coexistir
-- Um personagem com Proficiência 4+ em Eragon que adquire o kit Nomeador integra os dois sistemas naturalmente: a Língua dos Nomes fornece as palavras, o Débito cobra o preço cósmico
-- As 5 Palavras Proibidas de Eragon (Cap. 02, §1) são Nomes Verdadeiros de conceitos fundamentais — usá-las gera +3 Débito automaticamente além do custo em PV
+**Se a campanha usa Ordem do Eco (Cap. 02):**
+- A Proficiência 1-5 de Ordem do Eco mede vocabulário; o Débito mede consequência. Podem coexistir
+- Um personagem com Proficiência 4+ em Ordem do Eco que adquire o kit Nomeador integra os dois sistemas naturalmente: a Língua dos Nomes fornece as palavras, o Débito cobra o preço cósmico
+- As 5 Palavras Proibidas de Ordem do Eco (Cap. 02, §1) são Nomes Verdadeiros de conceitos fundamentais — usá-las gera +3 Débito automaticamente além do custo em PV
 
 **Se a campanha usa só Y3 (este capítulo):**
 - O sistema funciona sozinho. Nenhum material dos capítulos anteriores é necessário

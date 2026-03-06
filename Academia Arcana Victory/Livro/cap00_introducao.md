@@ -167,9 +167,9 @@ A Academia Arcana como destino de uma única aventura. Os personagens visitam, c
 
 Não existe uma ordem errada de ler este livro — mas existe uma ordem mais eficiente, dependendo do seu papel na mesa:
 
-**Para jogadores:** Leia esta *Introdução* para o contexto e a deixe animado. Depois vá direto ao **Capítulo 1** (criação de personagem). Em seguida, Capsítulos **2 e 3** apresentam a escola e os grêmios. **Capítulo 6** tem os onze kits exclusivos. Com isso, você está pronto para jogar. Os outros capítulos são leitura de interesse, não pré-requisito.
+**Para jogadores:** Leia esta *Introdução* para o contexto e a deixe animado. Depois vá direto ao **Capítulo 1** (criação de personagem). Em seguida, Capítulos **2 e 3** apresentam a escola e os grêmios. **Capítulo 6** tem os onze kits exclusivos. Com isso, você está pronto para jogar. Os outros capítulos são leitura de interesse, não pré-requisito.
 
-**Para o Mestre:** Leitura completa é recomendada — mas comece pelos **Capítulos 1–6** para saber o que os jogadores têm à disposição, depois vá para os **Capítulos 9 e 10** (toolkit e estrutura de campanha). O **Capítulo 13** é a aventura de início pronta — tem informação que só o Mestre deve ler antes da primeira sessão. Capsítulos 14 e 15 são módulos e mecânicas opcionais.
+**Para o Mestre:** Leitura completa é recomendada — mas comece pelos **Capítulos 1–6** para saber o que os jogadores têm à disposição, depois vá para os **Capítulos 9 e 10** (toolkit e estrutura de campanha). O **Capítulo 13** é a aventura de início pronta — tem informação que só o Mestre deve ler antes da primeira sessão. Capítulos 14 e 15 são módulos e mecânicas opcionais.
 
 **Para jogar hoje:** Vá direto ao **Capítulo 13 — Aventura Pronta: Os Primeiros Três Dias**. As fichas estão lá. As regras essenciais também. Você precisa de um d6 e de aproximadamente três horas.
 

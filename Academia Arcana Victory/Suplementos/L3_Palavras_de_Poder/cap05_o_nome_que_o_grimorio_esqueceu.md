@@ -30,8 +30,8 @@ A aventura funciona com qualquer dos três sistemas deste livro:
 
 | Sistema da campanha | Como o grimório funciona |
 |---------------------|--------------------------|
-| **Kingkiller** (Cap. 01) | Anotações de Simpatia + fragmento de Nomeação avançada; o Nome é de um conceito (não objeto) |
-| **Eragon** (Cap. 02) | Tabelas de vocabulário na Língua dos Nomes; o Nome é Nível 5 — fundamental, proibido |
+| **Saleth** (Cap. 01) | Anotações de Simpatia + fragmento de Nomeação avançada; o Nome é de um conceito (não objeto) |
+| **Ordem do Eco** (Cap. 02) | Tabelas de vocabulário na Língua dos Nomes; o Nome é Nível 5 — fundamental, proibido |
 | **Y3** (Cap. 03) | Nome Verdadeiro puro; Débito como tensão central |
 | **Sem sistema de nomeação** | O grimório contém feitiço incompleto com efeito potente; a mecânica base de 3D&T Victory cobre |
 

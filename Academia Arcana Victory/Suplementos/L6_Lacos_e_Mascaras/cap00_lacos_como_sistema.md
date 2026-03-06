@@ -49,9 +49,9 @@ As franquias deste livro oferecem três sabores do mesmo tema:
 
 | Framework | Franquia | O Que Mede | Como Ativa |
 |-----------|---------|-----------|------------|
-| Sintonia de Time | Naruto | Coesão tática do grupo | Ações coordenadas liberam bônus de time |
-| Força dos Laços | Fairy Tail | Intensidade do vínculo emocional | Proteger quem você ama libera poder além do normal |
-| Social Links | Persona | Profundidade de uma relação específica | Nível do vínculo confere bônus progressivos |
+| Sintonia de Time | Academia Ninja | Coesão tática do grupo | Ações coordenadas liberam bônus de time |
+| Força dos Laços | Chama Livre | Intensidade do vínculo emocional | Proteger quem você ama libera poder além do normal |
+| Social Links | O Avesso | Profundidade de uma relação específica | Nível do vínculo confere bônus progressivos |
 
 Nenhum desses frameworks é incompatível com os outros — eles medem dimensões diferentes de "laço como mecânica." O cap05 apresenta como usar um, dois, ou os três simultaneamente sem colapso mecânico.
 
@@ -61,15 +61,15 @@ Nenhum desses frameworks é incompatível com os outros — eles medem dimensõe
 
 Antes de usar o conteúdo deste livro, alinhe o grupo sobre uma pergunta simples: **o que acontece quando um laço é perdido?**
 
-Em *Naruto*, laços perdidos criam motivação de longo prazo — Sasuke perde o clã e constrói toda a identidade em volta da perda. Em *Fairy Tail*, laços perdidos são o epicentro do drama mais intenso — quando Gray perde Ur, o gelo que ele usa carrega esse peso. Em *Persona*, laços perdidos enfraquecem mecanicamente — e a jornada de recuperação é lenta e custosa.
+Em *Academia Ninja*, laços perdidos criam motivação de longo prazo — um Instrutor perde o time e constrói toda a identidade em volta da perda. Em *Chama Livre*, laços perdidos são o epicentro do drama mais intenso — quando um mago perde o mentor, a magia que ele usa carrega esse peso. Em *O Avesso*, laços perdidos enfraquecem mecanicamente — e a jornada de recuperação é lenta e custosa.
 
 A resposta da sua mesa pode ser qualquer uma dessas variações. O importante é que todos saibam qual é antes de começar a rastrear vínculos mecanicamente. Uma tabela de calibração:
 
 | Tom | O que laços perdidos produzem | Modelo de franquia |
 |-----|------------------------------|-------------------|
-| Épico | Motivação de longo prazo, transformação de personagem | Naruto |
-| Emocional direto | Drama imediato, poder que cresce com a dor | Fairy Tail |
-| Mecânico gradual | Enfraquecimento mensurável, recuperação custosa | Persona |
+| Épico | Motivação de longo prazo, transformação de personagem | Academia Ninja |
+| Emocional direto | Drama imediato, poder que cresce com a dor | Chama Livre |
+| Mecânico gradual | Enfraquecimento mensurável, recuperação custosa | O Avesso |
 | Realista | Consequência permanente sem compensação dramática | Caldeira (L5) |
 | Cicatriz Funcional | A perda moldou, mas não define; o PC continua | Qualquer — questão de mesa |
 
@@ -103,11 +103,11 @@ A Missão de Formatura (cap06) foi desenhada explicitamente para testar a coesã
 
 ## Uma Nota Sobre Máscaras
 
-O título deste livro é *Laços & Máscaras*. A "máscara" é de Persona — a identidade pública versus a identidade real. Mas ela ressoa em todas as três franquias:
+O título deste livro é *Laços & Máscaras*. A “máscara” é de O Avesso — a identidade pública versus a identidade real. Mas ela ressoa em todas as três franquias:
 
-- Sasuke usa a máscara do vingador porque a identidade real está enterrada no trauma da perda do clã.
-- Erza usa a armadura como máscara porque mostrar vulnerabilidade parecia igual a morrer.
-- Joker usa a máscara do estudante-problema porque a identidade real — a que pode invocar Arsène — não tem onde existir publicamente.
+- No Programa de Equipes de Campo, um instrutor usa a máscara da frieza porque a identidade real está enterrada no trauma da perda do time.
+- No Chama Livre, um mago usa a armadura como máscara porque mostrar vulnerabilidade parecia igual a morrer.
+- No Avesso, o explorador usa a máscara do estudante-modelo porque a identidade real — a que acessa o Avesso — não tem onde existir publicamente.
 
 Para a Academia Victory, a máscara é a identidade que os alunos apresentam para V3ctor1us, para os grêmios, para a classificação. O laço é o que existe embaixo dela.
 

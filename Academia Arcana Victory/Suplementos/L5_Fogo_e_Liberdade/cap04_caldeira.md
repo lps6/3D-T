@@ -203,4 +203,4 @@ Caldeira também é o lugar onde os temas abstratos das franquias anteriores se 
 
 ---
 
-*Próximo: **Cap. 05 — Reputação Faccional** — o sistema que unifica classes de Mistborn, status de Owl House, alinhamento de Avatar, e reputação urbana de Caldeira em mecânica modular.*
+*Próximo: **Cap. 05 — Reputação Faccional** — o sistema que unifica classes de Era dos Metais, status de O Covil, alinhamento de As Quatro Formas, e reputação urbana de Caldeira em mecânica modular.*

@@ -33,8 +33,6 @@ Mas se quiser entender como eles se relacionam:
 
 ## Sistema 1 — Combustível Emocional
 
-*Inspirado em The Magicians (Lev Grossman)*
-
 A Academia não ensina isso. Não está no currículo, não consta nos materiais de Wynna, e pelo menos três professores preferiram fingir que não existe depois de não conseguirem proibir categoricamente. O que esse sistema modela é simples e inconfortável: estados emocionais intensos funcionam como catalisador para magia. Desespero, angústia, melancolia — quando já estão presentes, podem ser canalizados.
 
 A magia não *causa* o sofrimento. Ela só aproveita o que já está lá.
@@ -128,7 +126,7 @@ Um professor visitante sem ficha em V3ctor1us começa a dar aulas noturnas com r
 
 Não está fazendo nada ilegal pela letra das regras. Está ensinando uma técnica que deixa alunos emocionalmente instáveis e magicamente mais capazes. A linha entre "método pedagógico heterodoxo" e "exploração" não está clara para a maioria dos envolvidos.
 
-*(Para o kit completo do Canalista Emocional e o subsistema de Combustível Emocional adaptado de The Magicians, este capítulo está integrado ao livro principal a partir do suplemento Y2.)*
+*(Para o kit completo do Canalista Emocional e o subsistema de Combustível Emocional, este capítulo está integrado ao livro principal a partir do suplemento Y2.)*
 
 ---
 
