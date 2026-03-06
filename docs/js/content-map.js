@@ -2,12 +2,32 @@
 // Defines every book and chapter available in the reader.
 // Order here = order in the sidebar and in prev/next navigation.
 
+// ── Groups (DLC collections) ──────────────────────────────────
+const CONTENT_GROUPS = [
+  {
+    id: 'academia',
+    title: 'Academia Arcana Victory',
+    subtitle: 'Escola de Magia & Aventura',
+    description: 'RPG de escola mágica com 15+ capítulos e 8 suplementos temáticos.',
+  },
+  {
+    id: 'batalha',
+    title: 'Batalha Total Victory',
+    subtitle: 'Conflitos em Escala — Beta',
+    description: 'Regras modulares para guerras, mechas e kaijus em qualquer escala.',
+  },
+];
+
+// ── Books ─────────────────────────────────────────────────────
 const CONTENT_MAP = [
-  // ─────────────────────────────────────────────────────────────
-  // LIVRO BASE
-  // ─────────────────────────────────────────────────────────────
+
+  // ═══════════════════════════════════════════════════════════
+  // ACADEMIA ARCANA VICTORY
+  // ═══════════════════════════════════════════════════════════
+
   {
     id: 'livro',
+    group: 'academia',
     title: 'Livro Base',
     subtitle: 'Academia Arcana Victory',
     path: 'Academia Arcana Victory/Livro',
@@ -33,11 +53,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // ÍNDICE DE SUPLEMENTOS
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'suplementos',
+    group: 'academia',
     title: 'Suplementos',
     subtitle: 'Visão Geral',
     path: 'Academia Arcana Victory/Suplementos',
@@ -46,11 +64,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // L0 — A Verdade da Arca
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'l0',
+    group: 'academia',
     title: 'L0 — A Verdade da Arca',
     subtitle: 'Suspense institucional',
     path: 'Academia Arcana Victory/Suplementos/L0_A_Verdade_da_Arca',
@@ -66,11 +82,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // L1 — Estrelas & Cristais
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'l1',
+    group: 'academia',
     title: 'L1 — Estrelas & Cristais',
     subtitle: 'Luminoso, épico, otimista',
     path: 'Academia Arcana Victory/Suplementos/L1_Estrelas_e_Cristais',
@@ -88,11 +102,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // L2 — Tinta & Sombras
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'l2',
+    group: 'academia',
     title: 'L2 — Tinta & Sombras',
     subtitle: 'Sombrio, horror atmosférico',
     path: 'Academia Arcana Victory/Suplementos/L2_Tinta_e_Sombras',
@@ -110,11 +122,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // L3 — Palavras de Poder
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'l3',
+    group: 'academia',
     title: 'L3 — Palavras de Poder',
     subtitle: 'Contemplativo, rigoroso',
     path: 'Academia Arcana Victory/Suplementos/L3_Palavras_de_Poder',
@@ -130,11 +140,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // L4 — Sangue & Legado
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'l4',
+    group: 'academia',
     title: 'L4 — Sangue & Legado',
     subtitle: 'Aventureiro, institucional',
     path: 'Academia Arcana Victory/Suplementos/L4_Sangue_e_Legado',
@@ -152,11 +160,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // L5 — Fogo & Liberdade
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'l5',
+    group: 'academia',
     title: 'L5 — Fogo & Liberdade',
     subtitle: 'Épico, político',
     path: 'Academia Arcana Victory/Suplementos/L5_Fogo_e_Liberdade',
@@ -173,11 +179,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // L6 — Laços & Máscaras
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'l6',
+    group: 'academia',
     title: 'L6 — Laços & Máscaras',
     subtitle: 'Shōnen, psicológico',
     path: 'Academia Arcana Victory/Suplementos/L6_Lacos_e_Mascaras',
@@ -194,11 +198,9 @@ const CONTENT_MAP = [
     ],
   },
 
-  // ─────────────────────────────────────────────────────────────
-  // L7 — Desejos & Portais
-  // ─────────────────────────────────────────────────────────────
   {
     id: 'l7',
+    group: 'academia',
     title: 'L7 — Desejos & Portais',
     subtitle: 'Cômico, colorido',
     path: 'Academia Arcana Victory/Suplementos/L7_Desejos_e_Portais',
@@ -210,6 +212,67 @@ const CONTENT_MAP = [
       { id: 'cap03',        file: 'cap03_consequencia_criativa.md',   title: 'Cap. 3 — Consequência Criativa' },
       { id: 'cap04',        file: 'cap04_o_desejo_dimensional.md',    title: 'Cap. 4 — O Desejo Dimensional' },
       { id: 'ap-dimensoes', file: 'apendice_20_dimensoes.md',         title: 'Apêndice — 20 Dimensões' },
+    ],
+  },
+
+  // ═══════════════════════════════════════════════════════════
+  // BATALHA TOTAL VICTORY
+  // ═══════════════════════════════════════════════════════════
+
+  {
+    id: 'btv-livro',
+    group: 'batalha',
+    title: 'Livro Base',
+    subtitle: 'Batalha Total Victory',
+    path: 'Batalha Total Victory/Livro',
+    chapters: [
+      { id: 'intro',    file: '00_introducao.md',                  title: 'Introdução' },
+      { id: 'cap01',    file: 'cap01_o_campo_de_batalha.md',       title: 'Cap. 1 — O Campo de Batalha' },
+      { id: 'cap02',    file: 'cap02_tropas_e_formacoes.md',       title: 'Cap. 2 — Tropas e Formações' },
+      { id: 'cap03',    file: 'cap03_a_escala_da_guerra.md',       title: 'Cap. 3 — A Escala da Guerra' },
+      { id: 'cap04',    file: 'cap04_mechas_kaijus_colossais.md',  title: 'Cap. 4 — Mechas, Kaijus & Colossais' },
+      { id: 'cap05',    file: 'cap05_o_custo_humano.md',           title: 'Cap. 5 — O Custo Humano' },
+      { id: 'cap06',    file: 'cap06_motores_da_destruicao.md',    title: 'Cap. 6 — Motores da Destruição' },
+      { id: 'cap07',    file: 'cap07_comandando_a_batalha.md',     title: 'Cap. 7 — Comandando a Batalha' },
+      { id: 'ap-a',     file: 'apendice_a_fantasia_medieval.md',   title: 'Apêndice A — Fantasia Medieval' },
+      { id: 'ap-b',     file: 'apendice_b_grimdark_scifi.md',      title: 'Apêndice B — Grimdark Sci-Fi' },
+      { id: 'ap-c',     file: 'apendice_c_falgsc.md',              title: 'Apêndice C — Hist. Alternativa' },
+    ],
+  },
+
+  {
+    id: 'btv-estelar',
+    group: 'batalha',
+    title: 'Fronteira Estelar',
+    subtitle: 'Combate espacial',
+    path: 'Batalha Total Victory/Suplementos/Fronteira_Estelar',
+    chapters: [
+      { id: 'intro',   file: '00_introducao_estelar.md',      title: 'Introdução' },
+      { id: 'cap01',   file: 'cap01_escalas_no_vacuo.md',     title: 'Cap. 1 — Escalas no Vácuo' },
+      { id: 'cap02',   file: 'cap02_combate_espacial.md',     title: 'Cap. 2 — Combate Espacial' },
+      { id: 'cap03',   file: 'cap03_naves_estelares.md',      title: 'Cap. 3 — Naves Estelares' },
+      { id: 'cap04',   file: 'cap04_desgaste_estelar.md',     title: 'Cap. 4 — Desgaste Estelar' },
+      { id: 'cap05',   file: 'cap05_bestiario_estelar.md',    title: 'Cap. 5 — Bestiário Estelar' },
+      { id: 'cap06',   file: 'cap06_faccoes_e_cenarios.md',   title: 'Cap. 6 — Facções e Cenários' },
+      { id: 'cap07',   file: 'cap07_campanhas_estelares.md',  title: 'Cap. 7 — Campanhas Estelares' },
+    ],
+  },
+
+  {
+    id: 'btv-mar',
+    group: 'batalha',
+    title: 'Mar de Lendas',
+    subtitle: 'Combate naval',
+    path: 'Batalha Total Victory/Suplementos/Mar_de_Lendas',
+    chapters: [
+      { id: 'intro',   file: '00_introducao_maritima.md',             title: 'Introdução' },
+      { id: 'cap01',   file: 'cap01_escalas_no_mar.md',               title: 'Cap. 1 — Escalas no Mar' },
+      { id: 'cap02',   file: 'cap02_combate_naval.md',                title: 'Cap. 2 — Combate Naval' },
+      { id: 'cap03',   file: 'cap03_navios_e_espirito.md',            title: 'Cap. 3 — Navios e Espírito' },
+      { id: 'cap04',   file: 'cap04_terreno_maritimo.md',             title: 'Cap. 4 — Terreno Marítimo' },
+      { id: 'cap05',   file: 'cap05_bestiario_maritimo.md',           title: 'Cap. 5 — Bestiário Marítimo' },
+      { id: 'cap06',   file: 'cap06_faccoes_e_cenarios_maritimos.md', title: 'Cap. 6 — Facções e Cenários' },
+      { id: 'cap07',   file: 'cap07_campanhas_maritimas.md',          title: 'Cap. 7 — Campanhas Marítimas' },
     ],
   },
 ];

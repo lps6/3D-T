@@ -11,7 +11,7 @@
 **Jogadores:** 3–5 PJs (recomendado após Cap. 01 e Cap. 02)
 **Tom:** Suspense + horror estrutural + dilema moral
 **Ano de campanha recomendado:** 3º Ano
-**Suplementos usados:** ALA (Protocolo Ala Leste), S4 (sequência), Y1 (loops)
+**Suplementos usados:** L0/cap01 (Protocolo Ala Leste), L0/cap02 (O Calouro Que Sumiu — sequência), L2/cap05 (O Crisol Sem Mestre — loops)
 
 ---
 

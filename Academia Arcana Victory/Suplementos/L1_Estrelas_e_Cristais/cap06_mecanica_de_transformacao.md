@@ -22,7 +22,7 @@ Um grupo que quer usar todos os quatro sistemas simultaneamente precisaria de um
 
 ## O Estado Transformado: Base Universal
 
-Toda personagem com poderes de identidade (de qualquer franquia deste livro) pode ter 1 **Estado Transformado** com as seguintes propriedades base:
+Toda personagem com poderes de identidade (de qualquer prática deste livro) pode ter 1 **Estado Transformado** com as seguintes propriedades base:
 
 **Ativação:** 1 PM, ação livre no turno do personagem
 **Duração:** até o fim da cena atual
@@ -39,7 +39,7 @@ Toda personagem com poderes de identidade (de qualquer franquia deste livro) pod
 
 ### Despertar Planetário (Sentinelas do Solstício) + Estado Transformado
 
-O Estado Transformado base representa a forma de Sailor. O Despertar Planetário é uma *evolução* do Estado Transformado — quando ativado por Marco, o Despertar substitui o Estado Transformado padrão por uma versão de escala superior:
+O Estado Transformado base representa a forma de Sentinela. O Despertar Planetário é uma *evolução* do Estado Transformado — quando ativado por Marco, o Despertar substitui o Estado Transformado padrão por uma versão de escala superior:
 
 - Custo: 0 PM (o custo do Despertar é emocional, não de PM)
 - Duração: 1 cena
@@ -60,7 +60,7 @@ Para personagens que coletam artefatos, o Estado Transformado se integra de form
 
 O subsistema Poder de Amizade é totalmente independente do Estado Transformado — é acoplável com qualquer franquia. Mas se dois PJs estão ambos em Estado Transformado quando Sincronização é ativada, o Ganho de cada um *se soma com* o Ganho do Estado Transformado — resultando em Ganho Duplo naqueles testes.
 
-Isso representa o pico de poder da Precure: quando todas estão transformadas e coordenadas, o poder combinado excede a soma das partes.
+Isso representa o pico de poder das Parceiras: quando todas estão transformadas e coordenadas, o poder combinado excede a soma das partes.
 
 ### Cristais de Vontade (Cavaleiras do Vórtice) + Estado Transformado
 
