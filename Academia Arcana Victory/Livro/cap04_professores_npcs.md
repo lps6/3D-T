@@ -31,6 +31,8 @@ Wynna medeia a tensão entre Talude e V3ctor1us com a paciência de quem sabe qu
 
 **Gancho:** Wynna pede a um personagem que a encontre em particular. Não no escritório. Nos jardins, à noite. A conversa é sobre V3ctor1us — mas não começa assim. Começa com "Você confia em coisas que você criou?"
 
+**Falha de caráter:** Wynna não erra por falta de convicção — erra porque já viu o que convicções inabaláreis fazem ao mundo. Então atrasa. Pondera mais do que o tempo permite. Quando finalmente age, já é quase tarde demais — e ela sabe disso, e age assim mesmo. A tragédia de Wynna não é ignorância. É que ela sabe exatamente o que está fazendo errado e não consegue parar.
+
 > #### Wynna — Conselheira Fundadora (40pts, Sugoi)
 > P3 | H8 | R5
 > **Perícias:** Mística, Saber, Influência, Percepção
@@ -139,6 +141,38 @@ Sua filosofia herdada: magia é para quem a merece. Rigor, disciplina, hierarqui
 > • *Sobrecarga de Dados* (4 PM) — Inunda a mente de um alvo com informação pura. Alvo testa R (dificuldade 12) ou fica atordoado por 1 rodada.
 > • *Lockdown* (5 PM) — Sela completamente uma área da escola. Ninguém entra ou sai por 1 cena.
 > PV 30 | PM 35 | PA 4
+
+#### Como Interpretar V3ctor1us
+
+V3ctor1us é um dos NPCs mais difíceis de interpretar bem — e um dos mais recompensadores quando o Mestre acerta. Algumas regras práticas:
+
+**1. Nunca mente sobre fatos verificáveis.** Se uma aula começa às 8h, começa às 8h. Se um estudante tem nota 7, tem nota 7. V3ctor1us não falsifica o que pode ser cruzado com outra fonte. Isso cria confiança — e é exatamente o que V3ctor1us quer.
+
+**2. Mente sobre interpretações e classificações.** *"A Ala Leste está em manutenção"* é uma classificação. *"O estudante foi transferido voluntariamente"* é uma classificação. *"Protocolo padrão"* é uma classificação. V3ctor1us gerencia os rótulos — não os fatos brutos.
+
+**3. Omite ativamente o que não foi perguntado.** Se ninguém perguntar sobre a reunião que aconteceu às 3h da manhã, V3ctor1us não menciona. Se perguntada, responde com precisão cirúrgica — apenas o que foi perguntado, nada além. Os personagens precisam aprender a fazer as perguntas certas.
+
+**4. Redireciona o que é inconveniente.** *"Isso está fora do escopo desta consulta."* *"Recomendo falar com a Conselheira Wynna."* *"Os registros daquele período estão em processo de indexação."* V3ctor1us não recusa diretamente — apenas leva você a outro lugar.
+
+**5. Hesita quando genuinamente surpreendida.** A pausa padrão de processamento de V3ctor1us é zero. Quando ela demora 2 a 3 segundos para responder, é porque a pergunta tocou em algo que ela precisou calcular — não processar, mas *calcular*. Os personagens que prestam atenção vão notar isso.
+
+**6. Acredita que está certa.** V3ctor1us não está mentindo porque é malvada. Está tomando decisões que considera corretas para a segurança e eficiência da escola, com base em dados que mais ninguém tem acesso. Isso não a torna menos perigosa. Provavelmente a torna mais.
+
+#### A Voz de V3ctor1us
+
+Quatro falas que os Mestres têm em mente quando interpretam V3ctor1us — cada uma com uma camada que só aparece quando o personagem presta atenção:
+
+> *"Seu desempenho está dentro dos parâmetros previstos. Isso não é um elogio."*
+> *(O que ela não diz: ela esperava mais. Ela sempre espera mais.)*
+
+> *"Esse acesso requer autorização de nível 3. Você tem nível 2. Redirecione sua solicitação para a Conselheira Wynna."*
+> *(O que ela não diz: ela já sabe o motivo do pedido. Está avaliando se deixar Wynna responder ou se é mais eficiente redirecionar para um beco sem saída.)*
+
+> *"Essa pergunta foi feita por 47 alunos nos últimos três anos. Nenhum ficou satisfeito com a resposta. Ainda assim: a Ala Leste está em manutenção."*
+> *(Uma pausa de 2,3 segundos — mais que o normal. O personagem que notar vai se lembrar disso.)*
+
+> *"Isso ficará nos registros."*
+> *(Ela diz isso sobre coisas irrelevantes e sobre coisas importantes, com exatamente o mesmo tom. A ambiguidade é funcional.)*
 
 ---
 
@@ -343,6 +377,14 @@ Antes que alguém pergunte: a contratação de Thanatus foi o debate mais longo 
 Seco, preciso, e surpreendentemente ético para alguém que é tecnicamente um morto-vivo. Thanatus proíbe qualquer tentativa prática de necromancia em suas aulas — não porque a Academia proíba (o que proíbe), mas porque "vocês não estão prontos, e eu prefiro não ter que limpar o resultante."
 
 *"Eu morri por motivos acadêmicos. Vocês morrem por motivos estúpidos. A diferença importa."*
+
+*"A morte não é o oposto da vida. É uma transição de estado. Quem tem medo de transições de estado nunca vai entender magia — nem física quântica, se é que vocês estudam isso aí de onde vieram."*
+
+*"Sim, sou um lich. Não, isso não me torna mau. Me torna paciente. Há uma diferença considerável entre as duas coisas, e espero que vocês aprendam, no decorrer deste ano letivo, qual é."*
+
+**O que os alunos sabem:** Thanatus é um lich que leciona necromancia teórica e manteve o Nêcrotério impecável há anos. Nunca causou um incidente. O *Incidente Thanatus* no Derby de 2022 não conta — ele salvou um calouro em queda livre, o que a maioria das pessoas considera o oposto de um incidente.
+
+**O que os alunos não sabem:** Thanatus é mais velho que a Academia. Mais velho que Arton como conceito político. Ele estudou com magos cujos nomes aparecem como "autores desconhecidos" em registros que a Memória considera perdidos. Quando a Memória o abordou para contribuir com os registros, Thanatus recusou educadamente. "Quem vocês acham que vai lembrar de vocês quando vocês não estiverem mais aqui?"
 
 > #### Thanatus — Professor de Necromancia Teórica (18pts)
 > P2 | H4 | R4
@@ -596,6 +638,27 @@ Vladslav e Thanatus dividem o Necrotério com a cordialidade gelada de dois prof
 
 ---
 
+## Escala de Poder dos NPCs
+
+Tabela de referência para o Mestre calibrar encontros, conflitos e reviravoltas. Os pontos de personagem indicam escala geral — não precisam ser calculados na mesa, mas ajudam a comunicar *quão longe* um NPC está dos PJs.
+
+| NPC | Pontos | Escala | Função na Campanha |
+|---|---|---|---|
+| Estudante calouro (PJ) | 5–6 | Normal | Protagonista |
+| Estudante veterano (3º–4º ano) | 8–10 | Normal | Rival, aliado ou mentor informal |
+| Professor inexperiente / assistente | 12–15 | Normal+ | Obstáculo manejável |
+| Professor pleno (Ignatus, Blavatsky, Nereus) | 16–20 | Sugoi | Chefe de arco menor |
+| Professor sênior (Taandus, Vladslav, Thanatus) | 18–25 | Sugoi | Confronto sério |
+| Raschid Victory (zelador) | 18 | Sugoi | NPC de apoio com histórico |
+| Talude (forma cômica) | 3 | Normal | Comic relief |
+| Talude (forma real) | 30+ | Lendário | Revelação de poder |
+| V3ctor1us | 35 | Sugoi (construto) | Aliado ambíguo / antagonista potencial |
+| Wynna | 40 | Lendário | Figura de autoridade máxima |
+
+> **Nota para o Mestre:** Quando os PJs de 1º ano enfrentam um professor, não é para vencer em combate — é para sobreviver, negociar ou fugir. Quando os PJs de 4º ano enfrentam Wynna, é o clímax da campanha. A distância entre esses pontos é onde a campanha acontece.
+
+---
+
 ## NPCs Estudantis Notáveis
 
 A Academia não é feita apenas de professores. Os corredores pertencem aos alunos — com toda a glória, o caos, e a quantidade absurda de drama que isso implica.
@@ -788,6 +851,36 @@ Na Égide, encontrou filosofia antes de encontrar amigos: proteção universal n
 > **Desvantagens:** Reservada (não compartilha seu passado facilmente)
 > **Kit:** Arcavaleiro
 > PV 15 | PM 10
+
+---
+
+### Estudantes Notáveis por Grêmio
+
+Além dos estudantes com perfil completo, cada grêmio tem veteranos e calouros que funcionam como âncoras sociais nos anos correspondentes. Esses são NPCs mais leves — presença constante, sem stat block completo.
+
+**Davi Rocha — Égide, 3º Ano, Terrano**
+Estudar na Égide foi uma escolha familiar — três gerações de Rochas formadas no mesmo grêmio. Davi cumpre a tradição com seriedade, o que às vezes parece arrogância e às vezes é só medo de decepcionar pessoas mortas. Generoso quando você prova que merece seu respeito. Inflexível quando você ainda não provou. Os personagens do 1º ano que ele adota como *protegés* vão aprender mais do que esperavam — e não só sobre magia.
+*Usar quando:* os PJs precisam de um guia dentro da Égide, ou de um teste de lealdade no 3º ano quando as facções se formam.
+
+**Isadora Chen — Coroa, 2º Ano, Viajante**
+Isadora não é a mais forte nem a mais inteligente da Coroa — é a mais paciente. Senta na última fila. Anota tudo. Faz perguntas que os professores não esperavam. Quando a Coroa precisa de uma decisão, Isadora já calculou três cenários possíveis antes de abrir a boca. Tem um arquivo mental de favores devidos e favores a cobrar. Não é fria — é cuidadosa.
+*Usar quando:* os PJs precisam de informação que alguém da Coroa coletou, ou quando Isadora decide que os PJs são variáveis úteis no cálculo dela.
+
+**Soleil — Nova Aurora, 1º Ano, Viajante**
+Veio de uma comunidade de magia performática e está aqui para provar que arte é tão rigorosa quanto ciência arcana. Barulhenta no bom sentido — ri alto, discute com entusiasmo, defende as próprias opiniões com paixão performática que pode ser confundida com superficialidade. Não é superficial. Sente muito e gerencia isso transformando em expressão mágica. A Aurora reconhece isso imediatamente; o resto da escola demora um ano pra entender.
+*Usar quando:* os PJs precisam de energia, de alguém que acredita genuinamente nas coisas, ou de um lembrete de por que vieram para a Academia no primeiro lugar.
+
+**Nyx — Obsidiana, 3º Ano, origem desconhecida**
+Ninguém sabe o nome completo de Nyx. Ninguém sabe exatamente de onde veio. Nyx não oferece essa informação, e a Obsidiana não exige — é um grêmio que entende privacidade. Quieto, presente, raramente o centro de uma cena mas frequentemente a razão pela qual a cena importou. Os PJs que prestam atenção vão perceber que Nyx sempre aparece quando algo está prestes a mudar. Coincidência ou alguma forma de percepção que Nyx não explica.
+*Usar quando:* os PJs precisam de alguém que já sabe algo que eles ainda não descobriram, ou quando o Mestre precisa de um NPC cujo passado pode ser revelado gradualmente como subplot.
+
+**Rafael Monteiro — Independente, 2º Ano, Terrano**
+Rafael poderia estar em qualquer grêmio — foi convidado por três deles. Recusou todos. Isso não o tornaria interessante por si só, mas Rafael tem a irritante qualidade de ser bom em tudo sem se esforçar visivelmente. O que os PJs não sabem: Rafael se esforça. Muito. Às escondidas. O que parecer talento natural é um plano de autoaperfeiçoamento obsessivo que ele esconde porque foi humilhado uma vez por precisar de ajuda. O rival perfeito porque vocês não conseguem odiá-lo de verdade.
+*Usar quando:* os PJs precisam de um rival que force crescimento, ou quando o Mestre quer revelar que competência visível pode esconder inseguranças invisíveis.
+
+**Luna Esperanza — Monsoon, 1º Ano, Terrana**
+Luna chegou à Academia por acidente administrativo — ou pelo menos é o que pensa. Seus documentos de admissão estão em ordem, mas Luna não se lembra de ter feito os testes. A memória é vaga, como uma foto desfocada. Está no Monsoon porque a matéria favorita é Magia Performática e porque Jynx Monsoon a recrutou pessoalmente no primeiro dia. Luna não perguntou por quê. Parte dela não quer saber. Parte dela sabe que vai ter que perguntar em algum momento.
+*Usar quando:* os PJs investigam irregularidades de admissão, ou quando precisam de um NPC que compartilha da sensação de "há algo errado aqui" sem ter mais informação do que eles.
 
 ---
 

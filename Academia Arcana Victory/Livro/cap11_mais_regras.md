@@ -1,4 +1,4 @@
-# Capítulo 10 — +Regras da Academia
+# Capítulo 11 — +Regras da Academia
 
 ---
 
@@ -10,6 +10,9 @@
 ## Sobre Este Capítulo
 
 Tudo o que você encontra aqui é **opcional**. Cada seção é uma regra independente que o Mestre pode adotar ou ignorar sem afetar as demais. Pense nelas como módulos: conecte o que fizer sentido para sua mesa e deixe o resto na prateleira.
+
+> **📋 Como Ler Este Capítulo**
+> Cada seção segue a mesma estrutura visual: uma *citação em itálico* abre com sabor de lore; um **parágrafo introdutório em negrito** apresenta o sistema; as **regras mecânicas** usam tabelas, listas com marcadores ou cabeçalhos numerados; *frases em itálico sem referência a dados ou custo de PM* são comentário narrativo e podem ser ignoradas durante o jogo. Boxes `> **Exemplo:**` mostram o sistema em ação na ficção dos personagens principais. Boxes `> **Para o Mestre:**` contêm orientação editorial que não altera as regras.
 
 Estas regras expandem a experiência na Academia Arcana com sistemas que refletem a vida acadêmica de um estudante de magia: improvisar feitiços sob pressão, registrar descobertas em grimórios, se especializar em disciplinas arcanas, diferenciar tipos de dano pelo sabor mágico do cenário, e — para mesas que querem mais granularidade — substituir a perícia Mística por aptidões mais específicas.
 
@@ -141,6 +144,10 @@ Magias registradas no grimório oferecem duas vantagens sobre improviso:
 2. **Sem risco:** Não há Tabela de Efeitos Colaterais em caso de falha. A magia simplesmente não funciona — sem consequências aleatórias.
 
 O grimório transforma "improviso arriscado" em "técnica confiável." É a diferença entre um calouro fazendo gestos desesperados e um veterano executando com precisão o que aprendeu.
+
+**Regra adicional: Improviso Amplificado.** Quando um improviso bem-sucedido produz um efeito que os personagens *reconheceriam* em um grimório (ou seja, algo que poderia ser registrado), o efeito é **50% mais potente** do que a versão do grimório seria: dano +1, duração +1 rodada, ou alcance expandido em uma categoria (escolha o que for mais narrativamente relevante). Improvisar é mais arriscado — mas quando funciona, funciona com uma força que anos de estudo não reproduzem.
+
+Resultado final: **Grimório = confiável e econômico. Improviso = volátil, mas poderoso quando acerta.**
 
 ### Grimórios Especiais
 
@@ -276,7 +283,16 @@ NPCs e desafios que listam "Mística" em suas fichas continuam funcionando norma
 
 ## Combinando as +Regras
 
-As cinco seções deste capítulo foram desenhadas para funcionar independentemente, mas brilham quando combinadas. Aqui está como elas se conectam:
+As cinco seções deste capítulo foram desenhadas para funcionar independentemente, mas brilham quando combinadas. Antes de decidir o que usar, consulte a tabela de compatibilidade:
+
+### Combinações Testadas
+
+| Combo | Funciona? | Nota |
+|---|---|---|
+| Improvisada + Grimório | ✅ Sim | Grimório é preparação; improviso é emergência. Papéis distintos e complementares. |
+| Improvisada + Especializações | ⚠️ Cuidado | Especialização reduz dificuldade em -1. Acumulado com kit (ex.: Glifista -2 + especialização -1 = -3) pode trivializar dificuldades Moderadas. **Limite sugerido: -2 de redução máxima por teste, independente da fonte.** |
+| Grimório + Especializações | ✅ Sim | Magias do grimório já são estáveis; especialização adiciona Ganho no uso. Não causa acumulação problemática. |
+| Todas juntas | ⚠️ Cuidado | Personagem com kit + especialização + grimório + improviso tem opções demais para gerenciar. **Recomendação: escolha 2 dos 3 sistemas opcionais por campanha.** |
 
 ### Fluxograma: Quer Lançar um Feitiço?
 
@@ -352,6 +368,21 @@ Uma mesa pode usar apenas uma (Grimório é a recomendação para quem quer adic
 ---
 
 *Combine as +Regras como quiser, adapte-as à sua mesa, e lembre-se: a melhor regra é a que faz todo mundo na mesa se divertir. Mesmo quando o dado diz que a magia acertou a pessoa errada.*
+
+---
+
+### Guia Rápido: Quais +Regras Para Cada Tom de Campanha
+
+| Tom de Campanha | Regras Recomendadas | Deixar de Fora |
+|---|---|---|
+| **Comédia escolar leve** (Ranma, Ouran) | +Magia Improvisada (caos é divertido) | +Perícias Mágicas, +Tipos de Dano Arcano |
+| **Drama com magia** (Harry Potter, Little Witch Academia) | +Grimório + +Especializações | +Perícias Mágicas |
+| **Ação/shonen** (Naruto, Fairy Tail, Mashle) | +Magia Improvisada + +Especializações | +Grimório |
+| **Intriga e mistério** (The Magicians, Deadly Education) | +Grimório + +Perícias Mágicas + +Tipos de Dano | +Magia Improvisada |
+| **Terror/horror acadêmico** | Todos os cinco sistemas | — |
+| **Sandbox relaxado** (slice-of-life mágico) | Nenhum obrigatório — use o sistema base do Kit Demo | — |
+
+> **Dica:** Se a mesa não entrou em acordo sobre o tom, comece sem nenhuma +Regra e adicione conforme a campanha pede. +Magia Improvisada costuma surgir naturalmente na 2ª ou 3ª sessão, quando algum jogador tenta algo que não está no kit.
 
 ---
 

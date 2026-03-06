@@ -5,6 +5,20 @@
 
 ---
 
+> **Um Dia na Vida de Cinco Calouros**
+>
+> *Lira acorda às 6h30. Treino pessoal no pátio da Égide antes do café — uma rotina que ela criou para si mesma, porque disciplina é a armadura que ela escolheu vestir. O quarto na sede da Égide é espartano, mas pela primeira vez na vida, é inteiramente dela.*
+>
+> *Xeipe toma café preto lendo anotações de Estratégia Arcana. A mesa da Coroa no refeitório é organizada por ano — veteranos mais perto da janela, calouros mais perto da porta. Xeipe está sentado na fronteira exata entre os dois. Ele faz questão disso.*
+>
+> *Zed chega atrasade ao refeitório pela terceira vez na semana. Elu não dormiu porque ficou até as 2h tentando estabilizar um feitiço que inventou durante a aula de Magia Criativa. Não funcionou. Vai tentar de novo hoje à noite. O uniforme da Aurora — laranja e branco — está manchado de tinta arcana que brilha no escuro.*
+>
+> *Kenji come sozinho, observando. Da mesa da Obsidiana, ele tem linha de visão para as mesas de todos os outros grêmios. Isso não é coincidência — ele escolheu o lugar no primeiro dia e ninguém contestou. Seu celular toca: uma mensagem de um contato que só ele conhece. Kenji sorri e não responde.*
+>
+> *Maitê entra no refeitório de fone de ouvido, carregando três livros e tentando não fazer contato visual com ninguém antes do segundo café. A sede da Monsoon reorganizou o quarto dela durante a noite — agora a cama está do lado oposto. De novo. "Odeio essa escola," murmura. Mas já está sorrindo.*
+
+---
+
 Até agora, você criou um personagem, escolheu (ou foi escolhido por) um grêmio e descobriu que existe uma deusa aposentada dirigindo uma escola interdimensional com a ajuda de um gato falante e uma inteligência artificial que provavelmente está tramando algo. Ótimo. Mas como é, de fato, *viver* nessa escola?
 
 Este capítulo é sobre o dia a dia na Academia Arcana. As aulas, as provas, as punições, os dormitórios, a comida, os espaços onde seu personagem vai passar o tempo entre uma aventura épica e outra. É também onde apresentamos as regras de campanha — como a progressão acadêmica funciona em termos de jogo, como lidar com semestres inteiros sem transformar cada aula de Teoria Arcana em uma cena de quatro horas, e como o sistema de Pontos de Grêmio mantém a rivalidade saudável (ou nem tanto).
@@ -61,6 +75,9 @@ Cada ano é progressivamente mais difícil. Não apenas em termos de conteúdo a
 | Provas Parciais | Novembro | Primeira rodada de avaliações |
 | MagiDerby — Fase de Grupos | Outubro-Dezembro | Competições entre grêmios começam |
 | Recesso de Fim de Ano | Última semana de Dezembro — 1a semana de Janeiro | Pausa (alguns alunos ficam no campus) |
+
+> **O Que é MagiDerby?** O esporte oficial da Academia — roller derby em vassouras voadoras, jogado em pista oval arcana. Cada grêmio monta um time, e as competições são o principal mecanismo de acumular Pontos de Grêmio durante o ano. As regras completas, posições, técnicas e vassouras estão no **Capítulo 6 — Novas Mecânicas**. Por enquanto, saiba que: vencer partidas acumula pontos; comportamento antidesportivo é punido com desconto; e é absolutamente permitido usar magia — dentro de certos limites.
+
 | Provas Finais do 1o Semestre | Fevereiro | Avaliações de encerramento |
 | Início do 2o Semestre | 1a semana de Março | Retorno às aulas |
 | MagiDerby — Eliminatórias e Final | Abril-Maio | As competições esquentam |
@@ -83,6 +100,16 @@ Cada ano é progressivamente mais difícil. Não apenas em termos de conteúdo a
 - **2o Ano:** Matérias intermediárias, eletivas desbloqueadas, primeira participação séria no MagiDerby. O aluno começa a entender que a escola tem segredos.
 - **3o Ano:** Matérias avançadas, estágios práticos, posições de liderança nos grêmios. Acesso a áreas restritas da biblioteca. A paranoia é justificada.
 - **4o Ano:** Tese de conclusão, Desafio Final (uma avaliação prática que é basicamente uma aventura completa monitorada pelos professores), e a sensação persistente de que você sabe demais para ser deixado ir embora pacificamente.
+
+---
+
+> **📖 Revisão Rápida — XP e Progressão**
+> A Academia usa o sistema de XP padrão do 3D&T Victory:
+> - **XP (Pontos de Experiência):** ganhos ao fim de aventuras e marcos narrativos; usados para melhorar atributos, comprar kits e vantagens.
+> - **Progressão:** cada ponto de atributo custa XP conforme a tabela do *Manual do Arcanauta*; kits custam 1 ponto de personagem adicional.
+> - **Pontos de Personagem:** recurso de criação e progressão; novos pontos são concedidos pelo Mestre em marcos significativos.
+>
+> Regras completas no **Kit Introdutório Demo** (gratuito) ou no *Manual do Arcanauta*.
 
 ---
 
@@ -249,7 +276,7 @@ Cada conquista concede **Pontos de Grêmio** ao personagem e ao grêmio, além d
 | **Inspiração do Momento** | Ação criativa espontânea que muda a narrativa de uma cena | +3 | Ganho no próximo teste de Habilidade |
 | **Obra Reconhecida** | Criação artística ou mágica reconhecida fora do contexto do grêmio | +4 | +1 PM temporário (extra) nesta sessão |
 | **Inovação Arcana** | Usar recurso mundano de forma que ninguém mais considerou | +4 | Ganho em testes de Mística por 1 sessão |
-| **Coração Aberto** | Vulnerabilidade emocional real demonstrada a custo narrativo (revelar verdade, expressar sentimento) | +3 | Ganho no próximo teste de Influência ou Enganação |
+| **Coração Aberto** | Vulnerabilidade emocional real demonstrada a custo narrativo (revelar verdade, expressar sentimento) | +3 | Ganho no próximo teste de Influência ou Enganação. Além disso, se um aliado Perto estiver Incapacitado, você pode gastar 0 PM (em vez de 1) na próxima técnica de suporte usada nele. |
 | **Conexão Improvável** | Criar vínculo genuíno com membro de grêmio rival através de experiência criativa | +5 | Personagem adversário perde Perda em interações futuras com você |
 | **Grande Expressão** | Performance ou criação com impacto no campus inteiro | +8 | Título de *Voz da Aurora* no registro + Ressonância de Grêmio (vantagem) por 1 semestre |
 
@@ -456,18 +483,6 @@ A partir do momento em que um aluno é oficialmente recrutado, pode se mudar par
 - **Aurora:** Caótica de propósito. Cada quarto é uma instalação artística. Paredes que mudam de cor conforme o humor do morador. Ensaios até tarde. Silêncio é uma sugestão, não uma regra.
 - **Obsidiana:** Subterrânea. Iluminação dramática. Laboratórios pessoais. Uma energia que é *tecnicamente* acolhedora mas faz visitantes sentirem que estão sendo avaliados o tempo todo. (Estão.)
 - **Monsoon:** Modular. A sede se reconfigura conforme as necessidades dos membros — quartos mudam de tamanho, corredores surgem e desaparecem. Um visitante descreveu como "se a sede da Monsoon fosse uma pessoa, teria TDAH."
-
-> **Um Dia na Vida de Cinco Calouros**
->
-> *Lira acorda às 6h30. Treino pessoal no pátio da Égide antes do café — uma rotina que ela criou para si mesma, porque disciplina é a armadura que ela escolheu vestir. O quarto na sede da Égide é espartano, mas pela primeira vez na vida, é inteiramente dela.*
->
-> *Xeipe toma café preto lendo anotações de Estratégia Arcana. A mesa da Coroa no refeitório é organizada por ano — veteranos mais perto da janela, calouros mais perto da porta. Xeipe está sentado na fronteira exata entre os dois. Ele faz questão disso.*
->
-> *Zed chega atrasade ao refeitório pela terceira vez na semana. Elu não dormiu porque ficou até as 2h tentando estabilizar um feitiço que inventou durante a aula de Magia Criativa. Não funcionou. Vai tentar de novo hoje à noite. O uniforme da Aurora — laranja e branco — está manchado de tinta arcana que brilha no escuro.*
->
-> *Kenji come sozinho, observando. Da mesa da Obsidiana, ele tem linha de visão para as mesas de todos os outros grêmios. Isso não é coincidência — ele escolheu o lugar no primeiro dia e ninguém contestou. Seu celular toca: uma mensagem de um contato que só ele conhece. Kenji sorri e não responde.*
->
-> *Maitê entra no refeitório de fone de ouvido, carregando três livros e tentando não fazer contato visual com ninguém antes do segundo café. A sede da Monsoon reorganizou o quarto dela durante a noite — agora a cama está do lado oposto. De novo. "Odeio essa escola," murmura. Mas já está sorrindo.*
 
 ### Rotina Diária (Típica)
 

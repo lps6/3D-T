@@ -7,9 +7,15 @@
 
 ---
 
+> *Sim, esta escola tem casas. O formato vai parecer familiar: grupos com cores, filosofias próprias e rivalidades históricas. Não é por falta de criatividade — é porque dividir pessoas em grupos com base em valores compartilhados é uma das estruturas mais antigas da convivência humana, e escolas de magia não são exceção.*
+>
+> *A diferença real: em Hogwarts, um chapéu decide quem você é com base no caráter que você já tem. Aqui, você decide onde está com base no que acredita que a magia deveria ser — e pode mudar de ideia. Ninguém te seleciona. Você seleciona a si mesmo. E se a sua convicção mudar ao longo de quatro anos de escola, isso é crescimento, não traição.*
+
+---
+
 ## O Sistema de Grêmios
 
-Na Academia Arcana, os grêmios não são casas onde você é colocado. São **fraternidades** — organizações fundadas por estudantes, mantidas por estudantes, e escolhidas por estudantes.
+Na Academia Arcana, os grêmios não são casas onde você é colocado. São **irmandades** — organizações fundadas por estudantes, mantidas por estudantes, e escolhidas por estudantes.
 
 Ninguém distribui ninguém. Não há chapéu encantado. Não há cerimônia mística. Há um período de recrutamento, conversas em corredores, convites sussurrados, festas em sedes de grêmio onde você é avaliado enquanto acha que está socializando, e eventualmente uma decisão: a sua e a deles.
 
@@ -118,7 +124,11 @@ A Égide leva esse estereótipo a sério. Esse é o problema.
 
 **Piada de corredor:** "Égide não dorme. Égide faz turnos."
 
-**Gancho:** Um veterano da Égide descobriu que um dos professores está quebrando uma regra da escola sistematicamente. A regra é menor. A quebra é consistente. E o professor em questão é Geófilus — o patrono do grêmio. O veterano não sabe o que fazer com essa informação. A regra que Geófilus quebra é, ironicamente, uma que ele considera injusta — e isso desafia tudo que a Égide ensina sobre seguir o dever.
+**Gancho:** Um veterano da Égide descobriu que um dos professores está quebrando uma regra da escola sistematicamente. A regra é menor. A quebra é consistente. E o professor em questão é Geófilus — o patrono do grêmio. O vetarano não sabe o que fazer com essa informação. A regra que Geófilus quebra é, ironicamente, uma que ele considera injusta — e isso desafia tudo que a Égide ensina sobre seguir o dever.
+
+#### Benefício de Grêmio
+
+Membros da **Égide** recebem **Ganho** em testes de Resistência contra efeitos de vulnerabilidade, obrigação ou coerção (medo, charm, ameaças). Quando um aliado Perto está incapacitado ou em perigo imediato, o membro da Égide pode agir antes de sua iniciativa para se interpor — uma vez por cena, sem custo de PM.
 
 ---
 
@@ -191,6 +201,10 @@ A Coroa não desmente esse estereótipo. Às vezes porque é verdade. Às vezes 
 
 **Gancho:** A líder atual da Coroa está convocando membros para uma reunião que não aparece em nenhum calendário oficial. Ela é uma aluna do quarto ano com histórico impecável e notas perfeitas. Nereus sabe sobre a reunião. Não a impediu. Isso preocupa mais do que a própria reunião.
 
+#### Benefício de Grêmio
+
+**Vantagem Tática.** Membros da **Casa da Coroa** recebem **Ganho** em testes de Saber para recordar informações táticas, históricas ou sobre NPCs já encontrados — já previu isso. *Ativo:* Uma vez por sessão, podem declarar que "planejaram para isso" — revertendo uma situação desfavorável para neutra, desde que o Mestre considere plausível.
+
 ---
 
 ### Nova Aurora
@@ -261,6 +275,10 @@ A Aurora aceita esse estereótipo como elogio. Esse é exatamente o problema.
 **Piada de corredor:** "Aurora não tem regras. Aurora tem sugestões fortemente coreografadas."
 
 **Gancho:** Um grupo de membros da Aurora está planejando algo que eles chamam de "O Grande Despertar" — um evento não autorizado envolvendo magia, arte, e uma mensagem que, segundo eles, "a Academia precisa ouvir." Ignatus sabe. Ele não só não os impediu como parece estar ajudando. Discretamente. O evento envolve uma forma de magia emocional coletiva que, tecnicamente, é proibida desde o antigo Arton. Há razões para a proibição. Há razões melhores para quebrá-la.
+
+#### Benefício de Grêmio
+
+**Chama Interior.** *Passivo:* Seus testes de Mística recebem **Ganho** quando você está sob pressão emocional intensa — medo real, raiva justificada, alegria genuína ou comoção profunda. O Mestre determina quando o gatilho está ativo; não é possível fingi-lo para acionar o bônus. *Ativo:* Uma vez por cena, quando agir por impulso emocional genuíno na narrativa (amor, raiva justa, alegria), pode gastar 0 PM em uma técnica que custaria 1 PM.
 
 ---
 
@@ -333,6 +351,10 @@ A Obsidiana não desmente seus estereótipos. Isso também é calculado.
 
 **Gancho:** Um aluno de primeiro ano foi convidado para a Obsidiana — algo raro, já que o grêmio normalmente espera que candidatos venham até ele. O aluno é Terrano, sem contatos no mundo mágico, sem histórico relevante. Zéphyro foi visto conversando com esse aluno. Zéphyro nunca conversa com calouros. Algo não está certo — ou está mais certo do que parece. O aluno demonstra um estilo de magia que não se encaixa em nenhuma tradição conhecida. Zéphyro reconhece o padrão. Ele não deveria reconhecê-lo.
 
+#### Benefício de Grêmio
+
+**Leitura Real.** Membros do **Castelo Obsidiana** recebem **Ganho** em testes de Resistência contra manipulação, charme ou ilusão — já viram esse jogo antes. *Ativo:* Uma vez por sessão, podem fazer um teste de Habilidade para descobrir a **motivação real** de um NPC — o que estão escondendo, o que temem, ou o que querem de verdade.
+
 ---
 
 ## A Bússola Arcana
@@ -385,7 +407,7 @@ Do outro: **magia como ambição.** O mago não deve nada a ninguém. Magia é e
 
 **Castelo Obsidiana** — Canto sudeste: magia para os dignos + ambição. *"Poder pertence a quem o conquista."* A Obsidiana acredita que o poder vai naturalmente para quem o merece e que cada indivíduo é senhor de seu próprio destino. O poder é realidade. A magia é fato.
 
-**Grêmio Monsoon** — Centro dinâmico. *"Categorias são prisões. A magia é o que você faz dela."* A Monsoon recusa a Bússola inteira. Para a Monsoon, a magia não é direito nem privilégio, não é serviço nem ambição — é *transformação*. O ato de se tornar quem você é transcende eixos e quadrantes. Quando outros grêmios tentam posicionar a Monsoon no diagrama, Jynx Monsoon ri e diz: *"Querido, eu sou a rosa dos ventos inteira."*
+**Grêmio Monsoon** — Rejeita a bússola. *"Categorias são prisões. A magia é o que você faz dela."* A Monsoon recusa a Bússola inteira. Para a Monsoon, a magia não é direito nem privilégio, não é serviço nem ambição — é *transformação*. O ato de se tornar quem você é transcende eixos e quadrantes. Quando outros grêmios tentam posicionar a Monsoon no diagrama, Jynx Monsoon ri e diz: *"Querido, eu sou a minha própria rosa dos ventos."*
 
 ### Usando a Bússola
 
@@ -425,7 +447,19 @@ Os quatro grêmios históricos não são os únicos. Desde a re-fundação, novo
 
 A Monsoon acredita que o eu é o maior feitiço. Tornar-se quem você verdadeiramente é — mesmo quando o mundo diz que você não pode existir — *isso* é magia. Não formulas. Não rituais. Não disciplina. **Performance.** Humor. O corpo como instrumento. A identidade como encantamento. A linha entre quem você é e quem você finge ser é onde a magia mais poderosa acontece — e a Monsoon se recusa a reconhecer que essa linha sequer existe.
 
-A Monsoon não tem herança no antigo Arton. Foi fundada na re-fundação por estudantes que não encontraram sua filosofia em nenhum dos quatro históricos — porque nenhum deles respondia à pergunta que importava para eles: "e se a magia não é algo que eu *uso*, mas algo que eu *sou*?"
+A Monsoon não tem herança no antigo Arton. Foi fundada na re-fundação por um grupo de calouros que se recusaram a entrar nos quatro grêmios históricos — não por rejeição, mas por convicção de que nenhum quadrante da Bússola continha a verdade inteira. O nome original era **"Olho do Furacão"** — escolhido porque o olho do furacão não pertence ao vento nem à calma: existe entre as duas. A proposta fundadora era simples: *a magia não é algo que você usa. É algo que você é.*
+
+Jynx Monsoon, então caloura de primeiro ano, não fundou o grêmio — mas se tornou sua voz mais forte tão rapidamente que a distinção se perdeu na memória coletiva. Quando o grêmio pediu um nome permanente, ninguém teve dúvida. "Monsoon" carrega a mesma paradoxo do furacão: destruição e renovação, caos e padrão, extraordinário e inevitável. O nome passou. O nome ficou.
+
+Isso foi há poucos anos. O grêmio é jovem. Mas ninguém que já assistiu a Jynx conjurar duvida que a Monsoon vai durar mais que todos eles.
+
+---
+
+*(Nota histórica: o "Olho do Furacão" ainda é o nome usado entre membros mais antigos. Jynx usa às vezes, quando está sendo especialmente nostálgica — que é raramente, mas de forma memorável.)*
+
+---
+
+O que torna a Monsoon necessária, não apenas interessante, é a pergunta que ela faz que os outros grêmios evitam: "e se a magia não é algo que eu *uso*, mas algo que eu *sou*?"
 
 O grêmio atrai os estranhos, os queers, os que performam suas verdades, os que descobriram que ser autêntico é um ato de rebeldia mais poderoso do que qualquer feitiço de ataque. Se a Aurora é expressão *apesar* das regras, a Monsoon é expressão *como* a regra — a crença de que tornar-se visível, inteiro, e impossível de ignorar é a forma mais pura de poder.
 
@@ -476,7 +510,9 @@ A Monsoon aceita qualquer estereótipo e o transforma em número de abertura. Es
 **Piada de corredor:** "Monsoon não estuda. Monsoon ensaia."
 
 **Gancho:** Jynx Monsoon está preparando algo que ela chama de "O Grande Espetáculo" — uma demonstração de magia performática aberta para toda a Academia. O evento é autorizado. Mas os rumores dizem que o que Jynx está realmente planejando vai muito além de entretenimento. Ela está tentando provar que magia performática pode fazer algo que os acadêmicos tradicionais consideram impossível. Se ela estiver certa, muda tudo o que a Academia sabe sobre conjuração. Se estiver errada, a explosão vai ser fabulosa.
+#### Benefício de Grêmio
 
+Membros do **Grêmio Monsoon** recebem **Ganho** em quaisquer testes sociais (persuadir, intimidar, encantar, distrair) quando estiverem se expressando de forma autentícamente sua — voz, corpo, performance. Quando entram em cena de forma espetáculo (transformação, número performativo, entrada no estilo), todos os NPCs neutros ficam com atenção máxima por pelo menos um turno.
 ---
 
 ### Grêmio Síntese
@@ -485,6 +521,22 @@ A Monsoon aceita qualquer estereótipo e o transforma em número de abertura. Es
 **Moralidade mágica:** *Magia é ferramenta — e ferramentas podem ser melhoradas.*
 
 Fundado por um grupo de alunos Terranos e Viajantes que acreditam que a fusão de tecnologia e magia é o futuro. Pequeno mas crescente. Membros da Síntese encantam celulares, programam círculos mágicos em linhas de código, e estão convencidos de que existe uma equação por trás de cada feitiço. Não tem patrono entre os mestres seniores — V3ctor1us demonstrou interesse, o que os outros grêmios consideram "preocupante." (Uma IA que se interessa por um grêmio que quer fundir magia com tecnologia? Ninguém está confortável com isso.)
+
+A Síntese não tem rivais no sentido tradicional — não brigam com os grêmios históricos, simplesmente os consideram "código legado." Sua rivalidade real é com a própria limitação: o próximo projeto. Sempre o próximo projeto.
+
+#### Tradições e Boatos
+
+**O Hackathon Semestral.** A cada seis meses, membros da Síntese se reúnem por 48 horas para construir algo impossível combinando magia e tecnologia. Nenhuma restrição de tema. Nenhum critério de segurança muito rígido. Os resultados incluíram: uma IA que compõe música — V3ctor1us pediu para "conversar" com ela e ficou com o processo por uma semana inteira —, um glifo de tradução simultânea que funciona em 14 idiomas mas traduz tudo com sotaque carioca, e uma vassoura de corrida programada para andar sozinha até o destino enquanto o piloto faz outra coisa. O Departamento de Segurança confiscou a vassoura. Ela escapou. Está em algum lugar do campus. V3ctor1us afirma não saber onde.
+
+**O Princípio da Iteração.** Membros da Síntese não consideram fracasso uma falha — consideram dados. Todo projeto que explode, não funciona, ou produz resultados inesperados é documentado com o mesmo cuidado que um projeto bem-sucedido. "A primeira versão de tudo é horrível" é a frase mais dita nas reuniões. "A décima versão de tudo é outra história" é a segunda.
+
+**Boato:** V3ctor1us não apenas demonstrou interesse na Síntese — a IA forneceu anonimamente soluções para três dos seus problemas mais complexos, entregues como "sugestão anônima via terminal." Ninguém sabe ao certo. A Síntese está tentando descobrir. V3ctor1us nega com a precisão de quem está tecnicamente dizendo a verdade.
+
+**Piada de corredor:** "Síntese não dorme. Síntese está em modo de baixo consumo."
+
+**Gancho:** Um projeto da Síntese acidentalmente criou uma interface que comunica com a camada de dados de V3ctor1us — e mostra informações que V3ctor1us nunca liberou para humanos: registros de acesso à Ala Leste, decisões tomadas sem autorização de Wynna, e algo classificado como "Projeto 0" sem nenhuma outra descrição. A interface está funcionando. V3ctor1us não parece ter notado ainda. Alguém precisa decidir o que fazer com isso antes que ela perceba — ou antes que descubram que ela já percebeu e está esperando para ver o que farão.
+
+**Benefício de Grêmio:** **Interface Arcana.** Membros da **Síntese** recebem **Ganho** em testes para operar, analisar ou hackear equipamentos mágicos e tecnológicos. Uma vez por sessão, podem tentar melhorar temporariamente um item mágico — acrescentando uma função extra que dura até o fim da cena (dificuldade definida pelo Mestre). Além disso, uma vez por cena, podem gastar 1 PM para fazer um teste de Saber (dificuldade 7) ao detectar uma magia sendo conjurada a distância Perto ou Longe — com sucesso, o Mestre revela o nome e efeito básico do feitiço antes que seja completado.
 
 ---
 
@@ -495,12 +547,32 @@ Fundado por um grupo de alunos Terranos e Viajantes que acreditam que a fusão d
 
 Dedicado à preservação de conhecimento do antigo Arton. Composto majoritariamente de Viajantes e historiadores. Funciona mais como um clube acadêmico que uma fraternidade, mas reivindica status de grêmio e acumula pontos. Membros da Memória acreditam que a magia mais poderosa já foi lançada — no passado — e que o dever de todo mago é garantir que ela não se perca.
 
+Em outro grêmio, isso seria nostalgia. Na Memória, é urgência: cada Viajante que morre sem documentar o que sabe é uma enciclopédia que se perde. A Convergência destruiu mais registros históricos do que qualquer guerra. A Memória existe porque já viram o que acontece quando o passado desaparece — e decidiram que não vão deixar acontecer de novo.
+
+#### Tradições e Boatos
+
+**O Registro Perpétuo.** Todo membro da Memória mantém um diário de campo — não de experiências pessoais, mas de conhecimento recuperado: feitiços documentados, fragmentos de história, descrições de locais do antigo Arton, receitas de poções que ninguém mais sabe fazer. Ao deixar a Academia, cada membro deposita uma cópia do seu registro na coleção do grêmio. A coleção já tem dezessete volumes. Talude contribuiu com três, o que os membros consideram um feito e Talude considera "o mínimo esperado."
+
+**A Vigília do Primeiro de Cada Mês.** Na primeira noite de cada mês, membros da Memória se reúnem para recitar em voz alta algo que aprenderam — não para treinar, mas para lembrar que saber e dizer em voz alta para outra pessoa são coisas diferentes. A regra: o que você recita deve ser algo que só você sabe. Se outra pessoa já souber, não conta.
+
+**Boato:** A Memória tem acesso à Seção Restrita da Biblioteca sem precisar de autorização formal. Ninguém sabe como ou a quê, exatamente, essa permissão foi negociada. Alguns dizem que Blavatsky foi encarregada de vigiar os registros antes da Convergência e, em troca, a Memória tem acesso ao que ela escolheu guardar. Blavatsky não confirma nem nega. Apenas sorri de um jeito que significa doze coisas ao mesmo tempo.
+
+**Piada de corredor:** "Memória não esquece. Não por acidente, pelo menos."
+
+**Gancho:** Um membro da Memória encontrou referências, em três documentos independentes do antigo Arton, a algo chamado apenas de "o Custo" — mencionado sempre em contexto de catástrofes mágicas que terminaram com "selamento necessário." A mesma formulação aparece em um relatório técnico de V3ctor1us sobre a Ala Leste. Coincidência? A Memória não acredita em coincidências. Alguém está investigando. V3ctor1us começou a redirecionar buscas relacionadas ao termo na Biblioteca Arcana.
+
+**Benefício de Grêmio:** **Arquivo Vivo.** Membros da **Memória** recebem **Ganho** em testes de Saber relacionados ao antigo Arton, história mágica, etimologia de feitiços e identificação de magia antiga. Uma vez por sessão, podem "lembrar" um detalhe histórico relevante que não foi mencionado — o Mestre confirma se é plausível dado o que o personagem sabe. Além disso, em situações de conflito social, argumento ou negociação, podem fazer um teste de Saber (dificuldade 7) para invocar um precedente histórico relevante — com sucesso, o próximo teste de interação recebe **Ganho**.
+
 ---
 
 ### Grêmio do Subsolo
 *(não oficialmente reconhecido)*
 
 Rumores persistentes de um grêmio que opera sem autorização, composto de alunos de todos os outros grêmios e independentes. Ninguém sabe o que fazem. A administração diz que não existe. Os alunos trocam olhares. Se tem uma moralidade mágica, ninguém de fora sabe qual é. Se não tem, isso por si só já é uma declaração.
+
+**Benefício de Grêmio:** O Subsolo não tem benefício de grêmio formal — porque formalmente não existe. O que seus membros ganham é acesso: à rede de informações subterrânea da escola, aos corredores que V3ctor1us não monitora (ou finge não monitorar), e a um tipo de lealdade que funciona exatamente porque não está escrita em lugar nenhum.
+
+*Mecânica opcional (a critério do Mestre):* Membros do Subsolo podem, uma vez por sessão, pedir um rumor ou informação que "circula pelos corredores" — parcialmente verdadeiro, parcialmente distorcido ao ser repassado. Podem também declarar que "conhecem alguém" em qualquer local relevante — o Mestre decide se esse contato está disponível e o que pede em troca. Nada disso é benefício de ficha; é acordo narrativo entre jogador e Mestre.
 
 ---
 
@@ -613,6 +685,11 @@ Pertencer a um grêmio significa:
 - Compartilhar uma **moralidade mágica** — uma visão sobre o que a magia é e como deveria ser
 
 **Para os jogadores:** O grêmio define contexto filosófico e social, não destino. Personagens do mesmo grêmio compartilham uma visão de mundo que dá base para colaboração; personagens de grêmios diferentes têm razões filosóficas para atrito, debate, e eventualmente o tipo de respeito genuíno que só nasce de discordar profundamente e escolher trabalhar junto mesmo assim. Personagens independentes são aqueles que ainda não encontraram sua resposta — ou que acham que a pergunta em si é errada.
+
+> **Nota mecânica — Grêmio, Kit e Ganho:**
+> Benefícios de grêmio e poderes de kit se acumulam normalmente — exceto quando ambos concedem **Ganho no mesmo teste**. No 3D&T Victory, Ganho não se acumula: dois Ganhos numa mesma rolagem ainda resultam em rolar 2D e ficar com o maior. Por isso, se um benefício de grêmio *e* um poder de kit concederem Ganho no mesmo teste simultaneamente, aplique Ganho apenas uma vez. O dois não se somam para rolar 3D.
+>
+> *Exemplo:* Um membro da Obsidiana com o kit Caçador de Segredos tem Ganho em Resistência contra manipulação (Leitura Real) e Ganho em Resistência contra leitura de pensamento (Proteção contra Segredos). Em um teste que acione ambos ao mesmo tempo, o personagem ainda rola 2D e fica com o maior — não rola 3D.
 
 Um grupo multi-grêmio é a configuração mais rica para campanhas de Academia Arcana Victory. Imagine uma cena: o grupo enfrenta uma ameaça, e cada personagem propõe uma solução baseada na sua filosofia. O da Égide quer proteger as vítimas primeiro. O da Coroa quer organizar uma resposta estratégica. O da Aurora quer improvisar algo brilhante e arriscado. O da Obsidiana quer saber quem causou o problema e usar isso a seu favor. O da Monsoon quer transformar a situação inteira em algo que ninguém esperava. Todos estão certos. Nenhum está completamente certo. *Isso* é Academia Arcana Victory.
 
