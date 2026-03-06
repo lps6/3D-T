@@ -284,7 +284,7 @@ A Academia existe numa Arca, mas o mundo lá fora não para de girar.
 - **NPCs têm vida além do romance.** Se um NPC só existe para ser o amor do PJ, ele vai parecer plano. O NPC que os PJs amam é o que tem objetivos próprios, amigos, medos, outras prioridades. O romance é uma dimensão da vida desse NPC — não a definição dele.
 - **O NPC pode dizer não.** Isso é drama genuinamente bom. Uma rejeição bem-interpretada cria mais profundidade do que um aceite imediato.
 - **Ferramentas de segurança funcionam.** Use o X-Card, linhas e véus, ou qualquer sistema de conforto que a mesa já usa. Campanhas escolares geram envolvimento emocional forte — e cenas romanticas podem surpreender de formas que não anteciparam.
-- **Mecânica opcional:** o sistema Social Links (Suplemento F4.5 Persona) oferece uma estrutura de progressão de relacionamento em 10 níveis que funciona tanto para amizades quanto para romances. É especialmente útil em campanhas longas onde construir relacionamentos gradualmente é parte do prazer.
+- **Mecânica opcional:** o sistema Social Links (L6 — Laços e Máscaras, Cap. 3) oferece uma estrutura de progressão de relacionamento em 10 níveis que funciona tanto para amizades quanto para romances. É especialmente útil em campanhas longas onde construir relacionamentos gradualmente é parte do prazer.
 
 ---
 

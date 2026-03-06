@@ -101,7 +101,7 @@ O mangue do Rio Capibaribe — que separa o Recife Antigo do resto da cidade —
 **Mecânica local — Glifos de Raiz:**
 As raízes dos mangues funcionam como condutores. Qualquer conjuração feita com as raízes em contato com água ativa um Glifo de Raiz automaticamente:
 - Sucesso em Mística: efeito normal com alcance dobrado (a magia se propaga pelas raízes)
-- Falha: a energia se dissipa pelo mangue, criando um efeito aleatório (tabela de Efeitos Colaterais do +Magia Improvisada em Cap10)
+- Falha: a energia se dissipa pelo mangue, criando um efeito aleatório (tabela de Efeitos Colaterais do +Magia Improvisada em Cap. 11)
 - Crítico: o conjurador pode sentir todo o mangue por 1 cena — sabe quantas pessoas estão no mangue, onde estão os glifos instáveis, e se algo dimensional está próximo
 
 **Ganchos:**

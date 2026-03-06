@@ -135,7 +135,7 @@ Recife já era uma cidade de água antes da Convergência. Depois, virou uma cid
 
 A cultura nordestina corre forte nas veias de Arrecife. Frevo mágico nos carnavais (passistas que literalmente flutuam durante os saltos), maracatu arcano nos terreiros (tambores que ressoam em frequências que abrem micro-portais), e uma rivalidade amigável com Neo Sampa que se resume a: "vocês têm tamanho, a gente tem criatividade." Os portais de Arrecife têm uma peculiaridade: abrem e fecham com a maré, o que torna viagens mágicas um exercício de consultar a tábua de marés antes de qualquer coisa. Maitê veio daqui — do Porto Arcano, estudando interfaces entre sistemas computacionais e arcanos, até esbarrar num glifo de maré instável durante uma tempestade e aparecer na Academia.
 
-> *Arrecife é detalhada por inteiro no **Capítulo 12** — com seis locais, quatro NPCs, a mecânica das marés arcanas e cinco ganchos de aventura.*
+> *Arrecife é detalhada por inteiro no **Capítulo 8** — com seis locais, quatro NPCs, a mecânica das marés arcanas e cinco ganchos de aventura.*
 
 ---
 
