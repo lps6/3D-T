@@ -1778,8 +1778,6 @@ O Mestre é encorajado a criar itens mágicos adicionais conforme a campanha ava
 
 ### Kit A — Herdeira da Varinha Quebrada (2pt)
 
-*Inspirado em Little Witch Academia*
-
 **Exigências:** Canalizador danificado ou herdado; Magia; H mínimo 2
 
 *Este kit representa um personagem cujo canalizador não funciona com eficiência mágica mensurável — herdado de alguém famoso, encontrado em ruínas, ou simplesmente vendido por alguém que garantiu que "praticamente funciona." O poder não vem da ferramenta. A ferramenta só responde quando a pessoa que a usa é a pessoa que precisa ser.*
@@ -1826,8 +1824,6 @@ Quando você tenta algo impossível na presença de aliados e *consegue*, cada a
 
 ### Kit B — Engenheiro de Fórmulas (2pt)
 
-*Inspirado em Mahouka Koukou no Rettousei*
-
 **Exigências:** Mística especializada; H mínimo 3; acesso ao +Módulo de Magia (Cap. 11)
 
 *Este kit representa um personagem que trata magia como engenharia: feitiços são programas, canalizadores são compiladores, PM são recursos de processamento. Não é intuição — é arquitetura. Resultado: a maioria dos benchmarks acadêmicos subestima esse personagem, porque os benchmarks medem velocidade de instância e potência de Psions, não eficiência de Sequência de Ativação.*
@@ -1859,8 +1855,6 @@ Fora de combate, você pode preparar até H feitiços "prontos para executar" an
 ---
 
 ### Kit C — Retornado (3pt)
-
-*Inspirado em Maou Gakuin no Futekigousha*
 
 **Exigências:** Escala Kami em pelo menos um domínio de magia específico (combinado com Mestre); Devoto; R mínimo 3
 
@@ -1903,8 +1897,6 @@ Cada sessão, os PJs podem encontrar um fragmento da história real. Ao final do
 ---
 
 ### Kit D — Prodígio Sem Contexto (1pt)
-
-*Inspirado em Kenja no Mago (Wise Man's Grandchild)*
 
 **Exigências:** H mínimo 3; Mística especializada; 0 em qualquer perícia social (Etiqueta, Persuasão, Enganação, etc. — o Mestre define "social" no contexto da campanha)
 

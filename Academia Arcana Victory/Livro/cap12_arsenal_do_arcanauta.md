@@ -154,7 +154,7 @@ A seção anterior apresentou o *porquê* — por que cada criatura e facção d
 | Seção em *F&F* | Uso na Academia | Capítulo de Referência |
 |---|---|---|
 | Simplificando Desafios (p. 4–8) | Padrão para todos os encontros de campus | Cap. 7 — Nota para o Mestre |
-| Categorias de Dano (p. 6–7) | Provas práticas, laboratórios, MagiDerby | Cap. 10 — +Tipos de Dano Arcano |
+| Categorias de Dano (p. 6–7) | Provas práticas, laboratórios, MagiDerby | Cap. 11 — +Tipos de Dano Arcano |
 | Grau de Ameaça (p. 8) | Escalar desafios por ano letivo | Cap. 9 — Ameaças Escaláveis |
 | Criaturas das Arcas (p. 70–77) | Zoo, fugas, Magizoologia | acima — Criaturas das Arcas |
 | Mascotes (p. 150–153) | Familiares de grêmio, bichinhos ilegais | acima — Mascotes |

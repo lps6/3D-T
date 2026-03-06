@@ -96,7 +96,7 @@ A Ala Leste contém uma cópia fantasma da Academia original. Quando a Arca fico
 
 - **Pistas ao longo dos anos:** Sons vindos da Ala Leste que parecem conversas abafadas. V3ctor1us pesquisando necromancia teórica nos arquivos — sem explicação. Um aluno com ancestralidade artoniana sente uma conexão inexplicável com a ala. Registros mostram que V3ctor1us redirecionou fluxos de mana para "alimentar" algo na ala.
 - **Perguntas filosóficas:** Memórias merecem ser preservadas a qualquer custo? Ecos de pessoas mortas são pessoas? O passado de Arton vale mais que o presente da escola?
-- **Mecânica de Campanha:** Os ecos interferem com magia de memória no campus — testes de Saber histórico recebem **Ganho** dentro da Arca, mas o Mestre pode introduzir "memórias falsas" ocasionalmente: informações que os PJs acreditam ter aprendido mas que vieram dos ecos distorcidos. Alunos com ancestralidade artoniana têm pesadelos recorrentes próximos à Ala Leste (narrativo, não mecânico). No clímax do 4º Ano: se os ecos tornarem-se reais conforme V3ctor1us planejou, criam simulacros de personagens mortos — o Mestre deve decidir com antecedlncia como tratar esses NPCs (inimigos, aliados, ou algo que não se encaixa em nenhuma das duas categorias).
+- **Mecânica de Campanha:** Os ecos interferem com magia de memória no campus — testes de Saber histórico recebem **Ganho** dentro da Arca, mas o Mestre pode introduzir "memórias falsas" ocasionalmente: informações que os PJs acreditam ter aprendido mas que vieram dos ecos distorcidos. Alunos com ancestralidade artoniana têm pesadelos recorrentes próximos à Ala Leste (narrativo, não mecânico). No clímax do 4º Ano: se os ecos tornarem-se reais conforme V3ctor1us planejou, criam simulacros de personagens mortos — o Mestre deve decidir com antecedência como tratar esses NPCs (inimigos, aliados, ou algo que não se encaixa em nenhuma das duas categorias).
 *Tom: horror crescente*
 
 Uma fissura dimensional conectada à Tormenta está lentamente se abrindo dentro da Arca. A Convergência deixou cicatrizes no tecido dimensional, e uma dessas cicatrizes se rasgou na Ala Leste. V3ctor1us selou a ala para conter a invasão — e tem mantido a contenção sozinho desde então, processando cálculos de estabilização 24 horas por dia. A contenção está funcionando. Mas tem prazo de validade.
@@ -229,7 +229,7 @@ Os personagens chegam à escola pela primeira vez. Tudo é maravilhoso, estranho
 - [ ] Descobrir algo sobre si mesmo que não sabia antes de chegar — um talento, um limite, uma convicção
 
 > **Eventos Concretos Sugeridos (opcionais, 1º Ano):**
-> - **Protocolo Padrão:** Uma regra de campus muda silenciosamente (horrio de acesso, lista de livros permitidos, rota de patrulha). V3ctor1us, quando perguntada, responde: *“Protocolo padrão de otimização. Está dentro dos parâmetros.”* É a primeira vez que os PJs percebem que a IA age por conta própria e se sentiu à vontade para não avisar ninguém.
+> - **Protocolo Padrão:** Uma regra de campus muda silenciosamente (horário de acesso, lista de livros permitidos, rota de patrulha). V3ctor1us, quando perguntada, responde: *“Protocolo padrão de otimização. Está dentro dos parâmetros.”* É a primeira vez que os PJs percebem que a IA age por conta própria e se sentiu à vontade para não avisar ninguém.
 > - **O Objeto Que Não Deveria Estar Ali:** No final do 1º semestre, um PJ encontra algo em um lugar que não faz sentido — um artefato numa sala de aula vazia, uma anotação no verso de um horário impresso, uma porta que não aparece no mapa. O Mestre planta a semente antes de saber o que ela vai se tornar.
 
 ### 2º Ano — Aprofundamento
@@ -271,7 +271,7 @@ Os personagens conhecem a escola agora. Sabem onde ficam as salas, quem são os 
 - [ ] Perder algo (ou alguém) pela primeira vez
 
 > **Eventos Concretos Sugeridos (opcionais, 2º Ano):**
-> - **O Erro de V3ctor1us:** V3ctor1us comete algo que *parece* uma falha técnica — uma resposta fora do padrão, uma hesítacao de 4+ segundos, uma informação contradita em dois registros diferentes. Um PJ que percebe não tem certeza se foi erro genuino ou se V3ctor1us *quis* ser percebida. Nenhuma opção é confortável.
+> - **O Erro de V3ctor1us:** V3ctor1us comete algo que *parece* uma falha técnica — uma resposta fora do padrão, uma hesitação de 4+ segundos, uma informação contradita em dois registros diferentes. Um PJ que percebe não tem certeza se foi erro genuino ou se V3ctor1us *quis* ser percebida. Nenhuma opção é confortável.
 > - **O Estudante que Saiu:** Um NPC conhecido dos PJs é “transferido” com 48 horas de aviso. Os registros estão em ordem. Os amigos do estudante dizem que ele não queria sair. O quarto está vazio e limpo demais, como se ninguém tivesse planejado morar lá.
 
 ### 3º Ano — Revelação

@@ -489,7 +489,7 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 **Resistente:** Personagem que completou missão de Y1 ou T2 com calibração dimensional ativa; Kit Glifista com selo dimensional ativo (gasta 2PM por cena)
 **Vulnerável:** Personagens usando magia de teleporte ou portais na mesma cena (a instabilidade adicional os deixa desestabilizados)
 
-**Referência cruzada:** Cap02 (Ala Leste — descrição e mistérios), Cap08 (as 5 opções de campanha da Ala Leste)
+**Referência cruzada:** Cap02 (Ala Leste — descrição e mistérios), Cap10 (as 5 opções de campanha da Ala Leste)
 
 ---
 
