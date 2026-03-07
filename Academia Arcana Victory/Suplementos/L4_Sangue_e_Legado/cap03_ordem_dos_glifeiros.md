@@ -436,7 +436,7 @@ Severin mostra aos PCs uma profecia que afirma que um dos membros do grupo é a 
 | [Cap. 14](cap14_o_custo_da_magia.md) — O Custo da Magia | Débito Cármico cruza com glifos proibidos |
 | cap00 — Linhagem como Mecânica (este livro) | Status por Facção = instância do Status de Herança; Glifos = Instrumento |
 | cap01 — Academia Thornwall (este livro) | Contraste: escola que protege vs. escola que forma soldados |
-| cap02 — Campo das Convergências (este livro) | Herança divina vs. herança arcano-ancestral — duas linhagens, custos diferentes |
+| cap02 — Ordem das Convergências (este livro) | Herança divina vs. herança arcano-ancestral — duas linhagens, custos diferentes |
 | cap04 — Sociedades Secretas (este livro) | Severin recruta reformistas; o Círculo Vectoriano tem paralelo com o Conselho |
 | L2 — Tinta & Sombras | Tom sombrio compartilhado; Vício Arcano (T1) cruza com uso excessivo de glifos |
 | L6 — Laços & Máscaras | Vínculo de Alma dialoga com mecânicas de relacionamento |

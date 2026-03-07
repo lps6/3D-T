@@ -26,12 +26,12 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 
 | Você quer... | Use... |
 |---|---|
-| Combate mais tático sem sobrecarga | [Cap. 1](cap01_criacao_personagem.md) (Campo de Batalha) + [Cap. 2](cap02_a_academia.md) (Tropas) |
-| Inimigos de escalas diferentes | [Cap. 3](cap03_as_casas.md) (Escalas) — obrigatório para Colossal em diante |
-| Mechas e kaijus completos | [Cap. 4](cap04_professores_npcs.md) (Mechas & Kaijus) — exige [Cap. 3](cap03_as_casas.md) |
-| Peso emocional nas campanhas | [Cap. 5](cap05_vida_estudantil.md) (Custo Humano) — totalmente opcional |
-| Criar veículos e monstros | [Cap. 6](cap06_mecanicas.md) (Motores da Destruição) |
-| Ferramentas de Mestre para campanhas de guerra | [Cap. 7](cap07_mundo_ao_redor.md) (Comandando a Batalha) |
+| Combate mais tático sem sobrecarga | [Cap. 1](Livro/cap01_o_campo_de_batalha.md) (Campo de Batalha) + [Cap. 2](Livro/cap02_tropas_e_formacoes.md) (Tropas) |
+| Inimigos de escalas diferentes | [Cap. 3](Livro/cap03_a_escala_da_guerra.md) (Escalas) — obrigatório para Colossal em diante |
+| Mechas e kaijus completos | [Cap. 4](Livro/cap04_mechas_kaijus_colossais.md) (Mechas & Kaijus) — exige [Cap. 3](Livro/cap03_a_escala_da_guerra.md) |
+| Peso emocional nas campanhas | [Cap. 5](Livro/cap05_o_custo_humano.md) (Custo Humano) — totalmente opcional |
+| Criar veículos e monstros | [Cap. 6](Livro/cap06_motores_da_destruicao.md) (Motores da Destruição) |
+| Ferramentas de Mestre para campanhas de guerra | [Cap. 7](Livro/cap07_comandando_a_batalha.md) (Comandando a Batalha) |
 | Setting completo com facções e mecânicas temáticas | Suplementos (FS, ML e demais DLCs) |
 
 ---
@@ -40,14 +40,14 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 
 | Arquivo | Conteúdo |
 |---|---|
-| `[00_introducao.md](00_introducao.md)` | Filosofia de design, guia de leitura |
-| `[cap01_o_campo_de_batalha.md](cap01_o_campo_de_batalha.md)` | Grade & Medição Livre, terreno, cobertura, ações |
-| `[cap02_tropas_e_formacoes.md](cap02_tropas_e_formacoes.md)` | Tropas, formações, Ação Heroica |
-| `[cap03_a_escala_da_guerra.md](cap03_a_escala_da_guerra.md)` | Escaramuça / Warband / Colossal / Leviatã, Point-Buy |
-| `[cap04_mechas_kaijus_colossais.md](cap04_mechas_kaijus_colossais.md)` | Mechas, kaijus, O Leviatã Cinzento |
-| `[cap05_o_custo_humano.md](cap05_o_custo_humano.md)` | Moral Pessoal, Trauma, Recuperação |
-| `[cap06_motores_da_destruicao.md](cap06_motores_da_destruicao.md)` | Criação de veículos, monstros e tropas |
-| `[cap07_comandando_a_batalha.md](cap07_comandando_a_batalha.md)` | Toolkit do Mestre, objetivos, protótipo de batalha |
+| `[00_introducao.md](Livro/00_introducao.md)` | Filosofia de design, guia de leitura |
+| `[cap01_o_campo_de_batalha.md](Livro/cap01_o_campo_de_batalha.md)` | Grade & Medição Livre, terreno, cobertura, ações |
+| `[cap02_tropas_e_formacoes.md](Livro/cap02_tropas_e_formacoes.md)` | Tropas, formações, Ação Heroica |
+| `[cap03_a_escala_da_guerra.md](Livro/cap03_a_escala_da_guerra.md)` | Escaramuça / Warband / Colossal / Leviatã, Point-Buy |
+| `[cap04_mechas_kaijus_colossais.md](Livro/cap04_mechas_kaijus_colossais.md)` | Mechas, kaijus, O Leviatã Cinzento |
+| `[cap05_o_custo_humano.md](Livro/cap05_o_custo_humano.md)` | Moral Pessoal, Trauma, Recuperação |
+| `[cap06_motores_da_destruicao.md](Livro/cap06_motores_da_destruicao.md)` | Criação de veículos, monstros e tropas |
+| `[cap07_comandando_a_batalha.md](Livro/cap07_comandando_a_batalha.md)` | Toolkit do Mestre, objetivos, protótipo de batalha |
 | `apendice_a_fantasia_medieval.md` | **Arquivado** (migrado para `Suplementos/Guerra_das_Coroas`) |
 | `apendice_b_grimdark_scifi.md` | **Arquivado** (migrado para `Suplementos/Fronteira_Estelar`) |
 | `apendice_c_falgsc.md` | **Arquivado** (migrado para `Suplementos/Fronteira_Estelar`) |

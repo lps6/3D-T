@@ -49,12 +49,12 @@ Este suplemento serve quatro tons distintos. Nem todo grupo usará tudo.
 
 | Tom | Inspiração | Leitura Essencial | Mecânica Exclusiva |
 |---|---|---|---|
-| ⚙️ **Near Future** | The Expanse, BSG, Ad Astra | Caps. 1–4, Tom D ([Cap. 6](cap06_mecanicas.md)) | Comunicação com Atraso |
-| 🔴 **FALGSC** | Le Guin, Banks, Star Trek | Caps. 1–6, Tom B ([Cap. 6](cap06_mecanicas.md)) | Missões de Libertação Estelar + Consenso |
-| 💀 **Grimdark** | Warhammer 40k, OPR | Caps. 1–5, Tom A ([Cap. 6](cap06_mecanicas.md)) | Desgaste Extremo |
-| ⚡ **Space Opera** | Star Wars, Cowboy Bebop, Firefly | Caps. 1–3, Tom C ([Cap. 6](cap06_mecanicas.md)) | Sorte de Contrabandista |
+| ⚙️ **Near Future** | The Expanse, BSG, Ad Astra | Caps. 1–4, Tom D ([Cap. 6](cap06_faccoes_e_cenarios.md)) | Comunicação com Atraso |
+| 🔴 **FALGSC** | Le Guin, Banks, Star Trek | Caps. 1–6, Tom B ([Cap. 6](cap06_faccoes_e_cenarios.md)) | Missões de Libertação Estelar + Consenso |
+| 💀 **Grimdark** | Warhammer 40k, OPR | Caps. 1–5, Tom A ([Cap. 6](cap06_faccoes_e_cenarios.md)) | Desgaste Extremo |
+| ⚡ **Space Opera** | Star Wars, Cowboy Bebop, Firefly | Caps. 1–3, Tom C ([Cap. 6](cap06_faccoes_e_cenarios.md)) | Sorte de Contrabandista |
 
-**Uso misto:** É possível — e encorajado — misturar tons ao longo de uma campanha. Uma campanha FALGSC pode ter missões com tom de Space Opera (infiltração num sindicato do crime) ou Near Future (primeiro contato com civilização desconhecida). O [Capítulo 7](cap07_mundo_ao_redor.md) traz ferramentas para gerenciar essa transição.
+**Uso misto:** É possível — e encorajado — misturar tons ao longo de uma campanha. Uma campanha FALGSC pode ter missões com tom de Space Opera (infiltração num sindicato do crime) ou Near Future (primeiro contato com civilização desconhecida). O [Capítulo 7](cap07_campanhas_estelares.md) traz ferramentas para gerenciar essa transição.
 
 ---
 

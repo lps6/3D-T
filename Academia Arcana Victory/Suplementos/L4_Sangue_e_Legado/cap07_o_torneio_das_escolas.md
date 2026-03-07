@@ -20,7 +20,7 @@ O Torneio coloca linhagens diferentes no mesmo campus: estudantes de Arton ances
 | Paradigma | Como o Torneio testa |
 |-----------|---------------------|
 | Thornwall | Casas/Grêmios da Victory vs. estruturas completamente diferentes — status de casa vale zero |
-| Campo das Convergências | Linhagem divina não impressiona quem não acredita em divindades — provem por ação, não por sangue |
+| Ordem das Convergências | Linhagem divina não impressiona quem não acredita em divindades — provem por ação, não por sangue |
 | Ordem dos Glifeiros | A hierarquia dos Glifeiros não existe aqui — Status 5 com o Conselho significa nada para Benandanti |
 | Framework genérico (cap00) | Qualquer Traço de Linhagem é testado em terreno neutro — Fardo de Linhagem intensifica |
 

@@ -235,4 +235,4 @@ O NPC no Avesso que oferece algo em troca de algo real — não abstrato, não c
 
 ---
 
-*Próximo: [Cap. 04](cap04_professores_npcs.md) — Vínculos de Campanha (sistema formal de rastreamento de laços entre PCs e NPCs ao longo de arcos; como fazer vínculos terem peso mecânico em vez de serem adornos narrativos).*
+*Próximo: [Cap. 04](cap04_festival_de_inverno.md) — Vínculos de Campanha (sistema formal de rastreamento de laços entre PCs e NPCs ao longo de arcos; como fazer vínculos terem peso mecânico em vez de serem adornos narrativos).*

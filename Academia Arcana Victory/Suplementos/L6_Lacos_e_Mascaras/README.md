@@ -78,7 +78,7 @@ NPCs originais ou adaptados que aparecem neste livro, além das fichas de person
 ```
 Programa de Equipes ────────────────────────────── Time como unidade de sobrevivência
          ↘
-           LAÇOS              ←─── [Cap05](cap05_vida_estudantil.md): Vínculos de Campanha (sistema unificado)
+           LAÇOS              ←─── [Cap05](cap05_progressao_de_vinculo.md): Vínculos de Campanha (sistema unificado)
          ↗         ↘
 Chama Livre         O Avesso
 (laços como poder)  (laços como progressão)

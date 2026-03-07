@@ -12,7 +12,7 @@
 
 ## Integração com o Sistema de Legado (cap00)
 
-Os onze arquétipos deste capítulo não pertencem a nenhuma franquia — são genéricos para qualquer campanha de Academia Arcana Victory. Mas quando a campanha usa um dos três paradigmas de herança (Thornwall, Campo das Convergências, Ordem dos Glifeiros), certos arquétipos brilham mais que outros.
+Os onze arquétipos deste capítulo não pertencem a nenhuma franquia — são genéricos para qualquer campanha de Academia Arcana Victory. Mas quando a campanha usa um dos três paradigmas de herança (Thornwall, Ordem das Convergências, Ordem dos Glifeiros), certos arquétipos brilham mais que outros.
 
 A tabela abaixo é **nova** — indica a afinidade de cada arquétipo com cada paradigma. ★★★ = sinergia forte, ★★ = funciona bem, ★ = funcional mas sem sinergia especial.
 

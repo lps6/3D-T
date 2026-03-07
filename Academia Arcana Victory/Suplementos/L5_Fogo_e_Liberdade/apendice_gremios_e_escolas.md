@@ -9,7 +9,7 @@ Referência rápida das estruturas, instituições, sistemas e conexões introdu
 | Estrutura | Capítulo | Tipo | Localização |
 |-----------|----------|------|-------------|
 | Cidade de Lutharin | [Cap. 01](cap01_criacao_personagem.md) | Metrópole com hierarquia arcana pós-revolução | Norte do continente; maior centro de Metalurgia Arcana |
-| Escola do Covil da Floresta Convergente | [Cap. 02](cap02_a_academia.md) | Escola mágica em floresta densa; dividida entre Trilha Única e Bile livre | Sul de Vallindra, floresta de vegetação arcana |
+| Grêmio Raízes da Floresta Convergente | [Cap. 02](cap02_a_academia.md) | Escola mágica em floresta densa; dividida entre Trilha Única e Bile livre | Sul de Vallindra, floresta de vegetação arcana |
 | Escolas das Quatro Formas | [Cap. 03](cap03_as_casas.md) | Quatro academias elementais distintas; relação diplomática tensa entre si e com a Victory | Dispersas no continente por elemento (veja abaixo) |
 
 ---
@@ -38,9 +38,9 @@ Referência rápida das estruturas, instituições, sistemas e conexões introdu
 
 ---
 
-## Escola do Covil da Floresta Convergente
+## Grêmio Raízes da Floresta Convergente
 
-**Natureza:** Escola mágica em região de floresta de vegetação arcana
+**Natureza:** Grêmio de praticantes independentes em região de floresta de vegetação arcana; filiação dupla informal possível para alunos da Academia Victory
 **Fundação:** Dois séculos atrás — campus fora de cidade por incompatibilidade com modelo pedagógico urbano
 **Estado Atual:** Dividida entre facção conservadora (Trilha Única) e nova geração (Bile irrestrita)
 **Liderança:** Mestra Venarum — não se posiciona publicamente; votos internos selados há oito anos
@@ -115,4 +115,4 @@ Referência rápida das estruturas, instituições, sistemas e conexões introdu
 | Palisman | [Cap. 06](cap06_mecanicas.md) (Familiares) (Sistema de Familiar) | Extensão do sistema; usar as regras de [Cap. 06](cap06_mecanicas.md) (Familiares) como base |
 | Marcadores de Chi | T4 (Magia Hard e Soft) | Alinhamento filosófico como mecânica de calibração entre Hard e Soft |
 | Trilha Única | L2 (Tinta & Sombras) | L2 explora instituições opressivas por outros caminhos — sistemas se complementam |
-| Escola do Covil | L3 (Palavras de Poder, cap04) | O Gradiente Hard/Soft de L3 explica por que a Trilha Única é Hard e a Glifomagia é Soft |
+| Grêmio Raízes | L3 (Palavras de Poder, cap04) | O Gradiente Hard/Soft de L3 explica por que a Trilha Única é Hard e a Glifomagia é Soft |

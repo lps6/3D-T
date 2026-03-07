@@ -8,7 +8,7 @@
 >
 > *"[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
 >
-> Para jogar, você precisará dos livros oficiais. Apoie os criadores: **[loja.jamboeditora.com.br](https://loja.jamboeditora.com.br)**
+> Para jogar, você precisará dos livros oficiais. Apoie os criadores: **[jamboeditora.com.br](https://jamboeditora.com.br)**
 
 ---
 
