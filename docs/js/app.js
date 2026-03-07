@@ -142,6 +142,7 @@
           class="chapter-link"
           data-book="${book.id}"
           data-chapter="${chKey}"
+          data-label="${ch.label || ch.title}"
         >${ch.label || ch.title}</a></li>`;
       }
       html += `</ul></details>`;
