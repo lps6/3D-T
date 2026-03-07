@@ -30,7 +30,7 @@ O **Grêmio Prisma** é a tradução institucional de Estrelas & Cristais:
 
 ## Nova Escola Sugerida: Escola do Pilar
 
-O sistema de Pilar em Rayearth (Cap. 04) — onde uma pessoa sustenta a realidade de um mundo inteiro através de força de vontade — sugere uma tradição mágica que nenhuma escola existente cobre:
+O sistema de Pilar das Cavaleiras (Cap. 04) — onde uma pessoa sustenta a realidade de um mundo inteiro através de força de vontade — sugere uma tradição mágica que nenhuma escola existente cobre:
 
 ### Escola do Pilar (Conceito)
 

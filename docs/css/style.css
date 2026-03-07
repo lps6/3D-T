@@ -659,6 +659,26 @@ body {
    Landing Page
    ═══════════════════════════════════════════════════════════════ */
 
+/* ── Sidebar group header ────────────────────────────────────── */
+.sidebar-group-header {
+  font-family: var(--font-ui);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--c-sidebar-muted);
+  padding: 1.25rem 1rem 0.4rem;
+  border-top: 1px solid rgba(201, 168, 76, 0.08);
+  margin-top: 0.25rem;
+}
+
+#sidebar-books details:first-of-type + .sidebar-group-header,
+.sidebar-group-header:first-child {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0.75rem;
+}
+
 /* ── Landing container ───────────────────────────────────────── */
 #landing {
   display: flex;
@@ -715,15 +735,44 @@ body {
   font-style: italic;
 }
 
-/* ── Book cards grid ─────────────────────────────────────────── */
+/* ── Landing sections (one per DLC) ─────────────────────────── */
 .landing-grid {
   width: 100%;
   max-width: 960px;
   padding: 0 1.5rem 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.landing-section__header {
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.2);
+}
+
+.landing-section__title {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--c-sidebar-text);
+  letter-spacing: 0.06em;
+  margin-bottom: 0.25rem;
+}
+
+.landing-section__desc {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--c-sidebar-muted);
+}
+
+.landing-section__grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
+  gap: 0.875rem;
 }
+
+/* ── Book cards grid ─────────────────────────────────────────── */
 
 /* ── Book card ───────────────────────────────────────────────── */
 .book-card {
@@ -855,7 +904,7 @@ body {
 
 /* ── Landing responsive ──────────────────────────────────────── */
 @media (max-width: 768px) {
-  .landing-grid {
+  .landing-section__grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
@@ -877,8 +926,11 @@ body {
 
 @media (max-width: 480px) {
   .landing-grid {
-    grid-template-columns: 1fr;
     padding: 0 1rem 3rem;
+  }
+
+  .landing-section__grid {
+    grid-template-columns: 1fr;
   }
 
   .landing-title {

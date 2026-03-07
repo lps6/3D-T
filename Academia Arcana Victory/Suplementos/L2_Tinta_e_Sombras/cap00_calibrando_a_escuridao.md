@@ -28,7 +28,7 @@ Liste os temas que podem aparecer na campanha. Não como aviso — como acordo.
 - Morte de personagens (PJs e NPCs significativos)
 - Isolamento/exclusão social como mecânica
 - Dependência (Vício Arcano de T1) como subplote
-- Cutado mental deteriorando progressivamente (Fragmentação de F3.3)
+- Estado mental deteriorando progressivamente (Fragmentação de F3.3)
 - Horror corporal leve (maleficaria de Y1/F3.2)
 - Ambiguidade moral em investigação (nenhum suspeito é puro)
 
@@ -48,7 +48,7 @@ Escolha pelo menos UMA ferramenta de segurança para a mesa:
 
 ### 3. A Conversa sobre Mortalidade
 
-*A Deadly Education* e *O Crisol Sem Mestre* aumentam o risco de morte de PJs e NPCs. Antes de ativar esses subsistemas:
+*A Escola de Farhaven* e *O Crisol Sem Mestre* aumentam o risco de morte de PJs e NPCs. Antes de ativar esses subsistemas:
 
 **Perguntas para o grupo:**
 - Mortes de PJs são aceitas nesta campanha?
@@ -84,7 +84,7 @@ O erro mais comum em dark academia é o antagonista monocromático — o profess
 
 **O modelo que funciona:**
 
-*A Deadly Education* tem um sistema de enclaves que protege os ricos e deixa os outros sobreviverem sozinhos — mas os enclaves são famílias que querem sinceramente que seus filhos vivam, usando os meios disponíveis. *The Magicians* tem um ambiente ultra-competitivo que destrói as pessoas — mas Brakebills foi fundado para proteger magos de um mundo que os teria destruído de outras formas.
+*A Escola de Farhaven* tem um sistema de enclaves que protege os ricos e deixa os outros sobreviverem sozinhos — mas os enclaves são famílias que querem sinceramente que seus filhos vivam, usando os meios disponíveis. *O Colegiado de Thaumaturgia Aplicada* tem um ambiente ultra-competitivo que destrói as pessoas — mas o Colegiado foi fundado para proteger magos de um mundo que os teria destruído de outras formas.
 
 O antagonista sistêmico funciona quando tem razões para ser como é que o protagonista consegue reconhecer como humanamente compreensíveis — mesmo que irreparavelmente erradas.
 

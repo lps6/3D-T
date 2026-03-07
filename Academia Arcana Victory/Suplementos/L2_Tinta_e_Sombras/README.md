@@ -13,8 +13,8 @@
 | # | Título | Tipo |
 |---|--------|------|
 | Cap. 00 | [Calibrando a Escuridão](cap00_calibrando_a_escuridao.md) | Guia de segurança |
-| Cap. 01 | [A Escola de Farhaven](cap01_deadly_education.md) | Framework de escola hostil |
-| Cap. 02 | [O Colegiado de Thaumaturgia Aplicada](cap02_the_magicians.md) | Fragmentação e rigor técnico |
+| Cap. 01 | [A Escola de Farhaven](cap01_a_escola_de_farhaven.md) | Framework de escola hostil |
+| Cap. 02 | [O Colegiado de Thaumaturgia Aplicada](cap02_o_colegiado_de_thaumaturgia_aplicada.md) | Fragmentação e rigor técnico |
 | Cap. 03 | [Somática Arcana](cap03_somatica_arcana.md) | Mecânica |
 | Cap. 04 | [Academia Gótica](cap04_academia_gotica.md) | Framework |
 | Cap. 05 | [O Crisol Sem Mestre](cap05_o_crisol_sem_mestre.md) | Overlay |

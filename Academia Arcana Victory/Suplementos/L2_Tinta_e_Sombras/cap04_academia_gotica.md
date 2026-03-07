@@ -44,7 +44,7 @@ O alvo não está onde deveria. Os PCs seguem a trajetória.
 ### Tipo 3 — O Sabotador
 
 **Pergunta central:** *Quem está fazendo de propósito?*
-**Estrutura:** Incidenterecorrente → Padrão → Acesso → Eliminação
+**Estrutura:** Incidente recorrente → Padrão → Acesso → Eliminação
 
 Coisas dão errado repetidamente. Os PCs precisam provar que não é coincidência antes de poder investigar *quem*.
 
@@ -55,7 +55,7 @@ Coisas dão errado repetidamente. Os PCs precisam provar que não é coincidênc
 **Pergunta central:** *O que estão escondendo?*
 **Estrutura:** Anomalia → Camada 1 → Camada 2 → Camada 3 → Decisão
 
-Não há crime. Há algo que não fazsentido. Investigar revela camadas de verdade que implicam decisões — os PCs podem preferir não saber.
+Não há crime. Há algo que não faz sentido. Investigar revela camadas de verdade que implicam decisões — os PCs podem preferir não saber.
 
 **Mecânica de Camadas:** Cada camada exige esforço maior para acessar. Camada 1 é informação pública que ninguém conectou. Camada 2 exige investigação ativa. Camada 3 exige risco (quebrar regras, confrontar autoridade, acessar pelo proibido).
 

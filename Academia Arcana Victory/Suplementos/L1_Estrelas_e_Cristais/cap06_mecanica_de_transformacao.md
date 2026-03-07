@@ -58,7 +58,7 @@ Para personagens que coletam artefatos, o Estado Transformado se integra de form
 
 ### Poder de Amizade (Parceiras de Ressonância) + Estado Transformado
 
-O subsistema Poder de Amizade é totalmente independente do Estado Transformado — é acoplável com qualquer franquia. Mas se dois PJs estão ambos em Estado Transformado quando Sincronização é ativada, o Ganho de cada um *se soma com* o Ganho do Estado Transformado — resultando em Ganho Duplo naqueles testes.
+O subsistema Poder de Amizade é totalmente independente do Estado Transformado — é acoplável com qualquer prática. Mas se dois PJs estão ambos em Estado Transformado quando Sincronização é ativada, o Ganho de cada um *se soma com* o Ganho do Estado Transformado — resultando em Ganho Duplo naqueles testes.
 
 Isso representa o pico de poder das Parceiras: quando todas estão transformadas e coordenadas, o poder combinado excede a soma das partes.
 
@@ -69,28 +69,28 @@ Cristais de Vontade podem pagar o custo do Estado Transformado (1 Cristal = 1 PM
 - Se o personagem *age em conformidade com sua Crença Central durante o Estado*, ganha 1 Cristal de Vontade mesmo gastando o Cristal para ativar — recuperação líquida de 0
 - Se o personagem age em *contradição* com sua Crença durante o Estado, perde 2 Cristais em vez de 1
 
-Isso cria a tensão de Rayearth: o Estado Transformado alimenta e drena de acordo com quem você está sendo enquanto o usa.
+Isso cria a tensão das Cavaleiras: o Estado Transformado alimenta e drena de acordo com quem você está sendo enquanto o usa.
 
 ---
 
 ## Misturando Sistemas no Mesmo Grupo
 
-### Grupo Homogêneo (todos do mesmo suplemento)
+### Grupo Homogêneo (todos da mesma prática)
 
-Sem conflito. Use os subsistemas daquela franquia diretamente.
+Sem conflito. Use os subsistemas daquela prática diretamente.
 
-### Grupo Misto (franquias diferentes)
+### Grupo Misto (práticas diferentes)
 
-**Regra básica:** cada personagem usa os subsistemas da franquia que escolheu como base. O Estado Transformado unificado garante que as mecânicas base sejam comparáveis.
+**Regra básica:** cada personagem usa os subsistemas da prática que escolheu como base. O Estado Transformado unificado garante que as mecânicas base sejam comparáveis.
 
-**Subsistemas Cross-Franquia:**
-- Poder de Amizade (Precure): pode ser adotado por qualquer PC independente da franquia base. É opt-in — o jogador decide na criação se quer participar do subsistema coletivo
-- Artefatos Arcanamente Independentes (CCS): qualquer grupo pode ter a missão de captura mesmo que os poderes individuais venham de outra franquia
-- Cristais de Vontade (Rayearth): pode ser adotado por qualquer PC com Crença Central definida, independente de qual franquia define seus outros poderes
+**Subsistemas Transversais:**
+- Poder de Amizade (Cap. 03, Parceiras): pode ser adotado por qualquer PC independente da prática base. É opt-in — o jogador decide na criação se quer participar do subsistema coletivo
+- Artefatos Arcanamente Independentes (Cap. 02, Guardiãs): qualquer grupo pode ter a missão de captura mesmo que os poderes individuais venham de outra prática
+- Cristais de Vontade (Cap. 04, Cavaleiras): pode ser adotado por qualquer PC com Crença Central definida, independente de qual prática define seus outros poderes
 
 ### Compatibilidade de Escala
 
-Os quatro subsistemas foram calibrados para que o poder central de cada franquia chegue ao mesmo pico de escala aproximado:
+Os quatro subsistemas foram calibrados para que o poder central de cada prática chegue ao mesmo pico de escala aproximado:
 
 | Sistema | Pico de escala | Condição |
 |---------|---------------|---------|

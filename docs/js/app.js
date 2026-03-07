@@ -24,6 +24,7 @@
 
   // ── Accent colors per book ────────────────────────────────────
   const BOOK_ACCENTS = {
+    // Academia Arcana Victory
     livro:       '#c9a84c',
     suplementos: '#7a8099',
     l0:          '#9b59b6',
@@ -34,6 +35,10 @@
     l5:          '#e74c3c',
     l6:          '#2980b9',
     l7:          '#8e44ad',
+    // Batalha Total Victory
+    'btv-livro':   '#dc2626',
+    'btv-estelar': '#0891b2',
+    'btv-mar':     '#0369a1',
   };
 
   // ── Landing page ──────────────────────────────────────────────
@@ -41,31 +46,43 @@
     const container = document.getElementById('landing-books');
     let html = '';
 
-    for (const book of CONTENT_MAP) {
-      const accent = BOOK_ACCENTS[book.id] || '#c9a84c';
-      const firstCh = book.chapters[0];
-      const chCount = book.chapters.length;
-      const isFeatured = book.id === 'livro';
-      const chLabel = chCount === 1 ? '1 capítulo' : `${chCount} capítulos`;
+    for (const group of CONTENT_GROUPS) {
+      const books = CONTENT_MAP.filter(b => b.group === group.id);
 
-      let badge = book.id.toUpperCase();
-      if (book.id === 'livro') badge = 'LIVRO BASE';
-      if (book.id === 'suplementos') badge = 'ÍNDICE';
+      html += `<section class="landing-section">
+        <div class="landing-section__header">
+          <h2 class="landing-section__title">${group.title}</h2>
+          <p class="landing-section__desc">${group.description}</p>
+        </div>
+        <div class="landing-section__grid">`;
 
-      // Strip the "L# — " prefix from supplement titles for the card
-      const displayTitle = book.title.replace(/^L\d+ — /, '');
+      for (const book of books) {
+        const accent = BOOK_ACCENTS[book.id] || '#c9a84c';
+        const firstCh = book.chapters[0];
+        const chCount = book.chapters.length;
+        const isFeatured = book.id === 'livro' || book.id === 'btv-livro';
+        const chLabel = chCount === 1 ? '1 capítulo' : `${chCount} capítulos`;
 
-      html += `<a
-        href="#${book.id}/${firstCh.id}"
-        class="book-card${isFeatured ? ' book-card--featured' : ''}"
-        style="--card-accent: ${accent}"
-      >
-        <span class="book-card__badge">${badge}</span>
-        <span class="book-card__title">${displayTitle}</span>
-        ${book.subtitle ? `<span class="book-card__subtitle">${book.subtitle}</span>` : ''}
-        <span class="book-card__meta">${chLabel}</span>
-        <span class="book-card__arrow">→</span>
-      </a>`;
+        let badge = book.id.toUpperCase().replace('BTV-', '');
+        if (book.id === 'livro' || book.id === 'btv-livro') badge = 'LIVRO BASE';
+        if (book.id === 'suplementos') badge = 'ÍNDICE';
+
+        const displayTitle = book.title.replace(/^L\d+ — /, '');
+
+        html += `<a
+          href="#${book.id}/${firstCh.id}"
+          class="book-card${isFeatured ? ' book-card--featured' : ''}"
+          style="--card-accent: ${accent}"
+        >
+          <span class="book-card__badge">${badge}</span>
+          <span class="book-card__title">${displayTitle}</span>
+          ${book.subtitle ? `<span class="book-card__subtitle">${book.subtitle}</span>` : ''}
+          <span class="book-card__meta">${chLabel}</span>
+          <span class="book-card__arrow">→</span>
+        </a>`;
+      }
+
+      html += `</div></section>`;
     }
 
     container.innerHTML = html;
@@ -81,13 +98,24 @@
   function showReader() {
     landingEl.style.display = 'none';
     appEl.style.display = 'flex';
-    btnHamburger.style.display = '';  // restored to CSS-controlled visibility
+    btnHamburger.style.display = '';
   }
 
   // ── Sidebar ───────────────────────────────────────────────────
   function renderSidebar() {
     let html = '';
+    let currentGroup = null;
+
     for (const book of CONTENT_MAP) {
+      // Insert group header when the group changes
+      if (book.group !== currentGroup) {
+        currentGroup = book.group;
+        const groupDef = CONTENT_GROUPS.find(g => g.id === currentGroup);
+        if (groupDef) {
+          html += `<div class="sidebar-group-header">${groupDef.title}</div>`;
+        }
+      }
+
       html += `<details id="book-${book.id}">
         <summary class="book-title">
           <span class="book-label">${book.title}</span>
@@ -104,6 +132,7 @@
       }
       html += `</ul></details>`;
     }
+
     sidebarBooks.innerHTML = html;
   }
 
