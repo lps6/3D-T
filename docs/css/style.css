@@ -47,8 +47,8 @@
   --c-code-text:           #3d1f0d;
 
   /* Typography */
-  --font-heading:          'Cinzel', Georgia, serif;
-  --font-body:             'Lora', 'Georgia', serif;
+  --font-heading:          system-ui, -apple-system, 'Segoe UI', sans-serif; /*'Cinzel', Georgia, serif;*/
+  --font-body:             system-ui, -apple-system, 'Segoe UI', sans-serif; /*'Lora', 'Georgia', serif;*/
   --font-ui:               system-ui, -apple-system, 'Segoe UI', sans-serif;
 }
 
