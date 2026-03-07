@@ -31,7 +31,7 @@
   const allChapters = [];
   for (const book of CONTENT_MAP) {
     for (const ch of book.chapters) {
-      allChapters.push({ bookId: book.id, chapterId: ch.id, title: ch.title });
+      allChapters.push({ bookId: book.id, chapterId: ch.id, title: (ch.label || ch.title) });
     }
   }
 
@@ -142,7 +142,7 @@
           class="chapter-link"
           data-book="${book.id}"
           data-chapter="${chKey}"
-        >${ch.title}</a></li>`;
+        >${ch.label || ch.title}</a></li>`;
       }
       html += `</ul></details>`;
     }
