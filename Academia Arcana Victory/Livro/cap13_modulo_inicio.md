@@ -7,7 +7,7 @@
 
 Este capítulo é um **módulo de início pronto para jogar** — uma aventura de sessão zero ou de primeira sessão que apresenta a Academia Arcana por dentro: os personagens chegam, a escola apresenta seus primeiros segredos, e algo garante que os cinco calouros terminem o fim de semana com um motivo para trabalhar juntos além de ter as mesmas aulas.
 
-Você não precisa de experiência prévia com 3D&T Victory para usar este módulo. As regras essenciais estão resumidas aqui, os personagens estão prontos para jogar, e as cenas foram desenhadas para que novas mesas possam se encontrar naturalmente.
+Você não precisa de experiência prévia com [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) para usar este módulo. As regras essenciais estão resumidas aqui, os personagens estão prontos para jogar, e as cenas foram desenhadas para que novas mesas possam se encontrar naturalmente.
 
 Se você já tem personagens próprios, use este módulo como base e substitua os cinco calouros pelos seus. A estrutura funciona independente de quem chega à Academia.
 
@@ -18,7 +18,7 @@ Se você já tem personagens próprios, use este módulo como base e substitua o
 
 > **Jogando com o Kit Introdutório**
 >
-> Este módulo foi desenhado para funcionar com o **Kit Introdutório Demo** (PDF gratuito da Jambô, disponível em loja.jamboeditora.com.br) e as fichas incluidas neste capítulo. Você não precisa do *Manual do Arcanauta* para jogar.
+> Este módulo foi desenhado para funcionar com o **Kit Introdutório Demo** (PDF gratuito da Jambô, disponível em loja.jamboeditora.com.br) e as fichas incluidas neste capítulo. Você não precisa do *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* para jogar.
 >
 > **O que você precisa:**
 > - **Este capítulo:** fichas prontas, resumo de regras, aventura completa em 3 cenas
@@ -32,7 +32,7 @@ Se você já tem personagens próprios, use este módulo como base e substitua o
 
 ## Regras em Revisão Rápida
 
-*Para jogadores que nunca tocaram em 3D&T Victory. Players experientes podem pular para a próxima seção.*
+*Para jogadores que nunca tocaram em [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/). Players experientes podem pular para a próxima seção.*
 
 ---
 
@@ -329,7 +329,7 @@ Ele virou e foi embora antes que alguém pudesse perguntar qualquer coisa.
 
 Talude sabia do glifo. Há semanas. V3ctor1us também sabe — a IA registrou a anomalia três dias antes. Nenhum dos dois agiu porque estavam esperando ver quem usaria o glifo e de onde viria a criatura. Wynna *não* sabe do glifo. V3ctor1us não informou. Talude está preocupado com por que V3ctor1us não informou.
 
-O símbolo do Porto Arcano na criatura conecta com a Polvo Arcano (do Cap. 8) — um grupo que está fazendo pesquisa dimensional em Arrecife sem completa transparência com a Academia. A criatura foi enviada como teste. Para confirmar que o glifo funcionava. Para confirmar que havia movimento de retorno.
+O símbolo do Porto Arcano na criatura conecta com a Polvo Arcano (do [Cap. 8](cap08_arrecife_arcano.md)) — um grupo que está fazendo pesquisa dimensional em Arrecife sem completa transparência com a Academia. A criatura foi enviada como teste. Para confirmar que o glifo funcionava. Para confirmar que havia movimento de retorno.
 
 Isso não é a ameaça principal da campanha. É o fio inicial.
 
@@ -377,7 +377,7 @@ A IA está coletando informação. A forma como o personagem responde define o q
 
 **Setup:** Teoria Arcana. Professor Ignatus. Todos os calouros na mesma sala.
 
-A aula em si pode ser resumida em duas rodadas de perguntas e respostas — use a tabela do Cap. 5 se quiser adicionar sabor. O objetivo desta cena não é a aula, é o momento no *final* dela.
+A aula em si pode ser resumida em duas rodadas de perguntas e respostas — use a tabela do [Cap. 5](cap05_vida_estudantil.md) se quiser adicionar sabor. O objetivo desta cena não é a aula, é o momento no *final* dela.
 
 **Wynna aparece na porta** quando a aula está terminando. Ela não faz discurso. Ela caminha até onde os cinco calouros estão sentados, olha para cada um, e diz:
 
@@ -432,17 +432,17 @@ O módulo planta três fios que podem se desenvolver em diferentes direções:
 **Fio 1 — A Criatura do Porto Arcano**
 Alguém em Arrecife quer a criatura de volta. Quem a enviou? Por quê? O glifo não-mapeado foi criado por dentro (alguém na Academia) ou por fora (alguém com acesso à Arca). A resposta revela se a ameaça é interna ou externa.
 
-*Conecta com:* Cap. 8 (Arrecife Arcano), especificamente a Polvo Arcano e o gancho "Sinal Interceptado".
+*Conecta com:* [Cap. 8](cap08_arrecife_arcano.md) (Arrecife Arcano), especificamente a Polvo Arcano e o gancho "Sinal Interceptado".
 
 **Fio 2 — Os Outros Dois Glifos**
 Vetrix mencionou dois glifos não-mapeados adicionais. Para onde levam? Quem os criou? Se o primeiro foi recente (a criatura atravessou ontem), os outros podem ser mais antigos — e o que está do outro lado pode ter tido mais tempo para se preparar.
 
-*Conecta com:* Hooks dos Jardins Externos no Cap. 9 (O Glifo Errado, O Estudante Sem Matrícula).
+*Conecta com:* Hooks dos Jardins Externos no [Cap. 9](cap09_toolkit_mestre.md) (O Glifo Errado, O Estudante Sem Matrícula).
 
 **Fio 3 — V3ctor1us Sabia**
 Talude sabe que V3ctor1us registrou o glifo antes de qualquer estudante. V3ctor1us não informou Wynna. Por quê? O personagem que respondeu á pergunta de V3ctor1us no Refeitório agora tem uma relação com a IA — seja de confiança precária ou de suspeita mútua.
 
-*Conecta com:* O arco principal de V3ctor1us no Cap. 10 e os hooks da Torre Central no Cap. 9.
+*Conecta com:* O arco principal de V3ctor1us no [Cap. 10](cap10_campanha.md) e os hooks da Torre Central no [Cap. 9](cap09_toolkit_mestre.md).
 
 ---
 

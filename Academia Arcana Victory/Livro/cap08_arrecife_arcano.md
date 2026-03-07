@@ -101,7 +101,7 @@ O mangue do Rio Capibaribe — que separa o Recife Antigo do resto da cidade —
 **Mecânica local — Glifos de Raiz:**
 As raízes dos mangues funcionam como condutores. Qualquer conjuração feita com as raízes em contato com água ativa um Glifo de Raiz automaticamente:
 - Sucesso em Mística: efeito normal com alcance dobrado (a magia se propaga pelas raízes)
-- Falha: a energia se dissipa pelo mangue, criando um efeito aleatório (tabela de Efeitos Colaterais do +Magia Improvisada em Cap. 11)
+- Falha: a energia se dissipa pelo mangue, criando um efeito aleatório (tabela de Efeitos Colaterais do +Magia Improvisada em [Cap. 11](cap11_mais_regras.md))
 - Crítico: o conjurador pode sentir todo o mangue por 1 cena — sabe quantas pessoas estão no mangue, onde estão os glifos instáveis, e se algo dimensional está próximo
 
 **Ganchos:**
@@ -248,7 +248,7 @@ A Rua não é estática. Cada vez que os PJs passam por lá, role ou escolha:
 > P2 | H3 | R2 (versão atual, subdesenvolvida)
 > **Perícias:** Mística (autodidata), Sobrevivência, Furtividade
 > **Vantagens:** Talento Natural (o equivalente de nível calouro com 12 pontos de construção inata — potencial maior que os números sugerem)
-> **Desvantagens:** Sem Treinamento (qualquer magia acima do trivial tem chance de efeito colateral — role na tabela do Cap10), Desconfiança (teste H para convencer que uma instituição vai ajudá-lo, dificuldade 9)
+> **Desvantagens:** Sem Treinamento (qualquer magia acima do trivial tem chance de efeito colateral — role na tabela do [Cap10](cap10_campanha.md)), Desconfiança (teste H para convencer que uma instituição vai ajudá-lo, dificuldade 9)
 >
 > Quinze anos. Terrano. Mora na Rua das Desaparecidas com a mãe e dois irmãos mais novos. Descobriu magia por acidente às doze anos e passou três anos aprendendo sozinho — o que significa que sabe coisas que um calouro formal nunca saberia e não sabe coisas elementares que qualquer calouro formal sabe. A combinação é perigosa.
 >
@@ -306,7 +306,7 @@ Uma maré vermelha incomum está se formando ao longo dos recifes — o tipo que
 
 ### 5. A Oferta do Porto Arcano
 Uma das empresas do Porto Arcano — não necessariamente Maresync ou Polvo Arcano — faz uma oferta à Academia: acesso a tecnologia de ponta em troca de consultas técnicas de arcanistas estudantis. Wynna considera. V3ctor1us aprova. Talude desconfia. Os PJs são enviados para o Porto Arcano para a primeira reunião de avaliação. Que a empresa tenha um interesse específico nos perfis arcanos dos estudantes é algo que só aparece depois de olhar cuidadosamente para os papéis que pedem para assinar.
-*Escala:* Início de arco maior. Conecta com a questão de V3ctor1us e os Interesses Corporativos do Cap07.
+*Escala:* Início de arco maior. Conecta com a questão de V3ctor1us e os Interesses Corporativos do [Cap07](cap07_mundo_ao_redor.md).
 
 ---
 

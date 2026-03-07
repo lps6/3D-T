@@ -6,7 +6,7 @@
 
 ## O que é este livro?
 
-**Batalha Total Victory** é um suplemento de combate tático modular para **3D&T Victory** focado em conflitos usando miniaturas de múltiplas escalas — de escaramuças entre tropas até batalhas entre kaijus que reformam a geografia.
+**Batalha Total Victory** é um suplemento de combate tático modular para **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)** focado em conflitos usando miniaturas de múltiplas escalas — de escaramuças entre tropas até batalhas entre kaijus que reformam a geografia.
 
 Não é um livro de regras para "quando os jogadores querem matar muita coisa". É um livro sobre **o que a guerra custa** — nas pessoas que a travam, nos mundos que a sustentam, e nos personagens que sobrevivem para contar a história.
 
@@ -15,7 +15,7 @@ Não é um livro de regras para "quando os jogadores querem matar muita coisa". 
 ## Pré-requisitos
 
 Para utilizar este material, você precisa de:
-- **3D&T Victory** (Manual do Arcanauta) — regras básicas de jogo
+- **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)** (Manual do Arcanauta) — regras básicas de jogo
 - **Batalha Total Victory** estabelece as bases de Escala, Terreno e Miniaturas — suplementos de cenário expandem isso por tema
 
 ---
@@ -26,12 +26,12 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 
 | Você quer... | Use... |
 |---|---|
-| Combate mais tático sem sobrecarga | Cap. 1 (Campo de Batalha) + Cap. 2 (Tropas) |
-| Inimigos de escalas diferentes | Cap. 3 (Escalas) — obrigatório para Colossal em diante |
-| Mechas e kaijus completos | Cap. 4 (Mechas & Kaijus) — exige Cap. 3 |
-| Peso emocional nas campanhas | Cap. 5 (Custo Humano) — totalmente opcional |
-| Criar veículos e monstros | Cap. 6 (Motores da Destruição) |
-| Ferramentas de Mestre para campanhas de guerra | Cap. 7 (Comandando a Batalha) |
+| Combate mais tático sem sobrecarga | [Cap. 1](cap01_criacao_personagem.md) (Campo de Batalha) + [Cap. 2](cap02_a_academia.md) (Tropas) |
+| Inimigos de escalas diferentes | [Cap. 3](cap03_as_casas.md) (Escalas) — obrigatório para Colossal em diante |
+| Mechas e kaijus completos | [Cap. 4](cap04_professores_npcs.md) (Mechas & Kaijus) — exige [Cap. 3](cap03_as_casas.md) |
+| Peso emocional nas campanhas | [Cap. 5](cap05_vida_estudantil.md) (Custo Humano) — totalmente opcional |
+| Criar veículos e monstros | [Cap. 6](cap06_mecanicas.md) (Motores da Destruição) |
+| Ferramentas de Mestre para campanhas de guerra | [Cap. 7](cap07_mundo_ao_redor.md) (Comandando a Batalha) |
 | Setting completo com facções e mecânicas temáticas | Suplementos (FS, ML e demais DLCs) |
 
 ---
@@ -40,14 +40,14 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 
 | Arquivo | Conteúdo |
 |---|---|
-| `00_introducao.md` | Filosofia de design, guia de leitura |
-| `cap01_o_campo_de_batalha.md` | Grade & Medição Livre, terreno, cobertura, ações |
-| `cap02_tropas_e_formacoes.md` | Tropas, formações, Ação Heroica |
-| `cap03_a_escala_da_guerra.md` | Escaramuça / Warband / Colossal / Leviatã, Point-Buy |
-| `cap04_mechas_kaijus_colossais.md` | Mechas, kaijus, O Leviatã Cinzento |
-| `cap05_o_custo_humano.md` | Moral Pessoal, Trauma, Recuperação |
-| `cap06_motores_da_destruicao.md` | Criação de veículos, monstros e tropas |
-| `cap07_comandando_a_batalha.md` | Toolkit do Mestre, objetivos, protótipo de batalha |
+| `[00_introducao.md](00_introducao.md)` | Filosofia de design, guia de leitura |
+| `[cap01_o_campo_de_batalha.md](cap01_o_campo_de_batalha.md)` | Grade & Medição Livre, terreno, cobertura, ações |
+| `[cap02_tropas_e_formacoes.md](cap02_tropas_e_formacoes.md)` | Tropas, formações, Ação Heroica |
+| `[cap03_a_escala_da_guerra.md](cap03_a_escala_da_guerra.md)` | Escaramuça / Warband / Colossal / Leviatã, Point-Buy |
+| `[cap04_mechas_kaijus_colossais.md](cap04_mechas_kaijus_colossais.md)` | Mechas, kaijus, O Leviatã Cinzento |
+| `[cap05_o_custo_humano.md](cap05_o_custo_humano.md)` | Moral Pessoal, Trauma, Recuperação |
+| `[cap06_motores_da_destruicao.md](cap06_motores_da_destruicao.md)` | Criação de veículos, monstros e tropas |
+| `[cap07_comandando_a_batalha.md](cap07_comandando_a_batalha.md)` | Toolkit do Mestre, objetivos, protótipo de batalha |
 | `apendice_a_fantasia_medieval.md` | **Arquivado** (migrado para `Suplementos/Guerra_das_Coroas`) |
 | `apendice_b_grimdark_scifi.md` | **Arquivado** (migrado para `Suplementos/Fronteira_Estelar`) |
 | `apendice_c_falgsc.md` | **Arquivado** (migrado para `Suplementos/Fronteira_Estelar`) |
@@ -94,8 +94,8 @@ Os **Suplementos** carregam o peso de ambientação específica (lore, facções
 
 ## Nota Legal
 
-Este projeto é uma **produção de fãs** baseada em *3D&T Victory*, criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**. Este conteúdo é não-oficial, não possui afiliação com a Jambô Editora e é distribuído gratuitamente.
+Este projeto é uma **produção de fãs** baseada em *[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)*, criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**. Este conteúdo é não-oficial, não possui afiliação com a Jambô Editora e é distribuído gratuitamente.
 
-*"3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
+*"[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
 
 Para jogar, você precisará dos livros oficiais. Apoie os criadores: **[loja.jamboeditora.com.br](https://loja.jamboeditora.com.br)**

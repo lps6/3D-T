@@ -124,7 +124,7 @@ Cada Navio (ou Fortaleza) tem por rodada:
 | Ação | Efeito |
 |---|---|
 | **Reparos de Emergência** | Tripulação repara 2 PV do casco. Requer TRP ≥ 2. |
-| **Apagar Incêndio** | Remove 1 seção de Incêndio (Cap. 1). Teste TRP dif. 5. |
+| **Apagar Incêndio** | Remove 1 seção de Incêndio ([Cap. 1](cap01_criacao_personagem.md)). Teste TRP dif. 5. |
 | **Sinalização** | Comunica com navio aliado em Curto/Longo. Coordena ação (aliado ganha +1 na próxima ação). |
 | **Içar/Recolher Velas** | Muda perfil de vento para o próximo turno: mais velas = +1 VEL mas +1 dano recebido de Tiro de Corrente. Menos velas = -1 VEL mas -1 dano de Corrente. |
 | **Preparar Abordagem** | Posiciona ganchos e pranchas. Necessário antes de abordagem (a menos que Bordo a Bordo por abalroamento). |

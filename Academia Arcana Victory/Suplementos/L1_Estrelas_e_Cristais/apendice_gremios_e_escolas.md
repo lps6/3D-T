@@ -4,7 +4,7 @@
 
 ## O Grêmio Prisma: Nascido do Livro 1
 
-O Capítulo 3 do Livro-Base (*As Casas*) inclui um exemplo completo de fundação de grêmio — e o exemplo escolhido é **exatamente** a filosofia deste livro:
+O [Capítulo 3](cap03_as_casas.md) do Livro-Base (*As Casas*) inclui um exemplo completo de fundação de grêmio — e o exemplo escolhido é **exatamente** a filosofia deste livro:
 
 > *"Um grupo de jogadoras quer fundar um grêmio baseado na estética e filosofia Mahou Shoujo — magical girls. Elas acreditam em algo que nenhum grêmio histórico defende: magia é amor."*
 
@@ -30,7 +30,7 @@ O **Grêmio Prisma** é a tradução institucional de Estrelas & Cristais:
 
 ## Nova Escola Sugerida: Escola do Pilar
 
-O sistema de Pilar das Cavaleiras (Cap. 04) — onde uma pessoa sustenta a realidade de um mundo inteiro através de força de vontade — sugere uma tradição mágica que nenhuma escola existente cobre:
+O sistema de Pilar das Cavaleiras ([Cap. 04](cap04_professores_npcs.md)) — onde uma pessoa sustenta a realidade de um mundo inteiro através de força de vontade — sugere uma tradição mágica que nenhuma escola existente cobre:
 
 ### Escola do Pilar (Conceito)
 
@@ -38,7 +38,7 @@ O sistema de Pilar das Cavaleiras (Cap. 04) — onde uma pessoa sustenta a reali
 
 **Filosofia:** *Magia é responsabilidade absoluta.* Um único mago pode sustentar uma realidade — mas ao fazê-lo, abre mão de desejos pessoais. O poder máximo é o sacrifício máximo.
 
-**Relação com AAV:** O sistema de Pilar para Wynna (Cap. 04 deste livro) já sugere que a reitora pode estar funcionando como Pilar da Arca. Se a Escola do Pilar existe, Wynna é uma ex-aluna — e ninguém sabe.
+**Relação com AAV:** O sistema de Pilar para Wynna ([Cap. 04](cap04_professores_npcs.md) deste livro) já sugere que a reitora pode estar funcionando como Pilar da Arca. Se a Escola do Pilar existe, Wynna é uma ex-aluna — e ninguém sabe.
 
 **Mecânica exclusiva:** *Sustentação* — O mago pode declarar que "sustenta" uma condição de ambiente (barreira, clima, selo) indefinidamente, sem custo de PM, mas enquanto sustentar não pode descansar, conjurar, ou agir livremente. Limite: 1 sustentação por mago.
 
@@ -88,4 +88,4 @@ Se o Grêmio Prisma for fundado na campanha, sua primeira participação no Magi
 
 ---
 
-*Este apêndice mapeia o conteúdo do Livro 1 aos grêmios e escolas da Academia Arcana Victory. O Grêmio Prisma já existe como exemplo no Cap. 03 do Livro-Base — este livro dá a ele substância.*
+*Este apêndice mapeia o conteúdo do Livro 1 aos grêmios e escolas da Academia Arcana Victory. O Grêmio Prisma já existe como exemplo no [Cap. 03](cap03_as_casas.md) do Livro-Base — este livro dá a ele substância.*

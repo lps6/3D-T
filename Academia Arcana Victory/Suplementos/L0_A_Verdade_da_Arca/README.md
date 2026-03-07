@@ -9,7 +9,7 @@
 **Tipo:** Campanha Central (material para Mestres)
 **Escopo:** Do 1º ao 3º Ano — e além
 **Tom:** Suspense institucional / Horror burocrático / Revelação gradual
-**Sistema:** 3D&T Victory | Academia Arcana Victory
+**Sistema:** [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) | Academia Arcana Victory
 
 ---
 

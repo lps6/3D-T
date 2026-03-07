@@ -8,9 +8,9 @@ Referência rápida das estruturas, premissas e conexões introduzidas em *Tinta
 
 | Estrutura | Capítulo | Tipo | Localização |
 |-----------|----------|------|-------------|
-| Escola de Farhaven | Cap. 01 | Escola extradimensional hostil | Bolsão arcano isolado; sem localização mapeada |
-| Colegiado de Thaumaturgia Aplicada | Cap. 02 | Universidade mágica pós-juvenil | Campus isolado, fora de Arrecife Arcano |
-| Grêmio Arquivo Sombrio | Cap. 04 | Grêmio não-oficial da AAV | Terceiro andar da Biblioteca Arcana, seção não-catalogada |
+| Escola de Farhaven | [Cap. 01](cap01_criacao_personagem.md) | Escola extradimensional hostil | Bolsão arcano isolado; sem localização mapeada |
+| Colegiado de Thaumaturgia Aplicada | [Cap. 02](cap02_a_academia.md) | Universidade mágica pós-juvenil | Campus isolado, fora de Arrecife Arcano |
+| Grêmio Arquivo Sombrio | [Cap. 04](cap04_professores_npcs.md) | Grêmio não-oficial da AAV | Terceiro andar da Biblioteca Arcana, seção não-catalogada |
 
 ---
 
@@ -49,7 +49,7 @@ Referência rápida das estruturas, premissas e conexões introduzidas em *Tinta
 - **Custo da Magia Difícil** — Padrão/Preciso/Complexo/Impossível; PM adicional + testes de Mística
 - **Estado Espectral** (Fragmentação 4) — o personagem torna-se entidade de mana pura; efetivamente NPC até arco de recuperação
 
-**Mecânica exclusiva para formados:** *Precisão do Colegiado* — Feitiços lançados por formados nunca sofrem Desvio (Tabela de Desvio, Cap. 03). Em compensação, feitiços improvisados (não previamente estudados) custam +2 PM.
+**Mecânica exclusiva para formados:** *Precisão do Colegiado* — Feitiços lançados por formados nunca sofrem Desvio (Tabela de Desvio, [Cap. 03](cap03_as_casas.md)). Em compensação, feitiços improvisados (não previamente estudados) custam +2 PM.
 
 ---
 
@@ -102,6 +102,6 @@ As premissas deste livro se encaixam nos grêmios de formas reveladoras — porq
 | Sistema de L2 | Compatível com | Notas |
 |--------------|----------------|-------|
 | Pressão Ambiental | L6 (Canalização Dupla) | Ambos são overlays de estado do personagem; não usar simultaneamente sem ajuste |
-| Fragmentação | Cap. 00 — Calibrando a Escuridão | Cap. 00 estabelece segurança de mesa antes de usar Fragmentação |
-| Modo Escola Hostil | Cap. 05 — O Crisol Sem Mestre | O Crisol é a versão interna de AAV do mesmo conceito |
-| Corredor da Morte | Cap. 06 — A Noite na Biblioteca | Ambos são sequências de alta tensão; não usar na mesma sessão |
+| Fragmentação | [Cap. 00](cap00_introducao.md) — Calibrando a Escuridão | [Cap. 00](cap00_introducao.md) estabelece segurança de mesa antes de usar Fragmentação |
+| Modo Escola Hostil | [Cap. 05](cap05_vida_estudantil.md) — O Crisol Sem Mestre | O Crisol é a versão interna de AAV do mesmo conceito |
+| Corredor da Morte | [Cap. 06](cap06_mecanicas.md) — A Noite na Biblioteca | Ambos são sequências de alta tensão; não usar na mesma sessão |

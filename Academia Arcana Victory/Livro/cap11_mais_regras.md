@@ -16,7 +16,7 @@ Tudo o que você encontra aqui é **opcional**. Cada seção é uma regra indepe
 
 Estas regras expandem a experiência na Academia Arcana com sistemas que refletem a vida acadêmica de um estudante de magia: improvisar feitiços sob pressão, registrar descobertas em grimórios, se especializar em disciplinas arcanas, diferenciar tipos de dano pelo sabor mágico do cenário, e — para mesas que querem mais granularidade — substituir a perícia Mística por aptidões mais específicas.
 
-Se sua mesa já está se divertindo com as regras básicas do Victory e os kits do Capítulo 6, ótimo. Você não precisa de nada disto. Mas se quiser mais profundidade mecânica para a experiência escolar — continue lendo.
+Se sua mesa já está se divertindo com as regras básicas do Victory e os kits do [Capítulo 6](cap06_mecanicas.md), ótimo. Você não precisa de nada disto. Mas se quiser mais profundidade mecânica para a experiência escolar — continue lendo.
 
 ---
 
@@ -170,7 +170,7 @@ Integrado ao sistema de V3ctor1us. Interface holográfica, busca por palavras-ch
 
 *"Mística é a perícia de quem sabe um pouco de tudo. Especialização é a perícia de quem sabe muito de algo."* — Zéphyro, defendendo o currículo acadêmico
 
-O sistema base de 3D&T Victory usa **Mística** como perícia universal para tudo relacionado a magia. Para a maioria das mesas, isso funciona perfeitamente. Mas em uma escola de magia, onde os alunos passam anos estudando disciplinas específicas, pode ser interessante refletir essa especialização na ficha.
+O sistema base de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) usa **Mística** como perícia universal para tudo relacionado a magia. Para a maioria das mesas, isso funciona perfeitamente. Mas em uma escola de magia, onde os alunos passam anos estudando disciplinas específicas, pode ser interessante refletir essa especialização na ficha.
 
 ### A Regra
 
@@ -391,7 +391,7 @@ Uma mesa pode usar apenas uma (Grimório é a recomendação para quem quer adic
 > *"Você acredita que apanhou? Não. Você foi destituído de mana. A diferença é importante — uma treela e um curativo não vão resolver o segundo caso."*
 > — Geófilus, corrigindo um calouro da Égide que confundiu os dois
 
-O sistema base de 3D&T Victory inclui 14 tipos de dano: Ácido, Choque, Corte, Cósmico, Fogo, Frio, Luz, Mágico, Pancada, Perfuração, Psíquico, Trevas, Veneno e Vento. Para a maioria dos cenários, essa lista funciona perfeitamente.
+O sistema base de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) inclui 14 tipos de dano: Ácido, Choque, Corte, Cósmico, Fogo, Frio, Luz, Mágico, Pancada, Perfuração, Psíquico, Trevas, Veneno e Vento. Para a maioria dos cenários, essa lista funciona perfeitamente.
 
 A Academia Arcana é um cenário em que a magia **tem sabor, tem estrutura e tem consequências**. Não é um sistema genérico de feitiços — é a Era das Arcas, com suas instabilidades dimensionais, com os contratos da Corrupção Cármica, com as criaturas que saem das mitologias brasileiras e com professores que estudaram por décadas para entender por que algumas magias machucam de formas que curativos comuns não resolvem. Nesse cenário, dano não é apenas "quanto HP você perde". É uma questão de o quê, exatamente, foi violado.
 
@@ -435,7 +435,7 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 **Resistente:** Personagens com Kit Bruxo das Trevas (acesso a selos de absorção); Grêmio Obsidiana com foco em proteção mágica
 **Vulnerável:** Criaturas nascidas da Convergência sem magia defensiva própria; Terranos não dotados recém-chegados
 
-**Referência cruzada:** Cap06 (Kit Glifista, Kit Bruxo das Trevas), +Magia Improvisada (todo improviso causa Arcano por padrão)
+**Referência cruzada:** [Cap06](cap06_mecanicas.md) (Kit Glifista, Kit Bruxo das Trevas), +Magia Improvisada (todo improviso causa Arcano por padrão)
 
 ---
 
@@ -447,13 +447,13 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 
 **Regra mecânica:** Dano Cármico **ignora redução de dano por Resistência** — não adianta ter R alta para absorver Corrupção. Ele também **não pode ser curado por Medicina comum** (curativos, poções de cura padrão). A cura exige ritual de purificação, resolução do contrato ou eliminação da fonte da Corrupção. O Mestre o usa principalmente como consequência narrativa, não como tipo de ataque direto — mas criaturas de Corrupção e entidades entropistas são exceção.
 
-**Efeito de distorção:** Além do dano, o alvo sofre uma perturbação probabilística: seu **próximo teste** (qualquer tipo, na cena atual) recebe **-1d adicional** — o destino empurra contra quem está em desacordo com seus contratos. Personagens com Corrupção ativa (Cap. 14 (O Custo da Magia)) recebem esse efeito mesmo em testes fora de combate na mesma sessão.
+**Efeito de distorção:** Além do dano, o alvo sofre uma perturbação probabilística: seu **próximo teste** (qualquer tipo, na cena atual) recebe **-1d adicional** — o destino empurra contra quem está em desacordo com seus contratos. Personagens com Corrupção ativa ([Cap. 14](cap14_o_custo_da_magia.md) (O Custo da Magia)) recebem esse efeito mesmo em testes fora de combate na mesma sessão.
 
 **Imune:** Personagens que completaram um ciclo de Corrupção (estágio final no sistema de A1); criaturas de Corrupção que já *são* a fonte
-**Resistente:** Kit Bruxo das Trevas com Pacto Completado; personagem que possui o Cap. 14 (O Custo da Magia) com todas as obrigações pagas
+**Resistente:** Kit Bruxo das Trevas com Pacto Completado; personagem que possui o [Cap. 14](cap14_o_custo_da_magia.md) (O Custo da Magia) com todas as obrigações pagas
 **Vulnerável:** Qualquer personagem com Corrupção ativa não resolvida (dobra dano Cármico recebido de fontes externas)
 
-**Referência cruzada:** Cap. 14 — O Custo da Magia (sistema completo do Contrato Cármico), Cap04 (NPCs com vínculo a contratos)
+**Referência cruzada:** [Cap. 14](cap14_o_custo_da_magia.md) — O Custo da Magia (sistema completo do Contrato Cármico), [Cap04](cap04_professores_npcs.md) (NPCs com vínculo a contratos)
 
 ---
 
@@ -471,7 +471,7 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 **Resistente:** Personagem que completou o arco de Y2 (O Motor do Trauma); Kit Mentalista com foco em escudos psíquicos
 **Vulnerável:** Personagem com Desvantagem de Empatia Ampliada ou Laços Emocionais Intensos (mecânica de Y2); Calouros no primeiro encontro com Ala Leste
 
-**Referência cruzada:** Suplemento Y2 (O Motor do Trauma — sistema completo de Emocional como recurso), Cap09 (gestão de encontros com Ala Leste)
+**Referência cruzada:** Suplemento Y2 (O Motor do Trauma — sistema completo de Emocional como recurso), [Cap09](cap09_toolkit_mestre.md) (gestão de encontros com Ala Leste)
 
 ---
 
@@ -489,7 +489,7 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 **Resistente:** Personagem que completou missão de Y1 ou T2 com calibração dimensional ativa; Kit Glifista com selo dimensional ativo (gasta 2PM por cena)
 **Vulnerável:** Personagens usando magia de teleporte ou portais na mesma cena (a instabilidade adicional os deixa desestabilizados)
 
-**Referência cruzada:** Cap02 (Ala Leste — descrição e mistérios), Cap10 (as 5 opções de campanha da Ala Leste)
+**Referência cruzada:** [Cap02](cap02_a_academia.md) (Ala Leste — descrição e mistérios), [Cap10](cap10_campanha.md) (as 5 opções de campanha da Ala Leste)
 
 ---
 
@@ -499,7 +499,7 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 
 **Descrição narrativa:** O tipo mais insidioso. Certas criaturas, armadilhas da Ala Leste e magias proibidas não causam dano convencional — elas atacam diretamente a reserva arcana, esvaziam as células que armazenam potencial mágico. A diferença entre PM perdido normalmente e PM drenado é simples: PM normal se recupera com descanso. PM drenado por Metamágico não. Mas há algo mais perturbador que muitos feiticeiros só percebem tarde: a energia drenada não some. Ela vai a algum lugar. E esse algum lugar, em geral, está olhando de volta.
 
-**Regra mecânica:** Toda vez que um personagem recebe dano de **Metamágico**, ele perde aquele valor em PM **permanentemente até ser curado por ritual de recuperação arcana**. Descanso normal não restaura PM drenado. O PM máximo efetivo cai e só é restaurado por: cura de Mística (dif 9, 1 ponto de PM por sucesso), acesso à Arca de Recuperação (Cap05, evento especial), ou descanso longo (mínimo 1 sessão fora de combate).
+**Regra mecânica:** Toda vez que um personagem recebe dano de **Metamágico**, ele perde aquele valor em PM **permanentemente até ser curado por ritual de recuperação arcana**. Descanso normal não restaura PM drenado. O PM máximo efetivo cai e só é restaurado por: cura de Mística (dif 9, 1 ponto de PM por sucesso), acesso à Arca de Recuperação ([Cap05](cap05_vida_estudantil.md), evento especial), ou descanso longo (mínimo 1 sessão fora de combate).
 
 **Absorção e colapso:** Criaturas com a habilidade de causar dano Metamágico **absorvem o PM drenado** — seu próprio pool de PM cresce temporariamente com o que tomaram (dura até o fim da cena). Além disso, se um personagem chegar a **0 PM por Metamágico**, ele entra em **Colapso Arcano**: toda magia fica inacessível, incluindo habilidades passivas de Kit e técnicas que não custam PM normalmente, até que seja curado por ritual (dif 7 mínimo). Atacar a malha mágica de alguém até o zero não apaga apenas o combustível — apaga temporariamente o acesso ao pedal.
 
@@ -507,7 +507,7 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 **Resistente:** Personagem com Kit Mentalista (reserva psíquica — pode compartilhar PM entre mental e arcano); Grêmio Coroa com foco em eficiência
 **Vulnerável:** Personagens com PM alto que dependem dele para todo combate (Glifistas, magos de suporte)
 
-**Referência cruzada:** Cap06 (economia de PM e kits dependentes), +Magia Improvisada (personagem sem PM não pode improvisar), G1 (Arrecife tem criaturas de mangue que usam Metamágico)
+**Referência cruzada:** [Cap06](cap06_mecanicas.md) (economia de PM e kits dependentes), +Magia Improvisada (personagem sem PM não pode improvisar), G1 (Arrecife tem criaturas de mangue que usam Metamágico)
 
 ---
 
@@ -532,7 +532,7 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 **Resistente:** Quem tem Kit Mentalista com escudo ativo; quem completou +Especializações com foco em Rituais
 **Vulnerável:** O conjurador principal (recebe dano máximo sem teste de Resistência na primeira rodada)
 
-**Referência cruzada:** +Sistema de Grimório, +Magia Improvisada, Cap06 (Kit Mentalista com escudo de backlash, Kit Bruxo das Trevas com acesso ao modo ativo)
+**Referência cruzada:** +Sistema de Grimório, +Magia Improvisada, [Cap06](cap06_mecanicas.md) (Kit Mentalista com escudo de backlash, Kit Bruxo das Trevas com acesso ao modo ativo)
 
 ---
 
@@ -554,7 +554,7 @@ Além do dano, o alvo deve testar **Resistência (dif 9)**. Em caso de falha, fi
 **Resistente:** Personagem com Kit Bruxo das Trevas (o Nome deles já foi selado por escolha); quem completou arco de Y3
 **Vulnerável:** Criaturas com Nome Verdadeiro exposto (+2d de dano Verbal); qualquer ser que falou seu próprio Nome em voz alta no mesmo dia
 
-**Referência cruzada:** Suplemento Y3 (Mecânica dos Nomes Verdadeiros — sistema completo), Cap04 (NPCs com Nomes Verdadeiros — uso a critério do Mestre)
+**Referência cruzada:** Suplemento Y3 (Mecânica dos Nomes Verdadeiros — sistema completo), [Cap04](cap04_professores_npcs.md) (NPCs com Nomes Verdadeiros — uso a critério do Mestre)
 
 ---
 
@@ -579,11 +579,11 @@ Além disso, o Mestre **deve** atribuir uma **condição primordial** ao dano de
 
 **Vitalidade ancestral:** Dano Primordial é particularmente eficaz contra seres de substância biológica e consciência viva — humanos, animais, criaturas mágicas encarnadas. Contra construtos de Primo (golems de energia arcana, guardiões de glifo) ele perde força: o dano é reduzido à metade. Esses seres respondem ao vivo, não ao fabricado.
 
-**Imune:** Personagens com Proteção Primordial ativa (item obtido via negociação com a criatura; ver Cap09); alguém que satisfez as condições de barganha da criatura antes do combate
+**Imune:** Personagens com Proteção Primordial ativa (item obtido via negociação com a criatura; ver [Cap09](cap09_toolkit_mestre.md)); alguém que satisfez as condições de barganha da criatura antes do combate
 **Resistente:** Personagem que cresceu em região com presença forte da criatura (origem regional relevante, a critério do Mestre); Kit Calouro Sortudo (sorte como proteção arquetípica)
 **Vulnerável:** Personagens que violaram protocolos locais (entrou no mangue à meia-noite, assoviou à noite na beira do rio, cortou as próprias unhas depois do pôr do sol)
 
-**Referência cruzada:** G1 (Arrecife — criaturas do Mangue das Marés), Cap07 (mundo além da Academia — regiões com presença dessas criaturas), Cap09 (encontros com criaturas primordiais)
+**Referência cruzada:** G1 (Arrecife — criaturas do Mangue das Marés), [Cap07](cap07_mundo_ao_redor.md) (mundo além da Academia — regiões com presença dessas criaturas), [Cap09](cap09_toolkit_mestre.md) (encontros com criaturas primordiais)
 
 ---
 
@@ -608,7 +608,7 @@ Condições de Mutação desaparecem no fim da duração — mas se o mesmo alvo
 **Resistente:** Personagem com Kit que inclua Vantagem de Resistência Biológica (a critério do Mestre); criaturas da Ala Leste acostumadas à mutação como estado normal
 **Vulnerável:** Personagens cuja mecânica de Kit ou Técnica depende de forma física estável ou consistência corporal; humanos sem adaptação mágica ativa
 
-**Referência cruzada:** Cap02 (Ala Leste — criaturas-de-carne como fonte de ataques Vital), Cap11 (certas origens de personagem podem incluir Resistência Vital como vantagem de background)
+**Referência cruzada:** [Cap02](cap02_a_academia.md) (Ala Leste — criaturas-de-carne como fonte de ataques Vital), [Cap11](cap11_mais_regras.md) (certas origens de personagem podem incluir Resistência Vital como vantagem de background)
 
 ---
 
@@ -626,7 +626,7 @@ Dano Material também pode ser usado diretamente contra **objetos e ambientes** 
 **Resistente:** Construtos com revestimento anti-alquímico (versões avançadas de V3ctor1us); personagem com Vantagem que inclua proteção de equipamento
 **Vulnerável:** Construtos com componentes materiais expostos (versões básicas de V3ctor1us, golems de pedra, guardiões de metal); personagens que dependem de equipamento mágico central para defesa ou ataque
 
-**Referência cruzada:** Cap06 (Kit Glifista — barreiras afetadas por Material), Cap09 (Toolkit do Mestre — dano a objetos e ambientes como ferramenta narrativa), G1 (criaturas alquímicas do mangue)
+**Referência cruzada:** [Cap06](cap06_mecanicas.md) (Kit Glifista — barreiras afetadas por Material), [Cap09](cap09_toolkit_mestre.md) (Toolkit do Mestre — dano a objetos e ambientes como ferramenta narrativa), G1 (criaturas alquímicas do mangue)
 
 ---
 
@@ -648,7 +648,7 @@ Dano Temporal é extremamente raro como ataque deliberado. O Mestre deve tratá-
 **Resistente:** Personagem que completou arco de Y1 com calibração temporal ativa; entidades dimensionais com múltipla presença simultânea
 **Vulnerável:** Conjurador que usou teleporte, Dimensional ou habilidade de predição/reflexo na mesma cena (paradoxo temporal afeta duplamente quem já manipulou fluxo); personagens com habilidade de "antecipar ações inimigas" — a antecipação os confunde
 
-**Referência cruzada:** Cap02 (Ala Leste profunda — ponto de anomalia temporal), Y1 (O Crisol Sem Mestre — calibração temporal como proteção)
+**Referência cruzada:** [Cap02](cap02_a_academia.md) (Ala Leste profunda — ponto de anomalia temporal), Y1 (O Crisol Sem Mestre — calibração temporal como proteção)
 
 ---
 

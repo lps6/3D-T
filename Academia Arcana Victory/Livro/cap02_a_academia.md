@@ -345,7 +345,7 @@ A regra não escrita do Ginásio: você nunca interrompe o treino de alguém. Vo
 ---
 
 #### Pista de Derby
-Descrita em detalhes no Capítulo 6. Por ora: é oval, com marcações no chão que não foram pintadas (aparecem sozinhas quando uma partida está agendada), e os assentos para espectadores sobem das bordas da pista como uma arquibancada que escolheu existir. As redes de proteção lateral são encantadas para devolver projéteis com o dobro da força original.
+Descrita em detalhes no [Capítulo 6](cap06_mecanicas.md). Por ora: é oval, com marcações no chão que não foram pintadas (aparecem sozinhas quando uma partida está agendada), e os assentos para espectadores sobem das bordas da pista como uma arquibancada que escolheu existir. As redes de proteção lateral são encantadas para devolver projéteis com o dobro da força original.
 
 Não há nenhuma regra oficial que impeça os alunos de entrar na pista fora das partidas. Há, entretanto, uma tradição: você não sobe em uma vassoura alheia. Vassouras de Derby são pessoais. Mexer na vassoura de alguém sem permissão é o tipo de coisa que inicia brigas que duram semestres.
 
@@ -450,7 +450,7 @@ A entrevista é uma conversa. Wynna faz perguntas que parecem banais — "por qu
 
 > **Se jogada na mesa:** O Mestre interpreta Wynna durante uma conversa de 5–10 minutos. Ao final, o personagem faz um teste de Habilidade + Influência, dificuldade 7 — não para *convencer* Wynna, mas para comunicar autenticidade. **Sucesso:** Wynna diz "Bem-vindo(a)." **Falha:** Wynna diz "Bem-vindo(a)" — Wynna *nunca* recusa um candidato com aptidão — mas Talude sussurra algo no ouvido dela enquanto você sai, e V3ctor1us anotou algo que você não sabe que foi anotado. O Mestre arquiva.
 
-Aproximadamente **12% do corpo discente** atual chegou à Academia por **Acidente de Glifo** — tropeçando em portais instáveis que os cuspiram nos corredores da escola sem aviso, sem preparo, e frequentemente sem calçados adequados (detalhes no Capítulo 7).
+Aproximadamente **12% do corpo discente** atual chegou à Academia por **Acidente de Glifo** — tropeçando em portais instáveis que os cuspiram nos corredores da escola sem aviso, sem preparo, e frequentemente sem calçados adequados (detalhes no [Capítulo 7](cap07_mundo_ao_redor.md)).
 
 Esses alunos passam por uma versão simplificada das provas após a chegada. Nenhum foi recusado até hoje — o que Talude considera "estatisticamente improvável e narrativamente conveniente," uma frase que faz mais sentido do que deveria quando dita por uma bola de pelos flutuante.
 

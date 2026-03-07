@@ -10,15 +10,15 @@ As duas fontes principais deste livro e os dois artigos consolidados revelam ali
 
 | Fonte | Grêmio Natural | Por quê |
 |-------|---------------|---------|
-| **Saleth** (Cap. 01) | **Casa da Coroa** | A Universidade valoriza rigor, hierarquia de méritos, domínio técnico. Simpatia é hard magic institucional. Asel Marr como Coroa que resiste ao sistema que o formou — tensão entre o grêmio que escolhe competência e o aluno que escolhe atalhos. |
-| **Ordem do Eco** (Cap. 02) | **Égide** | O Cavaleiro-Dragão protege. A Língua dos Nomes é poder sacrificial — custo em PV, morte por escolha, vínculo inquebrável. Um Cavaleiro nunca usa poder para si; usa para outros. Égide reconhece isso. |
+| **Saleth** ([Cap. 01](cap01_criacao_personagem.md)) | **Casa da Coroa** | A Universidade valoriza rigor, hierarquia de méritos, domínio técnico. Simpatia é hard magic institucional. Asel Marr como Coroa que resiste ao sistema que o formou — tensão entre o grêmio que escolhe competência e o aluno que escolhe atalhos. |
+| **Ordem do Eco** ([Cap. 02](cap02_a_academia.md)) | **Égide** | O Cavaleiro-Dragão protege. A Língua dos Nomes é poder sacrificial — custo em PV, morte por escolha, vínculo inquebrável. Um Cavaleiro nunca usa poder para si; usa para outros. Égide reconhece isso. |
 
 ### Artigos/Mecânicas
 
 | Fonte | Grêmio Natural | Por quê |
 |-------|---------------|---------|
-| **Nomes Verdadeiros / Y3** (Cap. 03) | **Grêmio Memória** | A Língua Antiga é arquivo vivo. Nomes Verdadeiros são catalogação da realidade. O Nomeador *pesquisa* antes de agir. O Bibliotecário do 3º Andar é a encarnação do que a Memória aspira ser — e o que teme ser. |
-| **Hard/Soft / T4** (Cap. 04) | **Grêmio Síntese** | T4 é meta-sistema — ferramenta para analisar ferramentas. Isso é Síntese pura: não pratica magia diretamente, mas entende *como* sistemas mágicos funcionam. V3ctor1us operaria usando T4 se fosse professora. |
+| **Nomes Verdadeiros / Y3** ([Cap. 03](cap03_as_casas.md)) | **Grêmio Memória** | A Língua Antiga é arquivo vivo. Nomes Verdadeiros são catalogação da realidade. O Nomeador *pesquisa* antes de agir. O Bibliotecário do 3º Andar é a encarnação do que a Memória aspira ser — e o que teme ser. |
+| **Hard/Soft / T4** ([Cap. 04](cap04_professores_npcs.md)) | **Grêmio Síntese** | T4 é meta-sistema — ferramenta para analisar ferramentas. Isso é Síntese pura: não pratica magia diretamente, mas entende *como* sistemas mágicos funcionam. V3ctor1us operaria usando T4 se fosse professora. |
 
 ### Alinhamentos Secundários
 
@@ -67,8 +67,8 @@ O material deste livro sugere duas instituições que não existiam no cenário 
 **Conflito Interno:** A Universidade tem Mestres, não Grêmios. Cada mestre domina uma disciplina e compete por alunos, verbas e relevância. A política entre mestres é brutal, silenciosa e constante. Um aluno brilhante é moeda de troca — e o aluno que não aprende a navegar a política é tão vulnerável quanto o que não aprende a navegar a Simpatia.
 
 **NPCs formados na Universidade:**
-- Asel Marr (Cap. 01) — se usado como NPC visitante, traz consigo a arrogância da formação técnica e a humildade de quem pagou o preço
-- Seralind Vex (Cap. 01) — se usada, contradiz tudo que a Universidade representa: talento sem estrutura formal, poder sem credencial
+- Asel Marr ([Cap. 01](cap01_criacao_personagem.md)) — se usado como NPC visitante, traz consigo a arrogância da formação técnica e a humildade de quem pagou o preço
+- Seralind Vex ([Cap. 01](cap01_criacao_personagem.md)) — se usada, contradiz tudo que a Universidade representa: talento sem estrutura formal, poder sem credencial
 
 ---
 
@@ -82,7 +82,7 @@ O material deste livro sugere duas instituições que não existiam no cenário 
 
 **Relação com AAV:** Escola parceira para arcos de intercâmbio. A Academia dos Cavaleiros é tudo que a AAV não é — ao ar livre, com animais enormes, sem IA de vigilância, com tensão inter-racial visível. Um intercâmbio com a AAV seria choque cultural em ambas as direções: o estudante da AAV não está pronto para dragões, e o Cavaleiro não está pronto para V3ctor1us.
 
-**Mecânica exclusiva:** *Voz do Vínculo* — Personagens com Vínculo de Dragão (Cap. 02) que estudaram na Academia dos Cavaleiros podem, 1×/sessão, usar o Vínculo para telepatia com o dragão a distância ilimitada. Em compensação, o dragão pode iniciar telepatia *sem consentimento* quando julgar necessário — o que é inconveniente em reuniões formais e potencialmente assustador em momentos de vulnerabilidade.
+**Mecânica exclusiva:** *Voz do Vínculo* — Personagens com Vínculo de Dragão ([Cap. 02](cap02_a_academia.md)) que estudaram na Academia dos Cavaleiros podem, 1×/sessão, usar o Vínculo para telepatia com o dragão a distância ilimitada. Em compensação, o dragão pode iniciar telepatia *sem consentimento* quando julgar necessário — o que é inconveniente em reuniões formais e potencialmente assustador em momentos de vulnerabilidade.
 
 **Conselho Diretivo:**
 
@@ -125,13 +125,13 @@ Se a campanha incluir intercâmbio, as três escolas criam triângulo de tensão
 
 ## O Grêmio Memória como Casa Natural do Livro 3
 
-O **Grêmio Memória** (Cap. 03 do Livro-Base) é o grêmio que mais se beneficia do material deste livro:
+O **Grêmio Memória** ([Cap. 03](cap03_as_casas.md) do Livro-Base) é o grêmio que mais se beneficia do material deste livro:
 
 | Aspecto do Memória | Conexão com o Livro 3 |
 |---------------------|----------------------|
 | Preservação de conhecimento | Nomes Verdadeiros como arquivo da realidade |
 | Técnicas descontinuadas | A Língua Antiga como disciplina não-ensinada |
-| Investigação histórica | Pesquisa como método de descoberta de Nomes (§2.1 do Cap. 03) |
+| Investigação histórica | Pesquisa como método de descoberta de Nomes (§2.1 do [Cap. 03](cap03_as_casas.md)) |
 | Relação com a Biblioteca | O terceiro andar como extensão natural do território Memória |
 | O Bibliotecário do 3º Andar | NPC que encarna o extremo do que a Memória poderia ser |
 
@@ -141,7 +141,7 @@ Um personagem do Memória com kit Nomeador é redundante mas *correto* — é a 
 
 ## O Subsolo como Alternativa
 
-Para PJs que aprendem a Língua Antiga de forma não-ortodoxa — especialmente os que acessaram o grimório da aventura do Cap. 05 — o **Grêmio do Subsolo** oferece abrigo.
+Para PJs que aprendem a Língua Antiga de forma não-ortodoxa — especialmente os que acessaram o grimório da aventura do [Cap. 05](cap05_vida_estudantil.md) — o **Grêmio do Subsolo** oferece abrigo.
 
 O Subsolo acolhe quem sabe coisas que a administração preferiria que não soubessem. Um Nomeador com Débito 3+ que descobriu algo sobre a Ala Leste é exatamente o tipo de estudante que o Subsolo procura. Não para explorar. Para proteger — porque gente que sabe demais sem apoio faz coisas desesperadas.
 

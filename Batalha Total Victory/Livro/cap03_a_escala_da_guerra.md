@@ -41,7 +41,7 @@ Mecanicamente, um Warband é um personagem único com atributos próprios que re
 **Por que escala importa:** Um Warband não é forte — é *coeso*. A diferença entre cinco soldados e um Warband de cinco é a palavra "nós". Quando um Warband se dissolve, não é porque morreu — é porque parou de acreditar. Esta é a escala da pergunta: *"Por quem você faria isso?"*
 > **📖 Warband vs. Tropa**
 >
-> Uma Tropa (Cap. 2) é um grupo de NPCs funcionando mecanicamente como um. Um Warband é uma entidade de Escala superior — tem mais PV, ignora ataques de Escaramuça sem ferramentas adequadas, e tem acesso a ações que Tropas não têm. A diferença não é apenas numérica: um Warband tem presença que uma Tropa não tem.
+> Uma Tropa ([Cap. 2](cap02_a_academia.md)) é um grupo de NPCs funcionando mecanicamente como um. Um Warband é uma entidade de Escala superior — tem mais PV, ignora ataques de Escaramuça sem ferramentas adequadas, e tem acesso a ações que Tropas não têm. A diferença não é apenas numérica: um Warband tem presença que uma Tropa não tem.
 
 ### Warbands Nomeadas — Exemplos Prontos
 
@@ -145,7 +145,7 @@ A regra "não pode ferir" tem exceções deliberadas — elas são o coração d
 
 2. **Pontos Fracos:** todo Colossal e Leviatã tem 1–3 Pontos Fracos definidos pelo Mestre. Atacar um Ponto Fraco cancela o diferencial de escala e permite dano normal — mas exige que o atacante primeiro **descubra** e **alcance** o Ponto Fraco.
 
-3. **Acúmulo de Tropas:** quando 3 ou mais Tropas focam o mesmo alvo com Fogo Concentrado (Cap. 2) no mesmo turno, o dano combinado afeta alvos Colossal normalmente.
+3. **Acúmulo de Tropas:** quando 3 ou mais Tropas focam o mesmo alvo com Fogo Concentrado ([Cap. 2](cap02_a_academia.md)) no mesmo turno, o dano combinado afeta alvos Colossal normalmente.
 
 4. **Habilidades de Escalonamento:** algumas vantagens, técnicas ou kits têm a propriedade **[Anti-Escala]** — indicando que o ataque ou habilidade ignora diferencial de uma escala acima.
 
@@ -228,13 +228,13 @@ Todo Leviatã tem **3–4 fases de combate**, cada uma com comportamento distint
 
 > **🔍 O Leviatã Cinzento (Exemplo Completo)**
 >
-> O Cap. 4 inclui a ficha completa do Leviatã Cinzento — kaiju com 3 Pontos Fracos, 4 fases com comportamentos detalhados, e lista de consequências ambientais por fase. Consulte antes de criar o primeiro Leviatã da sua campanha.
+> O [Cap. 4](cap04_professores_npcs.md) inclui a ficha completa do Leviatã Cinzento — kaiju com 3 Pontos Fracos, 4 fases com comportamentos detalhados, e lista de consequências ambientais por fase. Consulte antes de criar o primeiro Leviatã da sua campanha.
 
 ---
 
 ## Sistema de Point-Buy: Criando Unidades
 
-Para criar veículos, monstros, Tropas especiais e ameaças personalizadas, use a tabela de Point-Buy a seguir. O detalhamento completo de criação está no Cap. 6 (Motores da Destruição).
+Para criar veículos, monstros, Tropas especiais e ameaças personalizadas, use a tabela de Point-Buy a seguir. O detalhamento completo de criação está no [Cap. 6](cap06_mecanicas.md) (Motores da Destruição).
 
 | Elemento | Custo em Pontos |
 |---|---|

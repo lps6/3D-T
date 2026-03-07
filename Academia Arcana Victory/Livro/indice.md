@@ -15,7 +15,7 @@
 
 ---
 
-## Capítulo 1 — Criação de Personagem
+## [Capítulo 1](cap01_criacao_personagem.md) — Criação de Personagem
 - Passo 1 — Conceito e Origem
 - Passo 2 — Atributos
 - Passo 3 — Perícias
@@ -31,7 +31,7 @@
 
 ---
 
-## Capítulo 2 — A Academia
+## [Capítulo 2](cap02_a_academia.md) — A Academia
 - História da Academia Arcana
 - A Localização
 - O Campus
@@ -42,7 +42,7 @@
 
 ---
 
-## Capítulo 3 — Os Grêmios
+## [Capítulo 3](cap03_as_casas.md) — Os Grêmios
 - O Sistema de Grêmios
 - Moralidades Mágicas
 - Os Quatro Grêmios Históricos
@@ -62,7 +62,7 @@
 
 ---
 
-## Capítulo 4 — Professores e NPCs
+## [Capítulo 4](cap04_professores_npcs.md) — Professores e NPCs
 - A Diretoria
   - Wynna — Conselheira Fundadora
   - Talude — O Companheiro
@@ -94,7 +94,7 @@
 
 ---
 
-## Capítulo 5 — Vida Estudantil e Regras de Campanha
+## [Capítulo 5](cap05_vida_estudantil.md) — Vida Estudantil e Regras de Campanha
 - Matrícula e Admissão
 - O Ano Letivo
 - Sistema de Progressão Acadêmica
@@ -115,7 +115,7 @@
 
 ---
 
-## Capítulo 6 — Novas Mecânicas
+## [Capítulo 6](cap06_mecanicas.md) — Novas Mecânicas
 - Novos Kits da Academia
   - Arcavaleiro, Mentalista, Glifista, Bruxo das Trevas, Lâmina Dançante, Astro do Derby
   - Duelista Arcano, Caçador de Segredos, Calouro Sortudo, Magizoólogo, Curamago
@@ -133,11 +133,11 @@
 
 ---
 
-## Capítulo 7 — O Mundo ao Redor
+## [Capítulo 7](cap07_mundo_ao_redor.md) — O Mundo ao Redor
 - A Era das Arcas — O Essencial
 - Vallindra — A Capital Arcanauta
 - Neo Sampa
-- Arrecife *(detalhes completos no Cap. 8)*
+- Arrecife *(detalhes completos no [Cap. 8](cap08_arrecife_arcano.md))*
 - Comunidade Élfica do Litoral Norte
 - Portais Instáveis
 - Escolas de Ensino Médio Mágico
@@ -153,7 +153,7 @@
 
 ---
 
-## Capítulo 8 — Arrecife Arcano: A Cidade que Respira com o Mar
+## [Capítulo 8](cap08_arrecife_arcano.md) — Arrecife Arcano: A Cidade que Respira com o Mar
 - A Cidade que Respira com o Mar
 - A Mecânica das Marés
 - Seis Locais de Arrecife
@@ -169,7 +169,7 @@
 
 ---
 
-## Capítulo 9 — Toolkit do Mestre
+## [Capítulo 9](cap09_toolkit_mestre.md) — Toolkit do Mestre
 - Filosofia: Dirigir Uma Campanha Escolar
 - Hooks de Aventura por Área do Campus
 - Tabelas de Eventos Aleatórios por Semestre
@@ -187,7 +187,7 @@
 
 ---
 
-## Capítulo 10 — Estrutura de Campanha: O Ano Letivo
+## [Capítulo 10](cap10_campanha.md) — Estrutura de Campanha: O Ano Letivo
 - O Ano Como Unidade Narrativa
 - O Grande Arco: V3ctor1us
 - Arco por Ano (1º ao 4º Ano)
@@ -198,7 +198,7 @@
 
 ---
 
-## Capítulo 11 — +Regras da Academia
+## [Capítulo 11](cap11_mais_regras.md) — +Regras da Academia
 - +Magia Improvisada
 - +Sistema de Grimório
 - +Especializações Mágicas (Disciplinas Arcanas)
@@ -209,8 +209,8 @@
 
 ---
 
-## Capítulo 12 — Arsenal do Arcanauta Acadêmico
-*Guia de uso dos livros oficiais (Manual do Arcanauta + Ferozes & Furiosos) no cenário da Academia. Sem reprodução de regras — apenas contextualização e referências de página.*
+## [Capítulo 12](cap12_arsenal_do_arcanauta.md) — Arsenal do Arcanauta Acadêmico
+*Guia de uso dos livros oficiais ([Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/) + Ferozes & Furiosos) no cenário da Academia. Sem reprodução de regras — apenas contextualização e referências de página.*
 - O Cânone do Arcanauta: Kits de Encaixe Perfeito
   - Mago *(p. 39)*, Guerreira Mágica *(p. 30)*, Elementalista *(p. 22)*, Necromante *(p. 45)*, Ilusionista *(p. 34)*
   - Alquimista / Cientista / Psiônico *(pp. 6, 15, 54)*, Maginauta *(p. 38)*, Druida / Treinador de Monstros *(pp. 21, 62)*
@@ -218,7 +218,7 @@
   - Clérigo / Paladino *(pp. 16, 49)*, Ladino *(p. 37)*, CARD Gamer *(p. 12)*
 - Os Especialistas: Kits de Nicho
   - Cavaleiro / Monge *(pp. 13, 43)*, Celebridade / Idol *(p. 14)*, Ninja *(p. 47)*
-- Além dos Muros: Desafios e Aliados de *Ferozes & Furiosos*
+- Além dos Muros: Desafios e Aliados de *[Ferozes & Furiosos](https://jamboeditora.com.br/produto/ferozes-e-furiosos/)*
   - Criaturas das Arcas *(pp. 4–8)*, Mascotes, Arcanautas Rivais e Arcanerds *(p. 22)*
   - Construtos *(p. 66)* e Armadilhas *(p. 30)*, Mechanopolis e Metalianos
   - Neo Sampa e o Mundo Exterior, Bruxas e Youkai *(p. 194)*, Dinossauros / Dragões / Kaiju
@@ -230,7 +230,7 @@
 
 ---
 
-## Capítulo 13 — Módulo de Início: Os Primeiros Três Dias
+## [Capítulo 13](cap13_modulo_inicio.md) — Módulo de Início: Os Primeiros Três Dias
 - Regras em Revisão Rápida
 - Os Cinco Calouros (fichas prontas para jogar)
 - Tabela de Primeiras Impressões
@@ -248,7 +248,7 @@
 
 ---
 
-## Capítulo 14 — O Custo da Magia
+## [Capítulo 14](cap14_o_custo_da_magia.md) — O Custo da Magia
 - Introdução: O Preço do Poder
 - Mecânicas de Consequência Arcana
 - Tipos de Custo e Efeitos Narrativos
@@ -256,7 +256,7 @@
 
 ---
 
-## Capítulo 15 — Os Renegados
+## [Capítulo 15](cap15_os_renegados.md) — Os Renegados
 - Os Três Renegados — Quem são e como chegaram
 - Kit 1 — Portadora da Relíquia (subsistema: Selos de Virtude)
 - Kit 2 — O Farsante Arcano (subsistema: Motor de Blefe)

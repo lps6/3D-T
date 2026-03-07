@@ -12,7 +12,7 @@ Cada **Tom** é um modo de campanha completo com:
 - **3 NPCs-Âncora** com habilidades, motivações e vinheta
 - **1 Vinheta de cenário**
 
-O Mestre escolhe 1 tom dominante para a campanha. Tons secundários podem aparecer em missões específicas (uma campanha FALGSC pode ter uma missão com tom Grimdark, por exemplo). O Capítulo 7 traz ferramentas para transição entre tons.
+O Mestre escolhe 1 tom dominante para a campanha. Tons secundários podem aparecer em missões específicas (uma campanha FALGSC pode ter uma missão com tom Grimdark, por exemplo). O [Capítulo 7](cap07_mundo_ao_redor.md) traz ferramentas para transição entre tons.
 
 ---
 
@@ -56,7 +56,7 @@ O que restou de uma IA militar que perdeu contato com os criadores faz séculos.
 
 > Regra de Toolbox: Grimdark
 
-Ativa Desgaste (Cap. 4) com as seguintes modificações:
+Ativa Desgaste ([Cap. 4](cap04_professores_npcs.md)) com as seguintes modificações:
 
 | Modificação | Efeito |
 |---|---|
@@ -177,7 +177,7 @@ Comunismo espacial organizado. Frotas por votação. Estratégia por consenso. C
 **Unidades exclusivas:**
 - **Pelotão da Comune** (Tropa Operativo): P2 H3 R2, Atiradores de Elite ou Sapadores (escolha antes da batalha). Autonomia: se NPC-âncora cair, cada Tropa vota internamente em 1 turno sobre o próximo passo — isso *não é fraqueza*, é design.
 - **Brigada de Libertação** (Esquadrão): PRO 3, BLI 3, ARM 3, SIS 3. PV 30. Coordenação de Frota automática (+1 para aliados em Formação). Moral 5.
-- **Walker Estelar** (Nau de Guerra): PRO 3, BLI 3, ARM 4, SIS 2. PV 60. Mecha de combate tripulado. Sincronização com piloto (BTV Cap. 4). Bom contra Naus Reichpact — projetado para flanquear, não para segurar linha.
+- **Walker Estelar** (Nau de Guerra): PRO 3, BLI 3, ARM 4, SIS 2. PV 60. Mecha de combate tripulado. Sincronização com piloto (BTV [Cap. 4](cap04_professores_npcs.md)). Bom contra Naus Reichpact — projetado para flanquear, não para segurar linha.
 
 ### Mundos Independentes
 Colônias que recusaram ambos os lados. Milícias locais, sem frota organizada. +2 em testes em terreno/sistema local. Moral 5 em casa, 2 fora.

@@ -18,8 +18,8 @@ Toda campanha de Fronteira Estelar segue uma progressão natural de escala. As b
 
 **Mecânica de progressão:**
 - PJs começam com fichas de Operativo pessoal.
-- Final do Ato I: cada PJ assume **Postagem** em uma nave (Cap. 2).
-- Se houver Desgaste: ele começa moderado (valores padrão do Cap. 4).
+- Final do Ato I: cada PJ assume **Postagem** em uma nave ([Cap. 2](cap02_a_academia.md)).
+- Se houver Desgaste: ele começa moderado (valores padrão do [Cap. 4](cap04_professores_npcs.md)).
 
 ---
 
@@ -157,7 +157,7 @@ Entre cada batalha, role ou escolha 1 evento da tabela abaixo. Esses eventos aco
 
 ### Ganchos FALGSC (6)
 
-1. **Libertação da Orbital 9:** (vinheta do Cap. 6). 50 mil civis. 3 objetivos. 6 naus Reichpact. A Comune tem 4 corvetas e uma fragata. Faça a conta — e depois faça melhor que a conta.
+1. **Libertação da Orbital 9:** (vinheta do [Cap. 6](cap06_mecanicas.md)). 50 mil civis. 3 objetivos. 6 naus Reichpact. A Comune tem 4 corvetas e uma fragata. Faça a conta — e depois faça melhor que a conta.
 2. **O Voto Impossível:** A Comune precisa decidir: atacar a Ferrovia Estelar (controle logístico) ou evacuar Colônia 14 (sob bombardeio iminente). Não há frota para ambos. O Consenso decide.
 3. **O Agente Duplo:** Alguém na frota está vazando informação para o Reichpact. Não é quem você pensa. A investigação acontece em escala Operativo — pessoal, claustrofóbica, num corredor de nave.
 4. **A Primeira Commune:** Um mundo independente quer se juntar à Comune. Mas exige condições: autonomia militar, direito de veto em Consenso. Os PJs negociam — em mesa, não em campo de batalha.
@@ -205,12 +205,12 @@ Em campanhas de escala Armada, os PJs **não têm informação perfeita**. A né
 
 ## Construindo Sua Campanha — Passo a Passo
 
-1. **Escolha o Tom** (Cap. 6). Selecione 1 tom dominante.
+1. **Escolha o Tom** ([Cap. 6](cap06_mecanicas.md)). Selecione 1 tom dominante.
 2. **Desenhe o Mapa** (8–12 sistemas). Distribua recursos e facções.
 3. **Escolha 3 Ganchos** (1 por ato). O gancho do Ato I deve ser pessoal; o do Ato III deve envolver o mapa inteiro.
-4. **Crie a Nave dos PJs** (Cap. 3). Comece como Esquadrão.
+4. **Crie a Nave dos PJs** ([Cap. 3](cap03_as_casas.md)). Comece como Esquadrão.
 5. **Defina o Nível de Desgaste:** Completo (Grimdark), Padrão (FALGSC/Near Future), Mínimo (Space Opera).
-6. **Estabeleça os NPCs-Âncora** (Cap. 6). Pelo menos 2 na nave dos PJs, 1 aliado externo.
+6. **Estabeleça os NPCs-Âncora** ([Cap. 6](cap06_mecanicas.md)). Pelo menos 2 na nave dos PJs, 1 aliado externo.
 7. **Defina o Inimigo do Ato I.** Não precisa ser o inimigo final — precisa ser pessoal o suficiente para que os PJs se importem.
 8. **Jogue o Ato I.** Deixe as decisões dos PJs definirem os Atos II e III.
 
@@ -306,15 +306,15 @@ Para os NPCs: o Mestre narra 1 frase sobre o destino de cada NPC-âncora que sob
 
 | Elemento | Onde Encontrar |
 |---|---|
-| Escalas e interação | Capítulo 1 |
-| Combate e Postagens | Capítulo 2 |
-| Construção de naves | Capítulo 3 |
-| Desgaste e reparos | Capítulo 4 |
-| Inimigos e aliados | Capítulo 5 (Bestiário) |
-| Facções e mecânicas de tom | Capítulo 6 |
+| Escalas e interação | [Capítulo 1](cap01_criacao_personagem.md) |
+| Combate e Postagens | [Capítulo 2](cap02_a_academia.md) |
+| Construção de naves | [Capítulo 3](cap03_as_casas.md) |
+| Desgaste e reparos | [Capítulo 4](cap04_professores_npcs.md) |
+| Inimigos e aliados | [Capítulo 5](cap05_vida_estudantil.md) (Bestiário) |
+| Facções e mecânicas de tom | [Capítulo 6](cap06_mecanicas.md) |
 | Estrutura de campanha | Este capítulo |
 | BTV — Regras base | Batalha Total Victory, Livro |
-| 3D&T Victory — Sistema | Manual do Arcanauta |
+| [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) — Sistema | [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/) |
 
 ---
 

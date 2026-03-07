@@ -45,7 +45,7 @@ O suplemento cobre toda a extensão temporal: da batalha medieval com galés e t
 ### O Que Você Precisa
 
 - **Batalha Total Victory** (livro base) — para as regras fundamentais de combate em massa
-- **3D&T Victory — Manual do Arcanauta** — para o sistema base
+- **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) — [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)** — para o sistema base
 
 Este suplemento é **autônomo** dentro do ecossistema BTV: todas as mecânicas marítimas estão aqui, sem necessidade de consultar outros suplementos.
 
@@ -76,9 +76,9 @@ Mar de Lendas renomeia as escalas de BTV para refletir a realidade naval. As reg
 
 ### Mapeamento Mecânico
 
-As regras de interação entre escalas (BTV Cap. 3) aplicam-se integralmente. Um Tripulante não pode danificar um Navio com ataques normais, assim como um Navio não pode danificar uma Fortaleza do Mar sem armas especiais [Anti-Fortaleza].
+As regras de interação entre escalas (BTV [Cap. 3](cap03_as_casas.md)) aplicam-se integralmente. Um Tripulante não pode danificar um Navio com ataques normais, assim como um Navio não pode danificar uma Fortaleza do Mar sem armas especiais [Anti-Fortaleza].
 
-A exceção fundamental do mar: **o terreno é vivo.** Correntes, marés, tempestades e monstros submarinos afetam todas as escalas simultaneamente. O Capítulo 4 detalha isso completamente.
+A exceção fundamental do mar: **o terreno é vivo.** Correntes, marés, tempestades e monstros submarinos afetam todas as escalas simultaneamente. O [Capítulo 4](cap04_professores_npcs.md) detalha isso completamente.
 
 ---
 
@@ -88,10 +88,10 @@ A exceção fundamental do mar: **o terreno é vivo.** Correntes, marés, tempes
 
 | Se o tom é... | Comece por... | Depois... |
 |---|---|---|
-| **Medieval Naval** | Cap. 1 (Escalas) → Cap. 2 (Combate) | Cap. 3 (Navios) → Cap. 6 (Facções: Medieval) |
-| **Pirata Épico** | Cap. 3 (Navios + Espírito) → Cap. 6 (Facções: Pirata) | Cap. 5 (Bestiário) → Cap. 7 (Campanhas) |
-| **Steampunk Naval** | Cap. 1 → Cap. 3 (Navios a Vapor) | Cap. 4 (Terreno) → Cap. 6 (Facções: Steampunk) |
-| **Horror Oceânico** | Cap. 5 (Bestiário) → Cap. 4 (Terreno) | Cap. 6 (Facções: Horror) → Cap. 7 |
+| **Medieval Naval** | [Cap. 1](cap01_criacao_personagem.md) (Escalas) → [Cap. 2](cap02_a_academia.md) (Combate) | [Cap. 3](cap03_as_casas.md) (Navios) → [Cap. 6](cap06_mecanicas.md) (Facções: Medieval) |
+| **Pirata Épico** | [Cap. 3](cap03_as_casas.md) (Navios + Espírito) → [Cap. 6](cap06_mecanicas.md) (Facções: Pirata) | [Cap. 5](cap05_vida_estudantil.md) (Bestiário) → [Cap. 7](cap07_mundo_ao_redor.md) (Campanhas) |
+| **Steampunk Naval** | [Cap. 1](cap01_criacao_personagem.md) → [Cap. 3](cap03_as_casas.md) (Navios a Vapor) | [Cap. 4](cap04_professores_npcs.md) (Terreno) → [Cap. 6](cap06_mecanicas.md) (Facções: Steampunk) |
+| **Horror Oceânico** | [Cap. 5](cap05_vida_estudantil.md) (Bestiário) → [Cap. 4](cap04_professores_npcs.md) (Terreno) | [Cap. 6](cap06_mecanicas.md) (Facções: Horror) → [Cap. 7](cap07_mundo_ao_redor.md) |
 | **Todos** | Leia na ordem. Cada capítulo constrói sobre o anterior. |
 
 ---
@@ -129,7 +129,7 @@ A exceção fundamental do mar: **o terreno é vivo.** Correntes, marés, tempes
 | **Estreito** | Passagem estreita entre massas de terra — força coluna |
 | **Calma** | Ausência de vento — navios a vela ficam imóveis |
 | **Bruma** | Névoa marítima — reduz visibilidade |
-| **Espírito da Nave** | Vínculo entre nave e tripulação (Cap. 3) |
+| **Espírito da Nave** | Vínculo entre nave e tripulação ([Cap. 3](cap03_as_casas.md)) |
 
 ---
 
@@ -137,13 +137,13 @@ A exceção fundamental do mar: **o terreno é vivo.** Correntes, marés, tempes
 
 | Capítulo | Conteúdo |
 |---|---|
-| **Cap. 1 — Escalas no Mar** | As 4 escalas marítimas, interação entre escalas, exceções navais |
-| **Cap. 2 — Combate Naval** | Vento, posicionamento, ações de navio, abordagem, formações de frota |
-| **Cap. 3 — Navios e Espírito** | Construção de navios, atributos, componentes, Espírito da Nave |
-| **Cap. 4 — Terreno Marítimo** | Correntes, recifes, tempestades, marés, vulcões, abismos |
-| **Cap. 5 — Bestiário Marítimo** | Criaturas de todas as 4 escalas, de tubarões a Reis do Mar |
-| **Cap. 6 — Facções e Cenários** | 4 tons de campanha: Medieval Naval, Pirata Épico, Steampunk, Horror Oceânico |
-| **Cap. 7 — Campanhas Marítimas** | Estrutura de arco, mapa do arquipélago, ganchos, campanha exemplo |
+| **[Cap. 1](cap01_criacao_personagem.md) — Escalas no Mar** | As 4 escalas marítimas, interação entre escalas, exceções navais |
+| **[Cap. 2](cap02_a_academia.md) — Combate Naval** | Vento, posicionamento, ações de navio, abordagem, formações de frota |
+| **[Cap. 3](cap03_as_casas.md) — Navios e Espírito** | Construção de navios, atributos, componentes, Espírito da Nave |
+| **[Cap. 4](cap04_professores_npcs.md) — Terreno Marítimo** | Correntes, recifes, tempestades, marés, vulcões, abismos |
+| **[Cap. 5](cap05_vida_estudantil.md) — Bestiário Marítimo** | Criaturas de todas as 4 escalas, de tubarões a Reis do Mar |
+| **[Cap. 6](cap06_mecanicas.md) — Facções e Cenários** | 4 tons de campanha: Medieval Naval, Pirata Épico, Steampunk, Horror Oceânico |
+| **[Cap. 7](cap07_mundo_ao_redor.md) — Campanhas Marítimas** | Estrutura de arco, mapa do arquipélago, ganchos, campanha exemplo |
 
 ---
 

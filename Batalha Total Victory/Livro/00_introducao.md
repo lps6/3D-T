@@ -4,9 +4,9 @@
 
 > **📚 Nota Legal — Conteúdo de Fãs**
 >
-> Este projeto é uma **produção de fãs** criada com paixão por *3D&T Victory*, sistema de **Marcelo Cassaro** publicado pela **Jambô Editora**. Este conteúdo é não-oficial e distribuído gratuitamente como tributo ao sistema que amamos.
+> Este projeto é uma **produção de fãs** criada com paixão por *[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)*, sistema de **Marcelo Cassaro** publicado pela **Jambô Editora**. Este conteúdo é não-oficial e distribuído gratuitamente como tributo ao sistema que amamos.
 >
-> *"3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
+> *"[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
 >
 > Para jogar, você precisará dos livros oficiais. **Apoie os criadores:** [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br) — cada compra oficial garante que mais conteúdo de qualidade continue sendo criado.
 
@@ -39,7 +39,7 @@ Este livro começa aqui: na percepção de que guerra épica, com toda a sua esc
 
 ## O que é Batalha Total Victory
 
-**Batalha Total Victory** é o livro de conflitos em grande escala para **3D&T Victory**. Ele oferece ferramentas para qualquer tamanho de confronto — desde escaramuças entre pelotões até batalhas entre kaijus que reescrevem a cartografia do mundo.
+**Batalha Total Victory** é o livro de conflitos em grande escala para **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)**. Ele oferece ferramentas para qualquer tamanho de confronto — desde escaramuças entre pelotões até batalhas entre kaijus que reescrevem a cartografia do mundo.
 
 Mas não é um livro neutro sobre guerras abstratas.
 
@@ -49,13 +49,13 @@ Mas não é um livro neutro sobre guerras abstratas.
 
 ## Escopo deste livro
 
-Este livro funciona como **núcleo tático** de guerras em 3D&T Victory.
+Este livro funciona como **núcleo tático** de guerras em [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/).
 
 Você usa aqui as regras universais de campo de batalha: posição, cobertura, escalas, comando de unidades e custo humano.
 
 O foco é jogo de mesa com consequência dramática: decisões claras, custo real e ritmo de cena jogável. Logística detalhada e simulação militar total ficam fora do escopo por escolha de design.
 
-Para jogar, você continua usando o *Manual do Arcanauta* como base do sistema.
+Para jogar, você continua usando o *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* como base do sistema.
 
 Para ambientações completas (facções, lore profundo e submecânicas temáticas), use os suplementos dedicados.
 
@@ -67,7 +67,7 @@ Toda mecânica deste livro responde a uma pergunta: *o que isso custa?*
 
 - Cobertura e posicionamento existem porque decisões táticas **salvam e matam** pessoas específicas.
 - A Escala da Guerra existe porque o gap entre um soldado e um kaiju não é apenas numérico — é **existencial**.
-- O Sistema de Trauma (Cap. 5) existe porque personagens que sobrevivem a guerra são diferentes dos que entraram nela.
+- O Sistema de Trauma ([Cap. 5](cap05_vida_estudantil.md)) existe porque personagens que sobrevivem a guerra são diferentes dos que entraram nela.
 - A Ressonância Crítica — quando um piloto de mecha empurra o sistema além do limite — existe porque a guerra exige das pessoas **mais do que deveriam ter que dar**.
 
 Você pode ignorar qualquer uma dessas camadas. O sistema é modular. Mas cada uma foi colocada aqui por uma razão.
@@ -76,11 +76,11 @@ Você pode ignorar qualquer uma dessas camadas. O sistema é modular. Mas cada u
 
 ## Como usar este livro
 
-### Modo 1 — Conflitos Táticos (Cap. 1 e 2)
+### Modo 1 — Conflitos Táticos ([Cap. 1](cap01_criacao_personagem.md) e 2)
 
 Use apenas o Campo de Batalha e as regras de Tropas. Sua mesa ganha combate mais tático, com cobertura, formações e movimentação real, sem adicionar novas categorias de poder. Ideal para campanhas de fantasia ou espionagem onde batalhas ocorrem às vezes, não o tempo todo.
 
-### Modo 2 — Escalas Completas (+ Cap. 3 e 4)
+### Modo 2 — Escalas Completas (+ [Cap. 3](cap03_as_casas.md) e 4)
 
 Adicione o Sistema de Escalas para campanhas com mechas, kaijus, dragões ou qualquer coisa que dwarf um personagem individual. Obrigatório se você vai usar Colossal ou Leviatã como antagonistas recorrentes.
 
@@ -103,15 +103,15 @@ Use tudo — incluindo Custo Humano, Point-Buy de criação, e o Toolkit do Mest
 
 > **📖 Revisão Rápida**
 >
-> Este livro usa os termos padrão de 3D&T Victory:
+> Este livro usa os termos padrão de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/):
 > - **P / H / R:** Poder, Habilidade, Resistência — os três atributos base.
 > - **Ganho / Perda:** Role 2D e fique com o maior / menor resultado.
 > - **PM (Pontos de Mana):** custo de habilidades ativas; recuperado com descanso.
 > - **Perto / Médio / Longe:** distâncias abstratas de combate do sistema base.
-> - **Escala:** nova categoria introduzida no Cap. 3 — Escaramuça, Warband, Colossal, Leviatã.
-> - **Tropa:** grupo de 3–5 NPCs tratados como unidade única. Introduzido no Cap. 2.
+> - **Escala:** nova categoria introduzida no [Cap. 3](cap03_as_casas.md) — Escaramuça, Warband, Colossal, Leviatã.
+> - **Tropa:** grupo de 3–5 NPCs tratados como unidade única. Introduzido no [Cap. 2](cap02_a_academia.md).
 >
-> Se algum desses termos não for familiar, consulte o **Kit Demo gratuito** ou o *Manual do Arcanauta*.
+> Se algum desses termos não for familiar, consulte o **Kit Demo gratuito** ou o *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)*.
 
 ---
 
@@ -146,16 +146,16 @@ Use tudo — incluindo Custo Humano, Point-Buy de criação, e o Toolkit do Mest
 
 | Termo | Definição Rápida | Onde Ler Mais |
 |---|---|---|
-| **Escala** | Categoria de tamanho/poder (Escaramúça, Warband, Colossal, Leviatã) | Cap. 3 |
-| **Ação Heroica** | Gasto de Ponto de Heroísmo para afetar Tropa inteira | Cap. 2 |
-| **Sincronização** | Estado emocional do piloto afetando performance de mecha | Cap. 4 |
-| **Ressonância Crítica** | Colapso de sincronização piloto-mecha sob trauma extremo | Cap. 4 |
-| **Trauma** | Recurso narrativo-mecânico do custo psicológico de guerra | Cap. 5 |
-| **Ponto Fraco** | Vulnerabilidade de Leviatã permitindo dano de escalas menores | Cap. 3, 4 |
-| **Fogo Concentrado** | Múltiplas unidades atacando mesmo alvo somam modificadores | Cap. 2 |
-| **Terreno Difícil** | Custa 2× movimento em Grade; reduz movimento 50% em Medição-Livre | Cap. 1 |
-| **Warband Nomeada** | Unidade com identidade, habilidade e fraqueza narrativa | Cap. 3 |
-| **Objetivo de Crise** | Objetivo secundário emergente no meio de batalha | Cap. 7 |
+| **Escala** | Categoria de tamanho/poder (Escaramúça, Warband, Colossal, Leviatã) | [Cap. 3](cap03_as_casas.md) |
+| **Ação Heroica** | Gasto de Ponto de Heroísmo para afetar Tropa inteira | [Cap. 2](cap02_a_academia.md) |
+| **Sincronização** | Estado emocional do piloto afetando performance de mecha | [Cap. 4](cap04_professores_npcs.md) |
+| **Ressonância Crítica** | Colapso de sincronização piloto-mecha sob trauma extremo | [Cap. 4](cap04_professores_npcs.md) |
+| **Trauma** | Recurso narrativo-mecânico do custo psicológico de guerra | [Cap. 5](cap05_vida_estudantil.md) |
+| **Ponto Fraco** | Vulnerabilidade de Leviatã permitindo dano de escalas menores | [Cap. 3](cap03_as_casas.md), 4 |
+| **Fogo Concentrado** | Múltiplas unidades atacando mesmo alvo somam modificadores | [Cap. 2](cap02_a_academia.md) |
+| **Terreno Difícil** | Custa 2× movimento em Grade; reduz movimento 50% em Medição-Livre | [Cap. 1](cap01_criacao_personagem.md) |
+| **Warband Nomeada** | Unidade com identidade, habilidade e fraqueza narrativa | [Cap. 3](cap03_as_casas.md) |
+| **Objetivo de Crise** | Objetivo secundário emergente no meio de batalha | [Cap. 7](cap07_mundo_ao_redor.md) |
 
 > Use este glossário como referência rápida durante jogo. Cada termo tem capítulo completo com exemplos e mecânicas detalhadas.
 
