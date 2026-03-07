@@ -33,19 +33,19 @@ Até que um estudante executa a conjuração errada. Não por incompetência —
 **1. O Laboratório (Imediato)**
 Venner está inconsciente (PV 0, estável se tratado em 3 rodadas; sem tratamento, crítico). O estudante que causou a falha está em choque — Fragmentação +1 imediato. Selos falharam no Lab 3 e no corredor adjacente.
 
-Teste de Mística (dif. 7) para estabilizar Venner. Falha não piora, mas não melhora. Mana Racionada (Cap. 05) ativa — PM só recupera em local seguro.
+Teste de Mística (dif. 7) para estabilizar Venner. Falha não piora, mas não melhora. Mana Racionada ([Cap. 05](cap05_vida_estudantil.md)) ativa — PM só recupera em local seguro.
 
 **2. O Corredor do Subsolo (Exploração)**
 Saída requer subir 3 andares. O elevador de serviço está sem energia. As escadas existem mas passam pela **Sala de Manutenção dos Selos** (andar -2) e pela **Cripta de Artefatos** (andar -1).
 
-Perigo Ambiental (Cap. 05, d6) em cada área:
+Perigo Ambiental ([Cap. 05](cap05_vida_estudantil.md), d6) em cada área:
 - Subsolo -3 (Lab): verificado pelo grupo → seguro
 - Subsolo -2 (Selos): rolar d6
 - Subsolo -1 (Cripta): rolar d6 com -1 (proximidade Ala Leste)
 - Térreo: objetivo final
 
 **3. Formando o Grupo (Social)**
-4 NPCs estudantes estão presos. Cada um é um potencial aliado (Sistema de Alianças, Cap. 05) ou complicação:
+4 NPCs estudantes estão presos. Cada um é um potencial aliado (Sistema de Alianças, [Cap. 05](cap05_vida_estudantil.md)) ou complicação:
 
 | NPC | Grêmio | Reação | Utilidade |
 |-----|--------|--------|-----------|
@@ -76,7 +76,7 @@ O painel central mostra quais selos falharam. Um estudante com Saber ou Mística
 **5. A Cripta de Artefatos (Andar -1)**
 Sala de armazenamento de artefatos confiscados e em quarentena. A porta deveria estar selada. Não está.
 
-Dentro: um Grimório Senciente (Cap. 05) está ativo — alimentou-se de segredos residuais dos artefatos. Maior que o normal (PV 20 em vez de 15).
+Dentro: um Grimório Senciente ([Cap. 05](cap05_vida_estudantil.md)) está ativo — alimentou-se de segredos residuais dos artefatos. Maior que o normal (PV 20 em vez de 15).
 
 **Opções:**
 - Combate (difícil mas possível com o grupo inteiro)
@@ -134,10 +134,10 @@ P3 / H3 / R1 — PV 10 / PM 20
 
 | Capítulo | Relevância |
 |----------|-----------|
-| Cap. 01 — Pressão Ambiental | Marcadores ativos durante toda a aventura |
-| Cap. 02 — Fragmentação | Nina como caso ativo; PJs que forçam magia também arriscam |
-| Cap. 05 — Protocolo | Mana Racionada, Alianças, Perigo Ambiental — tudo ativo |
-| Cap. 06 — Noite na Biblioteca | Grimório reaparece; PJs que jogaram Cap. 06 reconhecem |
+| [Cap. 01](cap01_criacao_personagem.md) — Pressão Ambiental | Marcadores ativos durante toda a aventura |
+| [Cap. 02](cap02_a_academia.md) — Fragmentação | Nina como caso ativo; PJs que forçam magia também arriscam |
+| [Cap. 05](cap05_vida_estudantil.md) — Protocolo | Mana Racionada, Alianças, Perigo Ambiental — tudo ativo |
+| [Cap. 06](cap06_mecanicas.md) — Noite na Biblioteca | Grimório reaparece; PJs que jogaram [Cap. 06](cap06_mecanicas.md) reconhecem |
 | Livro 0 — Ala Leste | O livro da Cripta é semente direta |
 
 ---
@@ -155,4 +155,4 @@ A revelação sobre V3ctor1us no final é **opcional mas recomendada** — plant
 
 ---
 
-*Referências: Cap. 01 (Pressão), Cap. 02 (Fragmentação), Cap. 05 (Protocolo), Cap. 06 (Grimório/Arquivo). Livro 0 — Ala Leste.*
+*Referências: [Cap. 01](cap01_criacao_personagem.md) (Pressão), [Cap. 02](cap02_a_academia.md) (Fragmentação), [Cap. 05](cap05_vida_estudantil.md) (Protocolo), [Cap. 06](cap06_mecanicas.md) (Grimório/Arquivo). Livro 0 — Ala Leste.*

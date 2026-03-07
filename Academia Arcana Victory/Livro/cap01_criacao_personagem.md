@@ -22,14 +22,14 @@ Este capítulo guia você pelo processo de criação de um personagem para a Aca
 
 Cada passo destaca um ou dois personagens diferentes, mostrando como as mesmas regras produzem resultados completamente distintos quando filtradas por conceitos diferentes.
 
-**Importante:** Você ainda precisa do *Manual do Arcanauta* para as regras completas do sistema 3D&T Victory. Este capítulo não substitui o manual — ele mostra como *aplicar* aquelas regras ao cenário da Academia Arcana.
+**Importante:** Você ainda precisa do *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* para as regras completas do sistema [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/). Este capítulo não substitui o manual — ele mostra como *aplicar* aquelas regras ao cenário da Academia Arcana.
 
-(Se você já sabe criar personagens em 3D&T e só quer ver as fichas prontas, pule para o Passo 8. Ninguém vai te julgar. Muito.)
+(Se você já sabe criar personagens em [3D&T](https://jamboeditora.com.br/produto/3det-victory/) e só quer ver as fichas prontas, pule para o Passo 8. Ninguém vai te julgar. Muito.)
 
 ---
 
 > **📖 Revisão Rápida — Termos do Sistema**
-> Este capítulo usa termos mecânicos do 3D&T Victory. Uma referência rápida:
+> Este capítulo usa termos mecânicos do [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/). Uma referência rápida:
 > - **Ganho:** role 2D e fique com o maior resultado.
 > - **Perda:** role 2D e fique com o menor resultado.
 > - **PM (Pontos de Mana):** recurso gasto para ativar poderes; recuperado com descanso.
@@ -37,7 +37,7 @@ Cada passo destaca um ou dois personagens diferentes, mostrando como as mesmas r
 > - **Teste:** role 1D; resultado igual ou maior que a dificuldade = sucesso (padrão: 5).
 > - **Kit:** pacote temático de 3 poderes que define o estilo de ação do personagem.
 >
-> Regras completas no **Kit Introdutório Demo** (gratuito em jamboeditora.com.br) ou no *Manual do Arcanauta*.
+> Regras completas no **Kit Introdutório Demo** (gratuito em jamboeditora.com.br) ou no *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)*.
 
 ---
 
@@ -60,7 +60,7 @@ A origem não tem efeito mecânico direto — mas define como o mundo reage a vo
 
 ### Como Chegou à Academia?
 
-A forma de admissão define o primeiro capítulo da história do seu personagem (ver Capítulo 5):
+A forma de admissão define o primeiro capítulo da história do seu personagem (ver [Capítulo 5](cap05_vida_estudantil.md)):
 
 - **Convocação** — A Academia te encontrou. Carta oficial, glifo de acesso, expectativas altas.
 - **Candidatura Formal** — Você encontrou a Academia. Testes de aptidão, entrevistas, notas.
@@ -70,13 +70,13 @@ A forma de admissão define o primeiro capítulo da história do seu personagem 
 
 ## Passo 2 — No que você é bom? (Atributos)
 
-Em 3D&T Victory, seu personagem tem três atributos:
+Em [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/), seu personagem tem três atributos:
 
 - **Poder (P)** — Força bruta, capacidade mágica ofensiva, presença física.
 - **Habilidade (H)** — Precisão, inteligência aplicada, reflexos, controle.
 - **Resistência (R)** — Durabilidade, saúde, força de vontade, teimosia pura.
 
-Distribua os pontos conforme as regras do Manual do Arcanauta. O que importa aqui é a *filosofia* da distribuição — o que seus números dizem sobre quem você é.
+Distribua os pontos conforme as regras do [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/). O que importa aqui é a *filosofia* da distribuição — o que seus números dizem sobre quem você é.
 
 > **Exemplo — Zed (P3 H2 R1):** Zed é explosão. Poder alto porque sua magia é bruta e incontrolável — elu não conjura, elu *detona*. Habilidade mediana porque o instinto compensa a falta de técnica. Resistência baixa porque Zed é feite de papel e otimismo. É a build do protagonista de anime que sobrevive por força de vontade e plot armor. (Não por coincidência, o kit de Zed é Calouro Sortudo.)
 
@@ -124,7 +124,7 @@ Na Academia, perícias não servem só para combate:
 
 ## Passo 4 — Que tipo de mago você é? (Kit)
 
-Kits são o coração mecânico do personagem — definindo seus poderes especiais e seu arquétipo dentro da Academia. O Capítulo 6 tem quinze kits exclusivos, cada um com três poderes e uma identidade clara: onze kits originais da Academia e quatro kits de inspiração (a Série F, baseados em arquétipos clássicos do gênero). O *Manual do Arcanauta* fornece dezenas de outros que funcionam perfeitamente no cenário (ver Capítulo 12). A pergunta é: *o que seu personagem faz quando a situação exige mais do que o básico?*
+Kits são o coração mecânico do personagem — definindo seus poderes especiais e seu arquétipo dentro da Academia. O [Capítulo 6](cap06_mecanicas.md) tem quinze kits exclusivos, cada um com três poderes e uma identidade clara: onze kits originais da Academia e quatro kits de inspiração (a Série F, baseados em arquétipos clássicos do gênero). O *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* fornece dezenas de outros que funcionam perfeitamente no cenário (ver Capítulo 12). A pergunta é: *o que seu personagem faz quando a situação exige mais do que o básico?*
 
 > **Exemplo — Maitê (Maginauta):** Maitê resolve problemas tratando a magia como um sistema a ser hackeado. O kit Maginauta reflete isso perfeitamente: imersão no magiespaço para enxergar a estrutura mística, interferência em feitiços alheios e sobrecarga dos próprios. É a build da pessoa que fecha os olhos na aula de Teoria Arcana — não porque está dormindo, mas porque está vendo a magia por dentro.
 
@@ -132,13 +132,13 @@ Kits são o coração mecânico do personagem — definindo seus poderes especia
 
 > **Exemplo — Zed (Calouro Sortudo):** Zed não deveria estar vive. O kit Calouro Sortudo transforma incompetência técnica em protagonismo narrativo: Escape Miraculoso para sobreviver ao impossível, Talento Inesperado para acertar o que não deveria, e Magnetismo Narrativo para atrair soluções junto com os problemas. É o kit para quem quer jogar o Goku da escola: fraco no papel, imbatível na prática.
 
-(Os quinze kits exclusivos — onze originais e quatro da Série F — estão no Capítulo 6. Os kits do *Manual do Arcanauta* estão contextualizados no Capítulo 12. Leia tudo antes de escolher — a graça é que nenhum deles faz a mesma coisa.)
+(Os quinze kits exclusivos — onze originais e quatro da Série F — estão no [Capítulo 6](cap06_mecanicas.md). Os kits do *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* estão contextualizados no Capítulo 12. Leia tudo antes de escolher — a graça é que nenhum deles faz a mesma coisa.)
 
 ### Arsenal do Arcanauta Acadêmico
 
-Além dos quinze kits exclusivos da Academia Arcana (os onze originais e os quatro da Série F), o *Manual do Arcanauta* é a base de conhecimento para qualquer estudante. Os kits daquele livro não são apenas permitidos; são o fundamento sobre o qual os kits da Academia são construídos.
+Além dos quinze kits exclusivos da Academia Arcana (os onze originais e os quatro da Série F), o *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* é a base de conhecimento para qualquer estudante. Os kits daquele livro não são apenas permitidos; são o fundamento sobre o qual os kits da Academia são construídos.
 
-Este não é um livro de regras redundantes. É um livro de cenário. Para uma análise detalhada de como os kits clássicos do *Manual do Arcanauta* se encaixam na vida, nos grêmios e nos corredores da Academia Arcana, veja o **Capítulo 12 — Arsenal do Arcanauta Acadêmico**.
+Este não é um livro de regras redundantes. É um livro de cenário. Para uma análise detalhada de como os kits clássicos do *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* se encaixam na vida, nos grêmios e nos corredores da Academia Arcana, veja o **[Capítulo 12](cap12_arsenal_do_arcanauta.md) — Arsenal do Arcanauta Acadêmico**.
 
 ---
 
@@ -160,13 +160,13 @@ Na Academia Arcana, a vantagem **Arcano** é obrigatória para qualquer personag
 
 Uma boa desvantagem não é uma punição — é uma promessa de drama. Toda vez que a Desvantagem de um personagem entra em jogo, o Mestre ganha material e o jogador ganha holofote. Escolha desvantagens que você *quer* que apareçam, não que você espera que o Mestre esqueça.
 
-> *Além das vantagens e desvantagens do Manual do Arcanauta, a Academia oferece opções exclusivas — ver **Capítulo 11: +Regras da Academia**.*
+> *Além das vantagens e desvantagens do [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/), a Academia oferece opções exclusivas — ver **[Capítulo 11](cap11_mais_regras.md): +Regras da Academia**.*
 
 ---
 
 ## Passo 6 — No que você acredita? (Grêmio)
 
-A escolha de grêmio não é mecânica — é narrativa. Nenhum grêmio dá bônus em atributos ou perícias adicionais. O que o grêmio dá é *identidade, comunidade e conflito*. (Para a filosofia completa de cada grêmio, veja o Capítulo 3.)
+A escolha de grêmio não é mecânica — é narrativa. Nenhum grêmio dá bônus em atributos ou perícias adicionais. O que o grêmio dá é *identidade, comunidade e conflito*. (Para a filosofia completa de cada grêmio, veja o [Capítulo 3](cap03_as_casas.md).)
 
 A pergunta do grêmio não é "qual é o mais forte?" É: *com quem seu personagem se identifica — e por quê?*
 
@@ -367,7 +367,7 @@ Conflito interno bem-gerenciado gera as melhores cenas de uma campanha: o moment
 
 ### E Se Todos Forem do Mesmo Grêmio?
 
-Funciona — e muda a campanha. Um grupo só de Obsidiana joga política interna. Um grupo só de Égide parece um esquadrão tático. Discuta na sessão zero: o grêmio unificado traz coesão, mas reduz a tensão filosófica entre os PJs. Compense dando ao grupo NPCs aliados de outros grêmios que gerem esse atrito. Os professores e os NPCs estudantis do Capítulo 4 existem exatamente para isso.
+Funciona — e muda a campanha. Um grupo só de Obsidiana joga política interna. Um grupo só de Égide parece um esquadrão tático. Discuta na sessão zero: o grêmio unificado traz coesão, mas reduz a tensão filosófica entre os PJs. Compense dando ao grupo NPCs aliados de outros grêmios que gerem esse atrito. Os professores e os NPCs estudantis do [Capítulo 4](cap04_professores_npcs.md) existem exatamente para isso.
 
 **E se ninguém entrar em grêmio?** Perfeitamente válido. Independentes têm liberdade total, mas perdem os benefícios mecânicos de grêmio e as redes sociais que eles criam. Isso *pode* ser a história: o que significa estar fora das fraternidades quando toda a escola se organiza em torno delas?
 
@@ -375,7 +375,7 @@ Funciona — e muda a campanha. Um grupo só de Obsidiana joga política interna
 
 ## Passo 10 — Quem você vai ser? (A Ficha Completa)
 
-Aqui estão as cinco fichas finalizadas. Use-as como NPCs, como ponto de partida para seus próprios personagens, ou como referência de como as peças se encaixam. (As versões completas com descrição narrativa estão no Capítulo 4.)
+Aqui estão as cinco fichas finalizadas. Use-as como NPCs, como ponto de partida para seus próprios personagens, ou como referência de como as peças se encaixam. (As versões completas com descrição narrativa estão no [Capítulo 4](cap04_professores_npcs.md).)
 
 ---
 

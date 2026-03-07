@@ -86,7 +86,7 @@ Um personagem com **Ponto de Heroísmo** pode declarar uma **Ação Heroica** co
 
 > **📖 Pontos de Heroísmo**
 >
-> Pontos de Heroísmo são um recurso narrativo no espírito do 3D&T Victory — um personagem começa cada sessão com 1 (ou mais, a critério do Mestre). O Mestre pode conceder pontos adicionais por ações de destaque, decisões arriscadas, ou momentos de sacrifício. Eles são limitados justamente para que Ações Heroicas sejam especiais, não rotina.
+> Pontos de Heroísmo são um recurso narrativo no espírito do [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) — um personagem começa cada sessão com 1 (ou mais, a critério do Mestre). O Mestre pode conceder pontos adicionais por ações de destaque, decisões arriscadas, ou momentos de sacrifício. Eles são limitados justamente para que Ações Heroicas sejam especiais, não rotina.
 
 ---
 
@@ -164,9 +164,9 @@ Usada quando a Tropa está fragmentada ou em situação ruim.
 
 ## Tropas vs. Escalas Maiores
 
-Tropas são Escala Escaramuça. Quando enfrentam criaturas de Escala Warband ou superior, as regras de Escala (Cap. 3) se aplicam — mas as ações de formação permanecem disponíveis e têm valor tático específico:
+Tropas são Escala Escaramuça. Quando enfrentam criaturas de Escala Warband ou superior, as regras de Escala ([Cap. 3](cap03_as_casas.md)) se aplicam — mas as ações de formação permanecem disponíveis e têm valor tático específico:
 
-- **Fogo Concentrado** contra um alvo Warband ou Colossal: a Tropa pode perfurar defesas que normalmente ignorariam Escaramuça (ver Cap. 3 para detalhes de quando Escaramuça pode ferir escalas maiores).
+- **Fogo Concentrado** contra um alvo Warband ou Colossal: a Tropa pode perfurar defesas que normalmente ignorariam Escaramuça (ver [Cap. 3](cap03_as_casas.md) para detalhes de quando Escaramuça pode ferir escalas maiores).
 - **Fogo de Supressão** afeta a movimentação de qualquer escala — mesmo um Colossal deve testar para avançar por uma zona de supressão de armas pesadas ou magia de área.
 - **Formar Barreira** protege aliados independentemente da escala do atacante.
 
@@ -183,7 +183,7 @@ A regra de Tropa foi desenhada para manter o número de miniaturas baixo e o com
 | Combate típico Escaramuça | 1–3 heróis + 0–2 Tropas (1 base cada) |
 | Escaramuça com Warband | + 1–2 peças Warband |
 | Escalas mistas com Colossal | + 1–2 peças Colossal |
-| Batalha Leviatã completa | Ver Cap. 4 — este é o momento de colocar tudo na mesa |
+| Batalha Leviatã completa | Ver [Cap. 4](cap04_professores_npcs.md) — este é o momento de colocar tudo na mesa |
 
 O objetivo é que em uma batalha típica que não envolva Leviatã, a mesa tenha **no máximo 8–12 peças** no campo. Acima disso, a jogabilidade começa a sofrer mais do que o épico ganha.
 

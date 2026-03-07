@@ -351,4 +351,4 @@ A Missão de Formatura (cap06) foi construída especificamente para escalar esse
 
 ---
 
-*Próximo: Cap. 02 — O Grêmio Chama Livre (vínculos que transcendem estrutura institucional, e o que acontece quando a lealdade ao grêmio conflita com a lealdade à pessoa).*
+*Próximo: [Cap. 02](cap02_a_academia.md) — O Grêmio Chama Livre (vínculos que transcendem estrutura institucional, e o que acontece quando a lealdade ao grêmio conflita com a lealdade à pessoa).*

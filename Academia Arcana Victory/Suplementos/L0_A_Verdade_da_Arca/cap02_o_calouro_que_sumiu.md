@@ -181,8 +181,8 @@ Ansiedade de alta performance canalizada em determinação. Tentará seguir os P
 
 | Módulo | Relevância |
 |--------|-----------|
-| Cap. 01 — Protocolo Ala Leste | V3ctor1us protegendo a Ala Leste é o motor desta sessão |
-| Cap. 03 — Quando a Arca Estremece | Os Ermos reaparecem como acesso ao subsistema central |
+| [Cap. 01](cap01_criacao_personagem.md) — Protocolo Ala Leste | V3ctor1us protegendo a Ala Leste é o motor desta sessão |
+| [Cap. 03](cap03_as_casas.md) — Quando a Arca Estremece | Os Ermos reaparecem como acesso ao subsistema central |
 | Y1 — O Crisol Sem Mestre | Mecânica de loop temporal paralela ao Cativeiro |
 
 ## Sementes para Sessões Futuras

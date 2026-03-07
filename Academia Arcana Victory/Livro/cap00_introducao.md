@@ -4,9 +4,9 @@
 
 > **📚 Nota Legal — Conteúdo de Fãs**
 >
-> Este projeto é uma **produção de fãs** baseada em *3D&T Victory*, criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**. Este conteúdo é não-oficial, não possui afiliação com a Jambô Editora e é distribuído gratuitamente.
+> Este projeto é uma **produção de fãs** baseada em *[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)*, criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**. Este conteúdo é não-oficial, não possui afiliação com a Jambô Editora e é distribuído gratuitamente.
 >
-> *"3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
+> *"[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
 >
 > Para jogar, você precisará dos livros oficiais. Apoie os criadores: **[loja.jamboeditora.com.br](https://loja.jamboeditora.com.br)**
 
@@ -83,7 +83,7 @@ Este livro é o seu convite.
 
 ## O Que É Este Livro
 
-**Academia Arcana Victory** é um cenário completo para **3D&T Victory**, o jogo de RPG de mesa de ação e fantasia com alma de anime. Dentro destas páginas você encontrará:
+**Academia Arcana Victory** é um cenário completo para **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)**, o jogo de RPG de mesa de ação e fantasia com alma de anime. Dentro destas páginas você encontrará:
 
 - A história e os segredos da Academia Arcana, reimaginada para o tom, a estética e o cenário do Victory
 - Os professores, estudantes, e criaturas que habitam um campus dentro de sua própria **Arca** — um bolsão dimensional trazido de outro universo
@@ -158,20 +158,20 @@ A Academia Arcana como destino de uma única aventura. Os personagens visitam, c
 
 ## Guia de Leitura
 
-> **⚡ Quero jogar AGORA:** Capítulo 13. Fichas prontas. Regras resumidas. 3 horas.
+> **⚡ Quero jogar AGORA:** [Capítulo 13](cap13_modulo_inicio.md). Fichas prontas. Regras resumidas. 3 horas.
 > **📖 Sou jogador:** Capítulos 0, 1, 3, 6.
 > **🎲 Sou Mestre:** Tudo de 0–10. Depois, 13 para a primeira sessão.
 > **🔍 Sou curioso:** Leia na ordem. Cada capítulo funciona sozinho.
 >
-> *Este livro tem muitas páginas. Você não precisa ler todas para jogar. O Capítulo 13 sozinho basta para uma primeira sessão.*
+> *Este livro tem muitas páginas. Você não precisa ler todas para jogar. O [Capítulo 13](cap13_modulo_inicio.md) sozinho basta para uma primeira sessão.*
 
 Não existe uma ordem errada de ler este livro — mas existe uma ordem mais eficiente, dependendo do seu papel na mesa:
 
-**Para jogadores:** Leia esta *Introdução* para o contexto e a deixe animado. Depois vá direto ao **Capítulo 1** (criação de personagem). Em seguida, Capítulos **2 e 3** apresentam a escola e os grêmios. **Capítulo 6** tem os onze kits exclusivos. Com isso, você está pronto para jogar. Os outros capítulos são leitura de interesse, não pré-requisito.
+**Para jogadores:** Leia esta *Introdução* para o contexto e a deixe animado. Depois vá direto ao **[Capítulo 1](cap01_criacao_personagem.md)** (criação de personagem). Em seguida, Capítulos **2 e 3** apresentam a escola e os grêmios. **[Capítulo 6](cap06_mecanicas.md)** tem os onze kits exclusivos. Com isso, você está pronto para jogar. Os outros capítulos são leitura de interesse, não pré-requisito.
 
-**Para o Mestre:** Leitura completa é recomendada — mas comece pelos **Capítulos 1–6** para saber o que os jogadores têm à disposição, depois vá para os **Capítulos 9 e 10** (toolkit e estrutura de campanha). O **Capítulo 13** é a aventura de início pronta — tem informação que só o Mestre deve ler antes da primeira sessão. Capítulos 14 e 15 são módulos e mecânicas opcionais.
+**Para o Mestre:** Leitura completa é recomendada — mas comece pelos **Capítulos 1–6** para saber o que os jogadores têm à disposição, depois vá para os **Capítulos 9 e 10** (toolkit e estrutura de campanha). O **[Capítulo 13](cap13_modulo_inicio.md)** é a aventura de início pronta — tem informação que só o Mestre deve ler antes da primeira sessão. Capítulos 14 e 15 são módulos e mecânicas opcionais.
 
-**Para jogar hoje:** Vá direto ao **Capítulo 13 — Aventura Pronta: Os Primeiros Três Dias**. As fichas estão lá. As regras essenciais também. Você precisa de um d6 e de aproximadamente três horas.
+**Para jogar hoje:** Vá direto ao **[Capítulo 13](cap13_modulo_inicio.md) — Aventura Pronta: Os Primeiros Três Dias**. As fichas estão lá. As regras essenciais também. Você precisa de um d6 e de aproximadamente três horas.
 
 ---
 
@@ -179,7 +179,7 @@ Não existe uma ordem errada de ler este livro — mas existe uma ordem mais efi
 
 Para os veteranos de Tormenta que conhecem o suplemento original de Academia Arcana: este livro não é uma tradução ou atualização direta. É uma **reimaginação**.
 
-A Academia aqui descrita bebe das mesmas fontes — a relação com Wynna, os grêmios, a tensão entre filosofias mágicas opostas, alguns professores reconhecíveis com novas roupas — mas transplanta tudo para a **Era das Arcas**, reorganiza, expande e reinventa para servir ao tom e à estrutura de 3D&T Victory. A escola agora existe em um mundo onde magia e modernidade colidem. Os grêmios foram adaptados. Alguns personagens têm nomes diferentes. Outros nem são mais pessoas — são algo novo. Algumas regras foram redesenhadas do zero. Algumas partes do campus foram destruídas pela Convergência e reconstruídas com melhorias suspeitas.
+A Academia aqui descrita bebe das mesmas fontes — a relação com Wynna, os grêmios, a tensão entre filosofias mágicas opostas, alguns professores reconhecíveis com novas roupas — mas transplanta tudo para a **Era das Arcas**, reorganiza, expande e reinventa para servir ao tom e à estrutura de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/). A escola agora existe em um mundo onde magia e modernidade colidem. Os grêmios foram adaptados. Alguns personagens têm nomes diferentes. Outros nem são mais pessoas — são algo novo. Algumas regras foram redesenhadas do zero. Algumas partes do campus foram destruídas pela Convergência e reconstruídas com melhorias suspeitas.
 
 Pense como uma adaptação para o cinema de um livro que você ama: os elementos essenciais estão lá, mas a execução segue sua própria lógica.
 
@@ -205,8 +205,8 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 
 ### Camada 1 — Gratuito *(você pode jogar agora)*
 
-- **Kit Introdutório Demo** — o PDF gratuito da Jambô Editora, disponível em [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br). Contém as regras essenciais: atributos (P/H/R), testes com dados, PM, PV e o conceito de kit.
-- **Este livro** — todos os kits originais da Academia (Cap. 1 e 6), as regras de campus (Cap. 5), o módulo de início pronto para jogar (Cap. 13) e os cinco personagens pré-gerados são autossuficientes.
+- **Kit Introdutório Demo** — o PDF gratuito da Jambô Editora: [3D&T Victory Demo](https://blog.jamboeditora.com.br/wp-content/uploads/2023/08/3DeT-DEMO-Kit-Introdutorio.pdf). Contém as regras essenciais: atributos (P/H/R), testes com dados, PM, PV e o conceito de kit.
+- **Este livro** — todos os kits originais da Academia ([Cap. 1](cap01_criacao_personagem.md) e 6), as regras de campus ([Cap. 5](cap05_vida_estudantil.md)), o módulo de início pronto para jogar ([Cap. 13](cap13_modulo_inicio.md)) e os cinco personagens pré-gerados são autossuficientes.
 - **Dados** — um d6 para a maioria das situações; algumas técnicas avançadas usam outros dados.
 - **Fichas de personagem** — a ficha no final deste livro tem campos para grêmio, ano letivo e Pontos de Grêmio.
 
@@ -216,16 +216,18 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 
 ### Camada 2 — Completo *(recomendado)*
 
-- **Manual do Arcanauta** *(3D&T Victory)* — abre todos os kits oficiais, a lista completa de vantagens e desvantagens, regras de combate detalhadas e progressão por XP. O **Capítulo 12 — Arsenal do Arcanauta Acadêmico** deste livro mostra como cada kit oficial se encaixa na Academia.
+- **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) Livro Básico** — o coração do sistema, com regras completas de criação de personagem, combate, magia, e progressão. O livro básico tabmém apresenta o mundo de Era das Arcas e seus diversos núcleos.
+
+- **[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)** *([3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/))* — abre todos os kits oficiais, a lista completa de vantagens e desvantagens, regras de combate detalhadas e progressão por XP. O **[Capítulo 12](cap12_arsenal_do_arcanauta.md) — Arsenal do Arcanauta Acadêmico** deste livro mostra como cada kit oficial se encaixa na Academia.
 
 ---
 
 ### Camada 3 — Expandido
 
-- **Ferozes & Furiosos** *(3D&T Victory)* — bestiário completo, sistema de desafios (Graus de Ameaça), construtos, armadilhas e fauna da Era das Arcas. Referenciado com páginas específicas no **Capítulo 12**.
-- Qualquer outro suplemento de *3D&T Victory* funciona sem adaptação — a Academia existe na Era das Arcas; tudo que existe na Era das Arcas existe na Academia.
+- **[Ferozes & Furiosos](https://jamboeditora.com.br/produto/ferozes-e-furiosos/)** *([3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/))* — bestiário completo, sistema de desafios (Graus de Ameaça), construtos, armadilhas e fauna da Era das Arcas. Referenciado com páginas específicas no **[Capítulo 12](cap12_arsenal_do_arcanauta.md)**.
+- Qualquer outro suplemento de *[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)* funciona sem adaptação — a Academia existe na Era das Arcas; tudo que existe na Era das Arcas existe na Academia.
 
-> **Apoie os criadores:** todos os livros oficiais estão disponíveis em [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br). Comprar os livros é o que mantém o 3D&T vivo.
+> **Apoie os criadores:** todos os livros oficiais estão disponíveis em [jamboeditora.com.br](https://jamboeditora.com.br). Comprar os livros é o que mantém o [3D&T](https://jamboeditora.com.br/produto/3det-victory/) vivo.
 
 ---
 
@@ -233,7 +235,7 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 
 ### Termos Mecânicos
 
-Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, estes são os termos de regras que aparecem ao longo do livro:
+Se você veio direto do Kit Demo ou está chegando ao [3D&T](https://jamboeditora.com.br/produto/3det-victory/) pela primeira vez, estes são os termos de regras que aparecem ao longo do livro:
 
 | Termo | Significado |
 |---|---|
@@ -248,13 +250,13 @@ Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, es
 | **Vantagem** | Habilidade ou traço especial que o personagem possui além do kit base. Custa pontos na criação |
 | **Desvantagem** | Limitação, fraqueza ou complicação que o personagem carrega. Concede pontos extras na criação |
 | **Técnica** | Manobra especial com custo em PM, geralmente associada a um kit ou aprendida avulsamente |
-| **Grau de Ameaça** | Medida de perigo de um desafio ou criatura, em escala de 1 a 5 (sistema de *Ferozes & Furiosos*) |
+| **Grau de Ameaça** | Medida de perigo de um desafio ou criatura, em escala de 1 a 5 (sistema de *[Ferozes & Furiosos](https://jamboeditora.com.br/produto/ferozes-e-furiosos/)*) |
 
 ---
 
 ### Termos de Cenário
 
-> *A Academia Arcana Victory existe na Era das Arcas — o cenário atual de 3D&T Victory. Se você já conhece Arton e a Tormenta, vai reconhecer referências. Se não conhece, tudo o que precisa saber está neste livro. Nenhum suplemento anterior é pré-requisito.*
+> *A Academia Arcana Victory existe na Era das Arcas — o cenário atual de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/). Se você já conhece Arton e a Tormenta, vai reconhecer referências. Se não conhece, tudo o que precisa saber está neste livro. Nenhum suplemento anterior é pré-requisito.*
 
 | Termo | Significado |
 |---|---|
@@ -269,13 +271,13 @@ Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, es
 | **Veterano** | Aluno do segundo ano em diante |
 | **Conclave** | Reunião oficial de professores |
 | **O Conselho** | O corpo governante da Academia |
-| **MagiDerby** | O esporte oficial da Academia, disputado em vassouras voadoras (ver Capítulo 6) |
-| **Pontos de Grêmio** | Sistema de pontuação por grêmio, acumulados e perdidos ao longo do ano (ver Capítulo 3) |
+| **MagiDerby** | O esporte oficial da Academia, disputado em vassouras voadoras (ver [Capítulo 6](cap06_mecanicas.md)) |
+| **Pontos de Grêmio** | Sistema de pontuação por grêmio, acumulados e perdidos ao longo do ano (ver [Capítulo 3](cap03_as_casas.md)) |
 
 > *Outros termos específicos — como Graus Formais, Grau de Ameaça, Conclave, e nomenclaturas dos grêmios — são explicados em detalhe nos capítulos onde aparecem. Calouro e Veterano são autoexplicativos assim que você chegar ao campus.*
 
 ---
 
-*Continue para o Capítulo 1, onde você cria seu personagem para a Academia Arcana — com exemplos passo a passo, fichas prontas e tudo que precisa para chegar ao campus pronto para jogar.*
+*Continue para o [Capítulo 1](cap01_criacao_personagem.md), onde você cria seu personagem para a Academia Arcana — com exemplos passo a passo, fichas prontas e tudo que precisa para chegar ao campus pronto para jogar.*
 
 ---

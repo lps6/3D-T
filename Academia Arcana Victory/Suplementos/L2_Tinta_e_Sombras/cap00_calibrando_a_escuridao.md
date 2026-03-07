@@ -3,7 +3,7 @@
 
 ## Por Que Este Capítulo Existe
 
-O conteúdo deste livro envolve: sobrevivência escolar com mortalidade real (Cap. 01), custo emocional de talento intelectual exaustivo (Cap. 02), dependência como subplote (Cap. 03), investigação de crimes no campus (Cap. 04), colapso de estruturas de proteção (Cap. 05), e horror atmosférico (Cap. 06).
+O conteúdo deste livro envolve: sobrevivência escolar com mortalidade real ([Cap. 01](cap01_criacao_personagem.md)), custo emocional de talento intelectual exaustivo ([Cap. 02](cap02_a_academia.md)), dependência como subplote ([Cap. 03](cap03_as_casas.md)), investigação de crimes no campus ([Cap. 04](cap04_professores_npcs.md)), colapso de estruturas de proteção ([Cap. 05](cap05_vida_estudantil.md)), e horror atmosférico ([Cap. 06](cap06_mecanicas.md)).
 
 Nenhum desses temas é problemático por si mesmo. Todos eles exigem que o Mestre e os jogadores tenham conversas explícitas antes de jogar.
 
@@ -22,9 +22,9 @@ Liste os temas que podem aparecer na campanha. Não como aviso — como acordo.
 **Temas que podem aparecer com material deste livro:**
 - Morte de personagens (PJs e NPCs significativos)
 - Isolamento/exclusão social como mecânica
-- Dependência (Vício Arcano de Cap. 03) como subplote
-- Estado mental deteriorando progressivamente (Fragmentação de Cap. 02)
-- Horror corporal leve (maleficaria de Cap. 05/Cap. 01)
+- Dependência (Vício Arcano de [Cap. 03](cap03_as_casas.md)) como subplote
+- Estado mental deteriorando progressivamente (Fragmentação de [Cap. 02](cap02_a_academia.md))
+- Horror corporal leve (maleficaria de [Cap. 05](cap05_vida_estudantil.md)/[Cap. 01](cap01_criacao_personagem.md))
 - Ambiguidade moral em investigação (nenhum suspeito é puro)
 
 **Para cada tema:** o grupo decide se está **Ativo** (pode aparecer sem aviso prévio), **Com Sinalização** (Mestre avisa antes de cenas pesadas), ou **Fora** (não aparece nesta campanha).
@@ -51,7 +51,7 @@ Escolha pelo menos UMA ferramenta de segurança para a mesa:
 - NPCs significativos podem morrer? (companheiro de quarto, mentor informal, amigo de grêmio)
 - Há algum NPC específico que é "intocável" para algum jogador?
 
-Não há resposta errada. Uma mesa que decide que PCs não morrem simplesmente joga Cap. 05 e Cap. 01 com as consequências sendo "lesão grave" ou "exclusão temporária" em vez de morte.
+Não há resposta errada. Uma mesa que decide que PCs não morrem simplesmente joga [Cap. 05](cap05_vida_estudantil.md) e [Cap. 01](cap01_criacao_personagem.md) com as consequências sendo "lesão grave" ou "exclusão temporária" em vez de morte.
 
 ---
 
@@ -62,10 +62,10 @@ Este livro tem quatro mecânicas de custo de magia diferentes. Usar todas de uma
 **Dial 0 (sem custo):** Para sessões de introdução ao cenário ou sessões leves. O ambiente é sombrio; as mecânicas de custo não estão ativas.
 
 **Dial 1 (um sistema):** Ativo um único sistema de custo para a campanha:
-- Pressão Ambiental (Cap. 01): para horror de sobrevivência
-- Fragmentação (Cap. 02): para drama psicológico
-- Vício Arcano (Cap. 03): para subplote de dependência
-- Mana Racionada (Cap. 05): para arcos de crise
+- Pressão Ambiental ([Cap. 01](cap01_criacao_personagem.md)): para horror de sobrevivência
+- Fragmentação ([Cap. 02](cap02_a_academia.md)): para drama psicológico
+- Vício Arcano ([Cap. 03](cap03_as_casas.md)): para subplote de dependência
+- Mana Racionada ([Cap. 05](cap05_vida_estudantil.md)): para arcos de crise
 
 **Dial 2 (dois sistemas):** Para campanhas longas que querem ambos os registros. Recomendação: Pressão Ambiental + Fragmentação funcionam bem juntos; Vício Arcano deve ser o único sistema de custo pessoal ativo para evitar conflito.
 
@@ -89,7 +89,7 @@ O antagonista sistêmico funciona quando tem razões para ser como é que o prot
 
 ## Sobre Fragmentação e Vício Como Mecânicas
 
-Fragmentação (Cap. 02) e Vício Arcano (Cap. 03) são mecânicas que modelam dissociação psicológica e dependência química respectivamente.
+Fragmentação ([Cap. 02](cap02_a_academia.md)) e Vício Arcano ([Cap. 03](cap03_as_casas.md)) são mecânicas que modelam dissociação psicológica e dependência química respectivamente.
 
 **Uso responsável:**
 

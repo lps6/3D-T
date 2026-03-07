@@ -2,7 +2,7 @@
 ## O Livro do Caos
 
 **Linha:** Livros Temáticos — Academia Arcana Victory
-**Sistema:** 3D&T Victory
+**Sistema:** [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)
 **Volume:** 7 de 7
 
 ---

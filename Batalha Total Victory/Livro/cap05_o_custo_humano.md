@@ -11,7 +11,7 @@ Este capítulo é **completamente opcional**. Você pode jogar Batalha Total Vic
 
 Mas se a sua mesa quer que as batalhas **custem algo além de PV**, este capítulo oferece as ferramentas para isso.
 
-O Sistema de Custo Humano percorre todo o livro como camada transversal — a Sincronização do mecha (Cap. 4) é uma instância dele; a Moral de Exército do Apêndice A é outra. Este capítulo formaliza as mecânicas centrais.
+O Sistema de Custo Humano percorre todo o livro como camada transversal — a Sincronização do mecha ([Cap. 4](cap04_professores_npcs.md)) é uma instância dele; a Moral de Exército do Apêndice A é outra. Este capítulo formaliza as mecânicas centrais.
 
 ---
 
@@ -27,7 +27,7 @@ O Sistema de Custo Humano percorre todo o livro como camada transversal — a Si
 | Falhar em proteger um civil ou dependente | 1 |
 | Ser forçado a agir contra seus valores fundamentais | 1 |
 | Sobreviver a um ataque que matou outros ao seu redor | 1 |
-| Usar Ressonância Crítica (Cap. 4) | 2 |
+| Usar Ressonância Crítica ([Cap. 4](cap04_professores_npcs.md)) | 2 |
 | Cometer um ato que o personagem considera imperdesciável | 3 |
 
 **Limites:** um personagem pode acumular até **9 pontos de Trauma**. Se um personagem acumula **10 ou mais pontos de Trauma**, ele passa para condição de **Quebra**:

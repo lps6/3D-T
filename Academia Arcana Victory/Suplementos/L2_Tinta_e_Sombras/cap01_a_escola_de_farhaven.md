@@ -41,7 +41,7 @@ Cada personagem tem um **Nível de Pressão** de 0 a 5:
 - **+1 Pressão:** Encontro com maleficaria sem preparação
 - **+1 Pressão:** Falha crítica em teste de Mística num ambiente hostil
 - **+1 Pressão:** Aliança rompida ou traição social
-- **+1 Pressão por sessão:** Estar em ambiente com Protocolo de Sobrevivência ativo (ver Cap. 05) sem local seguro confirmado
+- **+1 Pressão por sessão:** Estar em ambiente com Protocolo de Sobrevivência ativo (ver [Cap. 05](cap05_vida_estudantil.md)) sem local seguro confirmado
 - **+2 Pressão:** Testemunhar ferimento grave de aliado sem poder ajudar
 
 ### Como a Pressão Desce
@@ -85,7 +85,7 @@ Para rodar uma campanha no estilo de Farhaven dentro da Academia Victory:
 O Mestre declara que, por motivo narrativo (falha de V3ctor1us, Tempestade de Mana prolongada, experimento que deu errado), o campus entra em **Modo Hostil**:
 
 - Selos de contenção falham progressivamente (maleficaria circula)
-- Recuperação de PM reduzida (ver Cap. 05 — Mana Racionada)
+- Recuperação de PM reduzida (ver [Cap. 05](cap05_vida_estudantil.md) — Mana Racionada)
 - Cada área exige teste de Perigo Ambiental para ser atravessada
 - Pressão Ambiental sobe +1 por sessão automaticamente
 
@@ -156,7 +156,7 @@ Cada falha individual custa ao personagem 5 PV. Duas falhas colocam o personagem
 
 **Poderes:**
 - **Instinto de Caça** *(Passivo):* Ganho em todos os testes de Percepção contra maleficaria. Sente presença de mals em raio Longe.
-- **Absorção de Mana** *(Reação):* Ao derrotar maleficaria, recupera PM igual a metade dos PV que o mal tinha. Isso é viciante — ver Cap. 03 sobre Vício Arcano.
+- **Absorção de Mana** *(Reação):* Ao derrotar maleficaria, recupera PM igual a metade dos PV que o mal tinha. Isso é viciante — ver [Cap. 03](cap03_as_casas.md) sobre Vício Arcano.
 - **Combate Sem Pensamento** *(2 PM):* +3 em teste de ataque único. Após usar, Perda no próximo teste que não seja combate.
 
 **Desvantagem:** *Vazio Sem Combate* — Em cenas sem perigo físico, Orion sofre Perda em todos os testes sociais. Não sabe interagir quando ninguém precisa ser salvo.
@@ -186,7 +186,7 @@ Cada falha individual custa ao personagem 5 PV. Duas falhas colocam o personagem
 **Kit:** Negociadora de Enclave (próprio)
 
 **Poderes:**
-- **Rede de Alianças** *(Passivo):* Rory pode manter Alianças (Cap. 05) iguais a R+2 em vez de R. Cada Aliança ativa concede +1 PM recuperado em descanso curto.
+- **Rede de Alianças** *(Passivo):* Rory pode manter Alianças ([Cap. 05](cap05_vida_estudantil.md)) iguais a R+2 em vez de R. Cada Aliança ativa concede +1 PM recuperado em descanso curto.
 - **Análise Tática Social** *(1 PM):* Identifica a motivação principal de um NPC numa cena. O Mestre fornece uma frase-chave.
 - **Sacrifício Calculado** *(Reação):* Quando um aliado Perto sofreria dano, Rory pode absorver metade do dano (PV) e toda a Pressão associada.
 
@@ -245,4 +245,4 @@ E lembre: o ponto emocional de Farhaven não é o horror — é a amizade que em
 
 ---
 
-*Referências: O Crisol Sem Mestre (Cap. 05). Somática Arcana (Cap. 03). Cap. 00 — Calibrando a Escuridão.*
+*Referências: O Crisol Sem Mestre ([Cap. 05](cap05_vida_estudantil.md)). Somática Arcana ([Cap. 03](cap03_as_casas.md)). [Cap. 00](cap00_introducao.md) — Calibrando a Escuridão.*

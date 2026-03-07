@@ -25,7 +25,7 @@ O Mestre declara Protocolo de Sobrevivência quando:
 **Efeitos imediatos:**
 - Mana Racionada ativa
 - Perigo Ambiental em toda área não-verificada
-- Pressão Ambiental (Cap. 01) sobe +1/sessão automaticamente
+- Pressão Ambiental ([Cap. 01](cap01_criacao_personagem.md)) sobe +1/sessão automaticamente
 - Criação/manutenção de Alianças se torna essencial
 
 ---
@@ -166,7 +166,7 @@ Blackout termina. V3ctor1us retoma. Professores liberados. Wynna faz relatório.
 
 **V3ctor1us em 34%:** A IA ainda responde, mas só protocolos. Janela narrativa: coisas acontecem que V3ctor1us registra mas não processa em tempo real.
 
-**+Magia Improvisada (Cap. 10):** Resultado 8 da Tabela de Efeitos Colaterais não se aplica durante blackout — V3ctor1us não detecta anomalias. Magias improvisadas sem registro. O que os PJs fazem com isso é escolha de personagem.
+**+Magia Improvisada ([Cap. 10](cap10_campanha.md)):** Resultado 8 da Tabela de Efeitos Colaterais não se aplica durante blackout — V3ctor1us não detecta anomalias. Magias improvisadas sem registro. O que os PJs fazem com isso é escolha de personagem.
 
 ---
 
@@ -186,4 +186,4 @@ Blackout termina. V3ctor1us retoma. Professores liberados. Wynna faz relatório.
 
 ---
 
-*Referências: Cap. 01 — Pressão Ambiental. ALA — Protocolo Ala Leste (Livro 0). Cap. 10 — +Magia Improvisada. Cap. 03/08 — V3ctor1us.*
+*Referências: [Cap. 01](cap01_criacao_personagem.md) — Pressão Ambiental. ALA — Protocolo Ala Leste (Livro 0). [Cap. 10](cap10_campanha.md) — +Magia Improvisada. [Cap. 03](cap03_as_casas.md)/08 — V3ctor1us.*

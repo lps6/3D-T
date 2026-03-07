@@ -6,7 +6,7 @@
 ---
 
 **Subsistema:** Nomes Verdadeiros (Y3)
-**Compatível com:** Cap. 01 (Saleth — Nomeação como disciplina avançada), Cap. 02 (Ordem do Eco — Língua dos Nomes como prima mecânica), Cap. 04 (Hard/Soft — Nomeação como exemplo de magic system rígido com custos)
+**Compatível com:** [Cap. 01](cap01_criacao_personagem.md) (Saleth — Nomeação como disciplina avançada), [Cap. 02](cap02_a_academia.md) (Ordem do Eco — Língua dos Nomes como prima mecânica), [Cap. 04](cap04_professores_npcs.md) (Hard/Soft — Nomeação como exemplo de magic system rígido com custos)
 
 ---
 
@@ -34,8 +34,8 @@ Os capítulos 01 e 02 deste livro já tocaram na Nomeação:
 
 | Sistema Anterior | Relação com Y3 |
 |-----------------|----------------|
-| **Nomeação de Saleth** (Cap. 01, §2.4) | Y3 é o sistema mecânico completo que a Nomeação instancia. Os custos em PM do Cap. 01 funcionam como alternativa simplificada; este capítulo oferece o sistema de Débito como alternativa mais dramática. |
-| **Língua dos Nomes de Ordem do Eco** (Cap. 02, §1) | A Língua dos Nomes e os Nomes Verdadeiros são tradições diferentes para o mesmo fenômeno. A Proficiência 1-5 de Ordem do Eco mede vocabulário; o sistema Y3 mede compreensão. Um personagem com Proficiência 4+ em Ordem do Eco já está operando no mesmo nível conceitual de um Nomeador Y3 — as mecânicas são intercambiáveis com ajuste de flavor. |
+| **Nomeação de Saleth** ([Cap. 01](cap01_criacao_personagem.md), §2.4) | Y3 é o sistema mecânico completo que a Nomeação instancia. Os custos em PM do [Cap. 01](cap01_criacao_personagem.md) funcionam como alternativa simplificada; este capítulo oferece o sistema de Débito como alternativa mais dramática. |
+| **Língua dos Nomes de Ordem do Eco** ([Cap. 02](cap02_a_academia.md), §1) | A Língua dos Nomes e os Nomes Verdadeiros são tradições diferentes para o mesmo fenômeno. A Proficiência 1-5 de Ordem do Eco mede vocabulário; o sistema Y3 mede compreensão. Um personagem com Proficiência 4+ em Ordem do Eco já está operando no mesmo nível conceitual de um Nomeador Y3 — as mecânicas são intercambiáveis com ajuste de flavor. |
 
 **Decisão de mesa:** Se a campanha já usa Simpatia/Nomeação de Saleth ou Língua dos Nomes de Ordem do Eco, este capítulo funciona como **expansão avançada** — o sistema para quando os personagens ultrapassam os limites dos outros dois. Se a campanha quer um sistema autônomo de nomeação sem franquia associada, este capítulo funciona **sozinho**.
 
@@ -156,19 +156,19 @@ O Débito só se reduz com descanso e silêncio deliberado — não usar a Líng
 
 Os sistemas dos capítulos 01 e 02 são **instâncias** do framework deste capítulo. Para evitar camadas desnecessárias:
 
-**Se a campanha usa Saleth (Cap. 01):**
+**Se a campanha usa Saleth ([Cap. 01](cap01_criacao_personagem.md)):**
 - Simpatia e Sigilaria funcionam com PM normalmente — não geram Débito
-- Nomeação (§2.4 do Cap. 01) pode usar os custos em PM do Cap. 01 OU o Débito de Equilíbrio — escolha uma escala na Sessão Zero
-- Um personagem com kit Nomeador (deste capítulo) E Elo Simpático (Cap. 01) é raro e potente — considere exigir 2+ arcos de play antes de permitir ambos
+- Nomeação (§2.4 do [Cap. 01](cap01_criacao_personagem.md)) pode usar os custos em PM do [Cap. 01](cap01_criacao_personagem.md) OU o Débito de Equilíbrio — escolha uma escala na Sessão Zero
+- Um personagem com kit Nomeador (deste capítulo) E Elo Simpático ([Cap. 01](cap01_criacao_personagem.md)) é raro e potente — considere exigir 2+ arcos de play antes de permitir ambos
 
-**Se a campanha usa Ordem do Eco (Cap. 02):**
+**Se a campanha usa Ordem do Eco ([Cap. 02](cap02_a_academia.md)):**
 - A Proficiência 1-5 de Ordem do Eco mede vocabulário; o Débito mede consequência. Podem coexistir
 - Um personagem com Proficiência 4+ em Ordem do Eco que adquire o kit Nomeador integra os dois sistemas naturalmente: a Língua dos Nomes fornece as palavras, o Débito cobra o preço cósmico
-- As 5 Palavras Proibidas de Ordem do Eco (Cap. 02, §1) são Nomes Verdadeiros de conceitos fundamentais — usá-las gera +3 Débito automaticamente além do custo em PV
+- As 5 Palavras Proibidas de Ordem do Eco ([Cap. 02](cap02_a_academia.md), §1) são Nomes Verdadeiros de conceitos fundamentais — usá-las gera +3 Débito automaticamente além do custo em PV
 
 **Se a campanha usa só Y3 (este capítulo):**
 - O sistema funciona sozinho. Nenhum material dos capítulos anteriores é necessário
-- Para vocabulário na Língua Antiga, use a Tabela de Palavras do Cap. 02 como referência ou invente termos específicos
+- Para vocabulário na Língua Antiga, use a Tabela de Palavras do [Cap. 02](cap02_a_academia.md) como referência ou invente termos específicos
 
 ---
 
@@ -365,7 +365,7 @@ A filosofia do Obsidiana — poder pertence a quem sabe usá-lo — encontra no 
 
 ## 8. Usando Este Capítulo em Outros Cenários
 
-O subsistema de Nomes Verdadeiros e o kit Nomeador funcionam em qualquer campanha de 3D&T Victory:
+O subsistema de Nomes Verdadeiros e o kit Nomeador funcionam em qualquer campanha de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/):
 
 - A Trilha de Débito (0–5) é aplicável a qualquer cenário com magia de conhecimento ou linguagem.
 - Substitua referências à Biblioteca, à Ala Leste e aos professores por elementos do seu cenário.
@@ -375,4 +375,4 @@ O subsistema de Nomes Verdadeiros e o kit Nomeador funcionam em qualquer campanh
 
 ---
 
-*Próximo: Cap. 04 — Hard, Soft & o Gradiente (As Três Leis de Sanderson para a mesa: ferramentas de design para calibrar qualquer sistema de magia).*
+*Próximo: [Cap. 04](cap04_professores_npcs.md) — Hard, Soft & o Gradiente (As Três Leis de Sanderson para a mesa: ferramentas de design para calibrar qualquer sistema de magia).*

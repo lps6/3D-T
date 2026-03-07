@@ -54,7 +54,7 @@ O combate estelar usa quatro faixas de alcance em vez das cinco do BTV terrestre
 
 **Naus de Guerra:** Iniciativa fixa 10 (BTV Colossal). O **Piloto** pode gastar sua ação de Postagem para adicionar seu H à iniciativa da Nau no primeiro turno.
 
-**Armadas:** Iniciativa fixa 5. São previsíveis. Suas ações são Telegrafadas (BTV Cap. 4).
+**Armadas:** Iniciativa fixa 5. São previsíveis. Suas ações são Telegrafadas (BTV [Cap. 4](cap04_professores_npcs.md)).
 
 ---
 
@@ -76,11 +76,11 @@ Cada nave (Esquadrão, Nau de Guerra ou Armada) tem as seguintes ações dispon�
 
 | Ação | Efeito |
 |---|---|
-| **Disparar** | Ataque normal com as armas da nave. Usa o atributo **Armamento** (Cap. 3). |
+| **Disparar** | Ataque normal com as armas da nave. Usa o atributo **Armamento** ([Cap. 3](cap03_as_casas.md)). |
 | **Fogo Concentrado** | Todos os sistemas de armas miram o mesmo alvo: **Ganho** no ataque. Reduz Cobertura Pesada a Leve sobre o alvo neste turno. |
 | **Fogo de Supressão** | Declara zona suprimida (1 faixa de alcance inteira). Qualquer inimigo que **entre ou saia** da zona recebe um ataque gratuito. Dura até o próximo turno da nave. |
 | **Investida de Abordagem** | Avança direto ao Ponto Cego (ignora faixas intermediárias). Sofre **1 ataque de oportunidade** de cada nave inimiga no caminho. No fim, inicia Abordagem (ver abaixo). |
-| **Disparar Torpedos** | Ataque especial com Torpedos [Anti-Nau] ou [Anti-Armada]. Gasta 1–2 Cargas (Cap. 4). Ganho em faixa Curta. |
+| **Disparar Torpedos** | Ataque especial com Torpedos [Anti-Nau] ou [Anti-Armada]. Gasta 1–2 Cargas ([Cap. 4](cap04_professores_npcs.md)). Ganho em faixa Curta. |
 | **Formação de Frota** | Usa uma das 5 Formações de Frota (ver abaixo). Requer que a nave faça parte de uma Frota de Esquadrão. |
 
 ### Ação Rápida / Reação (até 2 por rodada)
@@ -89,7 +89,7 @@ Cada nave (Esquadrão, Nau de Guerra ou Armada) tem as seguintes ações dispon�
 |---|---|
 | **Contra-Medidas** | Reação. Quando alvo de Torpedos, testa H dif. 6 para desviar. Gasta 1 Carga de Contra-Medidas. |
 | **Comms Abertas** | Rápida. O Oficial de Comunicações transmite informação tática a um aliado: o aliado ganha +1 no próximo teste neste turno. |
-| **Reparo de Emergência** | Rápida. O Engenheiro repara 1 ponto de Integridade Estrutural (Cap. 4). Pode ser usada 1×/rodada. |
+| **Reparo de Emergência** | Rápida. O Engenheiro repara 1 ponto de Integridade Estrutural ([Cap. 4](cap04_professores_npcs.md)). Pode ser usada 1×/rodada. |
 
 ---
 
@@ -131,7 +131,7 @@ Cada Postagem tem:
 
 ### 🚀 Oficial de Comunicação
 
-**Ação Exclusiva — Guerra Eletrônica:** O Oficial pode usar sua ação para tentar Hackeamento de Sistemas (Cap. 1) contra qualquer nave em alcance Longo ou menor. OU pode transmitir informação tática (+1 no próximo teste de qualquer aliado à distância de comunicação).
+**Ação Exclusiva — Guerra Eletrônica:** O Oficial pode usar sua ação para tentar Hackeamento de Sistemas ([Cap. 1](cap01_criacao_personagem.md)) contra qualquer nave em alcance Longo ou menor. OU pode transmitir informação tática (+1 no próximo teste de qualquer aliado à distância de comunicação).
 
 **Momento da Postagem — A Palavra Certa:** Uma vez por sessão, o Oficial de Comunicação pode **evitar uma batalha inteira** ou **provocar uma deserção** no lado inimigo através de comunicação. A situação deve ser narrativamente plausível (o inimigo já está hesitante, a causa é moralmente complexa, há apelo pessoal). O Mestre decide o que acontece — mas alguma coisa muda. Em tom FALGSC, essa é frequentemente a vitória mais valiosa.
 
@@ -139,7 +139,7 @@ Cada Postagem tem:
 
 ## Formações de Frota
 
-> 🚀 Versões estelares das 5 Formações de Tropa (BTV Cap. 2).
+> 🚀 Versões estelares das 5 Formações de Tropa (BTV [Cap. 2](cap02_combate_espacial.md)).
 
 Formações de Frota substituem a Ação Padrão da Frota de Esquadrão. Todas exigem que a Frota **não esteja Fragmentada**.
 
@@ -249,7 +249,7 @@ Batalhas no espaço frequentemente envolvem múltiplas escalas simultâneas. Gui
 ### Cenário: Operativos + Esquadrões vs. Nau de Guerra
 
 1. **Esquadrões** fazem combate estelar normal na faixa de alcance relevante.
-2. **Operativos** não podem afetar a Nau à distância (exceções do Cap. 1 aplicam: Torpedos, Hackeamento, Pontos Fracos).
+2. **Operativos** não podem afetar a Nau à distância (exceções do [Cap. 1](cap01_criacao_personagem.md) aplicam: Torpedos, Hackeamento, Pontos Fracos).
 3. Se um Esquadrão iniciar **Abordagem**, os Operativos dentro mudam para combate interno.
 4. A Nau pode atirar em Esquadrões com Ganho e em Operativos apenas com dano de área (se estiverem no casco externo durante EVA).
 
@@ -268,7 +268,7 @@ Cenas épicas de final de campanha. Resolve em camadas:
 3. **Camada Esquadrão:** Alas de caças e corvetas fazem missões específicas (escoltar, suprimir baterias, iniciar abordagem).
 4. **Camada Operativo:** Equipes de abordagem dentro da Armada ou em EVA nos Pontos Fracos.
 
-Cada camada roda na **mesma iniciativa** — corte entre uma e outra a cada turno para manter tensão. Use a Regra de Três Momentos (BTV Cap. 7) para estruturar a batalha.
+Cada camada roda na **mesma iniciativa** — corte entre uma e outra a cada turno para manter tensão. Use a Regra de Três Momentos (BTV [Cap. 7](cap07_mundo_ao_redor.md)) para estruturar a batalha.
 
 ---
 

@@ -687,7 +687,7 @@ Pertencer a um grêmio significa:
 **Para os jogadores:** O grêmio define contexto filosófico e social, não destino. Personagens do mesmo grêmio compartilham uma visão de mundo que dá base para colaboração; personagens de grêmios diferentes têm razões filosóficas para atrito, debate, e eventualmente o tipo de respeito genuíno que só nasce de discordar profundamente e escolher trabalhar junto mesmo assim. Personagens independentes são aqueles que ainda não encontraram sua resposta — ou que acham que a pergunta em si é errada.
 
 > **Nota mecânica — Grêmio, Kit e Ganho:**
-> Benefícios de grêmio e poderes de kit se acumulam normalmente — exceto quando ambos concedem **Ganho no mesmo teste**. No 3D&T Victory, Ganho não se acumula: dois Ganhos numa mesma rolagem ainda resultam em rolar 2D e ficar com o maior. Por isso, se um benefício de grêmio *e* um poder de kit concederem Ganho no mesmo teste simultaneamente, aplique Ganho apenas uma vez. O dois não se somam para rolar 3D.
+> Benefícios de grêmio e poderes de kit se acumulam normalmente — exceto quando ambos concedem **Ganho no mesmo teste**. No [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/), Ganho não se acumula: dois Ganhos numa mesma rolagem ainda resultam em rolar 2D e ficar com o maior. Por isso, se um benefício de grêmio *e* um poder de kit concederem Ganho no mesmo teste simultaneamente, aplique Ganho apenas uma vez. O dois não se somam para rolar 3D.
 >
 > *Exemplo:* Um membro da Obsidiana com o kit Caçador de Segredos tem Ganho em Resistência contra manipulação (Leitura Real) e Ganho em Resistência contra leitura de pensamento (Proteção contra Segredos). Em um teste que acione ambos ao mesmo tempo, o personagem ainda rola 2D e fica com o maior — não rola 3D.
 

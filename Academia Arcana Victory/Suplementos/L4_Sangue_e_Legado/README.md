@@ -34,7 +34,7 @@ Este é o livro com o maior volume de opções de personagem da linha. Três ori
 | — | Ordem das Convergências | Herança da Era das Arcas, células por divindade, 5 personagens (Kael, Lyra, Theo, Bryn, Cadogan) |
 | — | Ordem dos Glifeiros | Glifos corporais, Vínculo de Alma, sangue arcano-ancestral, 6 kits, 6 vantagens, bestiário demoníaco |
 | T3 | Sociedades Secretas | 5 facções ocultas dentro dos grêmios, kit Agente Duplo, vantagem Membro de Sociedade |
-| K1 | Manual do Estudante Arcano | 11 arquétipos acadêmicos do Manual do Arcanauta |
+| K1 | Manual do Estudante Arcano | 11 arquétipos acadêmicos do [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/) |
 | C2 | A Outra Escola: Brambleshire | Campanha de intercâmbio (8–12 sessões), escola britânica, 3 kits, o Quarto do Espelho |
 | S3 | O Torneio das Escolas | Arco de 3 sessões, competição inter-escolas, investigação paralela |
 

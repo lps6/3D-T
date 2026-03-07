@@ -21,7 +21,7 @@ Este capítulo oferece um framework para transformar herança em mecânica — n
 
 ## O Sistema de Legado
 
-O Sistema de Legado é um overlay modular. Funciona com qualquer campanha de 3D&T Victory e não exige nenhuma franquia específica — os capítulos seguintes deste livro mostram como os três sistemas instanciam esse framework, mas você pode usar os componentes sem precisar de nenhum deles.
+O Sistema de Legado é um overlay modular. Funciona com qualquer campanha de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) e não exige nenhuma franquia específica — os capítulos seguintes deste livro mostram como os três sistemas instanciam esse framework, mas você pode usar os componentes sem precisar de nenhum deles.
 
 Um personagem com herança define até quatro componentes:
 

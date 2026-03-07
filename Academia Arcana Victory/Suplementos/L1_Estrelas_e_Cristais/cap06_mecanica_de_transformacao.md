@@ -11,10 +11,10 @@ Os quatro capítulos anteriores introduzem sistemas relacionados mas distintos, 
 
 | Capítulo | Sistema Introduzido | Origem |
 |----------|---------------------|--------|
-| Cap. 01 — Sentinelas do Solstício | Despertar Planetário (poderes por marcos emocionais) | Ordem das Sentinelas |
-| Cap. 02 — Guardiãs de Coleção | Artefatos Arcanamente Independentes (coleção expansível) | Prática das Guardiãs |
-| Cap. 03 — Parceiras de Ressonância | Subsistema Poder de Amizade (mecânicas coletivas) | Sistema de Sintonia |
-| Cap. 04 — Cavaleiras do Vórtice | Cristais de Vontade (energia por convicção) | Ordem das Cavaleiras |
+| [Cap. 01](cap01_criacao_personagem.md) — Sentinelas do Solstício | Despertar Planetário (poderes por marcos emocionais) | Ordem das Sentinelas |
+| [Cap. 02](cap02_a_academia.md) — Guardiãs de Coleção | Artefatos Arcanamente Independentes (coleção expansível) | Prática das Guardiãs |
+| [Cap. 03](cap03_as_casas.md) — Parceiras de Ressonância | Subsistema Poder de Amizade (mecânicas coletivas) | Sistema de Sintonia |
+| [Cap. 04](cap04_professores_npcs.md) — Cavaleiras do Vórtice | Cristais de Vontade (energia por convicção) | Ordem das Cavaleiras |
 
 Um grupo que quer usar todos os quatro sistemas simultaneamente precisaria de uma camada de compatibilidade. Este capítulo fornece isso.
 
@@ -84,9 +84,9 @@ Sem conflito. Use os subsistemas daquela prática diretamente.
 **Regra básica:** cada personagem usa os subsistemas da prática que escolheu como base. O Estado Transformado unificado garante que as mecânicas base sejam comparáveis.
 
 **Subsistemas Transversais:**
-- Poder de Amizade (Cap. 03, Parceiras): pode ser adotado por qualquer PC independente da prática base. É opt-in — o jogador decide na criação se quer participar do subsistema coletivo
-- Artefatos Arcanamente Independentes (Cap. 02, Guardiãs): qualquer grupo pode ter a missão de captura mesmo que os poderes individuais venham de outra prática
-- Cristais de Vontade (Cap. 04, Cavaleiras): pode ser adotado por qualquer PC com Crença Central definida, independente de qual prática define seus outros poderes
+- Poder de Amizade ([Cap. 03](cap03_as_casas.md), Parceiras): pode ser adotado por qualquer PC independente da prática base. É opt-in — o jogador decide na criação se quer participar do subsistema coletivo
+- Artefatos Arcanamente Independentes ([Cap. 02](cap02_a_academia.md), Guardiãs): qualquer grupo pode ter a missão de captura mesmo que os poderes individuais venham de outra prática
+- Cristais de Vontade ([Cap. 04](cap04_professores_npcs.md), Cavaleiras): pode ser adotado por qualquer PC com Crença Central definida, independente de qual prática define seus outros poderes
 
 ### Compatibilidade de Escala
 

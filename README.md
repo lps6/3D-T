@@ -1,6 +1,6 @@
 # 3D&T Victory — DLC Project
 
-Repositório de suplementos de fãs para **3D&T Victory**, sistema de RPG de mesa criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**.
+Repositório de suplementos de fãs para **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)**, sistema de RPG de mesa criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**.
 
 > **Leia online:** [lps6.github.io/3D-T](https://lps6.github.io/3D-T/)
 
@@ -11,7 +11,7 @@ Repositório de suplementos de fãs para **3D&T Victory**, sistema de RPG de mes
 ### Academia Arcana Victory
 > *Uma escola. Um mundo. Uma porrada mágica na sua realidade.*
 
-Suplemento completo de escola de magia para 3D&T Victory. Inclui um livro base com 15 capítulos e 8 suplementos temáticos cobrindo desde mahou shoujo até horror atmosférico.
+Suplemento completo de escola de magia para [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/). Inclui um livro base com 15 capítulos e 8 suplementos temáticos cobrindo desde mahou shoujo até horror atmosférico.
 
 | Volume | Conteúdo | Status |
 |--------|----------|--------|
@@ -62,9 +62,9 @@ Arquivo/            # Versões anteriores e rascunhos (interno)
 
 ## Créditos & Licença
 
-Este projeto é uma **produção de fãs** baseada em *3D&T Victory*, criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**. Conteúdo não-oficial, sem afiliação com a Jambô Editora, distribuído gratuitamente.
+Este projeto é uma **produção de fãs** baseada em *[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)*, criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**. Conteúdo não-oficial, sem afiliação com a Jambô Editora, distribuído gratuitamente.
 
-> *"3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
+> *"[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
 
 **Para adquirir os livros oficiais:** [jamboeditora.com.br/produto/3dt-victory](https://jamboeditora.com.br/produto/3dt-victory/)
 

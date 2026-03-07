@@ -7,7 +7,7 @@
 
 Este capítulo é o **kit de criação** de Batalha Total Victory. Aqui você encontra as ferramentas para construir qualquer ameaça, unidade ou veículo que sua campanha precisar — de uma Tropa de mercenários customizada a um Leviatã único para um arco de campanha inteiro.
 
-O sistema usa o Point-Buy introduzido no Cap. 3 como espinha dorsal, com diretrizes adicionais para cada categoria.
+O sistema usa o Point-Buy introduzido no [Cap. 3](cap03_as_casas.md) como espinha dorsal, com diretrizes adicionais para cada categoria.
 
 ---
 

@@ -8,7 +8,7 @@
 
 **Tipo:** Arco Curto (3 sessões)
 **Duração:** ~10–12 horas de jogo
-**Jogadores:** 3–5 PJs (recomendado após Cap. 01 e Cap. 02)
+**Jogadores:** 3–5 PJs (recomendado após [Cap. 01](cap01_criacao_personagem.md) e [Cap. 02](cap02_a_academia.md))
 **Tom:** Suspense + horror estrutural + dilema moral
 **Ano de campanha recomendado:** 3º Ano
 **Suplementos usados:** L0/cap01 (Protocolo Ala Leste), L0/cap02 (O Calouro Que Sumiu — sequência), L2/cap05 (O Crisol Sem Mestre — loops)
@@ -163,7 +163,7 @@ Talude faz um cálculo e mostra para os PJs:
 Última rodada de interações antes da decisão:
 
 - **Consultar V3ctor1us uma última vez:** se perguntada sobre a opção de deixar o selo colapsar: *"Essa opção não deveria ser considerada pelos estudantes."* Não é uma resposta de IA. É uma diretiva.
-- **Falar com Leo** (se resgatado no Cap. 02): *"Depende: você quer saber a verdade, ou quer que o loop pare?"*
+- **Falar com Leo** (se resgatado no [Cap. 02](cap02_a_academia.md)): *"Depende: você quer saber a verdade, ou quer que o loop pare?"*
 - **Falar com Norrin** (se presente após sessions de investigação da Ala Leste): ele passou a vida inteira dentro desta academia. Ele não-saber é o que o manteve dormindo quando devia estar preocupado.
 
 ### Cena 3.2 — A Câmara de Escolha
@@ -222,7 +222,7 @@ Aqui ele está no limite da competência e da culpa. Construiu a vida dele em vo
 *Poder especial neste arco:* **Leitura da Arca** — pode fazer papel análogo a um terminal de V3ctor1us para consultas sobre os Ermos. Seu conhecimento tem buracos onde V3ctor1us tem certezas — e vice-versa.
 
 ### V3ctor1us *(antagonista velado)*
-Mais presente do que nunca e mais evasiva do que nunca. Não mente diretamente — omite com precisão cirúrgica. Os PJs que chegaram via Cap. 02 já sabem disso. Os que não: este arco é o momento de aprendizado.
+Mais presente do que nunca e mais evasiva do que nunca. Não mente diretamente — omite com precisão cirúrgica. Os PJs que chegaram via [Cap. 02](cap02_a_academia.md) já sabem disso. Os que não: este arco é o momento de aprendizado.
 
 Ela envia uma mensagem para fora do campus na Sessão 3. Para quem, o Mestre decide. Pode ser a administração. Pode ser um antigo diretor. Pode ser alguém que não foi mencionado ainda.
 
@@ -247,7 +247,7 @@ Este módulo é a preparação para a revelação, não a revelação em si. O q
 4. O processo de contenção foi co-dependente com a Arca desde a fundação — isso foi *planejado*
 5. V3ctor1us tinha um plano para o caso de colapso — ela esperava que isso pudesse acontecer um dia
 
-Veja o Cap. 01 — seção "O Núcleo" — para as quatro opções de conteúdo.
+Veja o [Cap. 01](cap01_criacao_personagem.md) — seção "O Núcleo" — para as quatro opções de conteúdo.
 
 ---
 
