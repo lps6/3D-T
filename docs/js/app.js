@@ -218,9 +218,48 @@
   }
 
   async function fetchChapter(url) {
+    console.debug(`[reader] fetching: ${url}`);
     const res = await fetch(url);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    return res.text();
+    console.debug(`[reader] fetched: ${url} -> ${res.status}`);
+    if (!res.ok) {
+      // Small inline log to help debugging in-page when a fetch fails.
+      try {
+        if (contentEl) {
+          const note = document.createElement('div');
+          note.className = 'fetch-log fetch-log--error';
+          note.textContent = `Erro ao buscar ${url} — HTTP ${res.status}`;
+          note.style.color = '#b91c1c';
+          note.style.fontSize = '0.9rem';
+          note.style.marginTop = '1rem';
+          contentEl.appendChild(note);
+        }
+      } catch (e) {
+        console.warn('[reader] could not append fetch log', e);
+      }
+      throw new Error(`HTTP ${res.status}`);
+    }
+
+    const text = await res.text();
+    // brief success indicator (auto-clears)
+    try {
+      if (contentEl) {
+        const prev = document.querySelector('.fetch-log');
+        if (prev) prev.remove();
+        const ok = document.createElement('div');
+        ok.className = 'fetch-log fetch-log--ok';
+        ok.textContent = `Carregado: ${url} — HTTP ${res.status}`;
+        ok.style.color = '#065f46';
+        ok.style.fontSize = '0.8rem';
+        ok.style.opacity = '0.8';
+        ok.style.marginTop = '0.5rem';
+        contentEl.appendChild(ok);
+        setTimeout(() => { try { ok.remove(); } catch (e) {} }, 2200);
+      }
+    } catch (e) {
+      console.warn('[reader] could not show fetch success', e);
+    }
+
+    return text;
   }
 
   // ── Rendering ─────────────────────────────────────────────────
