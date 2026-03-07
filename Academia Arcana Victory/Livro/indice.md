@@ -265,5 +265,3 @@
 - Apoie os Criadores Oficiais
 
 ---
-
-*Suplementos standalone (publicações separadas): A1–A3 (Artigos), ALA, C1–C3, F-series, K1, T1–T4*
