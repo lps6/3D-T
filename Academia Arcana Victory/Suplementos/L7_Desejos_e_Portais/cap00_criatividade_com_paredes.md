@@ -71,7 +71,7 @@ Toda magia se encaixa em uma das cinco **Categorias de Efeito**:
 
 O custo é em **PV, não PM.** Magia criativa cobra do corpo porque é o corpo que a executa — via emoção, vontade, presença física. Quando um personagem está exausto fisicamente, a magia também fica.
 
-> *Nota de design (Teske): PV como custo é intencional. Impede spam mágico irresponsável sem criar uma segunda barra de recurso para gerenciar. O personagem sente cada feitiço.*
+ 
 
 ### 2. Como você está pedindo?
 

@@ -1,8 +1,5 @@
 # Apêndice — Grêmios, Escolas & o Livro 0
 
-> *"O Livro 0 não tem franquias — tem a Academia olhando para si mesma. O mapeamento aqui é diferente: em vez de vestir referências externas, mostramos como cada grêmio e cada escola se posiciona diante do mistério central."*
-> — Alexandre Lancaster
-
 ---
 
 ## O Livro 0 na Bússola Arcana

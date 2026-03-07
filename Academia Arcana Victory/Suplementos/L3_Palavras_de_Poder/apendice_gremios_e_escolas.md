@@ -1,8 +1,5 @@
 # Apêndice — Grêmios, Escolas & Nomes
 
-> *"O que este livro propõe com 'compreensão como poder' não é filosofia abstrata — é uma lente que reorganiza qual grêmio faz sentido para qual abordagem. Um Nomeador não é naturalmente de nenhuma casa. É naturalmente da casa que lida com o preço de saber."*
-> — Alexandre Lancaster
-
 ---
 
 ## Mapeamento para Grêmios da AAV
