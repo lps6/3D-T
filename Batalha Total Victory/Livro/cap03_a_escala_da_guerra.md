@@ -149,6 +149,17 @@ A regra "não pode ferir" tem exceções deliberadas — elas são o coração d
 
 4. **Habilidades de Escalonamento:** algumas vantagens, técnicas ou kits têm a propriedade **[Anti-Escala]** — indicando que o ataque ou habilidade ignora diferencial de uma escala acima.
 
+### Regra de Ouro — "Não Pode Ferir" significa Dano 0
+
+Quando a tabela disser **"não pode ferir"**:
+
+- O ataque pode acontecer narrativamente, mas **não causa dano em PV**.
+- Crítico, dano máximo ou bônus extras **não mudam isso**.
+- Só há dano se existir uma exceção ativa (Arma de Cerco, Ponto Fraco, Concentração de Fogo válida ou tag [Anti-Escala]).
+- Se a exceção cancela apenas 1 nível de diferença, aplique o restante normalmente (inclusive Perda, se ainda houver).
+
+> **Em Jogo:** Escaramuça (2 níveis abaixo) ataca Colossal sem exceção ativa: rola ataque para ficção, mas causa 0 de dano. Com [Anti-Escala], passa a 1 nível abaixo e ataca com Perda.
+
 > **📖 Design Intencional: Dependência de Papel**
 >
 > Em outros sistemas, kaijus são problemas para "personagens grandes". Aqui, **todos os papéis são mecanicamente necessários** numa batalha Leviatã:

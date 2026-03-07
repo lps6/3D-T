@@ -552,6 +552,66 @@ Quando as fichas prontas não forem suficientes, use esta tabela como base para 
 
 ---
 
+## Ferramentas de Perspectiva Externa
+
+Duas mecânicas para o Mestre que quer dar peso às escolas internacionais e à rede de portais sem criar sistemas paralelos complexos.
+
+### Olhar Externo — Mecânica da Zawiya
+
+Personagens com formação na Zawiya do Espelho Partido (ou que estudaram com Nour Benali por tempo suficiente para absorver a metodologia) têm acesso a esta mecânica:
+
+**Uma vez por sessão**, o personagem pode declarar: *"Eu vejo o que este sistema está escondendo."*
+
+- Não exige teste
+- Não custa PM nem PV
+- Custa *tempo*: o personagem precisa observar a situação em silêncio por pelo menos um turno antes de declarar — não pode agir ativamente enquanto observa
+
+Quando a declaração é feita, o Mestre revela **uma implicação não-óbvia** da situação que personagens sem formação da Zawiya não teriam articulado. Exemplos:
+
+- Um ritual ou padrão de comportamento recorrente que ninguém tinha nomeado como tal
+- A intenção real por trás de uma decisão institucional (de V3ctor1us, de um NPC, da administração)
+- Uma conexão entre dois eventos que pareciam não relacionados
+- O que *não* está sendo dito numa interação social
+
+**Limite:** A revelação deve ser algo que poderia ser deduzido por observação cuidadosa — não informação que o Mestre inventou para a mecânica. O Olhar Externo não cria informação; revela o que estava escondido em plena vista.
+
+**Para o Mestre:** Use esta mecânica para recompensar a filosofia da Zawiya na prática. Nour Benali usa exatamente isso quando pergunta "mas *por que* V3ctor1us precisa saber isso?" — e a resposta que ela articula muda como os outros veem a situação. A mecânica não dá vantagem em combate; dá vantagem em compreensão.
+
+---
+
+### Mapa de Portais — Navegando Fora da Arca
+
+A rede de portais que liga a Academia ao mundo externo não tem coordenadas geográficas — tem *conexões*. Para o Mestre, isso significa que descrever viagens entre locais é mais parecido com descrever conexões de metrô do que com consultar um mapa.
+
+**Como funciona na prática:**
+
+Cada portal tem:
+- Um **ponto de partida** (dentro ou fora da Arca)
+- Um **destino** (fixo ou variável dependendo de maré/hora/condições)
+- Uma **condição de ativação** (maré em Arrecife, hora do dia em Vallindra, componente específico em portais rituais)
+- Uma **latência** — quanto tempo a passagem leva (de instânea a horas)
+
+A rede conhecida pela Academia inclui:
+
+| Portal | Origem | Destino | Condição |
+|--------|--------|---------|----------|
+| Glifo do Marco Zero | Arrecife (Praça do Marco Zero) | Academia | Maré cheia |
+| Rota Yggdrasil | Academia | Proximidades de Vallindra | Manhã, componente de calibração |
+| Linha Benandanti | Academia | Akibara | Componente de afinidade musical |
+| Rede de Caravana | Deserto do Saara (variável) | Academia | Irregular — depende da Zawiya |
+| Fio Fluvial | Rio Solimões (variável) | Academia | Jurema Muxí precisa autorizar |
+
+**O que o Mestre não deve fazer:**
+- Não fixar locais geográficos precisos para portais que a narrativa não precisa de precisão. "O portal da Zawiya abre num oásis no Saara" é suficiente — coordenadas GPS destroem o mistério.
+- Não usar Vallindra como âncora geográfica para outros locais. Vallindra tem sua própria posição narrativa; outras cidades não precisam ser definidas em relação a ela.
+
+**O que o Mestre pode fazer:**
+- Tratar a rede de portais como personagem — ela tem quirks, horários, e às vezes não funciona por razões que fazem sentido depois
+- Usar as condições de ativação como fonte de tensão ("a maré sobe em duas horas e é a última janela por uma semana")
+- Deixar portais desconhecidos como mistério ativo — V3ctor1us tem um mapa da rede que nunca compartilhou completamente
+
+---
+
 ## Quando a Campanha Não Funciona
 
 Toda campanha longa tem sessões que não funcionam. Conheção das causas mais comuns é metade da solução:

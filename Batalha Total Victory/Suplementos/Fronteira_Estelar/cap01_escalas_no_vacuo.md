@@ -27,6 +27,21 @@ O sistema de quatro escalas de Batalha Total Victory permanece a espinha mecâni
 - Drone de Patrulha (P2 H1 R3, Imune a Moral)
 - Piloto de Caça *quando fora da nave* (P2 H3 R1)
 
+### Templates de Operativos (Pronto para Mesa)
+
+Use estes blocos quando precisar de Operativos rapidamente em abordagem, EVA ou combate interno.
+
+| Template | P H R | Papel | Kit padrão | Regra rápida |
+|---|---|---|---|---|
+| **Fuzileiro EVA** | 2 2 3 | Linha de frente em casco aberto | Traje EVA reforçado, rifle magnético | Ignora a penalidade de movimento EVA na 1ª rodada de exposição.
+| **Sapador de Casco** | 2 3 2 | Sabotagem e brecha estrutural | Cargas de corte, scanner de junta | Ganha +1 em testes para abrir acesso em abordagens.
+| **Oficial de Comunicações** | 1 4 2 | Guerra eletrônica e comando tático | Módulo de jamming, uplink de frota | 1x por cena pode impor Desorientado em alvo da mesma escala (teste H).
+| **Atirador de Compartimento** | 3 3 1 | Controle de corredor e defesa de choke-point | Carabina de precisão curta, sensor térmico | Em cobertura pesada, recebe Ganho no 1º ataque da rodada.
+| **Médica de Campo Orbital** | 1 3 3 | Suporte e estabilização | Kit trauma-pressão, selo de emergência | Pode estabilizar 1 aliado em 0 PV como ação padrão (1x por combate).
+| **Batedor de Gravidade Zero** | 2 4 1 | Flanco, infiltração e marcação de alvo | Propulsores de manobra, lâmina curta | Em ambientes de gravidade zero, desloca +1 faixa curta por rodada.
+
+> **Uso em campanha:** combine 3–5 templates para montar uma Tropa Operativo com função clara (abordagem, defesa de estação, sabotagem ou extração).
+
 ---
 
 ### 🚀 Esquadrão (Warband)

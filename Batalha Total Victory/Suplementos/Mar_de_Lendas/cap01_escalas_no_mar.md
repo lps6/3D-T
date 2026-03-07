@@ -80,6 +80,21 @@ Um Rei do Mar **é** o campo de batalha. Quando um Kraken emerge, tudo ao redor 
 - Ilha-Tartaruga (uma ilha inteira que se revela viva)
 - Abissal (coisa sem nome que emerge das fossas oceânicas)
 
+### Quem São os Reis do Mar (Lore de Campanha)
+
+Reis do Mar não são apenas monstros grandes. São **forças míticas com vontade própria**, memória longa e relação direta com rotas, povos e eras.
+
+| Rei do Mar | Motivação dominante | Sinal de presença | Como negociar (ou tentar) |
+|---|---|---|---|
+| **Krakens de Ferro** | Expulsar frotas industriais de áreas antigas | Casco marcado por ventosas em navios ancorados | Oferecer recuo imediato e abandonar armamento pesado na zona.
+| **Serpentes Eternas** | Proteger corredores de corrente milenares | Maré invertendo sem vento | Entregar mapas de rotas proibidas e jurar não cruzar por um ciclo lunar.
+| **Ilhas-Tartaruga** | Preservar ecossistemas e povos que vivem sobre elas | Tremor de "ilha" antes da maré | Evitar mineração/escavação; defender comunidades costeiras atacadas.
+| **Abissais** | Consumir ruído, guerra e sangue derramado | Névoa negra e silêncio súbito de aves | Não há pacto estável; só contenção, fuga ou sacrifício planejado.
+
+**Princípio narrativo:** um Rei do Mar deve sempre alterar a política da região, não só o combate da cena. Depois de sua aparição, portos mudam alianças, mapas mudam rotas e cultos mudam discursos.
+
+> 📖 **Em campanha:** antes da primeira batalha contra um Rei do Mar, defina 1 tabu, 1 desejo e 1 preço para essa entidade. Isso transforma "boss fight" em história de mundo.
+
 ---
 
 ## Interação Entre Escalas
@@ -137,65 +152,23 @@ O mar oferece **6 formas** de quebrar a barreira de escala:
 
 ---
 
-#### 5. ⚓ Aliança Temporária (Escala Mista)
-**Requisito:** Duas ou mais facções concordam em cessar hostilidades para enfrentar ameaça maior (Rei do Mar, Armada Imperial, Leviatã).  
-**Efeito:** Frotas aliadas somam ataques como se fossem *Fogo Concentrado* mesmo sendo de escalas diferentes. Tripulantes de navio pirata + Fortaleza imperial atacam o Kraken juntos.
+#### 5. ⚓ Concentração de Fogo (Navio → Fortaleza/Rei)
+**Requisito:** 3 ou mais Navios disparam no mesmo alvo de escala superior na mesma rodada.  
+**Efeito:** O dano combinado afeta o alvo normalmente. Cada Navio participante gasta sua ação de Canhão e não pode fazer Manobra Evasiva na rodada.
 
-> **Em Jogo:** Frota mercante + piratas + marinha imperial enfrentam Abissal. Concordam em trégua temporária. Somam 12 navios + 1 Fortaleza + 300 Tripulantes. O Abissal morre — depois a aliança colapsa e voltam a lutar entre si.
-
----
-
-#### 6. ⚓ Sacrifício (Escala Menor → Maior)
-**Requisito:** Escala menor aceita destruição certa para causar dano crítico. Navio abalroa Fortaleza. Tripulante detona barril de pólvora dentro de Rei do Mar.  
-**Efeito:** Escala menor é destruída automaticamente. Escala maior testa R contra dificuldade baseada no sacrifício (Navio → dif. 6; Tripulante com explosivos → dif. 5). Falha: sofre 4d6 de dano + condição (fogo, água invadindo, estrutura rachada).
-
-> **Em Jogo:** Brigue mercante incendiado abalroa a nau capitânia inimiga. Brigue afunda em 1 rodada. Nau testa R dif. 6 — falha. Sofre 20 de dano + pega fogo (2d6/rodada até apagar). Capitão mercante morreu, mas levou a nau com ele.
+> **Em Jogo:** Três navios menores concentram salvas em uma Fortaleza do Mar. Nenhum navio venceria sozinho; juntos, abrem brecha no casco.
 
 ---
 
-> *O mar oferece caminhos onde a guerra não oferece. Mas cada caminho tem preço. Tripulantes que usam Exceção 6 raramente vivem para contar. Capitães que confiam demais em Exceção 4 afundam eventualmente. E aliados temporários (Exceção 5) sempre lembram que eram inimigos ontem.*
+#### 6. ⚓ Abalroamento e Sacrifício (Escala Menor → Maior)
+**Requisito:** Navio em rota de colisão ou ação suicida preparada (pólvora, fogo, impacto).  
+**Efeito:** Abalroamento causa dano em ambos (base VEL × 5; com aríete: VEL × 7 no alvo e VEL × 3 no atacante). Em versão de sacrifício deliberado, o atacante é destruído automaticamente e o alvo testa R (dif. 6; com carga explosiva preparada, dif. 7).
+
+> **Em Jogo:** Brigue incendiado colide contra Fortaleza inimiga para abrir passagem da frota. O brigue se perde, mas cria a janela tática decisiva.
 
 ---
 
-#### 3. ⚓ Abordagem
-
-Quando navios estão Bordo a Bordo, Tripulantes podem invadir o navio inimigo e combater em escala Tripulante dentro dele. Isso permite que marinheiros individuais tomem ou destruam navios sem afundá-los.
-
-Contra Fortalezas: abordagem é **multi-fase** (convés → corredores → cabine do capitão/sala de comando).
-
-Contra Reis do Mar: abordagem é **escalada** (subir no corpo da criatura e atacar Pontos Fracos diretamente). Exige teste de Habilidade dif. 7 por rodada para se manter preso.
-
----
-
-#### 4. ⚓ Fogo
-
-Navios de madeira pegam fogo. Fogo ignora escala.
-
-**Mecânica:** Uma unidade de qualquer escala pode iniciar incêndio em qualquer alvo de madeira. O fogo causa 1d de dano por rodada cumulativo (1d na R1, 2d na R2, 3d na R3...) até ser apagado. Apagar fogo é uma ação de Tripulação (Cap. 2) — requer TRP × 2 testes bem-sucedidos (um por seção do navio em chamas).
-
-**Exceção:** Navios com casco de ferro/aço (steampunk) são imunes a fogo externo. Fogo interno (pólvora, caldeira) ainda funciona.
-
-> 📖 *"Botem fogo nele," disse Sereia Negra. O contramestre hesitou — o navio inimigo estava carregado de especiarias roubadas. "As especiarias ou a tripulação," disse a capitã. O contramestre acendeu a flecha.*
-
----
-
-#### 5. ⚓ Concentração de Fogo
-
-Quando **3 ou mais Navios** disparam simultaneamente contra o mesmo alvo de escala superior, o dano combinado afeta o alvo normalmente.
-
-**Mecânica:** Reúna o dano total de todos os Navios participantes. Se o total exceder CAS do alvo, cause o dano. Se não, cause metade.
-
-**Custo:** Todos os Navios participantes gastam sua ação de Canhão naquela rodada. Qualquer Navio que participe de Concentração de Fogo não pode realizar Manobra Evasiva na mesma rodada.
-
----
-
-#### 6. ⚓ Abalroamento
-
-Um Navio pode deliberadamente colidir com outro. Dano causado = VEL do atacante × 5 em ambos. Abalroamento ignora 1 nível de diferença de escala (um Navio pode abalroar uma Fortaleza, mas não um Rei do Mar).
-
-**Custo:** O atacante sofre o mesmo dano que causa.
-
-**Exceção:** Navios com aríete (galés, naus de guerra medievais) causam VEL × 7 e sofrem VEL × 3 (o aríete absorve parte do impacto).
+> *O mar oferece caminhos onde a guerra não oferece. Mas cada caminho tem preço. Capitães que dependem só de Exceção 4 afundam cedo; tripulações que recorrem à Exceção 6 quase nunca voltam inteiras.*
 
 ---
 

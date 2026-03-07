@@ -14,7 +14,7 @@
 |---|--------|----------|
 | Cap. 00 | [A Revolução na Mesa](cap00_a_revolucao_na_mesa.md) | Guia de tom + Framework de conflito sistêmico |
 | Cap. 01 | [A Era dos Metais](cap01_a_era_dos_metais.md) | Cidade de Lutharin; Metalurgia Arcana; classes e revolução incompleta |
-| Cap. 02 | [A Escola do Covil](cap02_a_bruxa_coruja.md) | Escola do Covil da Floresta Convergente; Glifomagia; Trilha Única vs. Bile livre |
+| Cap. 02 | [O Grêmio Raízes](cap02_a_bruxa_coruja.md) | Grêmio Raízes da Floresta Convergente; Glifomagia; Trilha Única vs. Bile livre; filiação dupla com a Academia |
 | Cap. 03 | [As Escolas das Quatro Formas](cap03_quatro_nacoes.md) | Quatro academias elementais; Marcadores de Chi; a guerra de oitenta anos |
 | Cap. 04 | [Caldeira: Férias Arcanas](cap04_caldeira.md) | Campanha em cidade aberta — o sistema com número de protocolo |
 | Cap. 05 | [Reputação Faccional](cap05_reputacao_faccional.md) | Mecânica unificada de Legitimidade e Cred |
@@ -29,7 +29,7 @@ Este livro é sobre o sistema — e o que acontece quando você decide que ele e
 Três estruturas externas chegam a esse tema por caminhos distintos:
 
 - **Lutharin — A Era dos Metais** questiona o sistema através da classe: o poder mágico hereditário está na base da desigualdade econômica. A revolução aconteceu. As estruturas informais sobreviveram.
-- **A Escola do Covil da Floresta Convergente** questiona o sistema através do método: a Regra da Trilha Única não protege ninguém — protege quem faz as regras. A rebeldia é individual antes de ser coletiva.
+- **O Grêmio Raízes da Floresta Convergente** questiona o sistema através do método: a Regra da Trilha Única não protege ninguém — protege quem faz as regras. A rebeldia é individual antes de ser coletiva.
 - **As Escolas das Quatro Formas** questionam o sistema através da filosofia: o problema não é uma escola específica — é que qualquer escola convicta de sua superioridade torna-se a escola que iniciou a guerra de oitenta anos. A disciplina que liberta pode tornar-se a disciplina que oprime.
 
 E a campanha Caldeira mostra o sistema como ele funciona na prática: não como vilão de fantasia, mas como burocracia competente com motivações compreensíveis que produz injustiça com número de protocolo.
@@ -39,7 +39,7 @@ E a campanha Caldeira mostra o sistema como ele funciona na prática: não como 
 | Estrutura | O que a magia é | A questão sistêmica | O que a mudança exige |
 |-----------|----------------|---------------------|----------------------|
 | Lutharin — Era dos Metais | Hierarquia biológica de poder | Quem nasceu para servir? | Reconhecer que as estruturas informais sobrevivem às formais |
-| Escola do Covil | Disciplina de especialização imposta | O que acontece com quem não cabe? | Inventar o método que o sistema proibiu |
+| Grêmio Raízes | Disciplina de especialização imposta | O que acontece com quem não cabe? | Inventar o método que o sistema proibiu |
 | Quatro Formas | Filosofia elemental como identidade de escola | O que acontece quando sua escola decide ter razão? | Entender o outro lado antes de confrontá-lo |
 | Caldeira | Expulsão como ferramenta de controle | Quem protege os que o sistema rejeitou? | Perguntar se o outro lado está completamente errado |
 

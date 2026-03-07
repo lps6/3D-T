@@ -51,6 +51,18 @@ Este suplemento é **autônomo** dentro do ecossistema BTV: todas as mecânicas 
 
 ---
 
+## Pilares de Jogo Marítimo
+
+Este suplemento prioriza cinco pilares mecânicos:
+
+1. **Terreno marítimo interativo com poderes dos personagens** (correntes, maré, recifes, tempestades e zonas especiais mudando decisões táticas).
+2. **Veículos de mar e céu** no mesmo teatro naval (navios oceânicos, navios-voadores e transição entre camadas de combate).
+3. **Submarinos e guerra submersa** como eixo próprio de jogo tático.
+4. **Movimentos especiais de miniaturas** (abordagem, abalroamento, ancoragem agressiva, retirada por corrente).
+5. **Combate de frotas em escala maior** com dano de casco, gestão de tripulação e desgaste de campanha.
+
+---
+
 ## ⚓ Escalas no Mar de Lendas
 
 Mar de Lendas renomeia as escalas de BTV para refletir a realidade naval. As regras são as mesmas — a linguagem muda.

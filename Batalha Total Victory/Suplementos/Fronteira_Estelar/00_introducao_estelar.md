@@ -20,6 +20,8 @@
 
 **Batalha Total: Fronteira Estelar** expande o sistema de Batalha Total Victory para a guerra no espaço. Do vácuo silencioso entre estações orbitais ao colapso de dreadnoughts sobre campos de batalha planetários, este livro fornece tudo o que o Mestre e os jogadores precisam para travar batalhas estelares em qualquer tom — do near-future realista ao grimdark totalitário, da space opera pulp ao comunismo espacial de luxo totalmente automatizado.
 
+Uma premissa central para campanha é o combate espacial na fronteira entre um **império galáctico decadente** e uma **cooperativa estelar de comunas e coletivos anarquistas**. Os demais tons continuam válidos como variações de leitura e estilo.
+
 Este não é um cenário fechado. É um **motor de guerra estelar** com quatro tons de campanha modulares. O Mestre escolhe o tom (ou mistura vários ao longo de uma campanha) e as mecânicas se adaptam.
 
 **Requisito:** Este suplemento usa o sistema base de Batalha Total Victory. Familiaridade com as mecânicas de escala, Point-Buy, Formações e o Toolkit do Mestre (Capítulos 1–7 do BTV) é assumida.

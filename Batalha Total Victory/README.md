@@ -16,7 +16,7 @@ Não é um livro de regras para "quando os jogadores querem matar muita coisa". 
 
 Para utilizar este material, você precisa de:
 - **3D&T Victory** (Manual do Arcanauta) — regras básicas de jogo
-- **Batalha Total Victory** publica antes de *Fronteira Estelar* e *Criaturas* — outros suplementos que referenciem regras de Escala dependem das fundações aqui estabelecidas
+- **Batalha Total Victory** estabelece as bases de Escala, Terreno e Miniaturas — suplementos de cenário expandem isso por tema
 
 ---
 
@@ -32,7 +32,7 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 | Peso emocional nas campanhas | Cap. 5 (Custo Humano) — totalmente opcional |
 | Criar veículos e monstros | Cap. 6 (Motores da Destruição) |
 | Ferramentas de Mestre para campanhas de guerra | Cap. 7 (Comandando a Batalha) |
-| Setting pronto com facções | Apêndices A, B ou C |
+| Setting completo com facções e mecânicas temáticas | Suplementos (FS, ML e demais DLCs) |
 
 ---
 
@@ -48,9 +48,31 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 | `cap05_o_custo_humano.md` | Moral Pessoal, Trauma, Recuperação |
 | `cap06_motores_da_destruicao.md` | Criação de veículos, monstros e tropas |
 | `cap07_comandando_a_batalha.md` | Toolkit do Mestre, objetivos, protótipo de batalha |
-| `apendice_a_fantasia_medieval.md` | Toolbox: Fantasia Medieval |
-| `apendice_b_grimdark_scifi.md` | Toolbox: Grimdark Sci-Fi |
-| `apendice_c_falgsc.md` | Toolbox: História Alternativa (FALGSC) |
+| `apendice_a_fantasia_medieval.md` | **Arquivado** (migrado para `Suplementos/Guerra_das_Coroas`) |
+| `apendice_b_grimdark_scifi.md` | **Arquivado** (migrado para `Suplementos/Fronteira_Estelar`) |
+| `apendice_c_falgsc.md` | **Arquivado** (migrado para `Suplementos/Fronteira_Estelar`) |
+
+---
+
+## Suplementos de Cenário (DLC)
+
+| Suplemento | Foco |
+|---|---|
+| **Fronteira Estelar** | Guerra espacial na fronteira entre império decadente e cooperativa de comunas/coletivos anarquistas |
+| **Mar de Lendas** | Terreno marítimo vivo, navios e fortalezas, abordagem, abalroamento, combate de frota |
+| **Guerra das Coroas** | Guerra medieval dedicada: cerco, campanha de reino, logística e política de guerra |
+
+---
+
+## Escopo Editorial (Core vs. Suplementos)
+
+O **Livro Base** de BTV foca nas fundações universais: miniaturas, terreno, ação tática, escalas e custo humano.
+
+Os **Suplementos** carregam o peso de ambientação específica (lore, facções, submecânicas próprias e campanhas temáticas). Em resumo:
+
+- **Core:** regras que funcionam em qualquer guerra.
+- **Suplementos:** mundos completos com identidade própria.
+- **Apêndices:** atalhos de conversão rápida para mesas que querem começar imediatamente.
 
 ---
 

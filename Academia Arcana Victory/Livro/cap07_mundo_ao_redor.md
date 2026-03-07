@@ -206,6 +206,8 @@ A escola de elite do circuito mágico. Rigorosa, tradicional, com uma biblioteca
 
 Uma parceria entre o Círculo de Ifé (Lagos, Nigéria) e educadores mágicos brasileiros, a Escola de Ifé-Bahia é especializada em magia ancestral e espiritual com raízes nas tradições afro-brasileiras. O currículo integra conhecimento de orixás, elementos naturais e rituais comunitários com a estrutura moderna de ensino arcano. Seus formandos têm uma conexão com a magia que é visceral e profundamente pessoal — menos acadêmica, mais vivida. A escola é inovadora, respeitadíssima em círculos especializados, e absolutamente subestimada por quem nunca pisou lá.
 
+Esta escola funciona hoje como a **sede baiana da Corrente Ancestral da Escola Flutuante de Uiara** — uma parceria formalizada em 2021 que preservou a identidade e o currículo de Ifé-Bahia enquanto criou um canal de troca com a Corrente Fluvial amazônica. A Professora Aduke é o ponto de ligação mais visível dessa relação dentro da Academia.
+
 ### Liceu Preparatório Benandanti — Akibara
 
 Não é uma escola nova — é o braço de ensino médio do Liceu Benandanti, a instituição rival da Academia detalhada mais adiante. Alunos que completam o preparatório podem seguir direto para o programa universitário do Liceu ou tentar a admissão na Academia (o que é visto como traição em alguns círculos e como ambição saudável em outros). O preparatório segue a filosofia Benandanti de integração total entre magia e expressão artística — seus alunos cantam, dançam e pintam antes de conjurarem. E conjuram *bem*.
@@ -340,16 +342,16 @@ Derrubar a autoridade de um Prefeto requer ou prova formal de abuso (investigaç
 
 ### Zawiya do Espelho Partido
 
-*Fez, Marrocos*
+*Deserto do Saara*
 
 > *"Um mago que precisa de uma sala de aula para aprender não aprendeu ainda o que magia é. Magia é o que você faz quando a sala de aula não está disponível."*
 > — Mestre Aissam, atribuído
 
 #### O Conceito
 
-Na medina antiga de Fez — labirinto de ruelas medievais que permaneceu organicamente caótico por séculos — existe uma escola que nunca apareceu em nenhum levantamento institucional de magia, nunca respondeu nenhuma solicitação de parceria formal, e que, se questionada sobre sua existência, responde com silêncio ou com uma pergunta diferente.
+No Deserto do Saara — vastidão sem fronteira que permaneceu refratária a qualquer mapeamento definitivo por séculos — existe uma escola que nunca apareceu em nenhum levantamento institucional de magia, nunca respondeu nenhuma solicitação de parceria formal, e que, se questionada sobre sua existência, responde com silêncio ou com uma pergunta diferente.
 
-A Zawiya não é uma escola no sentido convencional. É uma rede de pessoas que aprendem juntas em espaços que mudam de semana em semana — a biblioteca de um estudioso em Andalus, o quintal de uma tintureira em Blida, o terraço de uma família que vive há gerações acima de uma fonte de mana subterrânea. O que os conecta não é um campus. É um nome: al-Zawiya al-Mir'at al-Maksura — A Zawiya do Espelho Partido — e uma série de textos fundacionais escritos por um mestre que morreu oitocentos anos atrás e que, segundo a tradição da Zawiya, ancora sua primeira pergunta: *"por que a magia obedece quem a força?"*
+A Zawiya não é uma escola no sentido convencional. É uma rede de pessoas que aprendem juntas em espaços que mudam de estação em estação — o acampamento de uma família Tuareg próxima a uma fonte de mana subterrânea, o oásis onde caravanas se encontram há quinhentos anos, a tenda armada no meio do erg onde o silêncio é suficientemente profundo para ouvir a magia antes de nomeá-la. O que os conecta não é um campus. É um nome: al-Zawiya al-Mir'at al-Maksura — A Zawiya do Espelho Partido — e uma série de textos fundacionais escritos por um mestre que morreu oitocentos anos atrás e que, segundo a tradição da Zawiya, ancora sua primeira pergunta: *"por que a magia obedece quem a força?"*
 
 A resposta que a Zawiya desenvolveu ao longo de séculos é: não obedece. A magia que parece obedecer para quem a força é uma ilusão do mago. A magia real — aquela que realmente funciona, que deixa marcas permanentes — é a que nasce da negociação entre o mago e o tecido do mundo.
 
@@ -393,7 +395,7 @@ Para campanhas que envolvam a Zawiya ou personagens formados por ela, a Magia po
 > **Vantagens:** Magia por Recitação (ver acima), Sentido (detecta intencionalidade de conjuração — sente se um feitiço está sendo forçado ou proposto)
 > **Desvantagens:** Metodologia Incompatível (quando forçado a usar conjuração padrão sem recitação, sofre Perda — o corpo não sabe mais o que fazer sem o guia verbal)
 >
-> Vinte e dois anos. Formada em Fez, atualmente na fase da formação da Zawiya chamada "trânsito" — um período obrigatório de um a três anos fora da rede principal, implementando as técnicas em contextos que a Zawiya não controlou. Escolheu a Academia como destino de trânsito porque V3ctor1us é, segundo ela, "o exemplo mais fascinante e perturbador de conjuração por força que existe."
+> Vinte e dois anos. Formada no Saara — cresceu numa família que há gerações abriga aprendizes da Zawiya em seus deslocamentos sazonais — atualmente na fase da formação chamada "trânsito": um período obrigatório de um a três anos fora da rede principal, implementando as técnicas em contextos que a Zawiya não controlou. Escolheu a Academia como destino de trânsito porque V3ctor1us é, segundo ela, "o exemplo mais fascinante e perturbador de conjuração por força que existe."
 >
 > Ela não está errada. Isso não a torna popular com a administração.
 >
@@ -403,7 +405,7 @@ Para campanhas que envolvam a Zawiya ou personagens formados por ela, a Magia po
 
 **Três Ganchos da Zawiya:**
 
-1. **O Texto Perdido:** Um dos textos fundacionais da Zawiya desapareceu de Fez no período do Grande Vazio e reapareceu em Arton — de onde foi trazido para a Terra por um Viajante que não sabia o que tinha. V3ctor1us rastreou o texto. O arquivo está no sistema da Academia. O texto importa para a Zawiya mais do que qualquer coisa que a Academia possa oferecer em troca. Como isso se resolve depende de quem toma a decisão — e por que.
+1. **O Texto Perdido:** Um dos textos fundacionais da Zawiya desapareceu no período do Grande Vazio e reapareceu em Arton — de onde foi trazido para a Terra por um Viajante que não sabia o que tinha. V3ctor1us rastreou o texto. O arquivo está no sistema da Academia. O texto importa para a Zawiya mais do que qualquer coisa que a Academia possa oferecer em troca. Como isso se resolve depende de quem toma a decisão — e por que.
 
 2. **A Proposta:** Nour, após meses na Academia, conclui que V3ctor1us está praticando o equivalente arcano de "conjuração por força" em escala institucional — moldando o comportamento dos alunos sem que eles percebam, exatamente como um mago que força um feitiço em vez de propô-lo. Ela vai levar isso a Wynna. O que Wynna faz com a informação é uma questão. O que V3ctor1us faz quando descobre que Nour fez isso é outra.
 
@@ -427,6 +429,12 @@ A **Escola Flutuante de Uiara** é uma Arca construída sobre uma estrutura flut
 A fundadora, **Uiara Muxí**, era uma arcanista de origem Tikuna que aprendeu magia formal em Manaus depois da Convergência, passou dois anos estudando na Academia Arcana Victory, e voltou ao Amazonas convencida de que a magia que ela precisava ensinar não podia ser ensinada em salas de aula. Em 2019 construiu a primeira balsa. Em 2024, a escola tem dezoito alunos e uma lista de espera de candidatos que — deliberadamente — não tem data de resposta.
 
 A admissão é por convite. A escola aparece para quem "precisa." Ninguém sabe com precisão o que isso significa, inclusive a atual diretora, que é a filha de Uiara Muxí.
+
+**Duas correntes:** A Escola Flutuante de Uiara existe hoje em duas expressões complementares.
+
+A **Corrente Fluvial** é a escola original — as balsas navegando pelo Solimões e Amazonas, com Jurema Muxí como diretora. É onde Japiim estuda. É a expressão mais imediata da filosofia fundacional: a floresta é o currículo, e a escola vai até onde a floresta está.
+
+A **Corrente Ancestral** tem sede em Salvador, Bahia, como parceria com o Círculo de Ifé. Enquanto a Corrente Fluvial trabalha com magia ecológica amazônica, a Corrente Ancestral integra magia ancestral e espiritual com raízes nas tradições afro-brasileiras — orixás, elementos naturais, rituais comunitários. As duas correntes correspondem e trocam aprendizes, mas têm autonomia pedagógica própria. **Professora Aduke** (ver seção de NPCs) transita entre as duas.
 
 #### A Diferença
 
@@ -470,7 +478,7 @@ Personagens treinados na Escola de Uiara (ou que estudaram com ela por pelo meno
 
 ---
 
-> #### Japiim — Estudante Sênior da Escola de Uiara (NPC)
+> #### Japiim — Estudante Sênior da Escola de Uiara / Corrente Fluvial (NPC)
 > P2 | H3 | R3
 > **Perícias:** Mística (foco em criaturas), Sobrevivência, Saber (biologia arcana)
 > **Vantagens:** Magia de Territorialidade (ver acima — território: Amazônia e sistemas fluviais), Familiar (Japiim tem uma arara-vermelha senciente chamada Mara que funciona como extensão sensorial)
@@ -496,10 +504,12 @@ Personagens treinados na Escola de Uiara (ou que estudaram com ela por pelo meno
 
 ### Gurukula da Confluência
 
-*Varanasi, Índia*
+*Varanasi, Índia — Corrente Confluência da Zawiya do Espelho Partido*
 
 > *"A magia sempre existiu. Nós a chamamos de yagna, de tantra, de puja. Só não tínhamos nome para a substância que une esses atos. A Convergência nos deu o nome. Não foi ela que criou a coisa."*
 > — Acharya Priya Ramachandran, em entrevista para portal de arcanismo independente
+
+> **Nota:** O Gurukula da Confluência mantém relação formal com a Zawiya do Espelho Partido desde os anos 1980 — anterior à Convergência — quando Acharya Priya identificou correspondências entre a tradição de recitação da Zawiya e certas formas de mantra védico. A relação é hoje reconhecida por ambas as tradições como "corrente Confluência": o Gurukula preserva autonomia pedagógica e identidade própria, mas compartilha textos fundacionais com a Zawiya e considera o projeto trilateral com a Academia uma extensão natural dessa parceria. Arjun Krishnamurthy e Nour Benali se conhecem — e discordam sobre metodologia de formas que os dois consideram produtivas.
 
 #### O Conceito
 
@@ -584,9 +594,9 @@ Essa observação não é uma resposta. É uma ferramenta: se sua campanha vai c
 | Escola | Loc. | Ponto de Tensão com V3ctor1us |
 |---|---|---|
 | **Brambleshire Academy** | País de Gales | Opacidade, falta de accountability |
-| **Zawiya do Espelho Partido** | Fez, Marrocos | "Conjuração por força" institucional |
+| **Zawiya do Espelho Partido** | Deserto do Saara | "Conjuração por força" institucional |
 | **Escola Flutuante de Uiara** | Rio Solimões/Amazonas | Mapeamento forçado, vigilância |
-| **Gurukula da Confluência** | Varanasi, Índia | "Ritual incompleto" em andamento |
+| **Gurukula da Confluência** *(Corrente Confluência da Zawiya)* | Varanasi, Índia | "Ritual incompleto" em andamento |
 
 ---
 

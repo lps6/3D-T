@@ -31,7 +31,7 @@ Este é o livro com o maior volume de opções de personagem da linha. Três ori
 | Código | Fonte | Contribuição |
 |--------|-------|-------------|
 | — | Academia Thornwall | Escola britânica histórica, quatro Casas, Focos Vinculados, 6 personagens (Eliot, Petra, Tomas, Sylvie, Thresh, Vael) |
-| — | Campo das Convergências | Herança da Era das Arcas, células por divindade, 5 personagens (Kael, Lyra, Theo, Bryn, Cadogan) |
+| — | Ordem das Convergências | Herança da Era das Arcas, células por divindade, 5 personagens (Kael, Lyra, Theo, Bryn, Cadogan) |
 | — | Ordem dos Glifeiros | Glifos corporais, Vínculo de Alma, sangue arcano-ancestral, 6 kits, 6 vantagens, bestiário demoníaco |
 | T3 | Sociedades Secretas | 5 facções ocultas dentro dos grêmios, kit Agente Duplo, vantagem Membro de Sociedade |
 | K1 | Manual do Estudante Arcano | 11 arquétipos acadêmicos do Manual do Arcanauta |
@@ -46,7 +46,7 @@ Este é o livro com o maior volume de opções de personagem da linha. Três ori
 |---|---------|------|-------|
 | 00 | [Linhagem como Mecânica](cap00_linhagem_como_mecanica.md) | NEW — Framework genérico | Original |
 | 01 | [Academia Thornwall](cap01_academia_thornwall.md) | Original | — |
-| 02 | [Campo das Convergências](cap02_campo_das_convergencias.md) | Original | — |
+| 02 | [Ordem das Convergências](cap02_campo_das_convergencias.md) | Original | — |
 | 03 | [Ordem dos Glifeiros](cap03_ordem_dos_glifeiros.md) | Original | — |
 | 04 | [Sociedades Secretas](cap04_sociedades_secretas.md) | Facções + integração | T3 |
 | 05 | [Manual do Estudante Arcano](cap05_manual_do_estudante_arcano.md) | Opções de personagem | K1 |
@@ -64,8 +64,8 @@ Este livro é sobre magia que está no sangue. As três franquias cobertas parti
 
 | Franquia | O que é a herança | O que define pertencimento | O custo da herança | Tom |
 |----------|-------------------|---------------------------|--------------------|----|
-| Academia Thornwall | O Foco revela identidade + Casas de caráter | Casas por revelação do Livro das Casas | Expectativas, nome familiar, destino institucional | Aventureiro, escolar |
-| Campo das Convergências | Sangue arcano-ancestral da Era das Arcas | Células por divindade progenitora | Entidades rastreiam, origens ausentes, destino não pedido | Heroico, mitológico |
+| Academia Thornwall (Brambleshire) | O Foco revela identidade + Casas de caráter | Casas por revelação do Livro das Casas | Expectativas, nome familiar, destino institucional | Aventureiro, escolar |
+| Ordem das Convergências | Sangue arcano-ancestral da Era das Arcas | Células por divindade progenitora | Entidades rastreiam, origens ausentes, destino não pedido | Heroico, mitológico |
 | Ordem dos Glifeiros | Sangue arcano-ancestral + inscrição ritual | Hierarquia institucional | Dor dos glifos, peso da Ordem, hierarquia opressora | Sombrio, institucional, político |
 
 ### O Que as Três Têm em Comum
@@ -82,7 +82,7 @@ O framework genérico de Linhagem (cap00) transforma essa pergunta em mecânica:
 
 > **Este livro oferece três paradigmas de herança. Escolha UM como base da campanha.**
 >
-> Academia Thornwall funciona como base quando a campanha é sobre escola, casas, pertencimento e rivalidade entre grêmios. Campo das Convergências funciona quando o poder vem de sangue literal e a ameaça é externa. Ordem dos Glifeiros funciona quando a instituição é o cenário E o antagonista.
+> Academia Thornwall funciona como base quando a campanha é sobre escola, casas, pertencimento e rivalidade entre grêmios. Ordem das Convergências funciona quando o poder vem de sangue literal e a ameaça é externa. Ordem dos Glifeiros funciona quando a instituição é o cenário E o antagonista.
 >
 > Você pode usar os três como referência e inspiração. Mas não tente rodar Thornwall + Campo + Glifeiros como um único worldbuilding coerente. Cada paradigma tem cosmologia própria. Misturar cria sopa, não cenário.
 >
@@ -96,7 +96,7 @@ O framework genérico de Linhagem (cap00) transforma essa pergunta em mecânica:
 Use cap00 + cap01 (Academia Thornwall) como base. O mapeamento de Casas→Grêmios é a ponte mais direta para uma campanha de AAV onde linhagem importa. Adicione cap04 (Sociedades Secretas) para camadas de intriga política.
 
 **Para uma campanha de herança divina e destino:**
-Use cap00 + cap02 (Campo das Convergências). O subsistema de Herança Arcana (Dom Passivo + Marca Narrativa) é o mais modular e portável — funciona em qualquer campanha onde PCs têm origem especial.
+Use cap00 + cap02 (Ordem das Convergências). O subsistema de Herança Arcana (Dom Passivo + Marca Narrativa) é o mais modular e portável — funciona em qualquer campanha onde PCs têm origem especial.
 
 **Para uma campanha institucional sombria:**
 Use cap00 + cap03 (Ordem dos Glifeiros). O sistema de Glifos + Vínculo de Alma + Status por facção é a campanha mais mecanicamente densa do livro. Combine com cap04 para máxima intriga.
@@ -128,7 +128,7 @@ Use APENAS cap00 (o framework genérico). Ele foi escrito para funcionar sem qua
 | **Lyra Vael** | A estrategista que cresceu sabendo que erro de cálculo tem custo permanente | cap02 | Aliada / Recurso tático |
 | **Theo Sarn** | O jovem que cresceu entre limiares e nunca aprendeu a se sentir em casa fora deles | cap02 | Aliado / Complexo |
 | **Bryn Sylvain** | A jovem que queria cuidar de criaturas e descobriu que "cuidar" tinha escala planetária | cap02 | Aliada / Suporte |
-| **Mestre Cadogan** | O guia do Campo que já cometeu todos os erros dos alunos e está aqui por razão mais antiga | cap02 | Mentor / Fonte de missões |
+| **Mestre Cadogan** | O guia da Ordem que já cometeu todos os erros dos membros e está aqui por razão mais antiga | cap02 | Mentor / Fonte de missões |
 | **Mestra Isolde Crain** | Professora de combate que nunca superou o Vínculo perdido | cap03 | Mentora / Aliada emocional |
 | **Diretor Caelum Varne** | Esconde ser meio-Warlock para manter controle sobre o que os outros são | cap03 | Antagonista / Ambíguo |
 | **Professora Mira Severin** | Recrutadora silenciosa que quer mudar a Ordem por dentro | cap03 | Aliada perigosa |

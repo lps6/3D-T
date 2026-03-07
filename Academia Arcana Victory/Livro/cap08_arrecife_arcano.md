@@ -194,6 +194,10 @@ A Rua não é estática. Cada vez que os PJs passam por lá, role ou escolha:
 
 ---
 
+> **Nota — A Ordem das Convergências:** No litoral ao sul da cidade, numa praia de areia escura pouco frequentada por turistas, a **Ordem das Convergências** ocupa uma instalação de formação discreta. Não tem campus formal. Não aparece em levantamentos de escolas mágicas. Descendentes de divindades da Era das Arcas chegam lá de formas variadas — encaminhados pela Academia, por famílias, ou simplesmente aparecendo depois de um incidente que não conseguem explicar. Moradores de Arrecife sabem que a praia tem "alguma coisa" — a areia fica quente mesmo à noite, e estranhos aparecem lá às vezes olhando para o mar como se estivessem esperando instrução. V3ctor1us tem o endereço. Wynna nunca visitou. Talude foi uma vez e não falou sobre o que viu.
+
+---
+
 ## Quatro NPCs de Arrecife
 
 ---

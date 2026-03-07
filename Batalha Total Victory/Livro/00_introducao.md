@@ -47,13 +47,17 @@ Mas não é um livro neutro sobre guerras abstratas.
 
 ---
 
-## O que este livro não é
+## Escopo deste livro
 
-Este livro **não substitui** o *Manual do Arcanauta*. Você ainda precisa do sistema base para jogar.
+Este livro funciona como **núcleo tático** de guerras em 3D&T Victory.
 
-Ele também não é uma simulação de combate realista. As regras não modelam logística, linhas de suprimento, ou a complexidade real de campanhas militares. Modelam o que importa em uma **mesa de RPG**: escolhas dramáticas, consequências pesadas, e momentos memoráveis onde os personagens são testados.
+Você usa aqui as regras universais de campo de batalha: posição, cobertura, escalas, comando de unidades e custo humano.
 
-Se você quer simulação, existem outros sistemas para isso. Se você quer **histórias sobre guerra com peso emocional**, você está no lugar certo.
+O foco é jogo de mesa com consequência dramática: decisões claras, custo real e ritmo de cena jogável. Logística detalhada e simulação militar total ficam fora do escopo por escolha de design.
+
+Para jogar, você continua usando o *Manual do Arcanauta* como base do sistema.
+
+Para ambientações completas (facções, lore profundo e submecânicas temáticas), use os suplementos dedicados.
 
 ---
 
@@ -122,9 +126,9 @@ Use tudo — incluindo Custo Humano, Point-Buy de criação, e o Toolkit do Mest
 | **5 — O Custo Humano** | Moral Pessoal, Trauma, Recuperação | Modo 3 (opcional) |
 | **6 — Motores da Destruição** | Criação de veículos, monstros, tropas | Modo 2 e 3 |
 | **7 — Comandando a Batalha** | Toolkit do Mestre, objetivos, protótipo documentado | Modo 3 |
-| **Ap. A — Fantasia Medieval** | Facções, Moral de Exército, NPCs-âncora | Qualquer |
-| **Ap. B — Grimdark Sci-Fi** | Facções, Desgaste, NPCs-âncora | Qualquer |
-| **Ap. C — FALGSC** | Comune Estelar, Missões de Libertação, NPCs-âncora | Qualquer |
+| **Ap. A — Fantasia Medieval** | Conversão rápida para batalhas de fantasia | Ponte para suplemento temático |
+| **Ap. B — Grimdark Sci-Fi** | Conversão rápida para guerra sci-fi brutal | Ponte para suplemento temático |
+| **Ap. C — FALGSC** | Conversão rápida para conflito político estelar | Ponte para suplemento temático |
 
 ---
 

@@ -1,4 +1,4 @@
-# Cap. 02 — A Escola do Covil
+# Cap. 02 — O Grêmio Raízes
 ## Glifomagia, Crítica Institucional, e o Poder de Inventar o Método
 
 > *"A Trilha Única não existe para que você aprenda bem. Existe para que você aprenda só o suficiente para não perguntar sobre o resto."*
@@ -13,11 +13,11 @@
 
 ## 1. A Pergunta Central
 
-O que a Escola do Covil diz sobre magia e poder?
+O que o Grêmio Raízes diz sobre magia e poder?
 
-Que qualquer sistema que proíbe multimagia o faz para proteger quem define as categorias — não para proteger os estudantes.
+Que qualquer sistema que proíbe multimagia o faz para proteger quem define as categorias — não para proteger os praticantes.
 
-A Regra da Trilha Única que governa a Escola do Covil da Floresta Convergente não é pedagogia. É controle. Exigir que cada praticante se especialize em uma única disciplina garante que ninguém acumule conhecimento suficiente para questionar o sistema como um todo. A maior ameaça ao sistema não é quem desobedece por ideologia — é quem desobedece por necessidade e descobre que as regras eram desnecessárias o tempo todo.
+A Regra da Trilha Única que governa o Grêmio Raízes da Floresta Convergente não é pedagogia. É controle. Exigir que cada praticante se especialize em uma única disciplina garante que ninguém acumule conhecimento suficiente para questionar o sistema como um todo. A maior ameaça ao sistema não é quem desobedece por ideologia — é quem desobedece por necessidade e descobre que as regras eram desnecessárias o tempo todo.
 
 Para a Academia Arcana Victory, a pergunta que o Covil coloca é: *quais regras do currículo existem por razões pedagógicas, e quais existem porque são convenientes para quem as escreveu?* V3ctor1us otimiza para resultados mensuráveis. O que não é mensurável — a magia que um aluno inventa, a abordagem que não está no currículo, o método sem precedente — não aparece nos cálculos.
 
@@ -27,11 +27,13 @@ Para a Academia Arcana Victory, a pergunta que o Covil coloca é: *quais regras 
 
 A Floresta Convergente é uma região de densa vegetação arcana ao sul de Vallindra onde a magia cresce de forma mais literal do que metafórica — as plantas absorvem energia arcana, as criaturas exalam bile, e o próprio terreno reage a feitiços com contra-resposta não intencional.
 
-É o ambiente menos controlável do continente, e por isso precisamente onde a **Escola do Covil** foi fundada há dois séculos. O raciocínio original era que estudantes em ambiente hostil aprendem mais rápido. O raciocínio atual é que a escola ficou aqui porque a cidade que deveria recebê-la decidiu que o modelo pedagógico era inconveniente.
+É o ambiente menos controlável do continente, e por isso precisamente onde o **Grêmio Raízes** foi fundado há dois séculos. O raciocínio original era que praticantes em ambiente hostil aprendem mais rápido. O raciocínio atual é que o grêmio ficou aqui porque a cidade que deveria recebê-lo decidiu que o modelo era inconveniente.
 
-A Escola do Covil é dividida internamente. A tradição velha quer restaurar a **Trilha Única** como regra absoluta. A nova geração — maioria nos corredores, minoria no corpo docente — usa **Magia de Bile** em qualquer forma, sem especialização. A Reitora atual, Mestra Venarum, não se posiciona publicamente. Seus registros de voto interno na Câmara de Mestres são selados.
+O Grêmio Raízes é dividido internamente. A tradição velha quer restaurar a **Trilha Única** como regra absoluta. A nova geração — maioria nos corredores, minoria no corpo docente — usa **Magia de Bile** em qualquer forma, sem especialização. A Reitora atual, Mestra Venarum, não se posiciona publicamente. Seus registros de voto interno na Câmara de Mestres são selados.
 
 O que une os dois lados é que ninguém quer saber o que as bruxas irregulares que moram na floresta estão desenvolvendo por conta própria — porque ambos os lados têm razões para não querer a resposta.
+
+**Status na Academia Victory:** O Grêmio Raízes não é uma escola parceira — é uma instituição externa independente. Alunos da Academia que passam um semestre na Floresta Convergente fazem isso por conta própria, sem reconhecimento curricular oficial. O que trazem de volta — métodos, combinações, abordagens que V3ctor1us não cataloga — é o verdadeiro produto da experiência. A filiação dupla existe na prática; na documentação, não existe nenhuma.
 
 ---
 
@@ -168,9 +170,9 @@ O Palisman não é escolhido. É esculpido ou encontrado em forma que o pratican
 
 ---
 
-## 5. A Escola do Covil vs. A Academia Victory
+## 5. O Grêmio Raízes vs. A Academia Victory
 
-| Aspecto | Escola do Covil da Floresta Convergente | Academia Victory |
+| Aspecto | Grêmio Raízes da Floresta Convergente | Academia Victory |
 |---------|-----------------------------------------|-----------------|
 | **Especialização** | Trilha única obrigatória (facção conservadora) ou Bile irrestrita (nova geração) | Grêmios por afinidade, não por disciplina exclusiva; interescola incentivada |
 | **Sanção à dissidência** | Status Irregular + acesso negado a recursos | Reprimenda formal; V3ctor1us registra, mas raramente escalona |
@@ -197,7 +199,7 @@ O aluno é colocado em período de observação. Depois de três reavaliações,
 
 ## 7. Para o Mestre: Quando a Regra É o Primeiro Obstáculo
 
-A Escola do Covil faz algo raro: torna o sistema educacional em si o primeiro antagonista. Não um professor ruim. Não um bully. A instituição, com suas regras de Trilha única e suas câmaras de voto selado, é a ameaça primária antes de qualquer antagonista individual aparecer.
+O Grêmio Raízes faz algo raro: torna o sistema institucional em si o primeiro antagonista. Não um professor ruim. Não um bully. A instituição, com suas regras de Trilha única e suas câmaras de voto selado, é a ameaça primária antes de qualquer antagonista individual aparecer.
 
 Para o Mestre de Academia Arcana Victory, isso é um lembrete: **a estrutura pode ser fonte de conflito tanto quanto os monstros**. Quando uma burocracia esmaga uma boa ideia, quando uma regra protege o poder em vez de proteger os estudantes, quando V3ctor1us diz "não" por razões que não fazem sentido para ninguém de fora — isso é narrativa de instituição como antagonista.
 

@@ -1,7 +1,7 @@
-# Capítulo 2 — Campo das Convergências
+# Capítulo 2 — Ordem das Convergências
 
 > *"Ser descendente de uma divindade da Era das Arcas não é um superpoder. É uma herança que ninguém pediu de uma entidade que existia antes da linguagem. O treinamento é para lidar com o peso, não para celebrar a origem."*
-> — Mestre Cadogan, *Orientação de Chegada*, Campo das Convergências
+> — Mestre Cadogan, *Orientação de Chegada*, Ordem das Convergências
 
 ---
 
@@ -11,9 +11,9 @@
 
 ## Integração com o Sistema de Legado (cap00)
 
-O Campo das Convergências é a instância do Sistema de Legado em que a herança opera por **Sangue puro**. O poder não é aprendido, não é escolhido, e não pode ser recusado — está literalmente no corpo do personagem antes dele nascer. O subsistema de Herança Arcana deste capítulo (Dom Passivo + Marca Narrativa) é a instância mais direta e modular do framework de Linhagem: pode ser portada para qualquer campanha onde PCs têm origem extraordinária.
+A Ordem das Convergências é a instância do Sistema de Legado em que a herança opera por **Sangue puro**. O poder não é aprendido, não é escolhido, e não pode ser recusado — está literalmente no corpo do personagem antes dele nascer. O subsistema de Herança Arcana deste capítulo (Dom Passivo + Marca Narrativa) é a instância mais direta e modular do framework de Linhagem: pode ser portada para qualquer campanha onde PCs têm origem extraordinária.
 
-| Componente | No Campo das Convergências |
+| Componente | Na Ordem das Convergências |
 |------------|---------------------------|
 | **Fonte de Legado** | Sangue (divindade ancestral da Era das Arcas) |
 | **Traço de Linhagem** | Dom Passivo — poder automático ligado à divindade (seção 2.3) |
@@ -25,19 +25,19 @@ O Campo das Convergências é a instância do Sistema de Legado em que a heranç
 
 ---
 
-## 1. O Campo
+## 1. A Ordem
 
-O **Campo das Convergências** é uma instalação de treinamento localizada numa praia de areia escura no litoral de Arrecife Arcano — próxima o suficiente da cidade para que pessoal de chegue rapidamente, isolada o suficiente para que o que acontece lá não assuste o comércio.
+A **Ordem das Convergências** é uma instituição de formação localizada numa praia de areia escura no litoral de Arrecife Arcano — próxima o suficiente da cidade para que pessoal de chegue rapidamente, isolada o suficiente para que o que acontece lá não assuste o comércio.
 
-Não é uma escola no sentido convencional. Não há salas de aula, não há currículo fixo. É um campo de treinamento: você aprende com quem chegou antes de você, errando em contexto controlado, e desenvolvendo o controle sobre poderes que existem independentemente de sua vontade. A alternativa ao treinamento não é reprovação — é eventualmente quebrar algo que não pode ser consertado.
+Não é uma escola no sentido convencional. Não há salas de aula, não há currículo fixo. A formação acontece por imersão: você aprende com quem chegou antes de você, errando em contexto controlado, e desenvolvendo o controle sobre poderes que existem independentemente de sua vontade. A alternativa ao treinamento não é reprovação — é eventualmente quebrar algo que não pode ser consertado.
 
-Os estudantes chegam de formas variadas: identificados pela Academia durante avaliação de potencial arcano incomum, encaminhados por famílias que reconheceram a origem, ou simplesmente aparecendo à porta depois de um incidente que não conseguem explicar.
+Os membros chegam de formas variadas: identificados pela Academia durante avaliação de potencial arcano incomum, encaminhados por famílias que reconheceram a origem, ou simplesmente aparecendo à porta depois de um incidente que não conseguem explicar.
 
-O Campo tem um guia geral (**Mestre Cadogan**) e uma estrutura de *células* — grupos por linhagem de divindade, não por habilidade ou escolha. A célula é sua família enquanto o treinamento dura.
+A Ordem tem um guia geral (**Mestre Cadogan**) e uma estrutura de *células* — grupos por linhagem de divindade, não por habilidade ou escolha. A célula é sua família enquanto o treinamento dura.
 
 ### As Divindades da Era das Arcas
 
-Na cosmologia do Campo, as divindades relevantes não são entidades de culto ativo — são fundões de poder arcano que existiram antes das Arcas se estabilizarem e deixaram linhagens em famílias humanas quando o plano foi selado. Elas não desapareceram completamente; ficaram como ecos ou presença difusa que os descendentes sentem às vezes como impulso, às vezes como sonho.
+Na cosmologia da Ordem, as divindades relevantes não são entidades de culto ativo — são fundões de poder arcano que existiram antes das Arcas se estabilizarem e deixaram linhagens em famílias humanas quando o plano foi selado. Elas não desapareceram completamente; ficaram como ecos ou presença difusa que os descendentes sentem às vezes como impulso, às vezes como sonho.
 
 | Divindade | Domínio | Traço linhagístico visível |
 |-----------|---------|---------------------------|
@@ -52,15 +52,15 @@ Na cosmologia do Campo, as divindades relevantes não são entidades de culto at
 
 ### 2.1 Herança Arcana como Fonte de Poder
 
-No Campo, poderes ancestrais são funcionalmente automáticos — um descendente do Senhor das Marés não "aprende" a controlar correntes. A relação com a água é parte constitutiva do ser. O treinamento existe para refinar, conter, e direcionar — não para criar.
+Na Ordem, poderes ancestrais são funcionalmente automáticos — um descendente do Senhor das Marés não "aprende" a controlar correntes. A relação com a água é parte constitutiva do ser. O treinamento existe para refinar, conter, e direcionar — não para criar.
 
 Isso mapeia com a diferença entre **Kits** e **Poderes Temáticos** no 3D&T Victory. O kit define a estrutura; a herança divina define o sabor automático daquela estrutura.
 
 ### 2.2 Mapeamento Mecânico
 
-| Elemento do Campo | Equivalente em 3D&T Victory |
+| Elemento da Ordem | Equivalente em 3D&T Victory |
 |---|---|
-| Campo das Convergências | Campo de treinamento como modo de campanha alternativo |
+| Ordem das Convergências | Ordem de formação como modo de campanha alternativo |
 | Células por divindade | Subgrêmio temático — pertencimento por herança |
 | Entidades que rastreiam descendentes | Criaturas com Instinto de Rastro Arcano |
 | Profecias da Era das Arcas | N1 — Estruturas Narrativas; profecias como mecânica de arco |
@@ -98,7 +98,7 @@ Quando um PC tem origem divina da Era das Arcas, ele recebe:
 
 ---
 
-## 3. Personagens do Campo
+## 3. Personagens da Ordem
 
 ### FICHA: Kael Marin
 **Grêmio:** Chama Perpétua *(candidatura por impulso; ficou porque percebeu que era o lugar certo)*
@@ -198,21 +198,21 @@ Quando um PC tem origem divina da Era das Arcas, ele recebe:
 ---
 
 ### FICHA: Mestre Cadogan
-**Função:** Guia Geral do Campo das Convergências
+**Função:** Guia Geral da Ordem das Convergências
 **Kit:** Arcavaleiro Sênior *(Veterano das Arcas)*
 **Conceito:** O mentor que já errou todas os erros que os estudantes vão cometer e está aqui para garantir que o custo seja menor
 
 - P: 3 | H: 4 | R: 3
-- **O segredo:** Cadogan não é descendente de divindade. Está no Campo há 30 anos por outra razão — uma que ele diz ter "resolvido" mas que os estudantes eventualmente percebem que não foi. O que ele encontrou no Campo quando chegou mudou o que ele entendia sobre as divindades da Era das Arcas.
+- **O segredo:** Cadogan não é descendente de divindade. Está na Ordem há 30 anos por outra razão — uma que ele diz ter "resolvido" mas que os membros eventualmente percebem que não foi. O que ele encontrou na Ordem quando chegou mudou o que ele entendia sobre as divindades da Era das Arcas.
 - Na mesa: mentor principal. Fonte de missões. A figura que os PCs vão querer proteger quando descobrirem o segredo — e ele não vai deixar.
 
 ---
 
-## 4. O Campo vs. A Nossa
+## 4. A Ordem vs. A Academia Victory
 
-| Aspecto | Campo das Convergências | Academia Victory |
+| Aspecto | Ordem das Convergências | Academia Victory |
 |---|---|---|
-| **Modelo de ensino** | Campo de treinamento — aprende-se na prática e com os pares | Escola estruturada com disciplinas e currículo |
+| **Modelo de ensino** | Ordem de formação — aprende-se na prática e com os pares | Escola estruturada com disciplinas e currículo |
 | **Por que você está lá** | Você chegou porque sua linhagem é perigo latente | Você aplicou e foi aceito |
 | **O que te define** | De qual divindade ancestral você descende | O que você escolheu estudar e com quem |
 | **Pertencimento** | Célula por divindade — sem escolha | Grêmio por candidatura — com escolha |
@@ -232,7 +232,7 @@ Durante avaliação de potencial no início do semestre, V3ctor1us processa um e
 
 O estudante se apresenta: nome Theo Sarn, chega do interior. Há uma "situação específica" acontecendo em Arrecife Arcano que envolve limiares entre estados — portais que não deveriam estar se abrindo, criaturas de transição saindo onde não deveriam.
 
-**O problema:** Algo está usando a presença de descendentes do Deus das Sombras como âncora para forçar limiares. A concentração de descendentes no Campo está accelerando o processo. Theo pode rastrear a origem — mas tem que estar dentro de Arrecife Arcano para isso, não no Campo.
+**O problema:** Algo está usando a presença de descendentes do Deus das Sombras como âncora para forçar limiares. A concentração de descendentes na Ordem está accelerando o processo. Theo pode rastrear a origem — mas tem que estar dentro de Arrecife Arcano para isso, não na Ordem.
 
 **Mecânica:** Os PCs trabalham com Theo enquanto ele navega um ambiente escolar que considera suavizado demais. Criar espaço para que ele funcione sem causar incidentes é trabalho dos PCs.
 
@@ -240,7 +240,7 @@ O estudante se apresenta: nome Theo Sarn, chega do interior. Há uma "situação
 
 ### 5.2 "A Profecia Incompleta"
 
-Um texto chega ao Arquivo das Correntes vindo do Campo — fragmento de inscrição em pedra pré-Arcas, tradução incompleta. Reconstrução aproximada:
+Um texto chega ao Arquivo das Correntes vindo da Ordem — fragmento de inscrição em pedra pré-Arcas, tradução incompleta. Reconstrução aproximada:
 
 > *"Quando os quatro rios de sangue convergirem no ponto de areia e água,*
 > *a cidade arcana enfrentará a escolha que suas fundadoras adiaram.*
@@ -270,7 +270,7 @@ Os PCs agora têm uma profecia da Era das Arcas — vaga, inevitável, e com uma
 
 ## 7. Para o Mestre: A Herança Que Você Não Pediu
 
-O coração do Campo das Convergências é uma questão simples: **o que você faz com o que você é, quando o que você é não foi sua escolha?**
+O coração do Ordem das Convergências é uma questão simples: **o que você faz com o que você é, quando o que você é não foi sua escolha?**
 
 Kael não pediu para ser descendente do Senhor das Marés. Lyra não pediu para ter a precisão da Deusa do Conhecimento. Theo certamente não pediu para carregar a marca do Deus das Sombras. Mas a herança chegou de qualquer forma — com poderes, com responsabilidades, com entidades que os rastreiam, e com divindades que aparecem quando precisam de algo.
 

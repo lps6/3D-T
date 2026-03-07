@@ -27,7 +27,7 @@ Thornwall é a instância do Sistema de Legado em que a herança opera por **Tra
 
 ## 1. A Escola
 
-**Academia Thornwall** é uma instituição britânica de quatro séculos localizada em ruínas medievais reconvertidas no interior do País de Gales. Não é a escola mais antiga do mundo arcano — mas é, segundo seus próprios alunos, a mais honesta na forma como organiza seus estudantes: não por habilidade, não por conhecimento, mas por **caráter**.
+**Academia Thornwall** — conhecida internacionalmente como **Brambleshire Academy**, nome oficial que aparece em documentos de intercâmbio e cerimônias formais — é uma instituição britânica de quatro séculos localizada em ruínas medievais reconvertidas no interior do País de Gales. Os alunos e o corpo docente usam "Thornwall" no dia a dia; "Brambleshire" é o nome que a academia apresenta ao mundo externo. Não é a escola mais antiga do mundo arcano — mas é, segundo seus próprios alunos, a mais honesta na forma como organiza seus estudantes: não por habilidade, não por conhecimento, mas por **caráter**.
 
 Na entrada, uma placa em latim. Tradução aproximada: *"Aqui você aprende quem é. O que fazer com isso é escolha sua."*
 

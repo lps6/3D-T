@@ -89,9 +89,14 @@ O campo de batalha não tem grade. Personagens e unidades são representados por
 >
 > Quando dois jogadores discordam sobre cobertura, linha de visão, ou se uma miniatura está "dentro" de uma faixa de distância:
 >
-> 1. O **defensor** tem a decisão final em dúvidas de cobertura.
-> 2. Em casos de dúvida genuína sobre distância ou linha de visão, role 1d6: par = a favor do defensor (em cobertura, fora do alcance, etc.); ímpar = a favor do atacante.
-> 3. Uma vez decidido, anote o entendimento para o resto da sessão — consistência vale mais do que precisão.
+> 1. **Declare a dúvida em uma frase.** Ex.: "Ele está em Cobertura Pesada ou parcial?"
+> 2. **Medição única e visível.** Um jogador mede uma vez, o outro confirma, sem reposicionar miniaturas.
+> 3. **Princípio do defensor.** Em cobertura e linha de visão parcial, o defensor recebe a interpretação mais favorável.
+> 4. **Dúvida persistente = rolagem rápida.** Role 1d6: par favorece o defensor; ímpar favorece o atacante.
+> 5. **Fechamento em 30 segundos.** Se a mesa ainda discordar, o Mestre arbitra e segue; sem reabrir no mesmo turno.
+> 6. **Consistência da sessão.** O critério adotado vira padrão até o fim da sessão e deve ser anotado.
+
+> **Resumo operacional:** medir uma vez, decidir rápido, registrar padrão. Fluxo de combate vale mais que milimetragem perfeita.
 
 ---
 

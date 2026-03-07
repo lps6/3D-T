@@ -29,7 +29,7 @@ const CONTENT_MAP = [
     id: 'livro',
     group: 'academia',
     title: 'Academia Arcana Victory',
-    subtitle: 'DLC Base',
+    subtitle: 'DLC Base de Escola de Magia & Aventura',
     path: 'Academia Arcana Victory/Livro',
     chapters: [
       { id: 'Indice',  file: 'indice.md',                              title: 'Índice Geral' },
@@ -211,8 +211,8 @@ const CONTENT_MAP = [
   {
     id: 'btv-livro',
     group: 'batalha',
-    title: 'Livro Base',
-    subtitle: 'Batalha Total Victory',
+    title: 'Batalha Total Victory',
+    subtitle: 'DLC Base de Combate de Miniaturas',
     path: 'Batalha Total Victory/Livro',
     chapters: [
       { id: 'intro',    file: '00_introducao.md',                  title: 'Introdução' },
@@ -223,9 +223,6 @@ const CONTENT_MAP = [
       { id: 'O Custo Humano',    file: 'cap05_o_custo_humano.md',           title: 'Cap. 5 — O Custo Humano' },
       { id: 'Motores da Destruição',    file: 'cap06_motores_da_destruicao.md',    title: 'Cap. 6 — Motores da Destruição' },
       { id: 'Comandando a Batalha',    file: 'cap07_comandando_a_batalha.md',     title: 'Cap. 7 — Comandando a Batalha' },
-      { id: 'Fantasia Medieval',     file: 'apendice_a_fantasia_medieval.md',   title: 'Apêndice A — Fantasia Medieval' },
-      { id: 'Grimdark Sci-Fi',     file: 'apendice_b_grimdark_scifi.md',      title: 'Apêndice B — Grimdark Sci-Fi' },
-      { id: 'FALGSC',     file: 'apendice_c_falgsc.md',              title: 'Apêndice C — Hist. Alternativa' },
     ],
   },
 
@@ -233,7 +230,7 @@ const CONTENT_MAP = [
     id: 'btv-estelar',
     group: 'batalha',
     title: 'Fronteira Estelar',
-    subtitle: 'Combate espacial',
+    subtitle: 'Combate espacial na fronteira entre um império galáctico decadente e uma cooperativa espacial de comunas e coletivos anarquistas',
     path: 'Batalha Total Victory/Suplementos/Fronteira_Estelar',
     chapters: [
       { id: 'Introdução',   file: '00_introducao_estelar.md',      title: 'Introdução' },
@@ -244,6 +241,8 @@ const CONTENT_MAP = [
       { id: 'Bestiário Estelar',   file: 'cap05_bestiario_estelar.md',    title: 'Cap. 5 — Bestiário Estelar' },
       { id: 'Facções e Cenários',   file: 'cap06_faccoes_e_cenarios.md',   title: 'Cap. 6 — Facções e Cenários' },
       { id: 'Campanhas Estelares',   file: 'cap07_campanhas_estelares.md',  title: 'Cap. 7 — Campanhas Estelares' },
+      { id: 'Legacy B (Core)',   file: 'legacy_apendice_b_grimdark_scifi.md',  title: 'Legacy — Apêndice B (Core)' },
+      { id: 'Legacy C (Core)',   file: 'legacy_apendice_c_falgsc.md',  title: 'Legacy — Apêndice C (Core)' },
     ],
   },
 
@@ -251,7 +250,7 @@ const CONTENT_MAP = [
     id: 'btv-mar',
     group: 'batalha',
     title: 'Mar de Lendas',
-    subtitle: 'Combate naval',
+    subtitle: 'Combate naval, ilhas fantásticas, pirataria e monstros marinhos',
     path: 'Batalha Total Victory/Suplementos/Mar_de_Lendas',
     chapters: [
       { id: 'Introdução',   file: '00_introducao_maritima.md',             title: 'Introdução' },
@@ -264,4 +263,25 @@ const CONTENT_MAP = [
       { id: 'Campanhas Marítimas',   file: 'cap07_campanhas_maritimas.md',          title: 'Cap. 7 — Campanhas Marítimas' },
     ],
   },
+/*
+  {
+    id: 'btv-coroas',
+    group: 'batalha',
+    title: 'Guerra das Coroas',
+    subtitle: 'Campanha medieval de cerco, logística e política de guerra',
+    path: 'Batalha Total Victory/Suplementos/Guerra_das_Coroas',
+    chapters: [
+      { id: 'Índice',   file: 'indice.md',                           title: 'Índice' },
+      { id: 'Introdução',   file: '00_introducao_guerra_das_coroas.md',    title: 'Introdução' },
+      { id: 'Escalas na Terra',   file: 'cap01_escalas_na_terra.md',            title: 'Cap. 1 — Escalas na Terra' },
+      { id: 'Campo de Batalha Medieval',   file: 'cap02_campo_de_batalha_medieval.md',  title: 'Cap. 2 — Campo de Batalha Medieval' },
+      { id: 'Exércitos e Companhias',   file: 'cap03_exercitos_e_companhias.md',      title: 'Cap. 3 — Exércitos e Companhias' },
+      { id: 'Cercos e Fortalezas',   file: 'cap04_cercos_e_fortalezas.md',          title: 'Cap. 4 — Cercos e Fortalezas' },
+      { id: 'Logística e Estações',   file: 'cap05_logistica_e_estacoes.md',         title: 'Cap. 5 — Logística e Estações' },
+      { id: 'Facções e Personagens',   file: 'cap06_faccoes_e_personagens.md',        title: 'Cap. 6 — Facções e Personagens' },
+      { id: 'Campanhas de Reino',   file: 'cap07_campanhas_de_reino.md',          title: 'Cap. 7 — Campanhas de Reino' },
+      { id: 'Legacy A (Core)',   file: 'legacy_apendice_a_fantasia_medieval.md',          title: 'Legacy — Apêndice A (Core)' },
+    ],
+  },
+  */
 ];
