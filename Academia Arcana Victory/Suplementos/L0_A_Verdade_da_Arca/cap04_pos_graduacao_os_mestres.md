@@ -293,8 +293,7 @@ Este frame de campanha não tem fim definido — pode durar anos de tempo de jog
 
 ---
 
-> **Marcela Alban:** *"O que torna C3 diferente de tudo que veio antes não é a escala — é a responsabilidade. Como estudantes, os PJs eram agentes que perturbavam o sistema. Como professores, são parte do sistema. A tensão de saber o que sabem e ao mesmo tempo precisar fazer o system funcionar para os alunos que dependem deles — isso é drama adulto real. Não pule essa textura."*
-
+ 
 ---
 
 *Este capítulo usa e expande o material de:* ***C3 — Pós-Graduação: Os Mestres***

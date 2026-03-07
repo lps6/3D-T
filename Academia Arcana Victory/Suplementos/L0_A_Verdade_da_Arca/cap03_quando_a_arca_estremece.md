@@ -210,8 +210,7 @@ A porta para a Ala Leste está à frente dos PJs.
 
 **Independentemente da opção escolhida**, o arco encerra com peso silencioso. Este módulo *não* revela o conteúdo da Ala Leste. Isso é deliberado — é a abertura para C3 ou para o Mestre construir o arco central da sua campanha.
 
-> **Bruno Schlatter:** *"O cliffhanger não pode ser preguiçoso. O peso do silêncio no final precisa ser ganho pelos 3 atos anteriores. Se chegaram até aqui, eles merecem aquele momento — e a câmara silenciosa com a porta comum à frente deles é exatamente o peso certo."*
-
+ 
 ---
 
 ## NPCs desta Aventura

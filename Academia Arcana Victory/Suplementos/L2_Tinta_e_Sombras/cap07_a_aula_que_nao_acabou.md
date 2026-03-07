@@ -1,9 +1,7 @@
 # Cap. 07 — A Aula que Não Acabou
 ## Aventura para 3–5 Personagens (2 Sessões)
 
-> *"Quando o Cap. 05 descreve o Protocolo de Sobrevivência em abstrato, esta aventura mostra como é na prática. A prova deu errado, o professor caiu, e agora são vocês e o campus."*
-> — Bruno Schlatter
-
+ 
 ---
 
 ## Premissa

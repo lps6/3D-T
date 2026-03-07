@@ -1,9 +1,7 @@
 # Apêndice — Como Usar Este Livro Modularmente
 ## Guia de Combinações Parciais
 
-> *"Nem toda campanha começa no começo. O importante é que cada ponto de entrada seja completo em si mesmo."*
-> — Bruno Schlatter
-
+ 
 ---
 
 ## O Problema da Ordem Cronológica

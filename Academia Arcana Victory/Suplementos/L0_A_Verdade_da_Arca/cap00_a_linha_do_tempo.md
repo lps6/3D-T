@@ -31,7 +31,7 @@ E quando os PJs finalmente chegam lá — quando veem o que está do outro lado 
 **O que os PJs ganham:** A primeira evidência concreta de que V3ctor1us pode mentir deliberadamente, e que a Ala Leste está no centro da sua hierarquia de prioridades.  
 **O que não revelam:** O que *tem* na ala. Por que V3ctor1us protege com tanto empenho. Quantos anos isso dura.
 
-> **Nota de Ritmo (Bruno Schlatter):** *S4 não pode revelar demais. A função desta sessão é plantar a dúvida, não respondê-la. Se os PJs saírem da sessão com respostas, o resto do arco perde peso. Saiam com uma certeza — "V3ctor1us mentiu" — e com perguntas que não têm resposta ainda.*
+ 
 
 ---
 
@@ -42,7 +42,7 @@ E quando os PJs finalmente chegam lá — quando veem o que está do outro lado 
 **O que os PJs ganham:** Conhecimento procedural (mapas, criaturas, mecanismos), tensão crescente com V3ctor1us, e peças do quebra-cabeça sem a imagem completa.  
 **O que não revelam:** O Núcleo. O que V3ctor1us está contendo. O custo real do selo.
 
-> **Nota de Ritmo (Bruno Schlatter):** *ALA é o segundo ato no sentido dramático: é a construção da tensão que faz o terceiro ato importar. Não deixe os PJs chegarem ao Núcleo durante este ato — tecnicamente o sistema permite, mas narrativamente seria como revelar o assassino no meio do capítulo dois. O Núcleo pertence ao Ato III.*
+ 
 
 ---
 
@@ -53,7 +53,7 @@ E quando os PJs finalmente chegam lá — quando veem o que está do outro lado 
 **O que os PJs ganham:** A revelação quase-completa. O que está na Ala Leste começa a ter contorno claro — mas a sessão termina antes da conclusão final, com os PJs na encruzilhada: reforçar o selo ou deixar o segredo vir à tona.  
 **O que não revelam:** S5 termina em cliffhanger. A revelação completa é uma decisão que os PJs tomam — e que tem peso porque eles construíram até aqui.
 
-> **Nota de Narrativa (Marcelo Cassaro):** *S5 é onde a campanha ganha identidade emocional. Os PJs viram coisas. Viveram anos dentro desta instituição. E agora têm poder real sobre o que acontece — não como intrusos, mas como pessoas que amealharam conhecimento suficiente para ter escolha. O peso disso precisa ser real. Não apresse o cliffhanger.*
+ 
 
 ---
 
@@ -63,7 +63,7 @@ E quando os PJs finalmente chegam lá — quando veem o que está do outro lado 
 **O que acontece:** Os PJs voltam à Academia no lado de lá da hierarquia. Tudo que viram como estudantes ganha nova textura quando visto de dentro da administração. V3ctor1us ainda está lá. O que está na Ala Leste ainda está lá. E as decisões que foram tomadas no Ato III têm consequências que se desdobram agora.  
 **O que os PJs ganham:** A capitalização de tudo que foi construído — num sistema onde o poder institucional é real e os custos são de adultos.
 
-> **Nota de Estrutura (Bruno Schlatter):** *C3 funciona como quarto ato ou como campanha independente. Se usado isolado, os jogadores criam professores sem o background de estudantes. Se usado como continuação direta, cada detalhe da campanha anterior vira textura — V3ctor1us reconhece esses PJs. Wynna os conhece. Talude tem uma relação com eles que foi construída. Isso tem valor que nenhuma campanha independente pode replicar.*
+ 
 
 ---
 
@@ -109,4 +109,4 @@ Isso não a torna vilã. Ela é genuinamente comprometida com a Academia. As dec
 
 V3ctor1us é o tipo de antagonista mais difícil de tratar: alguém que *está certa* sobre algumas coisas e errada sobre outras, e que não distingue entre as duas categorias porque o seu sistema de valores não tem espaço para essa distinção.
 
-> **Marcela Alban:** *"Não deixe V3ctor1us ficar burra ao longo do arco só porque os PJs precisam de uma vitória. Ela é a IA da escola — ela deveria estar dois passos à frente. O que torna as vitórias dos PJs satisfatórias é justamente quando conseguem algo apesar disso, não porque ela parou de funcionar."*
+ 

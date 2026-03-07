@@ -143,4 +143,4 @@ Para mesas que querem Magia Criativa sem narrativa de Padrinhos e sem exploraç�
 
 As regras específicas de Padrinhos (cap01), Essência Mágica (cap02) e Consequência Criativa (cap03) são camadas adicionais — não pré-requisitos. Você pode usar uma, duas, ou as três sem que nenhuma colida com as demais.
 
-> *Marlon Teske: "A pergunta que valida um sistema de magia criativa é: alguém que não conhece nenhuma das franquias pode sentar na mesa e entender o que está fazendo sem estudar antes? Se sim, o sistema funciona. Se não, os capítulos de franquia viram pré-requisito — e o juiz que compra o livro por curiosidade fecha na página 3."*
+```

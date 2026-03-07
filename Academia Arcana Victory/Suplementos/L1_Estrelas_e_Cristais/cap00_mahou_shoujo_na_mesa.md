@@ -1,11 +1,6 @@
 # Cap. 00 — Mahou Shoujo na Mesa
 ## Guia de Tom e Estrutura para Campanhas Luminosas
 
-> *"Não é um gênero ingênuo. É um gênero que olhou para a dor e disse: eu não aceito que este seja o fim. Isso requer mais coragem, não menos."*
-> — Marcela Alban
-
----
-
 ## O Que Você Está Narrando
 
 *Mahou shoujo* — garota mágica — é, superficialmente, sobre garotas com poderes especiais em trajes coloridos que combatem forças do mal. Mecanicamente, é sobre identidade, convicção e relação como motor de poder.

@@ -1,11 +1,6 @@
 # Cap. 00 — Calibrando a Escuridão
 ## Guia de Segurança e Tom para Campanhas Sombrias
 
-> *"Escuridão bem executada é mais impactante do que escuridão gratuita — e é mais fácil de jogar porque tem propósito. O propósito torna o peso suportável."*
-> — Marcela Alban
-
----
-
 ## Por Que Este Capítulo Existe
 
 O conteúdo deste livro envolve: sobrevivência escolar com mortalidade real (F3.2), custo emocional de talento intelectual exaustivo (F3.3), dependência como subplote (T1), investigação de crimes no campus (T2), colapso de estruturas de proteção (Y1), e horror atmosférico (S2).

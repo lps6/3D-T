@@ -1,9 +1,7 @@
 # Cap. 07 — O Primeiro Despertar
 ## Aventura Nova: Quando o Poder Chega Sem Ser Chamado
 
-> *"Não existe instrução de manual para isso. Existe a pessoa na sua frente, com algo que ela não entende, e você decide o que faz com esse momento."*
-> — Marcela Alban
-
+ 
 ---
 
 **Tipo:** One-Shot (ou Sessão de Abertura de Campanha)

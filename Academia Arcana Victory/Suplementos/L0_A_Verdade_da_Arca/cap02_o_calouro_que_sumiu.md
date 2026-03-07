@@ -23,8 +23,7 @@ Esta sessão existe para fazer os PJs descobrirem — de forma que eles *provem*
 
 Não apresse a conclusão. Deixe a realização chegar aos PJs organicamente, pela soma de evidências que vão encontrando.
 
-> **Marcelo Cassaro:** *"A aventura que o jogador vive primeiro vende todas as outras. Esta é a primeira porta do arco da Ala Leste. Se ela for bem, o grupo vai querer abrir todas as portas seguintes. Se for fraca, o arco inteiro começa capenga."*
-
+ 
 ---
 
 ## Sinopse

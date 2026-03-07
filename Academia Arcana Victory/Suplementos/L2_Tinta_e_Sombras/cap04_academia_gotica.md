@@ -1,11 +1,6 @@
 # Cap. 04 — Academia Gótica
 ## O Framework de Mistério
 
-> *"Mistério não é manter o jogador no escuro. É dar pistas suficientes para ele montar o quebra-cabeça e sentir que descobriu sozinho. Este capítulo é uma ferramenta para o Mestre — não um subsistema de regras."*
-> — Marcela Alban
-
----
-
 ## O Conceito
 
 A Academia Gótica é um modo de campanha onde o campus se torna cenário de investigação. Corredores escuros, segredos enterrados, professores que sabem mais do que dizem. Não é horror sobrenatural — é **horror institucional**, o medo de que a escola que deveria proteger tem algo a esconder.

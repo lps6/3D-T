@@ -58,8 +58,4 @@ O que *não* muda entre as opções: V3ctor1us tomou uma decisão sozinha, déca
 
 ---
 
-## Notas dos Editores
 
-> **Marcelo Cassaro:** *"Este livro precisa ser tratado como produto premium. ALA já é forte, mas a costura entre S4 → ALA → S5 → C3 precisa fluir como história, não como coletânea. Cada módulo deve ler como se fosse escrito para este arco — mesmo que cada um funcione isolado. A aventura que o jogador vive primeiro vende as outras."*
-
-> **Bruno Schlatter:** *"Do ponto de vista de estrutura: o ritmo importa. S4 é a semente — não pode revelar demais. ALA é a acumulação de tensão — não pode resolver nada. S5 é o ponto de não-retorno. C3 é o peso das consequências. Qualquer módulo que corte esse ritmo quebra o arco inteiro."*
