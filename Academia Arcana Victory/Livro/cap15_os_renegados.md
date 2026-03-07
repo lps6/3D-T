@@ -335,7 +335,7 @@ Uma mesa com os três kits ativos tem dinâmica particular:
 
 ---
 
-*Referências cruzadas: Kit Calouro Sortudo (base para Caminho Sem Magia) — Cap. 06. Acidente de Glifo e chegadas não-padrão — Cap. 02. V3ctor1us e arquivos de monitoramento — Cap. 09. Ermos de Talude e criaturas atraídas por Relíquias — Cap. 02. T4_Magia_Hard_e_Soft — limites de escala física vs. mágica.*
+*Referências cruzadas: Kit Calouro Sortudo (base para Caminho Sem Magia) — [Cap. 06](#cap06_mecanicas/cap06_mecanicas). Acidente de Glifo e chegadas não-padrão — [Cap. 02](#cap02_a_academia/cap02_a_academia). V3ctor1us e arquivos de monitoramento — [Cap. 09](#cap09_toolkit_mestre/cap09_toolkit_mestre). Ermos de Talude e criaturas atraídas por Relíquias — [Cap. 02](#cap02_a_academia/cap02_a_academia). T4_Magia_Hard_e_Soft — limites de escala física vs. mágica.*
 
 ---
 
@@ -350,7 +350,7 @@ Para jogar Academia Arcana Victory em sua plenitude, você precisará dos livros
 | Livro | Para que serve neste suplemento |
 |---|---|
 | **3D&T Victory** (livro básico) | Regras completas do sistema: atributos, testes, perícias, combate |
-| **Manual do Arcanauta** | Todos os kits do Capítulo 6, vantagens e desvantagens expandidas |
-| **Ferozes & Furiosos** | Fichas de criaturas, construtos, armadilhas e Arcanautas Rivais |
+| **[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)** | Todos os kits do [Capítulo 6](#cap06_mecanicas/cap06_mecanicas), vantagens e desvantagens expandidas |
+| **[Ferozes & Furiosos](https://jamboeditora.com.br/produto/ferozes-e-furiosos/)** | Fichas de criaturas, construtos, armadilhas e Arcanautas Rivais |
 
 > *"3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*

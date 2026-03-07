@@ -89,7 +89,7 @@ O problema que a Academia não ensina. A técnica gestual cria hábito — o cor
 - **Moderado → Leve:** 3 sessões com uso limitado (máximo 2/cena) + apoio narrativo
 - **Grave → Moderado:** Arco dedicado (5+ sessões) envolvendo reconhecimento do problema
 
-> **Nota:** Vício Arcano espelha mecânicas de dependência real. A conversa de sessão zero (Cap. 00) cobre este tema. Respeite.
+> **Nota:** Vício Arcano espelha mecânicas de dependência real. A conversa de sessão zero ([Cap. 00](#cap00_introducao/cap00_introducao)) cobre este tema. Respeite.
 
 ---
 
@@ -174,4 +174,4 @@ Uma nota no quadro: *"Técnicas de Conjuração Gestual Avançada. Sala 7, 19h, 
 
 ---
 
-*Referências: Liceu Benandanti — Cap. 07 do Livro-Base. Reynard — Cap. 05. Kit Duelista — Cap. 06. Cap. 00 — Calibrando a Escuridão. Cap. 01 — Pressão Ambiental.*
+*Referências: Liceu Benandanti — [Cap. 07](#cap07_mundo_ao_redor/cap07_mundo_ao_redor) do Livro-Base. Reynard — [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil). Kit Duelista — [Cap. 06](#cap06_mecanicas/cap06_mecanicas). [Cap. 00](#cap00_introducao/cap00_introducao) — Calibrando a Escuridão. [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) — Pressão Ambiental.*

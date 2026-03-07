@@ -42,12 +42,12 @@ Para mesas que *não* querem:
 
 | Arquivo | Conteúdo |
 |---------|---------|
-| [cap00_criatividade_com_paredes.md](cap00_criatividade_com_paredes.md) | Framework genérico de Magia Criativa — jogável sem nenhum subsistema adicional |
-| [cap01_desejos_e_travessuras.md](cap01_desejos_e_travessuras.md) | Tribunal das Fadas Arcanas: Desejos, Da Rules, Medidor de Necessidade, Padrinhos como NPCs |
-| [cap02_magia_dimensional.md](cap02_magia_dimensional.md) | Tradição da Essência Manifesta: Essência Mágica, Grimório Familiar, Portais, Dimensões |
-| [cap03_consequencia_criativa.md](cap03_consequencia_criativa.md) | Sistema unificado: como combinar desejos e magia livre na mesma campanha |
-| [cap04_o_desejo_dimensional.md](cap04_o_desejo_dimensional.md) | Aventura nova: 1–2 sessões, tom cômico, tabela de complicações crescentes |
-| [apendice_20_dimensoes.md](apendice_20_dimensoes.md) | "20 Dimensões em 1 Frase" — toolkit rápido de improviso dimensional |
+| [[[cap00_criatividade_com_paredes.md](#cap00_criatividade_com_paredes/cap00_criatividade_com_paredes)](#cap00_criatividade_com_paredes/cap00_criatividade_com_paredes)](#cap00_criatividade_com_paredes/cap00_criatividade_com_paredes) | Framework genérico de Magia Criativa — jogável sem nenhum subsistema adicional |
+| [[[cap01_desejos_e_travessuras.md](#cap01_desejos_e_travessuras/cap01_desejos_e_travessuras)](#cap01_desejos_e_travessuras/cap01_desejos_e_travessuras)](#cap01_desejos_e_travessuras/cap01_desejos_e_travessuras) | Tribunal das Fadas Arcanas: Desejos, Da Rules, Medidor de Necessidade, Padrinhos como NPCs |
+| [[[cap02_magia_dimensional.md](#cap02_magia_dimensional/cap02_magia_dimensional)](#cap02_magia_dimensional/cap02_magia_dimensional)](#cap02_magia_dimensional/cap02_magia_dimensional) | Tradição da Essência Manifesta: Essência Mágica, Grimório Familiar, Portais, Dimensões |
+| [[[cap03_consequencia_criativa.md](#cap03_consequencia_criativa/cap03_consequencia_criativa)](#cap03_consequencia_criativa/cap03_consequencia_criativa)](#cap03_consequencia_criativa/cap03_consequencia_criativa) | Sistema unificado: como combinar desejos e magia livre na mesma campanha |
+| [[[cap04_o_desejo_dimensional.md](#cap04_o_desejo_dimensional/cap04_o_desejo_dimensional)](#cap04_o_desejo_dimensional/cap04_o_desejo_dimensional)](#cap04_o_desejo_dimensional/cap04_o_desejo_dimensional) | Aventura nova: 1–2 sessões, tom cômico, tabela de complicações crescentes |
+| [[[apendice_20_dimensoes.md](#apendice_20_dimensoes/apendice_20_dimensoes)](#apendice_20_dimensoes/apendice_20_dimensoes)](#apendice_20_dimensoes/apendice_20_dimensoes) | "20 Dimensões em 1 Frase" — toolkit rápido de improviso dimensional |
 
 ---
 

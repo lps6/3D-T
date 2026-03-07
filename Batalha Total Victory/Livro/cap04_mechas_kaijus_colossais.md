@@ -7,7 +7,7 @@
 
 ---
 
-Este capítulo detalha os dois tipos mais específicos de Colossal e Leviatã em Batalha Total Victory: **mechas pilotados por personagens** e **kaijus como forças da natureza**. Ambos usam as regras de escala do Cap. 3 como fundação — este capítulo adiciona as camadas de personalização, pilotagem e design de encontro que os tornam memoráveis.
+Este capítulo detalha os dois tipos mais específicos de Colossal e Leviatã em Batalha Total Victory: **mechas pilotados por personagens** e **kaijus como forças da natureza**. Ambos usam as regras de escala do [Cap. 3](#cap03_as_casas/cap03_as_casas) como fundação — este capítulo adiciona as camadas de personalização, pilotagem e design de encontro que os tornam memoráveis.
 
 ---
 
@@ -19,7 +19,7 @@ Um mecha é um **Colossal controlado por um personagem** (o piloto) em vez de se
 
 ### Criação de Mecha: Pontos de Construção
 
-Todo mecha começa com **10 Pontos de Construção (PC)** para distribuir entre componentes. Adicionalmente, o mecha já tem Escala Colossal gratuitamente (o custo de escala do Cap. 3 é para NPCs — o mecha do personagem é narrativamente gratuito).
+Todo mecha começa com **10 Pontos de Construção (PC)** para distribuir entre componentes. Adicionalmente, o mecha já tem Escala Colossal gratuitamente (o custo de escala do [Cap. 3](#cap03_as_casas/cap03_as_casas) é para NPCs — o mecha do personagem é narrativamente gratuito).
 
 **Componentes disponíveis:**
 
@@ -35,7 +35,7 @@ Todo mecha começa com **10 Pontos de Construção (PC)** para distribuir entre 
 | **Sistema de Suporte** | 2 | Pode usar a Ação Padrão para conceder Ganho a um aliado adjacente |
 | **Blindagem Pesada** | 2 | +1R permanente; movimento reduzido em 25% |
 | **Módulo de Jamming** | 2 | Uma vez por cena, cancela uma habilidade eletrônica ou arcana inimiga |
-| **Habilidade Exclusiva** | 3 | Poder único projetado com o Mestre; segue as diretrizes do Cap. 6 |
+| **Habilidade Exclusiva** | 3 | Poder único projetado com o Mestre; segue as diretrizes do [Cap. 6](#cap06_mecanicas/cap06_mecanicas) |
 
 > **🔍 Mecha Básico de Referência**
 >
@@ -104,7 +104,7 @@ Quando o piloto atinge extremos emocionais — trauma agudo, fúria dissociativa
 **Efeitos durante Ressonância Crítica (dura 1d6 rodadas):**
 - O mecha causa dano como **Escala Leviatã** por uma rodada (a rodada em que entrou em Ressonância). **Dano calculado: role 3d6 + P do piloto × 2.** Esse ataque atinge um alvo primário + área de 3 quadrados adjacentes (dano pela metade em alvos secundários). É o único momento em que um Colossal pode atingir múltiplos alvos com um único ataque sem habilidade específica.
 - O piloto **perde o controle voluntário** — o Mestre descreve as ações do mecha, não o jogador. O jogador pode tentar retomar controle com teste de H dif. 10 como Ação Padrão.
-- Ao final da Ressonância, o piloto sofre **backlash físico**: perde 1d6 PV e ganha 1 ponto de Trauma (Cap. 5).
+- Ao final da Ressonância, o piloto sofre **backlash físico**: perde 1d6 PV e ganha 1 ponto de Trauma ([Cap. 5](#cap05_vida_estudantil/cap05_vida_estudantil)).
 
 > **Em Jogo:** O mecha de Takeshi entra em Ressonância após ver Yuki cair. Takeshi tem P3. O mecha rola 3d6+6 de dano (resultado: 15 total) contra o kaiju que derrubou Yuki + dano 7 (metade) em inimigos adjacentes. Takeshi não controla onde o golpe vai — o Mestre decide que o mecha destrói também uma estrutura aliada ao lado. Quando a Ressonância termina, Takeshi perde 4 PV e ganha 1 Trauma. A vitória tem custo.
 
@@ -113,7 +113,7 @@ Não é um poder que o piloto "usa". É uma falha de sistema — o mecha faz o q
 
 > **📖 Ressonância e o Custo Humano**
 >
-> Ressonância Crítica é a conclusão lógica do sistema de Custo Humano (Cap. 5) aplicado ao combate de mecha. Não é ornamento de mecânica — é a pergunta do livro tornada mecânica: *o que você está disposto a perder para ganhar esta batalha?* Um piloto que entra em Ressonância e vence não saiu ileso. Uma vitória que custa dessa forma é diferente de um sucesso de dado.
+> Ressonância Crítica é a conclusão lógica do sistema de Custo Humano ([Cap. 5](#cap05_vida_estudantil/cap05_vida_estudantil)) aplicado ao combate de mecha. Não é ornamento de mecânica — é a pergunta do livro tornada mecânica: *o que você está disposto a perder para ganhar esta batalha?* Um piloto que entra em Ressonância e vence não saiu ileso. Uma vitória que custa dessa forma é diferente de um sucesso de dado.
 
 ---
 
@@ -125,7 +125,7 @@ Um kaiju é um **Leviatã de origem biológica ou sobrenatural** — diferente d
 
 ### Construindo um Kaiju
 
-Use o Point-Buy do Cap. 3 como base, com estas diretrizes adicionais:
+Use o Point-Buy do [Cap. 3](#cap03_as_casas/cap03_as_casas) como base, com estas diretrizes adicionais:
 
 **Pontos Fracos (obrigatório para Leviatã):**
 Todo kaiju deve ter **2 a 3 Pontos Fracos**. Cada Ponto Fraco é uma vulnerabilidade narrativa-mecânica que permite que escalas inferiores causem dano efetivo. Cada Ponto Fraco concede -2 pontos no Point-Buy total (eles equilibram o poder do Leviatã).

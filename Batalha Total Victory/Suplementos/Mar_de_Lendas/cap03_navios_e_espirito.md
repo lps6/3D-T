@@ -34,7 +34,7 @@ Todo navio em Mar de Lendas tem **4 atributos** que substituem os atributos indi
 | Navio | 12 PC | CAS × 10 |
 | Fortaleza do Mar | 16 PC | CAS × 20 |
 
-**Nota:** Reis do Mar não são construídos — são encontrados (Bestiário, Cap. 5).
+**Nota:** Reis do Mar não são construídos — são encontrados (Bestiário, [Cap. 5](#cap05_vida_estudantil/cap05_vida_estudantil)).
 
 ### Passo 2 — Distribua Atributos
 

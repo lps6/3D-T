@@ -15,7 +15,7 @@ Não é um livro de regras para "quando os jogadores querem matar muita coisa". 
 ## Pré-requisitos
 
 Para utilizar este material, você precisa de:
-- **3D&T Victory** (Manual do Arcanauta) — regras básicas de jogo
+- **3D&T Victory** ([Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)) — regras básicas de jogo
 - **Batalha Total Victory** estabelece as bases de Escala, Terreno e Miniaturas — suplementos de cenário expandem isso por tema
 
 ---
@@ -26,12 +26,12 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 
 | Você quer... | Use... |
 |---|---|
-| Combate mais tático sem sobrecarga | Cap. 1 (Campo de Batalha) + Cap. 2 (Tropas) |
-| Inimigos de escalas diferentes | Cap. 3 (Escalas) — obrigatório para Colossal em diante |
-| Mechas e kaijus completos | Cap. 4 (Mechas & Kaijus) — exige Cap. 3 |
-| Peso emocional nas campanhas | Cap. 5 (Custo Humano) — totalmente opcional |
-| Criar veículos e monstros | Cap. 6 (Motores da Destruição) |
-| Ferramentas de Mestre para campanhas de guerra | Cap. 7 (Comandando a Batalha) |
+| Combate mais tático sem sobrecarga | [Cap. 1](#cap01_criacao_personagem/cap01_criacao_personagem) (Campo de Batalha) + [Cap. 2](#cap02_a_academia/cap02_a_academia) (Tropas) |
+| Inimigos de escalas diferentes | [Cap. 3](#cap03_as_casas/cap03_as_casas) (Escalas) — obrigatório para Colossal em diante |
+| Mechas e kaijus completos | [Cap. 4](#cap04_professores_npcs/cap04_professores_npcs) (Mechas & Kaijus) — exige [Cap. 3](#cap03_as_casas/cap03_as_casas) |
+| Peso emocional nas campanhas | [Cap. 5](#cap05_vida_estudantil/cap05_vida_estudantil) (Custo Humano) — totalmente opcional |
+| Criar veículos e monstros | [Cap. 6](#cap06_mecanicas/cap06_mecanicas) (Motores da Destruição) |
+| Ferramentas de Mestre para campanhas de guerra | [Cap. 7](#cap07_mundo_ao_redor/cap07_mundo_ao_redor) (Comandando a Batalha) |
 | Setting completo com facções e mecânicas temáticas | Suplementos (FS, ML e demais DLCs) |
 
 ---
@@ -40,14 +40,14 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 
 | Arquivo | Conteúdo |
 |---|---|
-| `00_introducao.md` | Filosofia de design, guia de leitura |
-| `cap01_o_campo_de_batalha.md` | Grade & Medição Livre, terreno, cobertura, ações |
-| `cap02_tropas_e_formacoes.md` | Tropas, formações, Ação Heroica |
-| `cap03_a_escala_da_guerra.md` | Escaramuça / Warband / Colossal / Leviatã, Point-Buy |
-| `cap04_mechas_kaijus_colossais.md` | Mechas, kaijus, O Leviatã Cinzento |
-| `cap05_o_custo_humano.md` | Moral Pessoal, Trauma, Recuperação |
-| `cap06_motores_da_destruicao.md` | Criação de veículos, monstros e tropas |
-| `cap07_comandando_a_batalha.md` | Toolkit do Mestre, objetivos, protótipo de batalha |
+| `[[00_introducao.md](#btv-livro/00_introducao)](#btv-livro/00_introducao)` | Filosofia de design, guia de leitura |
+| `[[cap01_o_campo_de_batalha.md](#cap01_o_campo_de_batalha/cap01_o_campo_de_batalha)](#cap01_o_campo_de_batalha/cap01_o_campo_de_batalha)` | Grade & Medição Livre, terreno, cobertura, ações |
+| `[[cap02_tropas_e_formacoes.md](#cap02_tropas_e_formacoes/cap02_tropas_e_formacoes)](#cap02_tropas_e_formacoes/cap02_tropas_e_formacoes)` | Tropas, formações, Ação Heroica |
+| `[[cap03_a_escala_da_guerra.md](#cap03_a_escala_da_guerra/cap03_a_escala_da_guerra)](#cap03_a_escala_da_guerra/cap03_a_escala_da_guerra)` | Escaramuça / Warband / Colossal / Leviatã, Point-Buy |
+| `[[cap04_mechas_kaijus_colossais.md](#cap04_mechas_kaijus_colossais/cap04_mechas_kaijus_colossais)](#cap04_mechas_kaijus_colossais/cap04_mechas_kaijus_colossais)` | Mechas, kaijus, O Leviatã Cinzento |
+| `[[cap05_o_custo_humano.md](#cap05_o_custo_humano/cap05_o_custo_humano)](#cap05_o_custo_humano/cap05_o_custo_humano)` | Moral Pessoal, Trauma, Recuperação |
+| `[[cap06_motores_da_destruicao.md](#cap06_motores_da_destruicao/cap06_motores_da_destruicao)](#cap06_motores_da_destruicao/cap06_motores_da_destruicao)` | Criação de veículos, monstros e tropas |
+| `[[cap07_comandando_a_batalha.md](#cap07_comandando_a_batalha/cap07_comandando_a_batalha)](#cap07_comandando_a_batalha/cap07_comandando_a_batalha)` | Toolkit do Mestre, objetivos, protótipo de batalha |
 | `apendice_a_fantasia_medieval.md` | **Arquivado** (migrado para `Suplementos/Guerra_das_Coroas`) |
 | `apendice_b_grimdark_scifi.md` | **Arquivado** (migrado para `Suplementos/Fronteira_Estelar`) |
 | `apendice_c_falgsc.md` | **Arquivado** (migrado para `Suplementos/Fronteira_Estelar`) |

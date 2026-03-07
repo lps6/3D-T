@@ -207,4 +207,4 @@ Kits secundários — complementam os kits Academy. Disponíveis para PJs que co
 
 ---
 
-*Próximo: **Capítulo 7 — O Torneio das Escolas** — três sessões de competição, sabotagem, e a descoberta de que o esporte é o menor dos problemas.*
+*Próximo: **[Capítulo 7](#cap07_mundo_ao_redor/cap07_mundo_ao_redor) — O Torneio das Escolas** — três sessões de competição, sabotagem, e a descoberta de que o esporte é o menor dos problemas.*

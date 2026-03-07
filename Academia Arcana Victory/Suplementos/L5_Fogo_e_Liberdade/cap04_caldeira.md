@@ -119,7 +119,7 @@ A **Arca Funda** é o núcleo do conflito. Elisa a descobriu enquanto pesquisava
 
 ## 5. Mecânica de Contatos e Reputação Urbana
 
-Caldeira usa o sistema de Reputação Faccional (Cap. 05) com uma tensão local específica:
+Caldeira usa o sistema de Reputação Faccional ([Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil)) com uma tensão local específica:
 
 | Dimensão | O que mede | Efeito prático |
 |----------|-----------|----------------|
@@ -203,4 +203,4 @@ Caldeira também é o lugar onde os temas abstratos das franquias anteriores se 
 
 ---
 
-*Próximo: **Cap. 05 — Reputação Faccional** — o sistema que unifica classes de Era dos Metais, status de O Covil, alinhamento de As Quatro Formas, e reputação urbana de Caldeira em mecânica modular.*
+*Próximo: **[Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil) — Reputação Faccional** — o sistema que unifica classes de Era dos Metais, status de O Covil, alinhamento de As Quatro Formas, e reputação urbana de Caldeira em mecânica modular.*

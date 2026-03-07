@@ -47,7 +47,7 @@ Poucos, precisos, táticos. Não travam batalhas de desgaste — atacam pontos e
 
 > **🎲 Regra de Toolbox: Fantasia Medieval**
 
-Em batalhas de fantasia medieval com múltiplas unidades, **Moral de Exército** opera em paralelo com a Moral de Unidade do Cap. 7.
+Em batalhas de fantasia medieval com múltiplas unidades, **Moral de Exército** opera em paralelo com a Moral de Unidade do [Cap. 7](#cap07_mundo_ao_redor/cap07_mundo_ao_redor).
 
 **Moral de Exército** começa em **5** para cada lado e cai conforme eventos marcantes:
 
@@ -61,7 +61,7 @@ Em batalhas de fantasia medieval com múltiplas unidades, **Moral de Exército**
 | Objetivo primário parcialmente cumprido | +1 |
 
 **Quando Moral de Exército atinge 0:**
-O lado afetado perde coesão. Todas as Tropas e Warbands testam Moral imediatamente (Cap. 7). Os que falharem recuam. A batalha normalmente termina — mesmo que haja unidades ainda de pé.
+O lado afetado perde coesão. Todas as Tropas e Warbands testam Moral imediatamente ([Cap. 7](#cap07_mundo_ao_redor/cap07_mundo_ao_redor)). Os que falharem recuam. A batalha normalmente termina — mesmo que haja unidades ainda de pé.
 
 ---
 

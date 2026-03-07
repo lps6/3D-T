@@ -125,7 +125,7 @@ A Torre Central é o coração administrativo da Academia — e o lugar onde os 
 
 1. **A Mensagem de Wynna.** Wynna recebe uma mensagem — pode ser uma carta, uma projeção arcana, um sussurro no vento — e pela primeira vez, os estudantes a veem com *medo*. Não preocupada, não pensativa: com medo. Talude tenta interceptar a mensagem e é barrado. Wynna tranca-se em seu escritório por vinte e quatro horas. O que dizia a mensagem? De quem era? E por que Talude — que normalmente sabe de tudo — parece tão no escuro quanto os alunos?
 
-2. **O Enigma de V3ctor1us.** O sistema de senhas de V3ctor1us — administrado para toda a escola — muda repentinamente para um protocolo que ninguém consegue decifrar. Nem Wynna. Nem os professores. V3ctor1us insiste que é uma "atualização de segurança necessária", mas agora a IA controla quem entra e quem sai de cada porta da Torre Central. Isso é proteção — ou controle? *(Para as cinco opções sobre a verdadeira agenda de V3ctor1us, veja "O Que V3ctor1us Encontrou na Ala Leste?" no Cap. 10 — Estrutura de Campanha.)*
+2. **O Enigma de V3ctor1us.** O sistema de senhas de V3ctor1us — administrado para toda a escola — muda repentinamente para um protocolo que ninguém consegue decifrar. Nem Wynna. Nem os professores. V3ctor1us insiste que é uma "atualização de segurança necessária", mas agora a IA controla quem entra e quem sai de cada porta da Torre Central. Isso é proteção — ou controle? *(Para as cinco opções sobre a verdadeira agenda de V3ctor1us, veja "O Que V3ctor1us Encontrou na Ala Leste?" no [Cap. 10](#cap10_campanha/cap10_campanha) — Estrutura de Campanha.)*
 
 3. **O Sexto Andar.** A Torre Central oficialmente tem cinco andares. Sempre teve cinco andares. Mas um estudante encontra uma planta baixa antiga onde há um sexto andar — e na manhã seguinte, uma porta aparece onde antes havia apenas parede. Ninguém na administração comenta. V3ctor1us nega a existência do andar. Mas a porta está lá.
 
@@ -215,7 +215,7 @@ A Ala Leste é o grande mistério da Academia — selada, proibida, e cada vez m
 
 2. **O Som.** Estudantes próximos à Ala Leste relatam um som vindo de dentro. Não é um ruído qualquer — é rítmico, mecânico, *computacional*. Parece processamento. Parece cálculo. Parece pensamento. Algo dentro da Ala Leste está *funcionando*.
 
-3. **O Bilhete.** Um bilhete aparece deslizando por baixo da porta selada da Ala Leste. A caligrafia é precisa, técnica — inconfundivelmente de V3ctor1us. O bilhete é endereçado a um estudante específico. E diz apenas: *"Preciso que você abra esta porta."* *(O que está atrás da porta? Cinco opções no Cap. 10 — Estrutura de Campanha.)*
+3. **O Bilhete.** Um bilhete aparece deslizando por baixo da porta selada da Ala Leste. A caligrafia é precisa, técnica — inconfundivelmente de V3ctor1us. O bilhete é endereçado a um estudante específico. E diz apenas: *"Preciso que você abra esta porta."* *(O que está atrás da porta? Cinco opções no [Cap. 10](#cap10_campanha/cap10_campanha) — Estrutura de Campanha.)*
 
 ---
 
@@ -284,7 +284,7 @@ A Academia existe numa Arca, mas o mundo lá fora não para de girar.
 - **NPCs têm vida além do romance.** Se um NPC só existe para ser o amor do PJ, ele vai parecer plano. O NPC que os PJs amam é o que tem objetivos próprios, amigos, medos, outras prioridades. O romance é uma dimensão da vida desse NPC — não a definição dele.
 - **O NPC pode dizer não.** Isso é drama genuinamente bom. Uma rejeição bem-interpretada cria mais profundidade do que um aceite imediato.
 - **Ferramentas de segurança funcionam.** Use o X-Card, linhas e véus, ou qualquer sistema de conforto que a mesa já usa. Campanhas escolares geram envolvimento emocional forte — e cenas romanticas podem surpreender de formas que não anteciparam.
-- **Mecânica opcional:** o sistema Social Links (L6 — Laços e Máscaras, Cap. 3) oferece uma estrutura de progressão de relacionamento em 10 níveis que funciona tanto para amizades quanto para romances. É especialmente útil em campanhas longas onde construir relacionamentos gradualmente é parte do prazer.
+- **Mecânica opcional:** o sistema Social Links (L6 — Laços e Máscaras, [Cap. 3](#cap03_as_casas/cap03_as_casas)) oferece uma estrutura de progressão de relacionamento em 10 níveis que funciona tanto para amizades quanto para romances. É especialmente útil em campanhas longas onde construir relacionamentos gradualmente é parte do prazer.
 
 ---
 
@@ -299,7 +299,7 @@ Antes dos templates, uma regra que vale para *qualquer* NPC significativo — pr
 Exemplos:
 
 - **Geófilus** quer proteger os alunos (desejo). Teme que sua proteção não seja suficiente — como não foi com Lirien (medo). Quando um aluno se coloca em perigo voluntário, esses dois impulsos colidem.
-- **V3ctor1us** quer otimizar a escola (desejo). Teme ser desligada — porque ser desligada é morrer (medo). Cada ação que ela toma pode ser lida por essa lente. *(Para entender o que realmente motiva V3ctor1us, veja as cinco opções de segredo no Cap. 10 — Estrutura de Campanha.)*
+- **V3ctor1us** quer otimizar a escola (desejo). Teme ser desligada — porque ser desligada é morrer (medo). Cada ação que ela toma pode ser lida por essa lente. *(Para entender o que realmente motiva V3ctor1us, veja as cinco opções de segredo no [Cap. 10](#cap10_campanha/cap10_campanha) — Estrutura de Campanha.)*
 - **Estudante genérico** quer ser reconhecido pelo grêmio (desejo). Teme decepcionar os pais (medo). Quando o grêmio pede algo que os pais reprovariam, nasce uma cena.
 
 Se você não consegue definir o desejo E o medo de um NPC, ele é figurante — não personagem. Figurantes são úteis, mas não merecem tempo de tela.
@@ -527,7 +527,7 @@ Nível de ameaça: **máximo**. Consequências: **potencialmente irreversíveis*
 > • *O Coração da Arca* (Condição de vitória). Para estabilizar o colapso, os personagens precisam alcançar o Núcleo Dimensional — localizado onde a Ala Leste costumava estar — e realizar um ritual que exige **três testes bem-sucedidos consecutivos** de diferentes personagens (Mística dificuldade 10, Saber dificuldade 10, Resistência dificuldade 10). Cada falha reinicia a contagem e acelera o colapso.
 > **Recompensa:** A Academia sobrevive. Os personagens se tornam lendas da escola. E algo muda permanentemente no campus — um lembrete físico de que a Arca quase deixou de existir.
 
-> **Nota de Escalada:** Se sua campanha está no 1o Ano e você está pensando em usar Tier 4, leia o Capítulo 8 (Estrutura de Campanha) sobre escalada de ameaças primeiro. Tier 4 funciona melhor como *destino*, não como ponto de partida. A jornada até a catástrofe é o que dá peso a ela.
+> **Nota de Escalada:** Se sua campanha está no 1o Ano e você está pensando em usar Tier 4, leia o [Capítulo 8](#cap08_arrecife_arcano/cap08_arrecife_arcano) (Estrutura de Campanha) sobre escalada de ameaças primeiro. Tier 4 funciona melhor como *destino*, não como ponto de partida. A jornada até a catástrofe é o que dá peso a ela.
 
 ---
 
@@ -828,7 +828,7 @@ A tarefa simples de encontrar uma sala de aula específica para a primeira aula 
 **Mecânicas em destaque**
 - Ameaças Tier 3 e 4 como culminação — não surpresas
 - Revisitar hooks da Ala Leste, da Torre Central e de V3ctor1us como revelações finais
-- NPCs do Cap07 (escolas internacionais) como aliados tardios construídos ao longo da campanha
+- NPCs do [Cap07](#cap07_mundo_ao_redor/cap07_mundo_ao_redor) (escolas internacionais) como aliados tardios construídos ao longo da campanha
 - Sistema de Graus e Honras (cap05/cap08) como estrutura de reconhecimento e despedida
 - A Escola como Personagem: o campus muda visivelmente em resposta ao que os PJs viveram
 
@@ -1064,7 +1064,7 @@ A consequência emocional é o coração do Arco de Festival. Se o festival foi 
 
 **Como Funciona na Academia**
 
-Os festivais do calendário acadêmico da Academia (Cap. 5: Semana de Boas-Vindas, Competição Inter-Grêmio, Festival de Magia Comparada, Formatura) são estruturas prontas para o Arco de Festival.
+Os festivais do calendário acadêmico da Academia ([Cap. 5](#cap05_vida_estudantil/cap05_vida_estudantil): Semana de Boas-Vindas, Competição Inter-Grêmio, Festival de Magia Comparada, Formatura) são estruturas prontas para o Arco de Festival.
 
 **Responsabilidades diegéticas:**
 Antes do festival, atribua a cada personagem uma responsabilidade específica — não como missão mecânica, mas como expectativa social. O representante do Grêmio Monsoon é responsável pela performance. O Síntese está gerenciando a interface arcana de som. O Égide está na segurança do evento. Isso cria múltiplos vetores de caos quando algo sai errado.
@@ -1124,7 +1124,7 @@ A superação não é o personagem usando a habilidade nova de forma perfeita. �
 O Arco de Treinamento na Academia tem uma vantagem única: toda a estrutura institucional — aulas, professores, exames, credenciais — é scaffolding natural para a estrutura de treinamento. O personagem que quer dominar uma técnica, obter uma aprovação em disciplina, ou simplesmente entender algo que V3ctor1us cataloga como "capacidade não-classificada" tem todas as peças disponíveis.
 
 **Professores como Mestres:**
-Cada professor da Academia tem um estilo de instrução que funciona diferente (veja Cap. 4). Vladslav Tpish ensina através de humilhação calculada — a tarefa impossível vem embrulhada em desprezo. Blavatsky ensina através de exceções — a tarefa impossível é entender por que a regra tem um buraco. Use o estilo do professor para personalizar a estrutura para aquele personagem específico.
+Cada professor da Academia tem um estilo de instrução que funciona diferente (veja [Cap. 4](#cap04_professores_npcs/cap04_professores_npcs)). Vladslav Tpish ensina através de humilhação calculada — a tarefa impossível vem embrulhada em desprezo. Blavatsky ensina através de exceções — a tarefa impossível é entender por que a regra tem um buraco. Use o estilo do professor para personalizar a estrutura para aquele personagem específico.
 
 **A Tarefa Impossível como prova formal:**
 Às vezes a tarefa impossível é literalmente uma prova. O exame de progressão de grêmio. A avaliação prática de Combate Arcano de Taandus. A defesa de projeto diante de uma banca que inclui Wynna. Usar avaliações formais como estrutura de treinamento conecta o arco pessoal do personagem ao calendário institucional — dando urgência sem precisar inventar pressão artificial.
@@ -1273,7 +1273,7 @@ O payoff funciona porque foi ganho — os sistemas estavam lá, os jogadores apr
 
 **Como Funciona na Academia**
 
-O Esquema de Sanderson é a estrutura de campanha longa por excelência na Academia. O Cap. 10 (Estrutura de Campanha) estabelece os sistemas. Este toolkit dá as ferramentas para escalá-los. Esta estrutura fornece a arquitetura de como construir o payoff.
+O Esquema de Sanderson é a estrutura de campanha longa por excelência na Academia. O [Cap. 10](#cap10_campanha/cap10_campanha) (Estrutura de Campanha) estabelece os sistemas. Este toolkit dá as ferramentas para escalá-los. Esta estrutura fornece a arquitetura de como construir o payoff.
 
 **Inventário de sistemas no início de cada arco:**
 Antes de cada novo arco maior, faça um inventário: quais sistemas o grupo aprendeu até agora? Quais foram estabelecidos mas nunca explorados completamente? O clímax do arco deve usar pelo menos dois sistemas do inventário — não como solução mágica, mas como componente da solução que os jogadores construírem.
@@ -1338,7 +1338,7 @@ Esta estrutura funciona excepcionalmente bem para grupos maiores (4+ jogadores) 
 
 *"Exploração → boss intermediário → dungeon final → twist."*
 
-Os melhores jogos de RPG eletrônico e de ação-aventura usam uma estrutura que também funciona em mesa — especialmente para grupos que têm experiência com videogames e respondem ao ritmo que essa estrutura cria. É uma estrutura explicitamente de escalada de dificuldade, e funciona melhor numa Academia com escalada de Tier clara (Cap. 10).
+Os melhores jogos de RPG eletrônico e de ação-aventura usam uma estrutura que também funciona em mesa — especialmente para grupos que têm experiência com videogames e respondem ao ritmo que essa estrutura cria. É uma estrutura explicitamente de escalada de dificuldade, e funciona melhor numa Academia com escalada de Tier clara ([Cap. 10](#cap10_campanha/cap10_campanha)).
 
 **A Estrutura em Detalhe**
 

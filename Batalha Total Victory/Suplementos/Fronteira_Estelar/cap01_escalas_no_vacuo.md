@@ -14,7 +14,7 @@ O sistema de quatro escalas de Batalha Total Victory permanece a espinha mecâni
 
 **O que é:** Um indivíduo. Soldado, piloto de caça dentro da cabine, agente infiltrado numa estação, tripulante em trajes de EVA, marine em abordagem.
 
-**Representação:** 1 miniatura ou 1 base de Tropa (3–5 Operativos como grupo; usa regras de Tropa do BTV Cap. 2).
+**Representação:** 1 miniatura ou 1 base de Tropa (3–5 Operativos como grupo; usa regras de Tropa do BTV [Cap. 2](#cap02_a_academia/cap02_a_academia)).
 
 **No grid:** 1 quadrado = 5m (idêntico ao BTV core). Movimentação padrão: 6 quadrados.
 
@@ -52,7 +52,7 @@ Use estes blocos quando precisar de Operativos rapidamente em abordagem, EVA ou 
 
 **No grid:** 1 quadrado = 50m (escala Warband do BTV). Caças ocupam 1 quadrado. Corvetas ocupam 2×1 quadrados.
 
-**No Plano de Engajamento** (ver Cap. 2): Esquadrões são as unidades mais comuns do combate espacial. Podem ser agrupados em **Frotas de Esquadrão** (extensão da Tropa — 3–5 Esquadrões operando como base única, PV compartilhado, iniciativa única).
+**No Plano de Engajamento** (ver [Cap. 2](#cap02_a_academia/cap02_a_academia)): Esquadrões são as unidades mais comuns do combate espacial. Podem ser agrupados em **Frotas de Esquadrão** (extensão da Tropa — 3–5 Esquadrões operando como base única, PV compartilhado, iniciativa única).
 
 **Diferença fundamental do Operativo:** Um Esquadrão pode operar no vácuo indefinidamente. Possui sistemas de suporte de vida, propulsão autônoma e armamento integrado. Um Operativo no espaço é temporário; um Esquadrão é permanente.
 
@@ -71,11 +71,11 @@ Use estes blocos quando precisar de Operativos rapidamente em abordagem, EVA ou 
 
 **Representação:** 1 peça grande (54–120mm) ou, no grid, 4×4 quadrados (cada quadrado = 200m na escala Nau).
 
-**Iniciativa fixa:** Naus de Guerra usam Iniciativa 10 (idêntico ao Colossal BTV). São previsíveis. A tripulação pode compensar isso com Postagens (Cap. 2).
+**Iniciativa fixa:** Naus de Guerra usam Iniciativa 10 (idêntico ao Colossal BTV). São previsíveis. A tripulação pode compensar isso com Postagens ([Cap. 2](#cap02_a_academia/cap02_a_academia)).
 
-**Dano de área em falha:** Quando uma Nau de Guerra erra um ataque contra um alvo menor, o ataque ainda pode afetar alvos no quadrado adjacente ao alvo original (teste H dif. 8 para evitar; BTV Cap. 3).
+**Dano de área em falha:** Quando uma Nau de Guerra erra um ataque contra um alvo menor, o ataque ainda pode afetar alvos no quadrado adjacente ao alvo original (teste H dif. 8 para evitar; BTV [Cap. 3](#cap03_as_casas/cap03_as_casas)).
 
-**Operativos e Esquadrões DENTRO de uma Nau:** Uma Nau de Guerra tem espaço interno. Combate de abordagem acontece *dentro* da Nau em escala Operativo (ver Cap. 2, Abordagem Multi-Fase). A Nau continua operando durante a abordagem — a tripulação luta em dois fronts simultâneos.
+**Operativos e Esquadrões DENTRO de uma Nau:** Uma Nau de Guerra tem espaço interno. Combate de abordagem acontece *dentro* da Nau em escala Operativo (ver [Cap. 2](#cap02_a_academia/cap02_a_academia), Abordagem Multi-Fase). A Nau continua operando durante a abordagem — a tripulação luta em dois fronts simultâneos.
 
 **Exemplos de unidades Nau de Guerra:**
 - Cruzador Pesado Reichpact (P4 H2 R5, Blindagem Pesada, Canhão de Proa)
@@ -92,7 +92,7 @@ Use estes blocos quando precisar de Operativos rapidamente em abordagem, EVA ou 
 
 **Representação:** 1 peça central (base 20cm+) OU a Armada é representada como o *terreno* da batalha. Combater uma Armada é estar *dentro* ou *ao redor* dela — nunca ao lado.
 
-**Regras de Leviatã (BTV Cap. 4) aplicam integralmente:**
+**Regras de Leviatã (BTV [Cap. 4](#cap04_professores_npcs/cap04_professores_npcs)) aplicam integralmente:**
 - **Pontos Fracos obrigatórios:** 2–3 por Armada, cada um com localização, método de descoberta, condição de ataque e efeito ao destruir.
 - **Fases de combate:** 3–4 fases por PV threshold (100%→75%→50%→25%), cada fase com comportamentos e ameaças diferentes.
 - **Ataques Telegrafados:** A Armada marca zonas de impacto 1 rodada antes. Esquadrões e Naus decidem: escapar (H dif. 8) ou absorver o dano.
@@ -105,13 +105,13 @@ Use estes blocos quando precisar de Operativos rapidamente em abordagem, EVA ou 
 - Baleia de Vácuo (P3 H1 R8, 400 PV, entidade senciente, mecânica de comunicação)
 - Couraçado Imperial classe Sóliton (P6 H2 R7, 500 PV, arma principal: disparo singular por fase)
 
-> *Fichas completas de todos esses exemplos no Capítulo 5 — Bestiário Estelar.*
+> *Fichas completas de todos esses exemplos no [Capítulo 5](#cap05_vida_estudantil/cap05_vida_estudantil) — Bestiário Estelar.*
 
 ---
 
 ## Tabela de Interação Entre Escalas
 
-A mecânica é idêntica ao BTV core (Cap. 3). A tabela abaixo repete com exemplos estelares.
+A mecânica é idêntica ao BTV core ([Cap. 3](#cap03_as_casas/cap03_as_casas)). A tabela abaixo repete com exemplos estelares.
 
 | Atacante → Alvo | Efeito | Exemplo |
 |---|---|---|
@@ -133,9 +133,9 @@ Quando uma unidade menor precisa ameaçar uma escala superior, as seguintes exce
 
 Armas projetadas especificamente para perfurar blindagem de naves maiores. Marcados com a tag **[Anti-Nau]**.
 
-- **Quem usa:** Esquadrões equipados com Torpedos (comprados no Point-Buy, Cap. 3).
+- **Quem usa:** Esquadrões equipados com Torpedos (comprados no Point-Buy, [Cap. 3](#cap03_as_casas/cap03_as_casas)).
 - **Efeito:** Cancelam 1 nível de Perda ao atacar Naus de Guerra. O ataque é feito com Perda normal (em vez de "não pode ferir").
-- **Custo:** Cada torpedo é 1 Carga de Munição (Cap. 4). Quando acabam, o Esquadrão volta a não poder ferir a Nau.
+- **Custo:** Cada torpedo é 1 Carga de Munição ([Cap. 4](#cap04_professores_npcs/cap04_professores_npcs)). Quando acabam, o Esquadrão volta a não poder ferir a Nau.
 - **Contra Armadas:** Torpedos comuns não afetam Armadas. Apenas Torpedos de Fratura (versão [Anti-Armada], custo 2 Cargas cada) podem ferir Pontos Fracos expostos de Armadas.
 
 ---
@@ -172,7 +172,7 @@ Extensão da regra de 3+ Tropas do BTV. Se **3 ou mais Esquadrões** atacam a me
 
 ### ⚡ 5. Abordagem
 
-A exceção mais dramática. Um Esquadrão que chega a Ponto Cego de uma Nau de Guerra pode iniciar **Abordagem** (Cap. 2). Uma vez dentro, o combate acontece em escala Operativo — e em escala Operativo, a blindagem da Nau não importa. Os invasores atacam sistemas internos, tripulação, ponte de comando.
+A exceção mais dramática. Um Esquadrão que chega a Ponto Cego de uma Nau de Guerra pode iniciar **Abordagem** ([Cap. 2](#cap02_a_academia/cap02_a_academia)). Uma vez dentro, o combate acontece em escala Operativo — e em escala Operativo, a blindagem da Nau não importa. Os invasores atacam sistemas internos, tripulação, ponte de comando.
 
 - **Contra Armadas:** Abordagem é possível mas requer acesso a um Ponto Defensável específico (hangar, brecha no casco). O Mestre define quais estão acessíveis por fase.
 
@@ -190,7 +190,7 @@ Assim como Tropas agrupam Operativos, **Frotas de Esquadrão** agrupam Esquadrõ
 
 **Iniciativa única:** A Frota age como uma entidade.
 
-**Formações de Frota:** Usa as Formações de Frota do Cap. 2 (versões estelares das Formações de Tropa do BTV).
+**Formações de Frota:** Usa as Formações de Frota do [Cap. 2](#cap02_a_academia/cap02_a_academia) (versões estelares das Formações de Tropa do BTV).
 
 **Dissolução:** Em 0 PV, a Frota está destruída — naves restantes em cápsulas de escape (se houver) ou destroços flutuantes.
 
@@ -207,7 +207,7 @@ O espaço não é vazio. Os seguintes tipos de terreno aplicam durante combate e
 | **Nebulosa Densa** | Cobertura Pesada (+2R, bloqueia linha de visão além de Curto). Sensores não funcionam — Comunicações inoperantes. | Cobertura Pesada |
 | **Estação Destruída** | Terreno Destrutível (R3, PV 30). Pode ser usada como cobertura. Auto-destruída por Nau de Guerra. Bom ponto de emboscada. | Destrutível |
 | **Órbita Planetária** | Terreno Elevado para quem está acima. Naves em órbita alta têm +1 em ataques de distância contra naves em órbita baixa. A gravidade do planeta impede fuga rápida: sair de órbita custa 1 ação extra de movimento. | Elevado |
-| **Zona de Radiação** | Perigoso. 1–3 dano por turno ao Casco/PV de qualquer unidade sem Blindagem Pesada. Sistemas de Suporte Vital degradam (ver Cap. 4, Suprimentos). | Perigoso |
+| **Zona de Radiação** | Perigoso. 1–3 dano por turno ao Casco/PV de qualquer unidade sem Blindagem Pesada. Sistemas de Suporte Vital degradam (ver [Cap. 4](#cap04_professores_npcs/cap04_professores_npcs), Suprimentos). | Perigoso |
 | **Buraco Gravitacional** | Terreno Difícil + Perigoso. Movimento em direção oposta ao centro custa o triplo. Unidades sem propulsão são puxadas 1 quadrado/turno em direção ao centro. No centro: destruição automática para Operativos e Esquadrões; Naus perdem 5 PV/turno; Armadas resistem. | Difícil + Perigoso extremo |
 
 ---

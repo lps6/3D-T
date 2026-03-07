@@ -145,11 +145,11 @@ Gnomo acadêmico, 30 anos catalogando o terceiro andar. Conhece o Arquivo melhor
 
 | Suplemento | Relevância |
 |------------|-----------|
-| Cap. 12 Livro-Base | Descrição física da Biblioteca Arcana |
-| Cap. 09 Livro-Base | Horror Atmosférico como modo de sessão |
-| L3 — Palavras de Poder, Cap. 03 (Nomes Verdadeiros) | Arquivo sabe nomes verdadeiros de livros |
+| [Cap. 12](#cap12_arsenal_do_arcanauta/cap12_arsenal_do_arcanauta) Livro-Base | Descrição física da Biblioteca Arcana |
+| [Cap. 09](#cap09_toolkit_mestre/cap09_toolkit_mestre) Livro-Base | Horror Atmosférico como modo de sessão |
+| L3 — Palavras de Poder, [Cap. 03](#cap03_as_casas/cap03_as_casas) (Nomes Verdadeiros) | Arquivo sabe nomes verdadeiros de livros |
 | L0 — Quando a Arca Estremece | Terceiro andar e Ala Leste têm conexão plantada aqui |
 
 ---
 
-*Referências: Norrin — Cap. 05. Biblioteca Arcana — Cap. 12. V3ctor1us — Cap. 03/08. Protocolo de Sobrevivência — Cap. 05 deste livro.*
+*Referências: Norrin — [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil). Biblioteca Arcana — [Cap. 12](#cap12_arsenal_do_arcanauta/cap12_arsenal_do_arcanauta). V3ctor1us — [Cap. 03](#cap03_as_casas/cap03_as_casas)/08. Protocolo de Sobrevivência — [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil) deste livro.*

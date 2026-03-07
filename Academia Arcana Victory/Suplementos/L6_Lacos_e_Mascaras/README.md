@@ -27,14 +27,14 @@ O Festival de Inverno, que serve como aventura âncora deste livro, é a express
 
 | Arquivo | Conteúdo |
 |---------|---------|
-| [cap00_lacos_como_sistema.md](cap00_lacos_como_sistema.md) | Framework genérico de Vínculos — jogável sem nenhum subsistema adicional |
-| [cap01_a_academia_ninja.md](cap01_a_academia_ninja.md) | Programa de Equipes de Campo: Canalização Dupla, Times de Três, Exame de Coesão |
-| [cap02_a_guilda_e_a_familia.md](cap02_a_guilda_e_a_familia.md) | Grêmio Chama Livre: Força dos Laços, Magia de Origem, Arsenal Vinculado, Compactos |
-| [cap03_persona_e_o_outro_mundo.md](cap03_persona_e_o_outro_mundo.md) | O Avesso: Vida Dupla, Despertar, Social Links, Convergências |
-| [cap04_festival_de_inverno.md](cap04_festival_de_inverno.md) | S6 — Festival de Inverno (aventura social condensada) |
-| [cap05_progressao_de_vinculo.md](cap05_progressao_de_vinculo.md) | Sistema unificado de Vínculos de Campanha |
-| [cap06_a_missao_de_formatura.md](cap06_a_missao_de_formatura.md) | Aventura: 2–3 sessões fora do campus |
-| [apendice_gremios_e_escolas.md](apendice_gremios_e_escolas.md) | Estruturas e entidades introduzidas neste livro; conexões com AAV |
+| [[[cap00_lacos_como_sistema.md](#cap00_lacos_como_sistema/cap00_lacos_como_sistema)](#cap00_lacos_como_sistema/cap00_lacos_como_sistema)](#cap00_lacos_como_sistema/cap00_lacos_como_sistema) | Framework genérico de Vínculos — jogável sem nenhum subsistema adicional |
+| [[[cap01_a_academia_ninja.md](#cap01_a_academia_ninja/cap01_a_academia_ninja)](#cap01_a_academia_ninja/cap01_a_academia_ninja)](#cap01_a_academia_ninja/cap01_a_academia_ninja) | Programa de Equipes de Campo: Canalização Dupla, Times de Três, Exame de Coesão |
+| [[[cap02_a_guilda_e_a_familia.md](#cap02_a_guilda_e_a_familia/cap02_a_guilda_e_a_familia)](#cap02_a_guilda_e_a_familia/cap02_a_guilda_e_a_familia)](#cap02_a_guilda_e_a_familia/cap02_a_guilda_e_a_familia) | Grêmio Chama Livre: Força dos Laços, Magia de Origem, Arsenal Vinculado, Compactos |
+| [[[cap03_persona_e_o_outro_mundo.md](#cap03_persona_e_o_outro_mundo/cap03_persona_e_o_outro_mundo)](#cap03_persona_e_o_outro_mundo/cap03_persona_e_o_outro_mundo)](#cap03_persona_e_o_outro_mundo/cap03_persona_e_o_outro_mundo) | O Avesso: Vida Dupla, Despertar, Social Links, Convergências |
+| [[[cap04_festival_de_inverno.md](#cap04_festival_de_inverno/cap04_festival_de_inverno)](#cap04_festival_de_inverno/cap04_festival_de_inverno)](#cap04_festival_de_inverno/cap04_festival_de_inverno) | S6 — Festival de Inverno (aventura social condensada) |
+| [[[cap05_progressao_de_vinculo.md](#cap05_progressao_de_vinculo/cap05_progressao_de_vinculo)](#cap05_progressao_de_vinculo/cap05_progressao_de_vinculo)](#cap05_progressao_de_vinculo/cap05_progressao_de_vinculo) | Sistema unificado de Vínculos de Campanha |
+| [[[cap06_a_missao_de_formatura.md](#cap06_a_missao_de_formatura/cap06_a_missao_de_formatura)](#cap06_a_missao_de_formatura/cap06_a_missao_de_formatura)](#cap06_a_missao_de_formatura/cap06_a_missao_de_formatura) | Aventura: 2–3 sessões fora do campus |
+| [[[apendice_gremios_e_escolas.md](#apendice_gremios_e_escolas/apendice_gremios_e_escolas)](#apendice_gremios_e_escolas/apendice_gremios_e_escolas)](#apendice_gremios_e_escolas/apendice_gremios_e_escolas) | Estruturas e entidades introduzidas neste livro; conexões com AAV |
 
 ---
 
@@ -78,7 +78,7 @@ NPCs originais ou adaptados que aparecem neste livro, além das fichas de person
 ```
 Programa de Equipes ────────────────────────────── Time como unidade de sobrevivência
          ↘
-           LAÇOS              ←─── Cap05: Vínculos de Campanha (sistema unificado)
+           LAÇOS              ←─── [Cap05](#cap05_vida_estudantil/cap05_vida_estudantil): Vínculos de Campanha (sistema unificado)
          ↗         ↘
 Chama Livre         O Avesso
 (laços como poder)  (laços como progressão)

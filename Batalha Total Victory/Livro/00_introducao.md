@@ -55,7 +55,7 @@ Você usa aqui as regras universais de campo de batalha: posição, cobertura, e
 
 O foco é jogo de mesa com consequência dramática: decisões claras, custo real e ritmo de cena jogável. Logística detalhada e simulação militar total ficam fora do escopo por escolha de design.
 
-Para jogar, você continua usando o *Manual do Arcanauta* como base do sistema.
+Para jogar, você continua usando o *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* como base do sistema.
 
 Para ambientações completas (facções, lore profundo e submecânicas temáticas), use os suplementos dedicados.
 
@@ -67,7 +67,7 @@ Toda mecânica deste livro responde a uma pergunta: *o que isso custa?*
 
 - Cobertura e posicionamento existem porque decisões táticas **salvam e matam** pessoas específicas.
 - A Escala da Guerra existe porque o gap entre um soldado e um kaiju não é apenas numérico — é **existencial**.
-- O Sistema de Trauma (Cap. 5) existe porque personagens que sobrevivem a guerra são diferentes dos que entraram nela.
+- O Sistema de Trauma ([Cap. 5](#cap05_vida_estudantil/cap05_vida_estudantil)) existe porque personagens que sobrevivem a guerra são diferentes dos que entraram nela.
 - A Ressonância Crítica — quando um piloto de mecha empurra o sistema além do limite — existe porque a guerra exige das pessoas **mais do que deveriam ter que dar**.
 
 Você pode ignorar qualquer uma dessas camadas. O sistema é modular. Mas cada uma foi colocada aqui por uma razão.
@@ -76,11 +76,11 @@ Você pode ignorar qualquer uma dessas camadas. O sistema é modular. Mas cada u
 
 ## Como usar este livro
 
-### Modo 1 — Conflitos Táticos (Cap. 1 e 2)
+### Modo 1 — Conflitos Táticos ([Cap. 1](#cap01_criacao_personagem/cap01_criacao_personagem) e 2)
 
 Use apenas o Campo de Batalha e as regras de Tropas. Sua mesa ganha combate mais tático, com cobertura, formações e movimentação real, sem adicionar novas categorias de poder. Ideal para campanhas de fantasia ou espionagem onde batalhas ocorrem às vezes, não o tempo todo.
 
-### Modo 2 — Escalas Completas (+ Cap. 3 e 4)
+### Modo 2 — Escalas Completas (+ [Cap. 3](#cap03_as_casas/cap03_as_casas) e 4)
 
 Adicione o Sistema de Escalas para campanhas com mechas, kaijus, dragões ou qualquer coisa que dwarf um personagem individual. Obrigatório se você vai usar Colossal ou Leviatã como antagonistas recorrentes.
 
@@ -108,10 +108,10 @@ Use tudo — incluindo Custo Humano, Point-Buy de criação, e o Toolkit do Mest
 > - **Ganho / Perda:** Role 2D e fique com o maior / menor resultado.
 > - **PM (Pontos de Mana):** custo de habilidades ativas; recuperado com descanso.
 > - **Perto / Médio / Longe:** distâncias abstratas de combate do sistema base.
-> - **Escala:** nova categoria introduzida no Cap. 3 — Escaramuça, Warband, Colossal, Leviatã.
-> - **Tropa:** grupo de 3–5 NPCs tratados como unidade única. Introduzido no Cap. 2.
+> - **Escala:** nova categoria introduzida no [Cap. 3](#cap03_as_casas/cap03_as_casas) — Escaramuça, Warband, Colossal, Leviatã.
+> - **Tropa:** grupo de 3–5 NPCs tratados como unidade única. Introduzido no [Cap. 2](#cap02_a_academia/cap02_a_academia).
 >
-> Se algum desses termos não for familiar, consulte o **Kit Demo gratuito** ou o *Manual do Arcanauta*.
+> Se algum desses termos não for familiar, consulte o **Kit Demo gratuito** ou o *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)*.
 
 ---
 
@@ -146,16 +146,16 @@ Use tudo — incluindo Custo Humano, Point-Buy de criação, e o Toolkit do Mest
 
 | Termo | Definição Rápida | Onde Ler Mais |
 |---|---|---|
-| **Escala** | Categoria de tamanho/poder (Escaramúça, Warband, Colossal, Leviatã) | Cap. 3 |
-| **Ação Heroica** | Gasto de Ponto de Heroísmo para afetar Tropa inteira | Cap. 2 |
-| **Sincronização** | Estado emocional do piloto afetando performance de mecha | Cap. 4 |
-| **Ressonância Crítica** | Colapso de sincronização piloto-mecha sob trauma extremo | Cap. 4 |
-| **Trauma** | Recurso narrativo-mecânico do custo psicológico de guerra | Cap. 5 |
-| **Ponto Fraco** | Vulnerabilidade de Leviatã permitindo dano de escalas menores | Cap. 3, 4 |
-| **Fogo Concentrado** | Múltiplas unidades atacando mesmo alvo somam modificadores | Cap. 2 |
-| **Terreno Difícil** | Custa 2× movimento em Grade; reduz movimento 50% em Medição-Livre | Cap. 1 |
-| **Warband Nomeada** | Unidade com identidade, habilidade e fraqueza narrativa | Cap. 3 |
-| **Objetivo de Crise** | Objetivo secundário emergente no meio de batalha | Cap. 7 |
+| **Escala** | Categoria de tamanho/poder (Escaramúça, Warband, Colossal, Leviatã) | [Cap. 3](#cap03_as_casas/cap03_as_casas) |
+| **Ação Heroica** | Gasto de Ponto de Heroísmo para afetar Tropa inteira | [Cap. 2](#cap02_a_academia/cap02_a_academia) |
+| **Sincronização** | Estado emocional do piloto afetando performance de mecha | [Cap. 4](#cap04_professores_npcs/cap04_professores_npcs) |
+| **Ressonância Crítica** | Colapso de sincronização piloto-mecha sob trauma extremo | [Cap. 4](#cap04_professores_npcs/cap04_professores_npcs) |
+| **Trauma** | Recurso narrativo-mecânico do custo psicológico de guerra | [Cap. 5](#cap05_vida_estudantil/cap05_vida_estudantil) |
+| **Ponto Fraco** | Vulnerabilidade de Leviatã permitindo dano de escalas menores | [Cap. 3](#cap03_as_casas/cap03_as_casas), 4 |
+| **Fogo Concentrado** | Múltiplas unidades atacando mesmo alvo somam modificadores | [Cap. 2](#cap02_a_academia/cap02_a_academia) |
+| **Terreno Difícil** | Custa 2× movimento em Grade; reduz movimento 50% em Medição-Livre | [Cap. 1](#cap01_criacao_personagem/cap01_criacao_personagem) |
+| **Warband Nomeada** | Unidade com identidade, habilidade e fraqueza narrativa | [Cap. 3](#cap03_as_casas/cap03_as_casas) |
+| **Objetivo de Crise** | Objetivo secundário emergente no meio de batalha | [Cap. 7](#cap07_mundo_ao_redor/cap07_mundo_ao_redor) |
 
 > Use este glossário como referência rápida durante jogo. Cada termo tem capítulo completo com exemplos e mecânicas detalhadas.
 

@@ -12,14 +12,14 @@
 
 | # | Título | Tipo | Fonte |
 |---|--------|------|-------|
-| Cap. 00 | [Mahou Shoujo na Mesa](cap00_mahou_shoujo_na_mesa.md) | NEW — Guia de tom | Original |
-| Cap. 01 | [A Ordem das Sentinelas do Solstício](cap01_sentinelas_do_solsticio.md) | Worldbuilding + sistema | Original |
-| Cap. 02 | [Guardiãs de Coleção](cap02_artefatos_errantes.md) | Worldbuilding + sistema | Original |
-| Cap. 03 | [Parceiras de Ressonância](cap03_parceiras_de_ressonancia.md) | Worldbuilding + sistema | Original |
-| Cap. 04 | [A Ordem das Cavaleiras do Vórtice](cap04_cavaleiras_do_vortice.md) | Worldbuilding + sistema | Original |
-| Cap. 05 | [O Primeiro Derby](cap05_o_primeiro_derby.md) | Aventura | S1 |
-| Cap. 06 | [Mecânica de Transformação](cap06_mecanica_de_transformacao.md) | NEW — Mecânicas | Original |
-| Cap. 07 | [O Primeiro Despertar](cap07_o_primeiro_despertar.md) | Aventura nova | Original |
+| [Cap. 00](#cap00_introducao/cap00_introducao) | [Mahou Shoujo na Mesa](#cap00_mahou_shoujo_na_mesa/cap00_mahou_shoujo_na_mesa) | NEW — Guia de tom | Original |
+| [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) | [A Ordem das Sentinelas do Solstício](#cap01_sentinelas_do_solsticio/cap01_sentinelas_do_solsticio) | Worldbuilding + sistema | Original |
+| [Cap. 02](#cap02_a_academia/cap02_a_academia) | [Guardiãs de Coleção](#cap02_artefatos_errantes/cap02_artefatos_errantes) | Worldbuilding + sistema | Original |
+| [Cap. 03](#cap03_as_casas/cap03_as_casas) | [Parceiras de Ressonância](#cap03_parceiras_de_ressonancia/cap03_parceiras_de_ressonancia) | Worldbuilding + sistema | Original |
+| [Cap. 04](#cap04_professores_npcs/cap04_professores_npcs) | [A Ordem das Cavaleiras do Vórtice](#cap04_cavaleiras_do_vortice/cap04_cavaleiras_do_vortice) | Worldbuilding + sistema | Original |
+| [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil) | [O Primeiro Derby](#cap05_o_primeiro_derby/cap05_o_primeiro_derby) | Aventura | S1 |
+| [Cap. 06](#cap06_mecanicas/cap06_mecanicas) | [Mecânica de Transformação](#cap06_mecanica_de_transformacao/cap06_mecanica_de_transformacao) | NEW — Mecânicas | Original |
+| [Cap. 07](#cap07_mundo_ao_redor/cap07_mundo_ao_redor) | [O Primeiro Despertar](#cap07_o_primeiro_despertar/cap07_o_primeiro_despertar) | Aventura nova | Original |
 
 ---
 
@@ -50,7 +50,7 @@ Este livro é sobre magia que vem de dentro. As quatro franquias cobertas partil
 
 ## Mecânica Unificada de Transformação
 
-A mecânica central do livro está no Cap. 06, mas a versão resumida: toda personagem com poderes de identidade pode ter 1 **Estado Transformado** que custa 1 PM para ativar, dura toda uma cena, e concede Ganho em testes do domínio central do personagem. Os subsistemas específicos de cada franquia se sobrepõem a essa base sem contradizê-la.
+A mecânica central do livro está no [Cap. 06](#cap06_mecanicas/cap06_mecanicas), mas a versão resumida: toda personagem com poderes de identidade pode ter 1 **Estado Transformado** que custa 1 PM para ativar, dura toda uma cena, e concede Ganho em testes do domínio central do personagem. Os subsistemas específicos de cada franquia se sobrepõem a essa base sem contradizê-la.
 
 ---
 

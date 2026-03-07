@@ -5,7 +5,7 @@
 
 ---
 
-Tudo o que você vai encontrar neste capítulo são **adições** ao sistema base do 3D&T Victory. Você ainda precisa do *Manual do Arcanauta* para jogar — este livro não substitui aquele, ele conversa com ele. Pense neste capítulo como uma expansão: novos kits, novas vantagens, novas desvantagens e um esporte maluco envolvendo vassouras voadoras e muita porrada mágica.
+Tudo o que você vai encontrar neste capítulo são **adições** ao sistema base do 3D&T Victory. Você ainda precisa do *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* para jogar — este livro não substitui aquele, ele conversa com ele. Pense neste capítulo como uma expansão: novos kits, novas vantagens, novas desvantagens e um esporte maluco envolvendo vassouras voadoras e muita porrada mágica.
 
 Se você já leu os capítulos anteriores, sabe que a Academia Arcana não é um lugar pacato. Alunos duelam nos corredores, grêmios disputam influência como se fosse questão de vida ou morte (às vezes é), e existe um andar inteiro do campus que ninguém consegue acessar. Suas fichas precisam refletir isso.
 
@@ -21,7 +21,7 @@ Então pegue seu lápis, sua borracha (você vai precisar de muita borracha) e v
 > - **Vantagem / Desvantagem:** traços permanentes do personagem; vantagens custam pontos, desvantagens rendem pontos.
 > - **Técnica:** habilidade especial geralmente ligada a um kit ou vantagem.
 >
-> Regras completas no **Kit Introdutório Demo** (gratuito) ou no *Manual do Arcanauta*.
+> Regras completas no **Kit Introdutório Demo** (gratuito) ou no *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)*.
 
 ---
 
@@ -95,7 +95,7 @@ O Glifista é o mago que transforma tinta em poder e caligrafia em conjuração.
 
 - **Palavras de Poder.** Você pode gastar 1 PM para inscrever uma palavra arcana em uma superfície que possa alcançar (chão, parede, mesa, porta). A inscrição funciona como uma armadilha mágica: a próxima criatura que tocar ou pisar na superfície inscrita ativa o efeito. Escolha um ao inscrever: dano (1d+Habilidade), lentidão (o alvo sofre **Perda** na próxima ação), ou empurrão (o alvo é arremessado para Perto). A inscrição brilha com um leve pulso de luz — observadores atentos podem notar com um teste de Percepção (dificuldade 8). Dura até o fim da cena ou até ser ativada.
 
-> **Grimório e Improviso:** O Glifista tem afinidade natural com os sistemas opcionais de **+Sistema de Grimório** e **+Magia Improvisada** do Capítulo 11. Se a mesa usa esses sistemas, o Glifista reduz em 2 a dificuldade de magia improvisada e pode rolar com **Ganho** na Tabela de Efeitos Colaterais. Além disso, cada nível extra de slot de grimório obtido pelo kit representa literalmente mais páginas de um caderno de glifos. Ver **Capítulo 11 — +Regras da Academia** para os detalhes completos.
+> **Grimório e Improviso:** O Glifista tem afinidade natural com os sistemas opcionais de **+Sistema de Grimório** e **+Magia Improvisada** do [Capítulo 11](#cap11_mais_regras/cap11_mais_regras). Se a mesa usa esses sistemas, o Glifista reduz em 2 a dificuldade de magia improvisada e pode rolar com **Ganho** na Tabela de Efeitos Colaterais. Além disso, cada nível extra de slot de grimório obtido pelo kit representa literalmente mais páginas de um caderno de glifos. Ver **[Capítulo 11](#cap11_mais_regras/cap11_mais_regras) — +Regras da Academia** para os detalhes completos.
 
 ---
 
@@ -299,7 +299,7 @@ Na Academia, esse perfil gera olhares. Uma varinha que funciona de formas imprev
 ### Kit: Engenheiro de Fórmulas (2pt)
 
 **Núcleos:** Academia Arcana, Era das Arcas
-**Exigências:** Mística especializada; H mínimo 3; acesso ao +Módulo de Magia (Cap. 11)
+**Exigências:** Mística especializada; H mínimo 3; acesso ao +Módulo de Magia ([Cap. 11](#cap11_mais_regras/cap11_mais_regras))
 
 *Este kit representa um personagem que trata magia como engenharia: feitiços são programas, canalizadores são compiladores, PM são recursos de processamento. Não é intuição — é arquitetura. Resultado: a maioria dos benchmarks acadêmicos subestima esse personagem, porque os benchmarks medem velocidade de instância e potência de Psions, não eficiência de Sequência de Ativação.*
 
@@ -1824,7 +1824,7 @@ Quando você tenta algo impossível na presença de aliados e *consegue*, cada a
 
 ### Kit B — Engenheiro de Fórmulas (2pt)
 
-**Exigências:** Mística especializada; H mínimo 3; acesso ao +Módulo de Magia (Cap. 11)
+**Exigências:** Mística especializada; H mínimo 3; acesso ao +Módulo de Magia ([Cap. 11](#cap11_mais_regras/cap11_mais_regras))
 
 *Este kit representa um personagem que trata magia como engenharia: feitiços são programas, canalizadores são compiladores, PM são recursos de processamento. Não é intuição — é arquitetura. Resultado: a maioria dos benchmarks acadêmicos subestima esse personagem, porque os benchmarks medem velocidade de instância e potência de Psions, não eficiência de Sequência de Ativação.*
 
@@ -1937,8 +1937,8 @@ Você começa com 0 pontos de Protocolo. Isso se nota.
 
 Essas são as ferramentas mecânicas à disposição de jogadores e Mestres para dar vida à experiência na Academia Arcana. Os kits originais deste capítulo definem como seu personagem opera magicamente dentro deste cenário; o Sistema de Familiar expande os vínculos entre arcanistas e criaturas além do funcional; vantagens e desvantagens acrescentam profundidade e complicações; o MagiDerby oferece um esporte inteiro para jogar dentro do jogo; e os itens mágicos adicionam sabor ao dia a dia.
 
-Para um guia completo de como os kits do *Manual do Arcanauta* e os desafios de *Ferozes & Furiosos* se encaixam na Academia, veja o **Capítulo 12 — Arsenal do Arcanauta Acadêmico**.
+Para um guia completo de como os kits do *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* e os desafios de *[Ferozes & Furiosos](https://jamboeditora.com.br/produto/ferozes-e-furiosos/)* se encaixam na Academia, veja o **[Capítulo 12](#cap12_arsenal_do_arcanauta/cap12_arsenal_do_arcanauta) — Arsenal do Arcanauta Acadêmico**.
 
-No **Capítulo 7**, vamos expandir o olhar para além dos muros da escola — o mundo ao redor da Academia, as cidades onde seus alunos compram suprimentos, as escolas rivais que olham para vocês com inveja (ou desconfiança), e as ameaças que invariavelmente batem na porta. Porque saber *como* seu personagem funciona é importante — mas saber *onde* ele está lutando é o que define o contexto.
+No **[Capítulo 7](#cap07_mundo_ao_redor/cap07_mundo_ao_redor)**, vamos expandir o olhar para além dos muros da escola — o mundo ao redor da Academia, as cidades onde seus alunos compram suprimentos, as escolas rivais que olham para vocês com inveja (ou desconfiança), e as ameaças que invariavelmente batem na porta. Porque saber *como* seu personagem funciona é importante — mas saber *onde* ele está lutando é o que define o contexto.
 
 Peguem suas vassouras. O mundo lá fora está esperando.

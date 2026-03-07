@@ -5,8 +5,8 @@
 
 ---
 
-**Fonte:** K1 — Manual do Estudante Arcano (11 arquétipos do *Manual do Arcanauta* adaptados para AAV)
-**Mecânicas:** Idênticas ao *Manual do Arcanauta*. Nenhum poder foi alterado. O que muda é contexto, vocabulário e, neste livro, **afinidade por paradigma de herança**.
+**Fonte:** K1 — Manual do Estudante Arcano (11 arquétipos do *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)* adaptados para AAV)
+**Mecânicas:** Idênticas ao *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)*. Nenhum poder foi alterado. O que muda é contexto, vocabulário e, neste livro, **afinidade por paradigma de herança**.
 
 ---
 
@@ -47,7 +47,7 @@ Combine Herdeiro Arcano com o Sistema de Legado (cap00):
 
 Cada arquétipo tem:
 - **Nome acadêmico** — como é conhecido no campus
-- **Kit base** — referência ao *Manual do Arcanauta*
+- **Kit base** — referência ao *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)*
 - **Cena típica** — momento exemplar em jogo
 - **Exigências e poderes** — idênticos ao original, nomes adaptados ao vocabulário do campus
 
@@ -260,8 +260,8 @@ Sabe como estar no lugar errado na hora errada sem que ninguém verifique. Não 
 | cap00 — Linhagem como Mecânica (este livro) | Herdeiro Arcano = instância natural do Sistema de Legado |
 | cap03 — Ordem dos Glifeiros (este livro) | 6 kits de Glifeiros que combinam com estes 11 |
 | cap04 — Sociedades Secretas (este livro) | Agente Duplo + Infiltrado/Sombra = combinações de espionagem |
-| Cap. 6 do livro base | Kits exclusivos da Academia (Arcavaleiro, Mentalista, Calouro Sortudo) |
-| Manual do Arcanauta | Mecânicas originais — idênticas; este capítulo é reskin, não rebalanceamento |
+| [Cap. 6](#cap06_mecanicas/cap06_mecanicas) do livro base | Kits exclusivos da Academia (Arcavaleiro, Mentalista, Calouro Sortudo) |
+| [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/) | Mecânicas originais — idênticas; este capítulo é reskin, não rebalanceamento |
 
 ---
 
@@ -269,4 +269,4 @@ Sabe como estar no lugar errado na hora errada sem que ninguém verifique. Não 
 
 ---
 
-*Próximo: **Capítulo 6 — A Outra Escola: Brambleshire** — uma campanha de 8–12 sessões numa escola que guarda segredos familiares.*
+*Próximo: **[Capítulo 6](#cap06_mecanicas/cap06_mecanicas) — A Outra Escola: Brambleshire** — uma campanha de 8–12 sessões numa escola que guarda segredos familiares.*

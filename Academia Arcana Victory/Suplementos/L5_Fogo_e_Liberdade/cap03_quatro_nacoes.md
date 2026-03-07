@@ -6,7 +6,7 @@
 
 ---
 
-**Compatível com:** T4 (Magia Hard e Soft), Cap. 06 (Familiares) (Espíritos como Familiares), Cap. 05 (Reputação Faccional)
+**Compatível com:** T4 (Magia Hard e Soft), [Cap. 06](#cap06_mecanicas/cap06_mecanicas) (Familiares) (Espíritos como Familiares), [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil) (Reputação Faccional)
 **Instância do Framework:** Falha de Visão — o sistema confunde sua própria perspectiva com a perspectiva universal
 
 ---
@@ -117,7 +117,7 @@ Marcadores se perdem quando o alinhamento é violado num momento de pressão rea
 
 **Redirecionamento de Carga** (técnica defensiva de Água aplicada a Fogo): reação (0 PM, 1×/sessão) — quando alvo de ataque elétrico ou mágico de carga, absorve e redireciona para outro alvo sem sofrer dano. Não pode ser aprendido por praticante de Fogo sem mentor externo com domínio dual.
 
-**Domínio de Sangue** (subestilo de Água, proibido): controle de fluidos corporais alheios. Mecânica do Cap. 14 com Débito Cármico permanente (+2 por uso). O Mestre pergunta ao jogador antes do primeiro uso se está confortável com o tema.
+**Domínio de Sangue** (subestilo de Água, proibido): controle de fluidos corporais alheios. Mecânica do [Cap. 14](#cap14_o_custo_da_magia/cap14_o_custo_da_magia) com Débito Cármico permanente (+2 por uso). O Mestre pergunta ao jogador antes do primeiro uso se está confortável com o tema.
 
 **Domínio de Areia, Domínio de Magma, Domínio de Planta:** todos funcionam como poderes adicionais adquiridos por arco narrativo, não como kits separados.
 
@@ -274,4 +274,4 @@ Use as Quatro Formas quando quiser que o crescimento mecânico dos personagens s
 
 ---
 
-*Próximo: Cap. 04 — Caldeira: Férias Arcanas — a cidade onde o sistema tem número de protocolo, e a mulher que foi expulsa por uma IA sem explicação e construiu a alternativa.*
+*Próximo: [Cap. 04](#cap04_professores_npcs/cap04_professores_npcs) — Caldeira: Férias Arcanas — a cidade onde o sistema tem número de protocolo, e a mulher que foi expulsa por uma IA sem explicação e construiu a alternativa.*

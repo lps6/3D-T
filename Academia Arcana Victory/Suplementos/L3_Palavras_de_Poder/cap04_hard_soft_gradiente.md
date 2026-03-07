@@ -399,10 +399,10 @@ O material deste livro (Caps. 01–03) se posiciona de forma reveladora no gradi
 
 | Sistema | Posição | Por quê |
 |---------|---------|---------|
-| **Simpatia** (Cap. 01) | Hard puro | Vínculos com regras, PM calculável, riscos documentados |
-| **Língua dos Nomes** (Cap. 02) | Hard com borda soft | Regras de custo em PV são hard; interpretação literal de declarações abre margem soft |
-| **Nomes Verdadeiros** (Cap. 03) | Gradiente central | Métodos de descoberta são hard (testes, dificuldades); efeitos dependem de compreensão narrativa |
-| **Nomeação avançada** (Cap. 01, §2.4) | Soft com base hard | O evento de Nomeação — saber o nome do vento — é narrativo; a mecânica de Débito é hard |
+| **Simpatia** ([Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem)) | Hard puro | Vínculos com regras, PM calculável, riscos documentados |
+| **Língua dos Nomes** ([Cap. 02](#cap02_a_academia/cap02_a_academia)) | Hard com borda soft | Regras de custo em PV são hard; interpretação literal de declarações abre margem soft |
+| **Nomes Verdadeiros** ([Cap. 03](#cap03_as_casas/cap03_as_casas)) | Gradiente central | Métodos de descoberta são hard (testes, dificuldades); efeitos dependem de compreensão narrativa |
+| **Nomeação avançada** ([Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem), §2.4) | Soft com base hard | O evento de Nomeação — saber o nome do vento — é narrativo; a mecânica de Débito é hard |
 
 Um Mestre que entende onde cada sistema se posiciona pode misturá-los na mesma campanha sem colisão. O Nomeador opera no gradiente central. O Glifista opera em hard. O Monsoon opera em soft. E os três podem ser PJ na mesma mesa — porque o gradiente não é sobre qual sistema é melhor, mas sobre *o que cada sistema revela* quando interagem.
 
@@ -424,4 +424,4 @@ Um Mestre que entende onde cada sistema se posiciona pode misturá-los na mesma 
 
 ---
 
-*Próximo: Cap. 05 — O Nome Que o Grimório Esqueceu (Aventura nova: 2–3 sessões no ponto onde os Nomes se encontram com as consequências).*
+*Próximo: [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil) — O Nome Que o Grimório Esqueceu (Aventura nova: 2–3 sessões no ponto onde os Nomes se encontram com as consequências).*

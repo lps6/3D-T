@@ -76,7 +76,7 @@ Cada ano é progressivamente mais difícil. Não apenas em termos de conteúdo a
 | MagiDerby — Fase de Grupos | Outubro-Dezembro | Competições entre grêmios começam |
 | Recesso de Fim de Ano | Última semana de Dezembro — 1a semana de Janeiro | Pausa (alguns alunos ficam no campus) |
 
-> **O Que é MagiDerby?** O esporte oficial da Academia — roller derby em vassouras voadoras, jogado em pista oval arcana. Cada grêmio monta um time, e as competições são o principal mecanismo de acumular Pontos de Grêmio durante o ano. As regras completas, posições, técnicas e vassouras estão no **Capítulo 6 — Novas Mecânicas**. Por enquanto, saiba que: vencer partidas acumula pontos; comportamento antidesportivo é punido com desconto; e é absolutamente permitido usar magia — dentro de certos limites.
+> **O Que é MagiDerby?** O esporte oficial da Academia — roller derby em vassouras voadoras, jogado em pista oval arcana. Cada grêmio monta um time, e as competições são o principal mecanismo de acumular Pontos de Grêmio durante o ano. As regras completas, posições, técnicas e vassouras estão no **[Capítulo 6](#cap06_mecanicas/cap06_mecanicas) — Novas Mecânicas**. Por enquanto, saiba que: vencer partidas acumula pontos; comportamento antidesportivo é punido com desconto; e é absolutamente permitido usar magia — dentro de certos limites.
 
 | Provas Finais do 1o Semestre | Fevereiro | Avaliações de encerramento |
 | Início do 2o Semestre | 1a semana de Março | Retorno às aulas |
@@ -106,10 +106,10 @@ Cada ano é progressivamente mais difícil. Não apenas em termos de conteúdo a
 > **📖 Revisão Rápida — XP e Progressão**
 > A Academia usa o sistema de XP padrão do 3D&T Victory:
 > - **XP (Pontos de Experiência):** ganhos ao fim de aventuras e marcos narrativos; usados para melhorar atributos, comprar kits e vantagens.
-> - **Progressão:** cada ponto de atributo custa XP conforme a tabela do *Manual do Arcanauta*; kits custam 1 ponto de personagem adicional.
+> - **Progressão:** cada ponto de atributo custa XP conforme a tabela do *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)*; kits custam 1 ponto de personagem adicional.
 > - **Pontos de Personagem:** recurso de criação e progressão; novos pontos são concedidos pelo Mestre em marcos significativos.
 >
-> Regras completas no **Kit Introdutório Demo** (gratuito) ou no *Manual do Arcanauta*.
+> Regras completas no **Kit Introdutório Demo** (gratuito) ou no *[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)*.
 
 ---
 
@@ -167,7 +167,7 @@ O título padrão de qualquer calouro. Não requer nada além da admissão. Não
 
 Isso não significa que não existe hierarquia. Significa que você está na base dela. Iniciantes são invisíveis para veteranos, vísivéis demais para professores, e desesperadamente conscientes de que cada passo está sendo avaliado — mesmo quando não está.
 
-*Benefício:* Uniforme Adaptativo ativo (ver Itens Mágicos, Cap. 6), acesso à Biblioteca Geral, matrícula no grêmio de escolha.
+*Benefício:* Uniforme Adaptativo ativo (ver Itens Mágicos, [Cap. 6](#cap06_mecanicas/cap06_mecanicas)), acesso à Biblioteca Geral, matrícula no grêmio de escolha.
 
 ---
 
@@ -623,7 +623,7 @@ Itens encontráveis na Loja Oficial, no Mercado Informal ou como recompensas de 
 | **Poção de Aceleração Mental** | A próxima ação arcana que o usuário realizar nesta cena custa 1 PM a menos (mínimo 0) | 3 CA | Efeito similar à Preparação Arcana. Não acumula. |
 | **Bilhete de Trânsito** | Registra no sistema de V3ctor1us uma saída de 6 horas "para fins acadêmicos externos" sem aprovação formal | 6 CA | Tecnicamente válido. V3ctor1us rastreia para onde você foi de qualquer forma. |
 
-> **Nota sobre a Poção de Concentração:** O item clássico descrito no Capítulo 6 (efeito em Saber, gosto horrível, um por dia) está disponível na Loja Oficial pelo preço de 5 CA. Continua sendo o item mais vendido durante a semana de provas — e o menos vendido no dia seguinte.
+> **Nota sobre a Poção de Concentração:** O item clássico descrito no [Capítulo 6](#cap06_mecanicas/cap06_mecanicas) (efeito em Saber, gosto horrível, um por dia) está disponível na Loja Oficial pelo preço de 5 CA. Continua sendo o item mais vendido durante a semana de provas — e o menos vendido no dia seguinte.
 
 ---
 
@@ -723,6 +723,6 @@ Role 1d6 quando quiser adicionar tempero a uma cena de prova:
 
 Você agora sabe como é viver na Academia Arcana — as aulas, as provas, os cantos escuros onde segredos são trocados, e o som distante de V3ctor1us calculando sua média ponderada. Mas conhecer a rotina é só metade da batalha.
 
-No **Capítulo 6**, vamos abrir a caixa de ferramentas: as regras mecânicas que fazem tudo funcionar — Técnicas expandidas, regras para o MagiDerby, e o sistema de magia que separa um calouro confuso de um Magister de quarto ano capaz de reescrever a realidade (dentro dos limites do Código de Conduta, é claro. Provavelmente. Talvez.).
+No **[Capítulo 6](#cap06_mecanicas/cap06_mecanicas)**, vamos abrir a caixa de ferramentas: as regras mecânicas que fazem tudo funcionar — Técnicas expandidas, regras para o MagiDerby, e o sistema de magia que separa um calouro confuso de um Magister de quarto ano capaz de reescrever a realidade (dentro dos limites do Código de Conduta, é claro. Provavelmente. Talvez.).
 
 Vire a página. A prova prática está prestes a começar.

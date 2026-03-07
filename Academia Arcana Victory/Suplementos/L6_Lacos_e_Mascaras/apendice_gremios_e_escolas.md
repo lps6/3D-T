@@ -8,9 +8,9 @@ Referência rápida das estruturas, grêmios, entidades e conexões introduzidas
 
 | Estrutura | Capítulo | Tipo | Localização |
 |-----------|----------|------|-------------|
-| Programa de Equipes de Campo | Cap. 01 | Programa experimental da Academia Victory | Campus; administrado pela Coordenação Acadêmica |
-| Grêmio Chama Livre | Cap. 02 | Grêmio independente (não afiliado à Academia) | Sede própria nas proximidades do campus |
-| O Avesso | Cap. 03 | Dimensão paralela sobreposta ao campus | Não-mapeado; detectado por V3ctor1us como "ruído de fundo" |
+| Programa de Equipes de Campo | [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) | Programa experimental da Academia Victory | Campus; administrado pela Coordenação Acadêmica |
+| Grêmio Chama Livre | [Cap. 02](#cap02_a_academia/cap02_a_academia) | Grêmio independente (não afiliado à Academia) | Sede própria nas proximidades do campus |
+| O Avesso | [Cap. 03](#cap03_as_casas/cap03_as_casas) | Dimensão paralela sobreposta ao campus | Não-mapeado; detectado por V3ctor1us como "ruído de fundo" |
 
 ---
 
@@ -59,7 +59,7 @@ Referência rápida das estruturas, grêmios, entidades e conexões introduzidas
 - **Arsenal Vinculado** — até 4 configurações trocáveis como ação livre (1 PM); troca pode ser declarada após ver ataque
 - **Compactos** — entidades aliadas com Regra de Reciprocidade e Regra de Emergência
 
-**Conexões AAV:** a sede do Chama Livre se move — V3ctor1us tem endereço desatualizado. Possível cruzamento com eventos de Cap. 06 (Missão de Formatura). Kassia Vorn tem laço não-nomeado que pode aparecer como gancho.
+**Conexões AAV:** a sede do Chama Livre se move — V3ctor1us tem endereço desatualizado. Possível cruzamento com eventos de [Cap. 06](#cap06_mecanicas/cap06_mecanicas) (Missão de Formatura). Kassia Vorn tem laço não-nomeado que pode aparecer como gancho.
 
 ---
 
@@ -83,7 +83,7 @@ Referência rápida das estruturas, grêmios, entidades e conexões introduzidas
 - **Despertar** — sequência de confronto com Reflexo; não é opcional, acontece em crise
 - **Cansaço** — acumulado por exploração sem descanso; penalidade em PM máximo
 
-**Conexões AAV:** V3ctor1us registra anomalias do Avesso como "ruído de fundo de ressonância arcana, dentro de parâmetros aceitáveis." Se isso é limitação técnica ou decisão deliberada é questão aberta para o Mestre. A Convergência da Academia (gancho de Cap. 03) tem três possibilidades de dono — a terceira é V3ctor1us.
+**Conexões AAV:** V3ctor1us registra anomalias do Avesso como "ruído de fundo de ressonância arcana, dentro de parâmetros aceitáveis." Se isso é limitação técnica ou decisão deliberada é questão aberta para o Mestre. A Convergência da Academia (gancho de [Cap. 03](#cap03_as_casas/cap03_as_casas)) tem três possibilidades de dono — a terceira é V3ctor1us.
 
 ---
 
@@ -91,18 +91,18 @@ Referência rápida das estruturas, grêmios, entidades e conexões introduzidas
 
 | Mecânica | Capítulo | Tipo | Complexidade |
 |----------|----------|------|--------------|
-| Canalização Dupla | Cap. 01 | Overlay de PM | Baixa — adiciona sem substituir |
-| Dom de Linhagem | Cap. 01 | Dom Passivo + Poder (1pt) | Baixa — criação de personagem |
-| Modo Limite | Cap. 01 | 1×/sessão com custo de Interferência | Média |
-| Exame de Coesão | Cap. 01 | Estrutura de aventura | N/A — ferramenta de Mestre |
-| Força dos Laços | Cap. 02 | Ativação por condição narrativa | Baixa |
-| Magia de Origem | Cap. 02 | Absorção + Estado Limite | Média |
-| Arsenal Vinculado | Cap. 02 | Slots de kit alternativo | Média |
-| Compactos | Cap. 02 | Aliados com regras de reciprocidade | Média |
-| Vida Dupla | Cap. 03 | Gestão de tempo entre dois modos | Alta — compromisso de campanha |
-| Social Links | Cap. 03 | Rastreamento de vínculos 1–10 | Média |
-| Despertar | Cap. 03 | Arco pessoal com resolução narrativa | Alta — único por PC |
-| Convergências | Cap. 03 | Estrutura de dungeon pessoal | Alta |
+| Canalização Dupla | [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) | Overlay de PM | Baixa — adiciona sem substituir |
+| Dom de Linhagem | [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) | Dom Passivo + Poder (1pt) | Baixa — criação de personagem |
+| Modo Limite | [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) | 1×/sessão com custo de Interferência | Média |
+| Exame de Coesão | [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) | Estrutura de aventura | N/A — ferramenta de Mestre |
+| Força dos Laços | [Cap. 02](#cap02_a_academia/cap02_a_academia) | Ativação por condição narrativa | Baixa |
+| Magia de Origem | [Cap. 02](#cap02_a_academia/cap02_a_academia) | Absorção + Estado Limite | Média |
+| Arsenal Vinculado | [Cap. 02](#cap02_a_academia/cap02_a_academia) | Slots de kit alternativo | Média |
+| Compactos | [Cap. 02](#cap02_a_academia/cap02_a_academia) | Aliados com regras de reciprocidade | Média |
+| Vida Dupla | [Cap. 03](#cap03_as_casas/cap03_as_casas) | Gestão de tempo entre dois modos | Alta — compromisso de campanha |
+| Social Links | [Cap. 03](#cap03_as_casas/cap03_as_casas) | Rastreamento de vínculos 1–10 | Média |
+| Despertar | [Cap. 03](#cap03_as_casas/cap03_as_casas) | Arco pessoal com resolução narrativa | Alta — único por PC |
+| Convergências | [Cap. 03](#cap03_as_casas/cap03_as_casas) | Estrutura de dungeon pessoal | Alta |
 
 ---
 
@@ -110,9 +110,9 @@ Referência rápida das estruturas, grêmios, entidades e conexões introduzidas
 
 | Sistema de L6 | Compatível com | Notas |
 |--------------|----------------|-------|
-| Força dos Laços | Cap. 05 (Vínculos de Campanha) | Força dos Laços é extensão natural do sistema de Cap. 05 |
+| Força dos Laços | [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil) (Vínculos de Campanha) | Força dos Laços é extensão natural do sistema de [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil) |
 | Canalização Dupla | Mecânica base de PM | Overlay — pode ser removido sem afetar fichas |
-| Social Links | Cap. 05 (Vínculos de Campanha) | Versão numérica formal dos mesmos vínculos |
-| Despertar + Aspecto | Cap. 06 (Familiares) (Sistema de Familiar) | Aspecto usa as regras de Familiar de Cap. 06 (Familiares) |
+| Social Links | [Cap. 05](#cap05_vida_estudantil/cap05_vida_estudantil) (Vínculos de Campanha) | Versão numérica formal dos mesmos vínculos |
+| Despertar + Aspecto | [Cap. 06](#cap06_mecanicas/cap06_mecanicas) (Familiares) (Sistema de Familiar) | Aspecto usa as regras de Familiar de [Cap. 06](#cap06_mecanicas/cap06_mecanicas) (Familiares) |
 | Modo Limite | L5 (Transformação de Poder) | Ambos acessam reserva além do normal; não usar simultaneamente sem ajuste |
 | Programa de Equipes | S3 (O Torneio das Escolas) | Exame de Coesão e Torneio podem ser conectados como eventos do mesmo semestre |

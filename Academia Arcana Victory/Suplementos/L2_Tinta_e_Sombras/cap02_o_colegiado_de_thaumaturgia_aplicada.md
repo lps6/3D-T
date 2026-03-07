@@ -47,7 +47,7 @@ A Fragmentação mede a dissociação emocional causada por uso intenso de magia
 - **-1 Fragmentação:** Reconhecer o problema em voz alta (roleplay com Niala ou Séphora)
 - **Espectro para 3:** Arco narrativo dedicado (mínimo 3 sessões, envolvendo conexão emocional)
 
-> **Nota de Segurança:** A Fragmentação espelha dissociação real. Antes de usar este subsistema, tenha a conversa de sessão zero. Se alguém na mesa não está confortável com temas de despersonalização, use Pressão Ambiental (Cap. 01) em vez disso — cobre o mesmo espaço mecânico sem o subtexto psicológico.
+> **Nota de Segurança:** A Fragmentação espelha dissociação real. Antes de usar este subsistema, tenha a conversa de sessão zero. Se alguém na mesa não está confortável com temas de despersonalização, use Pressão Ambiental ([Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem)) em vez disso — cobre o mesmo espaço mecânico sem o subtexto psicológico.
 
 ---
 
@@ -136,7 +136,7 @@ Quando um personagem tenta um feitiço com efeitos além do básico, o Mestre po
 
 **Poderes:**
 - **Brilho Insuportável** *(3 PM):* Canaliza toda a capacidade mágica num único feitiço devastador. Dano 3d6, alcance Perto. Após usar, +1 Fragmentação automático.
-- **Controle Absoluto** *(Passivo):* Nunca sofre Desvio em feitiços (a Tabela de Desvio Gestual do Cap. 03 não se aplica). A precisão é instintiva.
+- **Controle Absoluto** *(Passivo):* Nunca sofre Desvio em feitiços (a Tabela de Desvio Gestual do [Cap. 03](#cap03_as_casas/cap03_as_casas) não se aplica). A precisão é instintiva.
 - **Limiar Espectral** *(Passivo, narrativo):* Se Alice atinge Fragmentação 3, o jogador pode escolher "empurrar" para Fragmentação 4 (Espectro) voluntariamente para lançar um feitiço de escala Sugoi+ sem custo de PM. Depois, o personagem é efetivamente um NPC até ser recuperado.
 
 **Desvantagem:** *Linhagem Mágica* — Família de magos. Esperam excelência. Cada falha em Mística que testemunhas presenciam dá +1 Fragmentação (a vergonha é o mecanismo, não a magia).
@@ -179,12 +179,12 @@ Quando um personagem tenta um feitiço com efeitos além do básico, o Mestre po
 ### "Éternia Está em Todo Lugar"
 V3ctor1us detecta leitura arcana no subsolo — "magia não-codificável de origem extradimensional." Os PCs encontram um portal para um mundo que parece saído de livro infantil, mas que tem consequências permanentes.
 
-**O que Éternia oferece:** Aventura em mundo de fantasia onde NPCs sabem que são personagens e testam os PCs sobre o que isso significa. O portal pode conectar ao incidente dimensional de Cap. 01.
+**O que Éternia oferece:** Aventura em mundo de fantasia onde NPCs sabem que são personagens e testam os PCs sobre o que isso significa. O portal pode conectar ao incidente dimensional de [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem).
 
 ### "A Visitante do Colegiado"
 Professora visitante com credenciais impecáveis ministra seminário de "Magia High-Precision." Genuinamente brilhante. E genuinamente perturbada — marcadores de Fragmentação 2 visíveis.
 
-**Twist:** Suas anotações revelam pesquisa sobre a Escola de Farhaven — e a crença de que o Colegiado poderia ser mais eficiente importando elementos da escola hostil. Os eventos de Cap. 01 podem ter sido parcialmente um experimento *dela*.
+**Twist:** Suas anotações revelam pesquisa sobre a Escola de Farhaven — e a crença de que o Colegiado poderia ser mais eficiente importando elementos da escola hostil. Os eventos de [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) podem ter sido parcialmente um experimento *dela*.
 
 ---
 
@@ -211,4 +211,4 @@ Se o grupo está disposto: é um dos arcos mais recompensadores que você vai me
 
 ---
 
-*Referências: Cap. 01 — Escola de Farhaven (Pressão Ambiental). Cap. 03 — Somática Arcana (Vício). Cap. 00 — Calibrando a Escuridão (segurança).*
+*Referências: [Cap. 01](#cap01_criacao_personagem/cap01_criacao_personagem) — Escola de Farhaven (Pressão Ambiental). [Cap. 03](#cap03_as_casas/cap03_as_casas) — Somática Arcana (Vício). [Cap. 00](#cap00_introducao/cap00_introducao) — Calibrando a Escuridão (segurança).*

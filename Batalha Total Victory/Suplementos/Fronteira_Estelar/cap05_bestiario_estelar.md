@@ -53,7 +53,7 @@ Cada entrada inclui:
 **P2 H3 R2 | PV 10 | Moral: 4**
 
 **Habilidades:**
-- **Treinamento Político:** Conhece os três Objetivos da missão antes do combate (ver Missões de Libertação Estelar, Cap. 6). Pode agir autonomamente se o NPC-âncora cair.
+- **Treinamento Político:** Conhece os três Objetivos da missão antes do combate (ver Missões de Libertação Estelar, [Cap. 6](#cap06_mecanicas/cap06_mecanicas)). Pode agir autonomamente se o NPC-âncora cair.
 - **Solidariedade Tática:** Quando adjacente a outro Marine da Comune, ambos recebem +1R (escudos humanos um para o outro, treinados em dupla).
 - **Equipamento Padrão:** Rifle de energia (sem Cargas — energia), Armadura Leve (+1R já incluído no R2).
 

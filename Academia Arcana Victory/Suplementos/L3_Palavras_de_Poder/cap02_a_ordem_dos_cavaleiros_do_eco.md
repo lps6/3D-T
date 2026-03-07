@@ -305,4 +305,4 @@ O que o Eco está esperando? Está nos PJs?
 
 ---
 
-*Próximo: Cap. 03 — O Nome das Coisas (Y3 consolidado: Kit Nomeador, trilha de Débito de Equilíbrio, e o NPC que sabe de tudo — e responde quando perguntado da forma certa).*
+*Próximo: [Cap. 03](#cap03_as_casas/cap03_as_casas) — O Nome das Coisas (Y3 consolidado: Kit Nomeador, trilha de Débito de Equilíbrio, e o NPC que sabe de tudo — e responde quando perguntado da forma certa).*

@@ -27,12 +27,12 @@ Você não precisa usar este livro. Campanhas de AAV funcionam sem o arco da Ala
 
 | Capítulo | Conteúdo | Fonte | Quando Usar |
 |----------|----------|-------|-------------|
-| [cap00 — A Linha do Tempo](cap00_a_linha_do_tempo.md) | Introdução e como costurar os módulos | Novo | Antes de começar |
-| [cap01 — Protocolo Ala Leste](cap01_protocolo_ala_leste.md) | Sistema de exploração procedural | ALA | 2º/3º Ano |
-| [cap02 — O Calouro Que Sumiu](cap02_o_calouro_que_sumiu.md) | One-shot de revelação | S4 | 1º/2º Ano |
-| [cap03 — Quando a Arca Estremece](cap03_quando_a_arca_estremece.md) | Arco de 3 sessões, crise estrutural | S5 | 2º/3º Ano |
-| [cap04 — Pós-Graduação: Os Mestres](cap04_pos_graduacao_os_mestres.md) | Campanha como professores | C3 | Pós-formatura |
-| [apendice_como_modular](apendice_como_modular.md) | Guia de uso parcial e combinação | Novo | Referência |
+| [cap00 — A Linha do Tempo](#cap00_a_linha_do_tempo/cap00_a_linha_do_tempo) | Introdução e como costurar os módulos | Novo | Antes de começar |
+| [cap01 — Protocolo Ala Leste](#cap01_protocolo_ala_leste/cap01_protocolo_ala_leste) | Sistema de exploração procedural | ALA | 2º/3º Ano |
+| [cap02 — O Calouro Que Sumiu](#cap02_o_calouro_que_sumiu/cap02_o_calouro_que_sumiu) | One-shot de revelação | S4 | 1º/2º Ano |
+| [cap03 — Quando a Arca Estremece](#cap03_quando_a_arca_estremece/cap03_quando_a_arca_estremece) | Arco de 3 sessões, crise estrutural | S5 | 2º/3º Ano |
+| [cap04 — Pós-Graduação: Os Mestres](#cap04_pos_graduacao_os_mestres/cap04_pos_graduacao_os_mestres) | Campanha como professores | C3 | Pós-formatura |
+| [apendice_como_modular](#apendice_como_modular/apendice_como_modular) | Guia de uso parcial e combinação | Novo | Referência |
 
 ---
 

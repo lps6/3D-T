@@ -27,7 +27,7 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 | Thornblade | cap06 (C2) | Combate | Luta, Dunmore 2+ | Corte arcano, dissolução, disciplina de impacto | Brambleshire |
 | Lorekeep | cap06 (C2) | Conhecimento | Saber, Arquivo 3+ | Leitura oblíqua, percepção de véu, segundo olhar | Brambleshire |
 
-### Arquétipos Acadêmicos (reskins do Manual do Arcanauta — mecânicas idênticas)
+### Arquétipos Acadêmicos (reskins do [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/) — mecânicas idênticas)
 
 | Arquétipo | Kit Base | Exigências | Especialidade | Melhor Paradigma |
 |-----------|----------|------------|---------------|-----------------|
@@ -96,8 +96,8 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 - **Adição:** Membro de Sociedade Secreta conecta herança a intriga institucional
 
 ### Se sua campanha é inter-escolas:
-- **Campanha longa (8–12 sessões):** Cap06 (Brambleshire) com kits Arcanist Warden / Thornblade / Lorekeep
-- **Arco curto (3 sessões):** Cap07 (Torneio) — não requer kit específico
+- **Campanha longa (8–12 sessões):** [Cap06](#cap06_mecanicas/cap06_mecanicas) (Brambleshire) com kits Arcanist Warden / Thornblade / Lorekeep
+- **Arco curto (3 sessões):** [Cap07](#cap07_mundo_ao_redor/cap07_mundo_ao_redor) (Torneio) — não requer kit específico
 
 ---
 
@@ -126,4 +126,4 @@ Este apêndice existe porque Sangue & Legado é o livro com o **maior volume de 
 ---
 
 *Fim do Livro 4 — Sangue & Legado: O Livro da Herança.*
-*Retorne ao [README](README.md) para o índice completo.*
+*Retorne ao [README](#AAV-7/README) para o índice completo.*

@@ -34,7 +34,7 @@ Este é o livro com o maior volume de opções de personagem da linha. Três ori
 | — | Ordem das Convergências | Herança da Era das Arcas, células por divindade, 5 personagens (Kael, Lyra, Theo, Bryn, Cadogan) |
 | — | Ordem dos Glifeiros | Glifos corporais, Vínculo de Alma, sangue arcano-ancestral, 6 kits, 6 vantagens, bestiário demoníaco |
 | T3 | Sociedades Secretas | 5 facções ocultas dentro dos grêmios, kit Agente Duplo, vantagem Membro de Sociedade |
-| K1 | Manual do Estudante Arcano | 11 arquétipos acadêmicos do Manual do Arcanauta |
+| K1 | Manual do Estudante Arcano | 11 arquétipos acadêmicos do [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/) |
 | C2 | A Outra Escola: Brambleshire | Campanha de intercâmbio (8–12 sessões), escola britânica, 3 kits, o Quarto do Espelho |
 | S3 | O Torneio das Escolas | Arco de 3 sessões, competição inter-escolas, investigação paralela |
 
@@ -44,15 +44,15 @@ Este é o livro com o maior volume de opções de personagem da linha. Três ori
 
 | # | Capítulo | Tipo | Fonte |
 |---|---------|------|-------|
-| 00 | [Linhagem como Mecânica](cap00_linhagem_como_mecanica.md) | NEW — Framework genérico | Original |
-| 01 | [Academia Thornwall](cap01_academia_thornwall.md) | Original | — |
-| 02 | [Ordem das Convergências](cap02_campo_das_convergencias.md) | Original | — |
-| 03 | [Ordem dos Glifeiros](cap03_ordem_dos_glifeiros.md) | Original | — |
-| 04 | [Sociedades Secretas](cap04_sociedades_secretas.md) | Facções + integração | T3 |
-| 05 | [Manual do Estudante Arcano](cap05_manual_do_estudante_arcano.md) | Opções de personagem | K1 |
-| 06 | [A Outra Escola: Brambleshire](cap06_a_outra_escola_brambleshire.md) | Campanha (8–12 sessões) | C2 |
-| 07 | [O Torneio das Escolas](cap07_o_torneio_das_escolas.md) | Aventura (3 sessões) | S3 |
-| — | [Tabela Comparativa de Opções](apendice_opcoes_de_personagem.md) | Apêndice de referência | Original |
+| 00 | [Linhagem como Mecânica](#cap00_linhagem_como_mecanica/cap00_linhagem_como_mecanica) | NEW — Framework genérico | Original |
+| 01 | [Academia Thornwall](#cap01_academia_thornwall/cap01_academia_thornwall) | Original | — |
+| 02 | [Ordem das Convergências](#cap02_campo_das_convergencias/cap02_campo_das_convergencias) | Original | — |
+| 03 | [Ordem dos Glifeiros](#cap03_ordem_dos_glifeiros/cap03_ordem_dos_glifeiros) | Original | — |
+| 04 | [Sociedades Secretas](#cap04_sociedades_secretas/cap04_sociedades_secretas) | Facções + integração | T3 |
+| 05 | [Manual do Estudante Arcano](#cap05_manual_do_estudante_arcano/cap05_manual_do_estudante_arcano) | Opções de personagem | K1 |
+| 06 | [A Outra Escola: Brambleshire](#cap06_a_outra_escola_brambleshire/cap06_a_outra_escola_brambleshire) | Campanha (8–12 sessões) | C2 |
+| 07 | [O Torneio das Escolas](#cap07_o_torneio_das_escolas/cap07_o_torneio_das_escolas) | Aventura (3 sessões) | S3 |
+| — | [Tabela Comparativa de Opções](#apendice_opcoes_de_personagem/apendice_opcoes_de_personagem) | Apêndice de referência | Original |
 
 ---
 

@@ -158,20 +158,20 @@ A Academia Arcana como destino de uma única aventura. Os personagens visitam, c
 
 ## Guia de Leitura
 
-> **⚡ Quero jogar AGORA:** Capítulo 13. Fichas prontas. Regras resumidas. 3 horas.
+> **⚡ Quero jogar AGORA:** [Capítulo 13](#cap13_modulo_inicio/cap13_modulo_inicio). Fichas prontas. Regras resumidas. 3 horas.
 > **📖 Sou jogador:** Capítulos 0, 1, 3, 6.
 > **🎲 Sou Mestre:** Tudo de 0–10. Depois, 13 para a primeira sessão.
 > **🔍 Sou curioso:** Leia na ordem. Cada capítulo funciona sozinho.
 >
-> *Este livro tem muitas páginas. Você não precisa ler todas para jogar. O Capítulo 13 sozinho basta para uma primeira sessão.*
+> *Este livro tem muitas páginas. Você não precisa ler todas para jogar. O [Capítulo 13](#cap13_modulo_inicio/cap13_modulo_inicio) sozinho basta para uma primeira sessão.*
 
 Não existe uma ordem errada de ler este livro — mas existe uma ordem mais eficiente, dependendo do seu papel na mesa:
 
-**Para jogadores:** Leia esta *Introdução* para o contexto e a deixe animado. Depois vá direto ao **Capítulo 1** (criação de personagem). Em seguida, Capítulos **2 e 3** apresentam a escola e os grêmios. **Capítulo 6** tem os onze kits exclusivos. Com isso, você está pronto para jogar. Os outros capítulos são leitura de interesse, não pré-requisito.
+**Para jogadores:** Leia esta *Introdução* para o contexto e a deixe animado. Depois vá direto ao **[Capítulo 1](#cap01_criacao_personagem/cap01_criacao_personagem)** (criação de personagem). Em seguida, Capítulos **2 e 3** apresentam a escola e os grêmios. **[Capítulo 6](#cap06_mecanicas/cap06_mecanicas)** tem os onze kits exclusivos. Com isso, você está pronto para jogar. Os outros capítulos são leitura de interesse, não pré-requisito.
 
-**Para o Mestre:** Leitura completa é recomendada — mas comece pelos **Capítulos 1–6** para saber o que os jogadores têm à disposição, depois vá para os **Capítulos 9 e 10** (toolkit e estrutura de campanha). O **Capítulo 13** é a aventura de início pronta — tem informação que só o Mestre deve ler antes da primeira sessão. Capítulos 14 e 15 são módulos e mecânicas opcionais.
+**Para o Mestre:** Leitura completa é recomendada — mas comece pelos **Capítulos 1–6** para saber o que os jogadores têm à disposição, depois vá para os **Capítulos 9 e 10** (toolkit e estrutura de campanha). O **[Capítulo 13](#cap13_modulo_inicio/cap13_modulo_inicio)** é a aventura de início pronta — tem informação que só o Mestre deve ler antes da primeira sessão. Capítulos 14 e 15 são módulos e mecânicas opcionais.
 
-**Para jogar hoje:** Vá direto ao **Capítulo 13 — Aventura Pronta: Os Primeiros Três Dias**. As fichas estão lá. As regras essenciais também. Você precisa de um d6 e de aproximadamente três horas.
+**Para jogar hoje:** Vá direto ao **[Capítulo 13](#cap13_modulo_inicio/cap13_modulo_inicio) — Aventura Pronta: Os Primeiros Três Dias**. As fichas estão lá. As regras essenciais também. Você precisa de um d6 e de aproximadamente três horas.
 
 ---
 
@@ -206,7 +206,7 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 ### Camada 1 — Gratuito *(você pode jogar agora)*
 
 - **Kit Introdutório Demo** — o PDF gratuito da Jambô Editora, disponível em [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br). Contém as regras essenciais: atributos (P/H/R), testes com dados, PM, PV e o conceito de kit.
-- **Este livro** — todos os kits originais da Academia (Cap. 1 e 6), as regras de campus (Cap. 5), o módulo de início pronto para jogar (Cap. 13) e os cinco personagens pré-gerados são autossuficientes.
+- **Este livro** — todos os kits originais da Academia ([Cap. 1](#cap01_criacao_personagem/cap01_criacao_personagem) e 6), as regras de campus ([Cap. 5](#cap05_vida_estudantil/cap05_vida_estudantil)), o módulo de início pronto para jogar ([Cap. 13](#cap13_modulo_inicio/cap13_modulo_inicio)) e os cinco personagens pré-gerados são autossuficientes.
 - **Dados** — um d6 para a maioria das situações; algumas técnicas avançadas usam outros dados.
 - **Fichas de personagem** — a ficha no final deste livro tem campos para grêmio, ano letivo e Pontos de Grêmio.
 
@@ -216,13 +216,15 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 
 ### Camada 2 — Completo *(recomendado)*
 
-- **Manual do Arcanauta** *(3D&T Victory)* — abre todos os kits oficiais, a lista completa de vantagens e desvantagens, regras de combate detalhadas e progressão por XP. O **Capítulo 12 — Arsenal do Arcanauta Acadêmico** deste livro mostra como cada kit oficial se encaixa na Academia.
+- **[Livro 3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)** — contém as regras completas de criação de personagem, combate, magia e progressão. O livro é o guia definitivo para criar um arcanauta, com opções de personalização além dos kits da Academia.
+
+- **[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)** *(3D&T Victory)* — abre todos os kits oficiais, a lista completa de vantagens e desvantagens, regras de combate detalhadas e progressão por XP. O **[Capítulo 12](#cap12_arsenal_do_arcanauta/cap12_arsenal_do_arcanauta) — Arsenal do Arcanauta Acadêmico** deste livro mostra como cada kit oficial se encaixa na Academia.
 
 ---
 
 ### Camada 3 — Expandido
 
-- **Ferozes & Furiosos** *(3D&T Victory)* — bestiário completo, sistema de desafios (Graus de Ameaça), construtos, armadilhas e fauna da Era das Arcas. Referenciado com páginas específicas no **Capítulo 12**.
+ - **[Ferozes & Furiosos](https://jamboeditora.com.br/produto/ferozes-e-furiosos/)** *(3D&T Victory)* — bestiário completo, sistema de desafios (Graus de Ameaça), construtos, armadilhas e fauna da Era das Arcas. Referenciado com páginas específicas no [**Capítulo 12**](#livro/cap12_arsenal_do_arcanauta).
 - Qualquer outro suplemento de *3D&T Victory* funciona sem adaptação — a Academia existe na Era das Arcas; tudo que existe na Era das Arcas existe na Academia.
 
 > **Apoie os criadores:** todos os livros oficiais estão disponíveis em [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br). Comprar os livros é o que mantém o 3D&T vivo.
@@ -248,7 +250,7 @@ Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, es
 | **Vantagem** | Habilidade ou traço especial que o personagem possui além do kit base. Custa pontos na criação |
 | **Desvantagem** | Limitação, fraqueza ou complicação que o personagem carrega. Concede pontos extras na criação |
 | **Técnica** | Manobra especial com custo em PM, geralmente associada a um kit ou aprendida avulsamente |
-| **Grau de Ameaça** | Medida de perigo de um desafio ou criatura, em escala de 1 a 5 (sistema de *Ferozes & Furiosos*) |
+| **Grau de Ameaça** | Medida de perigo de um desafio ou criatura, em escala de 1 a 5 (sistema de *[Ferozes & Furiosos](https://jamboeditora.com.br/produto/ferozes-e-furiosos/)*) |
 
 ---
 
@@ -269,13 +271,13 @@ Se você veio direto do Kit Demo ou está chegando ao 3D&T pela primeira vez, es
 | **Veterano** | Aluno do segundo ano em diante |
 | **Conclave** | Reunião oficial de professores |
 | **O Conselho** | O corpo governante da Academia |
-| **MagiDerby** | O esporte oficial da Academia, disputado em vassouras voadoras (ver Capítulo 6) |
-| **Pontos de Grêmio** | Sistema de pontuação por grêmio, acumulados e perdidos ao longo do ano (ver Capítulo 3) |
+| **MagiDerby** | O esporte oficial da Academia, disputado em vassouras voadoras (ver [Capítulo 6](#cap06_mecanicas/cap06_mecanicas)) |
+| **Pontos de Grêmio** | Sistema de pontuação por grêmio, acumulados e perdidos ao longo do ano (ver [Capítulo 3](#cap03_as_casas/cap03_as_casas)) |
 
 > *Outros termos específicos — como Graus Formais, Grau de Ameaça, Conclave, e nomenclaturas dos grêmios — são explicados em detalhe nos capítulos onde aparecem. Calouro e Veterano são autoexplicativos assim que você chegar ao campus.*
 
 ---
 
-*Continue para o Capítulo 1, onde você cria seu personagem para a Academia Arcana — com exemplos passo a passo, fichas prontas e tudo que precisa para chegar ao campus pronto para jogar.*
+*Continue para o [Capítulo 1](#cap01_criacao_personagem/cap01_criacao_personagem), onde você cria seu personagem para a Academia Arcana — com exemplos passo a passo, fichas prontas e tudo que precisa para chegar ao campus pronto para jogar.*
 
 ---
