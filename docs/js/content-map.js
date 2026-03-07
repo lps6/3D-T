@@ -18,6 +18,16 @@ const CONTENT_GROUPS = [
   },
 ];
 
+// Normalize chapter ids: preserve existing human-readable `id` into `label`,
+// and set `id` to the filename stem (without .md) for canonical matching.
+for (const book of CONTENT_MAP) {
+  if (!book.chapters) continue;
+  for (const ch of book.chapters) {
+    if (typeof ch.id === 'string') ch.label = ch.id;
+    ch.id = ch.file ? ch.file.replace(/\.md$/, '') : String(ch.id);
+  }
+}
+
 // ── Books ─────────────────────────────────────────────────────
 const CONTENT_MAP = [
 

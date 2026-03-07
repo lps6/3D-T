@@ -14,7 +14,20 @@
   const btnPrev        = document.getElementById('btn-prev');
   const btnNext        = document.getElementById('btn-next');
 
-  // ── Flat chapter index (for prev/next) ───────────────────────
+  // ── Flat chapter index (for prev/next)
+  // Use filename stem (without .md) as canonical chapter ID so hashes
+  // and internal links (which reference filenames) match reliably.
+  // Normalize CONTENT_MAP: preserve original human-readable id in `label`,
+  // and standardize `id` to the filename stem (without .md).
+  for (const book of CONTENT_MAP) {
+    for (const ch of book.chapters) {
+      // preserve previous id text used in UI
+      if (typeof ch.id === 'string') ch.label = ch.id;
+      // canonical id: stem of filename or existing id string
+      ch.id = ch.file ? ch.file.replace(/\.md$/, '') : String(ch.id);
+    }
+  }
+
   const allChapters = [];
   for (const book of CONTENT_MAP) {
     for (const ch of book.chapters) {
@@ -58,6 +71,7 @@
       for (const book of books) {
         const accent = BOOK_ACCENTS[book.id] || '#c9a84c';
         const firstCh = book.chapters[0];
+        const firstKey = firstCh.file ? firstCh.file.replace(/\.md$/, '') : firstCh.id;
         const chCount = book.chapters.length;
         const isFeatured = book.id === 'livro' || book.id === 'btv-livro';
         const chLabel = chCount === 1 ? '1 capítulo' : `${chCount} capítulos`;
@@ -69,7 +83,7 @@
         const displayTitle = book.title.replace(/^L\d+ — /, '');
 
         html += `<a
-          href="#${book.id}/${firstCh.id}"
+          href="#${book.id}/${firstKey}"
           class="book-card${isFeatured ? ' book-card--featured' : ''}"
           style="--card-accent: ${accent}"
         >
@@ -122,11 +136,12 @@
         </summary>
         <ul class="chapter-list">`;
       for (const ch of book.chapters) {
+        const chKey = ch.file ? ch.file.replace(/\.md$/, '') : ch.id;
         html += `<li><a
-          href="#${book.id}/${ch.id}"
+          href="#${book.id}/${chKey}"
           class="chapter-link"
           data-book="${book.id}"
-          data-chapter="${ch.id}"
+          data-chapter="${chKey}"
         >${ch.title}</a></li>`;
       }
       html += `</ul></details>`;
@@ -163,16 +178,28 @@
   async function navigateTo(bookId, chapterId) {
     const book = CONTENT_MAP.find(b => b.id === bookId);
     if (!book) return;
-    const chapter = book.chapters.find(c => c.id === chapterId);
+    // Find chapter by flexible matching:
+    // - match canonical file stem (e.g. cap01_name)
+    // - match stored id
+    // - tolerate URL-encoded chapterId
+    const chapter = book.chapters.find(c => {
+      const key = c.file ? c.file.replace(/\.md$/, '') : String(c.id);
+      try {
+        return key === chapterId || String(c.id) === chapterId || key === decodeURIComponent(chapterId) || decodeURIComponent(String(c.id)) === chapterId;
+      } catch (e) {
+        return key === chapterId || String(c.id) === chapterId;
+      }
+    });
     if (!chapter) return;
 
-    const newHash = `#${bookId}/${chapterId}`;
+    const canonicalId = chapter.file ? chapter.file.replace(/\.md$/, '') : String(chapter.id);
+
+    const newHash = `#${bookId}/${canonicalId}`;
     if (window.location.hash !== newHash) {
       history.replaceState(null, '', newHash);
     }
-
-    setActiveChapter(bookId, chapterId);
-    updatePrevNext(bookId, chapterId);
+    setActiveChapter(bookId, canonicalId);
+    updatePrevNext(bookId, canonicalId);
     closeSidebar();
 
     contentEl.innerHTML = '<div class="loading">Carregando</div>';
