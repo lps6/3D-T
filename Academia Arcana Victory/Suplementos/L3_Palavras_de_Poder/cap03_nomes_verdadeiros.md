@@ -1,14 +1,12 @@
 # Capítulo 3 — O Nome das Coisas
 
 > *"Há poder nos nomes — não nas palavras como os humanos as usam, mas nos nomes como as coisas realmente são. Quando você sabe o verdadeiro nome de algo, você sabe o que essa coisa é. E o que você conhece, você pode tocar."*
-> — Ged, adaptação livre de *Terramar* (Ursula K. Le Guin)
+> — Erdan Vaelt, nota marginal no grimório confiscado — Biblioteca Arcana, andar 3
 
 ---
 
 **Subsistema:** Nomes Verdadeiros (Y3)
 **Compatível com:** Cap. 01 (Saleth — Nomeação como disciplina avançada), Cap. 02 (Ordem do Eco — Língua dos Nomes como prima mecânica), Cap. 04 (Hard/Soft — Nomeação como exemplo de magic system rígido com custos)
-
-> **Se Você Não Conhece *Terramar*:** Série de fantasia em que cada coisa — rocha, vento, pessoa, conceito — tem um nome verdadeiro numa Língua Antiga, e saber esse nome é ter poder sobre a coisa. A magia não é força: é reconhecimento. Ged, o protagonista, aprende que nomear uma sombra é nomear a si mesmo — e que poder e responsabilidade são inseparáveis.
 
 ---
 

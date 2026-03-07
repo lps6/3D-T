@@ -5,7 +5,7 @@
 
 ---
 
-**Fonte:** T3 — Sociedades Secretas (baseado em *The Order*)
+**Fonte:** T3 — Sociedades Secretas
 **Compatível com:** Cap. 3 (Grêmios), Cap. 9 (Toolkit do Mestre), todo este livro
 
 ---

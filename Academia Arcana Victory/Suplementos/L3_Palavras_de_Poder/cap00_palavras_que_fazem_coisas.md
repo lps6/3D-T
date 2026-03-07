@@ -15,7 +15,7 @@ Essa premissa aparece em três tradições ficcionais que convergem de forma not
 
 2. **A Língua dos Nomes** (A Ordem dos Cavaleiros do Eco): Cada coisa tem um nome verdadeiro numa língua primordial. Pronunciar esse nome é declarar uma verdade — e verdades, nesse sistema, têm consequências físicas imediatas. O custo não é PM, é vida.
 
-3. **Nomes Verdadeiros** (Terramar / Y3): O subsistema original da AAV para nomear. Descobrir, usar e pagar o preço da Língua Antiga, com Débito de Equilíbrio como trilha de consequência.
+3. **Nomes Verdadeiros** (Y3): O subsistema original da AAV para nomear. Descobrir, usar e pagar o preço da Língua Antiga, com Débito de Equilíbrio como trilha de consequência.
 
 Este livro inclui também uma **ferramenta de design** — as Três Leis de Sanderson adaptadas para RPG — que permite ao Mestre calibrar qualquer sistema de magia (não só os deste livro) no gradiente entre regras rígidas e instinto puro.
 
