@@ -100,8 +100,8 @@ const CONTENT_MAP = [
     chapters: [
       { id: 'visao-geral', file: 'README.md',                          title: 'Visão Geral' },
       { id: 'Calibrando a Escuridão',    file: 'cap00_calibrando_a_escuridao.md',     title: 'Cap. 0 — Calibrando a Escuridão' },
-      { id: 'A Deadly Education',       file: 'cap01_deadly_education.md',           title: 'Cap. 1 — A Deadly Education' },
-      { id: 'The Magicians',       file: 'cap02_the_magicians.md',              title: 'Cap. 2 — The Magicians' },
+      { id: 'A Escola de Farhaven',       file: 'cap01_a_escola_de_farhaven.md',           title: 'Cap. 1 — A Escola de Farhaven' },
+      { id: 'O Colegiado de Thaumaturgia Aplicada',       file: 'cap02_o_colegiado_de_thaumaturgia_aplicada.md',              title: 'Cap. 2 — O Colegiado de Thaumaturgia Aplicada' },
       { id: 'Somática Arcana',       file: 'cap03_somatica_arcana.md',            title: 'Cap. 3 — Somática Arcana' },
       { id: 'Academia Gótica',       file: 'cap04_academia_gotica.md',            title: 'Cap. 4 — Academia Gótica' },
       { id: 'O Crisol Sem Mestre',       file: 'cap05_o_crisol_sem_mestre.md',        title: 'Cap. 5 — O Crisol Sem Mestre' },
