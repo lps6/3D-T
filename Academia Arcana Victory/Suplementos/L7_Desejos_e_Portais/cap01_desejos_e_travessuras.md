@@ -184,7 +184,7 @@ A cadeia cresce. O personagem aprende. A solução, eventualmente, exige um pedi
 
 ---
 
-## Da Rules — As Regras das Fadas
+## As Regras do Tribunal
 
 As Regras existem para impedir que desejos destruam a realidade. Foram escritas ao longo de milênios pelo Tribunal das Fadas Arcanas e compiladas pelo Departamento de Bem-Estar Juvenil Arcano. Como toda burocracia milenar: têm redundâncias, contradições e brechas que ninguém corrigiu.
 

@@ -56,6 +56,44 @@ Este suplemento serve quatro tons distintos. Nem todo grupo usará tudo.
 
 ---
 
+### Mesma Guerra, Tons Diferentes
+
+Para ilustrar como os tons funcionam, aqui está **a mesma cena** — a chegada inesperada da *Perseverança* no bloqueio orbital — narrada em três tons diferentes:
+
+#### 🌌 **Space Opera (pulp otimista)**
+> *A corveta Perseverança caiu do hiperespaço com o rugido de motores que não deveriam fazer som no vácuo — mas faziam mesmo assim. Neva Sol estava na ponte, escudos já energizados antes de ver os seis cruzadores imperiais.*
+>
+> *"Esquadrão Matinal, canal aberto," disse com o sorriso de quem sabia que alguma coisa tola e brilhante estava prestes a acontecer. "Cancelem a rota de salto. Não vamos a lugar nenhum."*
+>
+> *O piloto, Kael, virou. "Somos uma corveta contra seis naus."*
+>
+> *"Somos uma corveta rápida."*
+
+#### ⚙️ **Near Future (realista e tenso)**
+> *A corveta Perseverança saiu do salto com erro de navegação 3-sigma — três minutos antes da janela calculada. Neva Sol viu os seis sinais no radar antes de o computador terminar de resolver a posição.*
+>
+> *"Esquadrão Matinal, canal direto." A voz dela era controlada, mas o tremor na mão não. "Confirmem distância. Calculem Burn de emergência."*
+>
+> *"Comissária," disse Kael da Navegação, os dedos já dançando no painel, "tempo de fuga: vinte segundos. Tempo de recarga de salto: cento e oito."*
+>
+> *Oitenta e oito segundos. Talvez o suficiente. Talvez.*
+
+#### 🕯️ **Grimdark (opressivo e custoso)**
+> *A corveta Perseverança emergiu do Warp com tremor estrutural que fez os tripulantes morderem a língua. Três já sangravam. Neva Sol viu os seis dreadnoughts imperiais através das janelas rachadas da ponte e soube que alguém os traiu.*
+>
+> *"Esquadrão Matinal," disse sem inflex ão, "cancelem salto. Motor ao máximo."*
+>
+> *"Comissária," Kael olhou para ela com a expressão de quem já sabe a resposta, "não podemos vencer."*
+>
+> *"Não vamos vencer. Vamos morrer devagar o bastante para que o transporte com os refugiados escape."*
+>
+> *Ninguém respondeu. Ninguém precisava.*
+
+> **📖 Como Usar Tons em Mesa**  
+> O tom não muda as mecânicas — muda como as consequências são sentidas. Em Space Opera, PV é esperança. Em Near Future, PV é casco e oxigênio. Em Grimdark, PV é quantos tripulantes ainda estão vivos. As regras são idênticas; o peso narrativo muda tudo.
+
+---
+
 ## Ícones
 
 | Ícone | Significado |

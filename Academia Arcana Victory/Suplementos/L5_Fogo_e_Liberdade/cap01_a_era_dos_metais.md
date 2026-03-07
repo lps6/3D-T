@@ -145,7 +145,7 @@ A Metalurgia de Transferência usa Estacas Arcanas para mover poderes de um ser 
 
 Na campanha, Transferência existe como **segredo que os PJs descobrem**. NPCs com poderes que não deveriam ter. Donos anteriores desses poderes mortos em circunstâncias suspeitas. Uma facção oculta praticando isso em silêncio.
 
-**Custo para o receptor:** +1 Débito Cármico (A1) permanente por Estaca recebida, sem possibilidade de redução.
+**Custo para o receptor:** +1 Débito Cármico (Cap. 14) permanente por Estaca recebida, sem possibilidade de redução.
 
 ---
 

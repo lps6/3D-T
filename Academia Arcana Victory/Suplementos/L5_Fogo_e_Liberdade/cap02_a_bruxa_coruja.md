@@ -6,7 +6,7 @@
 
 ---
 
-**Compatível com:** T4 (Magia Hard e Soft), FAM1 (Palisman como Familiar-Objeto), Cap. 05 (Reputação Faccional)
+**Compatível com:** T4 (Magia Hard e Soft), Cap. 06 (Familiares) (Palisman como Familiar-Objeto), Cap. 05 (Reputação Faccional)
 **Instância do Framework:** Falha de Método — o sistema proíbe qualquer abordagem que não consegue controlar
 
 ---
@@ -98,7 +98,7 @@ A mecânica central da Glifomagia: quando dois glifos são ativados no **mesmo t
 
 ### 3.4 Subsistema: Palisman — O Cristal-Familiar
 
-*(Expande FAM1 para cristais-familiar em objetos)*
+*(Expande Cap. 06 (Familiares) para cristais-familiar em objetos)*
 
 Um **Palisman** é um cristal que manifesta consciência mínima quando vinculado a um praticante — pode ficar latente dentro de um objeto (cajado, broche, instrumento, peça de vestuário) até ser necessário. Não é invocação: é presença contínua com estado de ativação.
 
@@ -137,7 +137,7 @@ O Palisman não é escolhido. É esculpido ou encontrado em forma que o pratican
 **Poderes:**
 - *Glifo Combinado* (base Glifista, 0–1 PM): usa dois efeitos de glifo no mesmo turno pelo custo do mais caro; se ambos são Ningen-scale, custo total é 0 PM
 - *Improvisação de Glifo* (1 PM): cria um glifo ad-hoc de efeito único — pode ser qualquer coisa dentro da lógica interna dos elementos; o Mestre determina se funciona; o glifo se desfaz depois
-- *Sivél: Forma Longa* (FAM1, 2 PM): o Palisman torna-se serpente Sugoi-scale por 1 cena; pode transportar Lira ou imobilizar alvo Ningen-scale
+- *Sivél: Forma Longa* (Cap. 06 (Familiares), 2 PM): o Palisman torna-se serpente Sugoi-scale por 1 cena; pode transportar Lira ou imobilizar alvo Ningen-scale
 - *Determinação Irracional* (passivo): quando todos os aliados já usaram suas reações nesta rodada e Lira ainda não, pode usar uma ação extra não prevista pelo custo retroativo de 2 PM após a ação
 
 **Como jogar Lira:** ela não é limitada pela falta de bile — é liberta por ela. Ninguém lhe ensinou que certas combinações eram impossíveis. Mostre isso: a combinação improvável que ela tenta e que funciona porque a lógica interna sustenta, antes que qualquer professor pudesse dizer que não.

@@ -245,4 +245,4 @@ E lembre: o ponto emocional de Farhaven não é o horror — é a amizade que em
 
 ---
 
-*Referências: Y1 — O Crisol Sem Mestre (Cap. 05). T1 — Somática Arcana (Cap. 03). Cap. 00 — Calibrando a Escuridão.*
+*Referências: O Crisol Sem Mestre (Cap. 05). Somática Arcana (Cap. 03). Cap. 00 — Calibrando a Escuridão.*

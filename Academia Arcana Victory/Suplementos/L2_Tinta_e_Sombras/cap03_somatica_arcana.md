@@ -174,4 +174,4 @@ Uma nota no quadro: *"Técnicas de Conjuração Gestual Avançada. Sala 7, 19h, 
 
 ---
 
-*Referências: Liceu Benandanti — Cap. 09 do Livro-Base. Reynard — Cap. 05. Kit Duelista — Cap. 06. Cap. 00 — Calibrando a Escuridão. Cap. 01 — Pressão Ambiental.*
+*Referências: Liceu Benandanti — Cap. 07 do Livro-Base. Reynard — Cap. 05. Kit Duelista — Cap. 06. Cap. 00 — Calibrando a Escuridão. Cap. 01 — Pressão Ambiental.*

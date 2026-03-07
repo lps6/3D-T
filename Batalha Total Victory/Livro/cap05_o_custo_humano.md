@@ -1,7 +1,9 @@
 # Capítulo 5 — O Custo Humano
 
-> *"A primeira noite depois da batalha, ninguém fala. Não porque não haja nada a dizer. Porque tudo que há a dizer é pesado demais para a voz aguentar."*
-> — Capelão-Soldado Vex, correspondência não enviada
+> *"Você aprende os nomes porque importa. Você pronuncia os nomes antes da batalha porque quando não voltar, alguém precisa lembrar que eles tinham nome."*
+> — Comandante Elowen das Pedras Negras (veterana de 31 campanhas, nunca perdeu estandarte)
+
+> **📖 Sobre Elowen:** Elowen liderou a formação na vinheta de abertura — a comandante que conhece seus soldados. Suas citações ao longo do livro tratam do custo humano da guerra e da responsabilidade de liderar. Use Elowen como comandante aliada, mentora de liderança ou NPC que representa o peso do comando.
 
 ---
 
@@ -28,7 +30,15 @@ O Sistema de Custo Humano percorre todo o livro como camada transversal — a Si
 | Usar Ressonância Crítica (Cap. 4) | 2 |
 | Cometer um ato que o personagem considera imperdesciável | 3 |
 
-**Limites:** um personagem pode acumular até **9 pontos de Trauma**. Acima disso, as condições se acumulam e o Mestre deve iniciar uma conversa de mesa sobre o tom da campanha — um personagem a 9 de Trauma está no limite do que é jogável sem intervenção narrativa.
+**Limites:** um personagem pode acumular até **9 pontos de Trauma**. Se um personagem acumula **10 ou mais pontos de Trauma**, ele passa para condição de **Quebra**:
+
+**Quebra (10+ Trauma):**
+- O Mestre e o jogador discutem juntos o que acontece. Opções possíveis:
+  1. **Repouso Forçado:** Personagem sai de combate ativo por 1 sessão (narra recuperação offscreen). Retorna com Trauma reduzido para 6.
+  2. **Perda Permanente:** Personagem sofre **Perda permanente** em todos os testes de H até que Trauma seja reduzido para 6 ou menos. Isso representa dissociação profunda.
+  3. **Mudança Narrativa:** Personagem muda fundamentalmente (abandona causa, busca vingança obcessiva, se torna pacifista radical). Jogador e Mestre negociam nova motivação.
+
+A condição de Quebra não é punição — é reconhecimento de que personagens têm limite. Use isso para criar momentos de mudança, não de eliminação.
 
 ---
 
@@ -38,11 +48,30 @@ A cada **3 pontos de Trauma acumulados**, o personagem desenvolvem uma **Condiç
 
 Condições de Campanha não são mecânicos diretos (não dão Perda automaticamente). São **lentes narrativas** que o Mestre usa para contextualizar o comportamento do personagem e, quando relevante, solicitar um teste de H ou R para manter o controle.
 
-| Threshold | Condição (exemplos — Mestre e jogador escolhem juntos) |
-|---|---|
-| 3 Trauma | Hipervigilância, insônia, necessidade de controle sobre o ambiente |
-| 6 Trauma | Distanciamento emocional, flashbacks na presença de gatilhos específicos, irritabilidade extrema |
-| 9 Trauma | Dissociação, incapacidade de confiar, impulsos autodestrutivos |
+| Threshold | Condição (exemplos — Mestre e jogador escolhem juntos) | Ativação Típica |
+|---|---|---|
+| 3 Trauma | Hipervigilância, insônia, necessidade de controle sobre o ambiente | Durante combate tenso; quando sozinho; ao ouvir barulho súbito |
+| 6 Trauma | Distanciamento emocional, flashbacks na presença de gatilhos específicos, irritabilidade extrema | Quando vê aliado ferido; quando confrontado com objeto/local do trauma original |
+| 9 Trauma | Dissociação, incapacidade de confiar, impulsos autodestrutivos | Sempre que tomada decisão que afeta outros; quando precisa liderar |
+
+> **🔍 Como Ativar Condições em Mesa**
+>
+> Quando uma cena contém **gatilho da Condição** (coluna "Ativação Típica"), o Mestre pode:
+> 1. Narrar comportamento involuntário do personagem (não precisa rolar — ex.: "Suas mãos tremem ao ver o fogo.")
+> 2. Pedir teste H dif. 7 para manter controle (falha = personagem age segundo Condição; sucesso = age normalmente mas sente o peso)
+> 3. Oferecer ao jogador escolha narrativa: "Você quer que seu personagem mostre a Condição aqui, ou ele está segurando?"
+>
+> Trauma não remove agência — adiciona camadas. O jogador ainda controla o personagem; a Condição adiciona textura ao roleplay.
+
+### Tabela d6: Momentos de Ativação por Condição
+
+Role quando personagem entra em cena com gatilho presente:
+
+| d6 | Hipervigilância (3T) | Distanciamento (6T) | Dissociação (9T) |
+|----|---|---|---|
+| 1–2 | Sempre ativo durante cena | Evita contato emocional com todos | Perde controle narrativo por 1 rodada |
+| 3–4 | Ativo apenas durante combate | Ativo quando vê trauma refletido | Teste H dif. 8 ou age segundo impulso |
+| 5–6 | Ativo quando sozinho/isolado | Ativo quando precisa confiar em alguém | Jogador pode escolher se ativa |
 
 > **🔍 Negociação de Condição**
 >
@@ -71,14 +100,32 @@ Trauma não é permanente. Pode ser removido através de **Momentos de Conexão*
 
 Um Momento de Conexão é qualquer cena em que o personagem se permite ser humano de formas que a guerra normalmente nega:
 
-| Momento | Trauma removido |
-|---|---|
-| Uma conversa honesta com um aliado sobre o que aconteceu | 1 |
-| Uma refeição compartilhada sem urgência de combate | 1 |
-| Um luto realizado — nomear a perda, dar espaço a ela | 1 |
-| Uma cena de cuidado (receber ou oferecer ajuda genuína) | 1 |
-| Sessão de recuperação dedicada (descanso prolongado fora de conflito) | 2 |
-| Resolução do objeto central do Trauma (confrontar e superar) | Remove a condição associada |
+| Momento | Trauma removido | Local Típico |
+|---|---|---|
+| Uma conversa honesta com um aliado sobre o que aconteceu | 1 | Fogueira de acampamento, cabine de nave, taverna após missão |
+| Uma refeição compartilhada sem urgência de combate | 1 | Cozinha de base, mesa de refeitório, deck de navio ao pôr do sol |
+| Um luto realizado — nomear a perda, dar espaço a ela | 1 | Capela de campo, memorial improvisado, ritual de facção |
+| Uma cena de cuidado (receber ou oferecer ajuda genuína) | 1 | Enfermaria, baía de manutenção de mecha, dormitório |
+| Sessão de recuperação dedicada (descanso prolongado fora de conflito) | 2 | Base aliada, cidade neutra, nave em hiperespaço |
+| Resolução do objeto central do Trauma (confrontar e superar) | Remove a condição associada | Varia — local do evento original, ou simbólico |
+
+---
+
+### Locais de Recurso Emocional por Tom de Campanha
+
+Momentos de Conexão acontecem naturalmente em alguns lugares. Use estes exemplos ou adapte:
+
+| Tom de Campanha | Locais de Conexão | Por Que Funcionam |
+|---|---|---|
+| **Fantasia Medieval** | Capela de campo, fogueira depois da batalha, taberna de vilarejo | Espaços onde guerra não entra; rituais de luto são comunais |
+| **Grimdark Sci-Fi** | Cabine isolada, baía de manutenção, corredor de estação abandonada | Raridade de privacidade torna conexão valiosa; lugares onde máquinas param |
+| **Space Opera** | Deck de observação (estrelas), cantina da nave, planeta neutro | Espaços onde imensidão do cosmos lembra que vida é pequena e preciosa |
+| **Naval / Pirata** | Convés ao entardecer, camarote do capitão, porto amigo | Mar força proximidade; compartilhar espaço pequeno cria intimidade forçada |
+| **Mecha / Kaiju** | Cabine de piloto (vazio após combate), hangar de manutenção, memorial de pilotos caídos | Lugares onde humano e máquina se separam; onde piloto é pessoa, não arma |
+
+> **📖 Por que Locais Importam**
+>
+> Trauma acontece em qualquer lugar. Recuperação acontece em lugares específicos — lugares onde personagens se permitem parar. Mestres: identifique 2–3 Locais de Conexão em sua campanha e torne-os recorrentes. Quando jogadores voltam ao acampamento, à cantina, ao hangar — eles sabem que ali é seguro processar o que aconteceu.
 
 > **📖 Por que Recuperação Importa**
 >

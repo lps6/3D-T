@@ -1,6 +1,9 @@
 # Capítulo 2 — Combate Espacial
 
-> *O problema do combate no espaço não é a violência. É a geometria. Tudo se move em três dimensões, ninguém para de se mover, e a distância entre "tiro certeiro" e "erro catastrófico" é a largura de um dedo no console de mira.*
+> *"No vácuo, erros não fazem barulho. Não há explosão. Há silêncio, e depois alguém não responde no canal. Essa é a única diferença entre espaço e terra: na terra, você ouve quando falha."*
+> — Comissária Neva Sol (comandante Perseverança, Frota Estelar da Comune)
+
+> **📖 Sobre Neva:** Comissária Neva apareceu na vinheta de abertura como comandante da corveta Perseverança. Suas citações refletem a mentalidade de quem comanda no vácuo — onde cada decisão tem consequências silenciosas mas permanentes. Use Neva como comandante aliada, mentora de liderança estelar ou NPC que representa o fardo do comando no espaço.
 
 ---
 

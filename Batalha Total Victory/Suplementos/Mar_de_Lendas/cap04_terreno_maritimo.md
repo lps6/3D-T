@@ -1,6 +1,9 @@
 # Capítulo 4 — Terreno Marítimo
 
-> *O mar é o campo de batalha mais honesto que existe: ele tenta te matar independentemente do lado que você está.*
+> *"O mar não pede licença. Você navega *com* o mar, ou o mar navega *através* de você. Capitães que esquecem isso viram destroços."*
+> — Capitã Sereia Negra (pirata lendária, vencedora da Batalha do Estreito de Ossos, desaparecida em 1847)
+
+> **📖 Sobre Sereia Negra:** Capitã Sereia Negra apareceu na vinheta de abertura como a capitã que entende o mar melhor que seus inimigos. Suas citações refletem navegar *com* o ambiente, não contra ele. Use Sereia Negra como lendária pirata, mentora de navegação ou fantasma que aparece em momentos críticos para dar orientação enigmática.
 
 ---
 

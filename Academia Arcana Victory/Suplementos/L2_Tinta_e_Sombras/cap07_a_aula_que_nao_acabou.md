@@ -137,7 +137,7 @@ P3 / H3 / R1 — PV 10 / PM 20
 | Cap. 01 — Pressão Ambiental | Marcadores ativos durante toda a aventura |
 | Cap. 02 — Fragmentação | Nina como caso ativo; PJs que forçam magia também arriscam |
 | Cap. 05 — Protocolo | Mana Racionada, Alianças, Perigo Ambiental — tudo ativo |
-| Cap. 06 — Noite na Biblioteca | Grimório reaparece; PJs que jogaram S2 reconhecem |
+| Cap. 06 — Noite na Biblioteca | Grimório reaparece; PJs que jogaram Cap. 06 reconhecem |
 | Livro 0 — Ala Leste | O livro da Cripta é semente direta |
 
 ---

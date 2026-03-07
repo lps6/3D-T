@@ -22,7 +22,7 @@ A Verdade da Arca não é sobre franquias. É sobre a instituição — a Ala Le
 
 ## Como Cada Escola Externa Vê a Arca
 
-As quatro escolas do suplemento G2 *(As Outras Escolas)* oferecem perspectivas externas que iluminam o que os internos normalizam:
+As quatro escolas externas documentadas em L4 — *Sangue & Legado* oferecem perspectivas externas que iluminam o que os internos normalizam:
 
 | Escola | O que Vê na Arca | Gancho no Livro 0 |
 |--------|-------------------|-------------------|

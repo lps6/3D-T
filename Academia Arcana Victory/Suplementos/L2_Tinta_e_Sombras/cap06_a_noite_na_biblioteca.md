@@ -147,8 +147,7 @@ Gnomo acadêmico, 30 anos catalogando o terceiro andar. Conhece o Arquivo melhor
 |------------|-----------|
 | Cap. 12 Livro-Base | Descrição física da Biblioteca Arcana |
 | Cap. 09 Livro-Base | Horror Atmosférico como modo de sessão |
-| A2 — Artefato Dependente | Arquivo como artefato de altíssima dependência |
-| Y3 — Nomes Verdadeiros | Arquivo sabe nomes verdadeiros de livros |
+| L3 — Palavras de Poder, Cap. 03 (Nomes Verdadeiros) | Arquivo sabe nomes verdadeiros de livros |
 | L0 — Quando a Arca Estremece | Terceiro andar e Ala Leste têm conexão plantada aqui |
 
 ---

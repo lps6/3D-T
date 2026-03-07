@@ -6,7 +6,7 @@
 
 ## O que é este livro?
 
-**Batalha Total Victory** é um suplemento tático modular para **3D&T Victory** focado em conflitos de múltiplas escalas — de escaramuças entre tropas até batalhas entre kaijus que reformam a geografia.
+**Batalha Total Victory** é um suplemento de combate tático modular para **3D&T Victory** focado em conflitos usando miniaturas de múltiplas escalas — de escaramuças entre tropas até batalhas entre kaijus que reformam a geografia.
 
 Não é um livro de regras para "quando os jogadores querem matar muita coisa". É um livro sobre **o que a guerra custa** — nas pessoas que a travam, nos mundos que a sustentam, e nos personagens que sobrevivem para contar a história.
 
@@ -51,6 +51,22 @@ Este livro é **modular por design**. Use apenas as camadas que sua mesa precisa
 | `apendice_a_fantasia_medieval.md` | Toolbox: Fantasia Medieval |
 | `apendice_b_grimdark_scifi.md` | Toolbox: Grimdark Sci-Fi |
 | `apendice_c_falgsc.md` | Toolbox: História Alternativa (FALGSC) |
+
+---
+
+## Compatibilidade Entre Suplementos
+
+| Elemento BTV Core | Fronteira Estelar | Mar de Lendas |
+|---|---|---|
+| Escaramuça | Operativo | Tripulante |
+| Warband | Esquadrão | Navio |
+| Colossal | Nau de Guerra | Fortaleza do Mar |
+| Leviatã | Armada | Rei do Mar |
+| Terreno Difícil | Entulho espacial, Nebulosa | Corrente, Tempestade, Maré |
+| Cobertura | Destroços, Asteroides | Névoa, Recifes |
+| Trauma | Desgaste Estelar (FS/cap04) | Escorbuto, Fome (ML/cap04) |
+
+**Misturando Suplementos:** É possível usar Fronteira Estelar + Mar de Lendas na mesma campanha (batalha espacial sobre planeta oceânico, ou Rei do Mar emerge de estação submersa). Escalas permanecem compatíveis — um Operativo de FS e um Tripulante de ML têm mesma escala.
 
 ---
 

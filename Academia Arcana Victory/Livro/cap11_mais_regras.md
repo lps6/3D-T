@@ -447,13 +447,13 @@ Quando um PJ recebe dano, não diga "você perde 4 PV de Arcano". *Descreva.* Us
 
 **Regra mecânica:** Dano Cármico **ignora redução de dano por Resistência** — não adianta ter R alta para absorver Corrupção. Ele também **não pode ser curado por Medicina comum** (curativos, poções de cura padrão). A cura exige ritual de purificação, resolução do contrato ou eliminação da fonte da Corrupção. O Mestre o usa principalmente como consequência narrativa, não como tipo de ataque direto — mas criaturas de Corrupção e entidades entropistas são exceção.
 
-**Efeito de distorção:** Além do dano, o alvo sofre uma perturbação probabilística: seu **próximo teste** (qualquer tipo, na cena atual) recebe **-1d adicional** — o destino empurra contra quem está em desacordo com seus contratos. Personagens com Corrupção ativa (suplemento A1) recebem esse efeito mesmo em testes fora de combate na mesma sessão.
+**Efeito de distorção:** Além do dano, o alvo sofre uma perturbação probabilística: seu **próximo teste** (qualquer tipo, na cena atual) recebe **-1d adicional** — o destino empurra contra quem está em desacordo com seus contratos. Personagens com Corrupção ativa (Cap. 14 (O Custo da Magia)) recebem esse efeito mesmo em testes fora de combate na mesma sessão.
 
 **Imune:** Personagens que completaram um ciclo de Corrupção (estágio final no sistema de A1); criaturas de Corrupção que já *são* a fonte
-**Resistente:** Kit Bruxo das Trevas com Pacto Completado; personagem que possui o suplemento A1 com todas as obrigações pagas
+**Resistente:** Kit Bruxo das Trevas com Pacto Completado; personagem que possui o Cap. 14 (O Custo da Magia) com todas as obrigações pagas
 **Vulnerável:** Qualquer personagem com Corrupção ativa não resolvida (dobra dano Cármico recebido de fontes externas)
 
-**Referência cruzada:** Suplemento A1 (A Trilha de Corrupção Cármica — sistema completo), Cap04 (NPCs com vínculo a contratos)
+**Referência cruzada:** Cap. 14 — O Custo da Magia (sistema completo do Contrato Cármico), Cap04 (NPCs com vínculo a contratos)
 
 ---
 

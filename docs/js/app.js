@@ -25,20 +25,19 @@
   // ── Accent colors per book ────────────────────────────────────
   const BOOK_ACCENTS = {
     // Academia Arcana Victory
-    livro:       '#c9a84c',
-    suplementos: '#7a8099',
-    l0:          '#9b59b6',
-    l1:          '#5b9bd5',
-    l2:          '#c0392b',
-    l3:          '#27ae60',
-    l4:          '#e67e22',
-    l5:          '#e74c3c',
-    l6:          '#2980b9',
-    l7:          '#8e44ad',
+    'livro':   '#c9a84c',  // gold   — livro base
+    'AAV-0':   '#9b59b6',  // roxo   — A Verdade da Arca
+    'AAV-1':   '#5b9bd5',  // azul   — Estrelas & Cristais
+    'AAV-2':   '#c0392b',  // vermelho — Tinta & Sombras
+    'AAV-3':   '#27ae60',  // verde  — Palavras de Poder
+    'AAV-4':   '#e67e22',  // âmbar  — Sangue & Legado
+    'AAV-5':   '#e74c3c',  // fogo   — Fogo & Liberdade
+    'AAV-6':   '#2980b9',  // elétrico — Laços & Máscaras
+    'AAV-7':   '#8e44ad',  // magenta — Desejos & Portais
     // Batalha Total Victory
-    'btv-livro':   '#dc2626',
-    'btv-estelar': '#0891b2',
-    'btv-mar':     '#0369a1',
+    'btv-livro':   '#dc2626',  // guerra
+    'btv-estelar': '#0891b2',  // espaço
+    'btv-mar':     '#0369a1',  // oceano
   };
 
   // ── Landing page ──────────────────────────────────────────────

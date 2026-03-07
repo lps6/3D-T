@@ -1,7 +1,9 @@
 # Capítulo 4 — Mechas, Kaijus & Colossais
 
-> *"O mecha não é uma ferramenta. É uma extensão. Quando você está dentro, o metal tem medo com você."*
-> — Piloto-Veterana Seren Vael, 3ª Divisão de Resposta Colossal
+> *"Catapulta não erra. Catapulta funciona. Se você errou o alvo, é porque calibrou errado. Se calibrou errado, é porque não calculou vento, peso, arrasto. Se não calculou, pessoas morreram por preguiça."*
+> — Irâ, Engenheira de Cerco (sobrevivente de Tor Ellas, inventora do Sistema Irâ de Balística Compensada)
+
+> **📖 Sobre Irâ:** Irâ apareceu na vinheta de abertura como a engenheira que vê batalhas como geometria. Suas citações ao longo do livro refletem a mentalidade de quem resolve problemas com precisão matemática — mesmo quando o problema é emocional. Use Irâ como NPC de suporte técnico ou mentora de engenharia em campanhas com veículos/mechas.
 
 ---
 
@@ -73,12 +75,18 @@ O estado mental e emocional do piloto afeta diretamente o desempenho do mecha. E
 
 | Evento | Mudança |
 |---|---|
-| Aliado morto no campo de batalha | -1 |
-| Missão cumprida com sucesso total | +1 |
-| Momento de motivação (conexão com NPC caro ao piloto) | +1 |
-| Dano massivo recebido em uma rodada (>50% PV) | -1 |
-| Usar Ressonância Crítica (ver abaixo) | -2 |
-| Descanso e suporte emocional entre sessões | +1 |
+| Aliado morto no campo de batalha | -1 (automático) |
+| Missão cumprida com sucesso total | +1 (automático) |
+| Momento de motivação (conexão com NPC caro ao piloto) | +1 (automático) |
+| Dano massivo recebido em uma rodada (>50% PV) | -1 (automático) |
+| Usar Ressonância Crítica (ver abaixo) | -2 (automático) |
+| Descanso e suporte emocional entre sessões | +1 (automático) |
+
+> **🎲 Sincronização Não É Testada**
+>
+> Mudanças de Sincronização são **declaradas pelo Mestre** em resposta a eventos narrativos — não há teste de resistência. O piloto não "resiste" a trauma ou motivação. A Sincronização *é* o estado emocional, não uma consequência que pode ser evitada.
+>
+> **Exceção:** Habilidades específicas (como "Foco de Batalha" ou "Piloto Veterano") podem permitir gastar Pontos de Heroísmo para ajustar Sincronização manualmente. Isso é exceção rara e explícita — se o texto de uma vantagem não menciona, não existe.
 
 ---
 
@@ -94,9 +102,11 @@ Quando o piloto atinge extremos emocionais — trauma agudo, fúria dissociativa
 - O piloto é confrontado com o objeto central de seu trauma de campanha.
 
 **Efeitos durante Ressonância Crítica (dura 1d6 rodadas):**
-- O mecha causa dano equivalente a **Escala Leviatã** por uma rodada (a rodada em que entrou em Ressonância).
+- O mecha causa dano como **Escala Leviatã** por uma rodada (a rodada em que entrou em Ressonância). **Dano calculado: role 3d6 + P do piloto × 2.** Esse ataque atinge um alvo primário + área de 3 quadrados adjacentes (dano pela metade em alvos secundários). É o único momento em que um Colossal pode atingir múltiplos alvos com um único ataque sem habilidade específica.
 - O piloto **perde o controle voluntário** — o Mestre descreve as ações do mecha, não o jogador. O jogador pode tentar retomar controle com teste de H dif. 10 como Ação Padrão.
 - Ao final da Ressonância, o piloto sofre **backlash físico**: perde 1d6 PV e ganha 1 ponto de Trauma (Cap. 5).
+
+> **Em Jogo:** O mecha de Takeshi entra em Ressonância após ver Yuki cair. Takeshi tem P3. O mecha rola 3d6+6 de dano (resultado: 15 total) contra o kaiju que derrubou Yuki + dano 7 (metade) em inimigos adjacentes. Takeshi não controla onde o golpe vai — o Mestre decide que o mecha destrói também uma estrutura aliada ao lado. Quando a Ressonância termina, Takeshi perde 4 PV e ganha 1 Trauma. A vitória tem custo.
 
 **O que Ressonância Crítica não é:**
 Não é um poder que o piloto "usa". É uma falha de sistema — o mecha faz o que o trauma do piloto quer que ele faça, não o que o piloto quer. Mestres devem usar com peso narrativo, não como bônus gratuito.

@@ -4,11 +4,11 @@
 
 > **📚 Nota Legal — Conteúdo de Fãs**
 >
-> Este projeto é uma **produção de fãs** baseada em *3D&T Victory*, criado por **Marcelo Cassaro** e publicado pela **Jambô Editora**. Este conteúdo é não-oficial, não possui afiliação com a Jambô Editora e é distribuído gratuitamente.
+> Este projeto é uma **produção de fãs** criada com paixão por *3D&T Victory*, sistema de **Marcelo Cassaro** publicado pela **Jambô Editora**. Este conteúdo é não-oficial e distribuído gratuitamente como tributo ao sistema que amamos.
 >
 > *"3D&T Victory criado por Marcelo Cassaro, publicado por Jambô Editora. Este conteúdo é não-oficial e feito por fãs."*
 >
-> Para jogar, você precisará dos livros oficiais. Apoie os criadores: **[loja.jamboeditora.com.br](https://loja.jamboeditora.com.br)**
+> Para jogar, você precisará dos livros oficiais. **Apoie os criadores:** [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br) — cada compra oficial garante que mais conteúdo de qualidade continue sendo criado.
 
 ---
 
@@ -19,19 +19,21 @@
 
 > *De cima, parece um tabuleiro.*
 >
-> *É o que Irâ pensa enquanto os primeiros clarins tocam no vale. Da torre de observação da Engenharia de Cerco, as fileiras de escudos inimigos são apenas retângulos movendo-se devagar — geometria, ângulos, problemas de trajetória. Sua catapulta número três está descalibrada; ela já sabe como corrigir.*
+> *É o que **Irâ** pensa enquanto os primeiros clarins tocam no vale. Da torre de observação da Engenharia de Cerco, as fileiras de escudos inimigos são apenas retângulos movendo-se devagar — geometria, ângulos, problemas de trajetória. Sua catapulta número três está descalibrada; ela já sabe como corrigir.*
 >
-> *Três quilômetros à direita, o Sargento Kel está de pé entre os arqueiros do flanco esquerdo. Dezessete anos atrás desertou neste mesmo campo. Voltou. Seus soldados sabem — e ainda o chamam de "Sarge". Ele nunca entendeu por quê. Nenhuma das pessoas que ele salvou ainda está viva para explicar.*
+> *Três quilômetros à direita, **Sargento Kel** está de pé entre os arqueiros do flanco esquerdo. Dezessete anos atrás desertou neste mesmo campo. Voltou. Seus soldados sabem — e ainda o chamam de "Sarge". Ele nunca entendeu por quê. Nenhuma das pessoas que ele salvou ainda está viva para explicar.*
 >
-> *No centro da formação, Elowen está lendo os nomes dos soldados sob seu comando como quem reza. Não porque acredite em deuses. Porque eles merecem ser pronunciados antes de qualquer coisa acontecer.*
+> *No centro da formação, **Elowen** está lendo os nomes dos soldados sob seu comando como quem reza. Não porque acredite em deuses. Porque eles merecem ser pronunciados antes de qualquer coisa acontecer.*
 >
-> *E em algum lugar lá embaixo, no flanco onde ninguém está olhando, um arqueiro de dezessete anos chamado Davi encaixa a primeira flecha e percebe que suas mãos estão tremendo.*
+> *E em algum lugar lá embaixo, no flanco onde ninguém está olhando, um arqueiro de dezessete anos chamado **Davi** encaixa a primeira flecha e percebe que suas mãos estão tremendo.*
 >
 > *Não da armadura inimiga. Das mãos.*
 >
 > *Da dele.*
+>
+> *Elowen recrutou Irâ e Kel porque sabia que enfrentariam algo além de soldados — sabia que mágica, monstros ou máquinas viriam. Irâ calcula trajetórias; Kel conhece o campo; Elowen conhece seus soldados. Davi é voluntário. Ninguém sabe por quê. Mas Elowen pronunciou o nome dele também.*
 
-Este livro começa aqui: na percepção de que guerra épica, com toda a sua escala e espetáculo, só importa quando tem um rosto humano no centro.
+Este livro começa aqui: na percepção de que guerra épica, com toda a sua escala e espetáculo, só importa quando tem um rosto humano no centro. **Irâ, Kel, Elowen e Davi** — quatro pessoas em escalas diferentes da mesma batalha — são a promessa que este sistema mecânico faz: cada número representa alguém.
 
 ---
 
@@ -133,6 +135,25 @@ Use tudo — incluindo Custo Humano, Point-Buy de criação, e o Toolkit do Mest
 > *Ele não sabe se isso é coragem. Não tem certeza se quer saber.*
 >
 > *A batalha continua.*
+
+---
+
+## Glossário Rápido — Termos-Chave de BTV
+
+| Termo | Definição Rápida | Onde Ler Mais |
+|---|---|---|
+| **Escala** | Categoria de tamanho/poder (Escaramúça, Warband, Colossal, Leviatã) | Cap. 3 |
+| **Ação Heroica** | Gasto de Ponto de Heroísmo para afetar Tropa inteira | Cap. 2 |
+| **Sincronização** | Estado emocional do piloto afetando performance de mecha | Cap. 4 |
+| **Ressonância Crítica** | Colapso de sincronização piloto-mecha sob trauma extremo | Cap. 4 |
+| **Trauma** | Recurso narrativo-mecânico do custo psicológico de guerra | Cap. 5 |
+| **Ponto Fraco** | Vulnerabilidade de Leviatã permitindo dano de escalas menores | Cap. 3, 4 |
+| **Fogo Concentrado** | Múltiplas unidades atacando mesmo alvo somam modificadores | Cap. 2 |
+| **Terreno Difícil** | Custa 2× movimento em Grade; reduz movimento 50% em Medição-Livre | Cap. 1 |
+| **Warband Nomeada** | Unidade com identidade, habilidade e fraqueza narrativa | Cap. 3 |
+| **Objetivo de Crise** | Objetivo secundário emergente no meio de batalha | Cap. 7 |
+
+> Use este glossário como referência rápida durante jogo. Cada termo tem capítulo completo com exemplos e mecânicas detalhadas.
 
 ---
 

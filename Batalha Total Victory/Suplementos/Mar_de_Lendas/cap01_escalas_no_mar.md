@@ -99,25 +99,61 @@ O mar oferece **6 formas** de quebrar a barreira de escala:
 
 ---
 
-#### 1. ⚓ Canhões Especiais [Anti-Fortaleza]
+#### 1. ⚓ Armamento de Cerco Naval
+**Requisito:** Navio equipado com canhões explosivos, arietes reforçados ou armas mágicas de penetração.  
+**Efeito:** Navio (Warband) pode causar dano reduzido (50%) a Fortaleza do Mar (Colossal). Três Navios com *Fogo Concentrado* causam dano integral.
 
-Alguns Navios carregam armas projetadas para danificar escalas maiores. Canhões pesados, trabucos navais, torpedos experimentais (steampunk), barris de pólvora arremessados.
-
-**Mecânica:** Armas com a tag [Anti-Fortaleza] causam dano em alvos de escala Fortaleza do Mar. O dano é reduzido (metade), mas existe.
+> **Em Jogo:** Três fragatas de escolta cercam o galeão inimigo. Cada uma rola dano independente; somam os três; aplicam total ao galeão. Tática > escala.
 
 ---
 
-#### 2. ⚓ Pontos Fracos Estruturais
+#### 2. ⚓ Abordagem (Tripulante → Navio)
+**Requisito:** Navio alvo está Bordo a Bordo com navio atacante, ou Tripulante nadou até o casco.  
+**Efeito:** Tripulantes podem atacar *de dentro* do Navio — visam tripulação inimiga, sabotam velas, acendem fogo no porão. Cada Tripulante hostil reduz TRP (Tripulação) efetiva do alvo em 1 até ser eliminado.
 
-Toda Fortaleza do Mar e todo Rei do Mar possui **Pontos Fracos** — locais específicos que podem ser atacados por unidades de escala menor.
+> **Em Jogo:** Cinco fuzileiros piratas escalam o casco inimigo. Enquanto estão a bordo, o galeão inimigo opera com TRP-5 (penalidade em manobras, reparos e moral).
 
-**No mar:**
+---
+
+#### 3. ⚓ Ataque ao Ponto Fraco (Tripulante → Fortaleza/Rei)
+**Requisito:** Tripulante identifica Ponto Fraco via investigação, lore ou informante. Após identificar, deve estar na localização correta (dentro do casco, base de tentáculo, etc.).  
+**Efeito:** Causa dano normal de Tripulante *diretamente ao Ponto Fraco*, que tem PV separado (geralmente 10–30).
+
+**Pontos Fracos Comuns no Mar:**
 - **Leme** — destruir o leme de uma Fortaleza tira sua capacidade de manobra (VEL = 0 para direção)
 - **Paiol de Pólvora** — explosão interna causa 50% do PV máximo em dano
 - **Linha d'Água** — furos abaixo da linha da água causam alagamento progressivo (-1 VEL por rodada até reparo)
 - **Olho/Guelra** (Rei do Mar) — único ponto acessível por Tripulantes escalando o corpo
 
-**Ataques a Pontos Fracos exigem aproximação.** Navios precisam estar em Bordo a Bordo. Tripulantes precisam estar **no alvo** (abordagem, escalada, mergulho).
+> **Em Jogo:** Marinheiro Valen descobre que o Kraken tem olho vulnerável na base de um tentáculo. Escala o tentáculo, atinge o olho com lança. Kraken perde aquele tentáculo (Ponto Fraco destruído).
+
+---
+
+#### 4. ⚓ Manobra Perigosa (Navio vs. Rei do Mar)
+**Requisito:** Capitão/Piloto do Navio testa VEL dif. 8+. Sucesso permite manobra tática: atrair Rei do Mar para recife, provocar ataque que erra e atinge outro inimigo, posicionar-se em corrente favorável enquanto Rei luta contra corrente.  
+**Efeito:** Não causa dano direto, mas cria vantagem: Rei fica *Atordoado* por 1 rodada, ou sofre dano ambiental (recife causa 2d6), ou perde turno reposicionando.
+
+> **Em Jogo:** Capitã Sereia Negra navega entre dois recifes com 2m de abertura. Serpente do Mar tenta seguir — é grande demais. Fica presa por 2 rodadas enquanto frota escapa.
+
+---
+
+#### 5. ⚓ Aliança Temporária (Escala Mista)
+**Requisito:** Duas ou mais facções concordam em cessar hostilidades para enfrentar ameaça maior (Rei do Mar, Armada Imperial, Leviatã).  
+**Efeito:** Frotas aliadas somam ataques como se fossem *Fogo Concentrado* mesmo sendo de escalas diferentes. Tripulantes de navio pirata + Fortaleza imperial atacam o Kraken juntos.
+
+> **Em Jogo:** Frota mercante + piratas + marinha imperial enfrentam Abissal. Concordam em trégua temporária. Somam 12 navios + 1 Fortaleza + 300 Tripulantes. O Abissal morre — depois a aliança colapsa e voltam a lutar entre si.
+
+---
+
+#### 6. ⚓ Sacrifício (Escala Menor → Maior)
+**Requisito:** Escala menor aceita destruição certa para causar dano crítico. Navio abalroa Fortaleza. Tripulante detona barril de pólvora dentro de Rei do Mar.  
+**Efeito:** Escala menor é destruída automaticamente. Escala maior testa R contra dificuldade baseada no sacrifício (Navio → dif. 6; Tripulante com explosivos → dif. 5). Falha: sofre 4d6 de dano + condição (fogo, água invadindo, estrutura rachada).
+
+> **Em Jogo:** Brigue mercante incendiado abalroa a nau capitânia inimiga. Brigue afunda em 1 rodada. Nau testa R dif. 6 — falha. Sofre 20 de dano + pega fogo (2d6/rodada até apagar). Capitão mercante morreu, mas levou a nau com ele.
+
+---
+
+> *O mar oferece caminhos onde a guerra não oferece. Mas cada caminho tem preço. Tripulantes que usam Exceção 6 raramente vivem para contar. Capitães que confiam demais em Exceção 4 afundam eventualmente. E aliados temporários (Exceção 5) sempre lembram que eram inimigos ontem.*
 
 ---
 

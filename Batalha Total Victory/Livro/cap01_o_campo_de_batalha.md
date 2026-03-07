@@ -1,7 +1,9 @@
 # Capítulo 1 — O Campo de Batalha
 
 > *"Todo campo de batalha é simples enquanto está no mapa. Depois que você entra nele, descobre que a lama tem opiniões."*
-> — Sargento Kel, manual de instrução jamais escrito
+> — Sargento Kel, instrutor de tática (veterano de Tor Ellas, 47 batalhas, 1 deserção)
+
+> **📖 Sobre Kel:** Sargento Kel aparece em múltiplos capítulos deste livro — não como personagem de campanha, mas como voz de experiência. Suas citações vêm de anotações de campo que ele jamais publicou. Use Kel como NPC mentor em campanhas de guerra terrestre, ou adapte como veterano de sua própria facção.
 
 ---
 
@@ -24,7 +26,11 @@ Deslocar-se pelo campo de batalha. A distância máxima depende da Escala e do t
 A ação principal: atacar, ativar uma habilidade, conjurar, usar um item, ajudar um aliado, ou qualquer coisa que represente uma decisão significativa. Você só pode usar uma Ação Padrão por rodada.
 
 ### Ação Rápida / Reação
-Ações menores e respostas automáticas: sacar uma arma, gritar uma ordem, soltar um objeto, ou ativar uma habilidade com custo explícito de "Reação". Uma personagem pode usar **até 2 Ações Rápidas por rodada** — mas não mais de uma Reação por gatilho. Reações só acontecem em resposta a algo (um ataque, um aliado caindo, uma porta explodindo).
+Ações menores e respostas automáticas: sacar uma arma, gritar uma ordem, soltar um objeto, ou ativar uma habilidade com custo explícito de "Reação". Uma personagem pode usar **até 2 Ações Rápidas por rodada**.
+
+**Limite de Reações:** Um personagem pode usar **no máximo 2 Reações por rodada** (contando tanto o seu turno quanto turnos de outros personagens), independente do número de gatilhos que surgirem. Além disso, não pode usar mais de uma Reação para o mesmo gatilho. Reações só acontecem em resposta a algo (um ataque, um aliado caindo, uma porta explodindo).
+
+> **Em Jogo:** Aliado cai no campo aberto (gatilho 1). Você gasta 1 Reação para gritar ordem de recuo. Inimigo se move adjacente a você (gatilho 2). Você gasta sua 2ª Reação para ataque de oportunidade. Magia é lançada contra você (gatilho 3) — você já usou suas 2 Reações; não pode responder. Escolhas importam.
 
 > **🔍 Ações Adicionais via Habilidades**
 > Algumas vantagens ou técnicas concedem ações extras por rodada. Essas são exceções explícitas — se o texto não diz "você ganha uma ação adicional", presuma que os limites acima se aplicam.
@@ -63,8 +69,12 @@ O campo de batalha não tem grade. Personagens e unidades são representados por
 
 **Movimento em Medição Livre:**
 - Movimento padrão: **30 centímetros** por Ação de Movimento (Escala Escaramuça).
-- Terreno Difícil: o movimento é reduzido pela metade ao atravessar.
+- Terreno Difícil: o movimento é reduzido para **15 centímetros** (metade) ao atravessar.
 - Não há diagonais — meça em linha reta ou ao redor de obstáculos, o que for menor.
+
+> **🎲 Harmonização Grade ↔ Livre:**
+> 
+> Ambos os modos custam efetivamente o mesmo: Terreno Difícil reduz movimento disponível pela metade. Grade usa multiplicação (2× custo = metade de avanço); Medição Livre usa divisão direta (metade de distância). O resultado final é idêntico.
 
 **Faixas de Distância:**
 | Faixa | Distância |

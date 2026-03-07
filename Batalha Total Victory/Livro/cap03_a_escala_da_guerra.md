@@ -24,6 +24,8 @@ A escala de base. Personagens jogadores, NPCs comuns, animais domésticos e cria
 **Contagem típica:** 2–5 peças por lado (heróis + Tropas como bases únicas).
 **Exemplos:** guerreiro humano, ladrão élfice, soldado de infantaria, lobo de batalha, drone de reconhecimento.
 
+**Por que escala importa:** Um soldado pode matar outro soldado. Um soldado pode tomar uma decisão. Um soldado tem nome. Quando uma Escaramúça morre, alguém sente falta. Esta é a escala da pergunta: *"O que você faria se estivesse aqui?"*
+
 ---
 
 ### Warband / Esquadrão
@@ -36,10 +38,60 @@ Mecanicamente, um Warband é um personagem único com atributos próprios que re
 **Representação em mesa:** 1 miniatura grande, 1 base média, ou 2–3 minis menores em base compartilhada.
 **Contagem típica:** 2–4 peças por lado.
 **Exemplos:** esquadrão de veteranos élvicos, célula de agentes de infiltração, trio de cavaleiros de dragão, pelotão de armadura de poder, bando de piratas espaciais sob um capitão.
-
+**Por que escala importa:** Um Warband não é forte — é *coeso*. A diferença entre cinco soldados e um Warband de cinco é a palavra "nós". Quando um Warband se dissolve, não é porque morreu — é porque parou de acreditar. Esta é a escala da pergunta: *"Por quem você faria isso?"*
 > **📖 Warband vs. Tropa**
 >
 > Uma Tropa (Cap. 2) é um grupo de NPCs funcionando mecanicamente como um. Um Warband é uma entidade de Escala superior — tem mais PV, ignora ataques de Escaramuça sem ferramentas adequadas, e tem acesso a ações que Tropas não têm. A diferença não é apenas numérica: um Warband tem presença que uma Tropa não tem.
+
+### Warbands Nomeadas — Exemplos Prontos
+
+Use estes templates ou adapte para seu cenário:
+
+---
+
+#### Lanceiros da Coroa (Fantasia Medieval)
+*Venerável. Hierárquico. Morrem em formação perfeita.*
+
+**P2 H3 R3 | PV 75 (5 membros)**  
+**Identidade:** Unidade de elite real. Treinados desde adolescência. Nunca recuam sem ordem. Desprezam mercenários.  
+**Habilidade:** *Muro de Escudos* — quando adjacentes entre si, +1R.  
+**Fraqueza:** Se líder cai, testam Moral imediatamente.
+
+---
+
+#### Matilha de Ferro (Cyberpunk / Grimdark)
+*Criminosos veteranos. Lealdade à equipe, não à causa.*
+
+**P3 H2 R2 | PV 50 (5 membros)**  
+**Identidade:** Ex-soldados que desertaram. Operam como mercenários. Pragmáticos. Não morrem por ideais — morrem por salário e por colegas.  
+**Habilidade:** *Cobertura Móvel* — pode se mover e atacar no mesmo turno sem penalidade.  
+**Fraqueza:** Se pagamento prometido não chega, desaparecem antes da batalha.
+
+---
+
+#### Esquadrão Aurora (Space Opera)
+*Idealistas. Unidos por propósito. Ingênuos até sobreviverem algo terrível.*
+
+**P2 H4 R2 | PV 50 (5 membros)**  
+**Identidade:** Pilotos de caça da Comune. Acreditam em futuro melhor. Jovens. Ainda não perderam colegas suficientes para cinismo.  
+**Habilidade:** *Sincro de Esquadrão* — se 3+ membros atacam mesmo alvo, todos ganham Ganho.  
+**Fraqueza:** Primeira morte na unidade causa -1 Moral em toda Warband por resto da cena.
+
+---
+
+#### Guarda Fantasma (Horror / Sobrenatural)
+*Mortos que não sabem que morreram. Ou sabem, e continuam.*
+
+**P3 H1 R4 | PV 100 (5 membros)**  
+**Identidade:** Soldados que morreram em batalha anterior. Voltaram. Ninguém sabe por quê. Obedecem comandos, mas não respondem perguntas.  
+**Habilidade:** *Imune a moral* — nunca testam moral, nunca recuam.  
+**Fraqueza:** Vulnerável a magia de Luz/Exorcismo (causam dano dobrado).
+
+---
+
+> **🔍 Construindo Sua Warband**
+>
+> Template rápido: Nome evocativo + 3 atributos + 1 habilidade + 1 fraqueza narrativa. A identidade não é opcional — o que torna uma Warband diferente de uma Tropa é que Warbands *acreditam* em algo. Identifique o que sua Warband acredita (honra, dinheiro, vingança, futuro) e você tem personagem pronto.
 
 ---
 
@@ -52,6 +104,8 @@ A escala do colosso. Criaturas e máquinas desta escala dominam o campo de batal
 **Contagem típica:** 1–3 peças por lado (geralmente 1 é suficiente para dominar a cena).
 **Exemplos:** mecha de batalha, tanque pesado, dragão adulto, gólem de pedra de dez metros, navio de guerra voador, gigante de guerra.
 
+**Por que escala importa:** Um Colossal não é forte — é uma *ansiedade que caminha*. Soldados não planejam "derrotar" um Colossal; planejam sobreviver ou encontrar o ponto fraco. Quando um Colossal cai, o silêncio que se segue é o som de pessoas percebendo que o impossível era possível. Esta é a escala da pergunta: *"O que você está disposto a arriscar para derrotar isso?"*
+
 ---
 
 ### Leviatã
@@ -62,6 +116,8 @@ A escala do evento. Um Leviatã não é apenas grande — é o campo de batalha.
 **Representação em mesa:** 1 peça central grande + toda a mesa ao redor é o "campo de batalha do Leviatã". Em alguns cenários, o Leviatã literalmente *é* o terreno.
 **Contagem épica:** este é o único momento onde contagem alta é deliberada — 8–20 peças de múltiplas escalas formam o campo ao redor do Leviatã.
 **Exemplos:** kaiju de 200 metros, dreadnought estelar, colônia de fungos consciente do tamanho de uma cidade, entidade dimensional materializada.
+
+**Por que escala importa:** Um Leviatã não é um inimigo — é uma *pergunta sobre o que você está disposto a sacrificar para vencer*. Batalhar contra um Leviatã não é sobre força; é sobre aceitar que vitória pode significar perder algo que não volta. Esta é a escala da pergunta: *"Vale a pena?"*
 
 ---
 

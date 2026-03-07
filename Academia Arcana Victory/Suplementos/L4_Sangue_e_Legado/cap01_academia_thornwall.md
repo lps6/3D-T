@@ -5,7 +5,7 @@
 
 ---
 
-**Compatível com:** cap03 (Grêmios), cap06 (Kits), FAM1, cap08, A1
+**Compatível com:** cap03 (Grêmios), cap06 (Kits e Familiares), cap08 (Arrecife Arcano), Cap. 14 (Contrato Cármico)
 
 ---
 
@@ -265,7 +265,7 @@ O estudante é **Dawit Mercer**, Casa Faísca, Kit Arcavaleiro. Discreto. Tecnic
 
 | Referência | Relevância |
 |---|---|
-| A1 — O Contrato Cármico | Focos Vinculados com núcleo de Sacrifício cruzam com mecânica de Débito |
+| Cap. 14 — O Custo da Magia | Focos Vinculados com núcleo de Sacrifício cruzam com mecânica de Débito Cármico |
 | cap03 — Os Grêmios (livro base) | Mapeamento Casas → Grêmios disponível para PCs de Thornwall |
 | cap06 — Kits (livro base) | Focos Vinculados como instância do Instrumento de Herança |
 | cap08 — A Campanha (livro base) | Arquivo das Correntes conecta ao gancho do Arquivo Compartilhado |

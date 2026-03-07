@@ -6,7 +6,7 @@
 
 ---
 
-**Compatível com:** T4 (Magia Hard e Soft), FAM1 (Espíritos como Familiares), Cap. 05 (Reputação Faccional)
+**Compatível com:** T4 (Magia Hard e Soft), Cap. 06 (Familiares) (Espíritos como Familiares), Cap. 05 (Reputação Faccional)
 **Instância do Framework:** Falha de Visão — o sistema confunde sua própria perspectiva com a perspectiva universal
 
 ---
@@ -117,7 +117,7 @@ Marcadores se perdem quando o alinhamento é violado num momento de pressão rea
 
 **Redirecionamento de Carga** (técnica defensiva de Água aplicada a Fogo): reação (0 PM, 1×/sessão) — quando alvo de ataque elétrico ou mágico de carga, absorve e redireciona para outro alvo sem sofrer dano. Não pode ser aprendido por praticante de Fogo sem mentor externo com domínio dual.
 
-**Domínio de Sangue** (subestilo de Água, proibido): controle de fluidos corporais alheios. Mecânica de A1 com Débito Cármico permanente (+2 por uso). O Mestre pergunta ao jogador antes do primeiro uso se está confortável com o tema.
+**Domínio de Sangue** (subestilo de Água, proibido): controle de fluidos corporais alheios. Mecânica do Cap. 14 com Débito Cármico permanente (+2 por uso). O Mestre pergunta ao jogador antes do primeiro uso se está confortável com o tema.
 
 **Domínio de Areia, Domínio de Magma, Domínio de Planta:** todos funcionam como poderes adicionais adquiridos por arco narrativo, não como kits separados.
 

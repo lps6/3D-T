@@ -103,5 +103,5 @@ As premissas deste livro se encaixam nos grêmios de formas reveladoras — porq
 |--------------|----------------|-------|
 | Pressão Ambiental | L6 (Canalização Dupla) | Ambos são overlays de estado do personagem; não usar simultaneamente sem ajuste |
 | Fragmentação | Cap. 00 — Calibrando a Escuridão | Cap. 00 estabelece segurança de mesa antes de usar Fragmentação |
-| Modo Escola Hostil | Y1 — O Crisol Sem Mestre | O Crisol é a versão interna de AAV do mesmo conceito |
-| Corredor da Morte | S2 — Noite na Biblioteca | Ambos são sequências de alta tensão; não usar na mesma sessão |
+| Modo Escola Hostil | Cap. 05 — O Crisol Sem Mestre | O Crisol é a versão interna de AAV do mesmo conceito |
+| Corredor da Morte | Cap. 06 — A Noite na Biblioteca | Ambos são sequências de alta tensão; não usar na mesma sessão |

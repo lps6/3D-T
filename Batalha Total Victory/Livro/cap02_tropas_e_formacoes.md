@@ -78,8 +78,11 @@ Um personagem com **Ponto de Heroísmo** pode declarar uma **Ação Heroica** co
 3. **Com sucesso:** cause dano à Tropa inteira (aplique dano normalmente ao pool de PV) E escolha um efeito adicional:
    - **Derrubar:** derruba ou empurra até 2 membros — eles ficam *Prostrados* até a próxima rodada.
    - **Separar:** força a Tropa a se dividir pelo resto da rodada, perdendo acesso às ações de formação.
-   - **Intimidar:** a Tropa testa Moral (ver Apêndice A) imediatamente, mesmo sem atingir o threshold de baixas.
+   - **Dispertar:** escolha um membro da Tropa — ele fica *Marcado*. O próximo aliado que atacar aquele membro tem Ganho.
+   - **Extração:** escolha um membro específico da Tropa (um NPC nomeado, um líder, um portador de estandarte). Esse membro é removido da Tropa sem dano aos demais. Ele volta a agir como Escaramúça independente na próxima rodada. Use para capturar oficiais ou eliminar líderes sem massacrar tropas.
 4. **Com falha:** o ataque falha normalmente, mas o Ponto de Heroísmo ainda é gasto.
+
+> **Em Jogo:** Herói Saren entra na formação inimiga com Ação Heroica. Testa ataque — sucesso. Causa dano à Tropa + escolhe *Extração*: remove o Sargento inimigo que estava bufando moral. Sargento agora está isolado; próximos turnos Saren o captura.
 
 > **📖 Pontos de Heroísmo**
 >
@@ -186,6 +189,18 @@ O objetivo é que em uma batalha típica que não envolva Leviatã, a mesa tenha
 
 ---
 
+## O Que Vem a Seguir
+
+Tropas e Warbands são a fundação do combate em massa — mas ainda operam na escala onde um grupo de pessoas toma decisões e age juntos.
+
+O próximo capítulo introduz algo diferente: **Escala como categoria**, não como tamanho. Um Colossal não é uma Tropa grande. É uma presença de outra ordem. E um Leviatã não é simplesmente um inimigo poderoso — é um evento que redefine o que "combate" significa.
+
+Se Tropas são sobre *como grupos lutam*, Escalas são sobre *como o impossível se torna escalável*.
+
+> *Kel viu o kaiju pela primeira vez em Tor Ellas. A primeira coisa que pensou não foi "como vencemos isso". Foi "quem eu perco antes de descobrir se é possível vencer".*
+
+---
+
 ## Resumo: Tropas em Jogo Rápido
 
 | Situação | Regra |
@@ -196,3 +211,31 @@ O objetivo é que em uma batalha típica que não envolva Leviatã, a mesa tenha
 | Tropa com 75%+ PV perdidos | Dissolução iminente: testa Moral ou se retira |
 | Tropa com 0 PV | Dissolvida |
 | Ação de Formação | Substitui a Ação Padrão da Tropa naquele turno |
+
+---
+
+## Humanidade em Massa — Nomeando Seus Soldados
+
+Tropas são mecanicamente abstratas — pool de PV compartilhado, iniciativa única. Mas narrativamente, cada membro é uma pessoa.
+
+**Ferramenta de Mesa:** Quando uma Tropa é criada, considere dar **nome ou alcunha** a cada membro, mesmo que mecanicamente irrelevante. Quando 25% de PV é perdido, o Mestre pode nomear qual soldado cai:
+
+> *"A Tropa de Arqueiros perde 15 PV (de 60 total). Corvino — o que sempre reclamava da chuva — some em fumaça de morteiro. Os outros quatro continuam."*
+
+### Toolkit de Nomes por Tipo de Tropa
+
+Use ou adapte:
+
+| Tipo de Tropa | Nomes/Alcunhas Sugeridos |
+|---|---|
+| **Guerreiros** | Ferro, Lança, Corvo, Pedra, Martelo |
+| **Arqueiros** | Olho, Flecha, Sombra, Vento, Falcão |
+| **Magos** | Cinza, Runa, Cântico, Chama, Éter |
+| **Engenheiros** | Chave, Polia, Cálculo, Trava, Mecanismo |
+| **Fuzileiros (sci-fi)** | Numero+Designação (Alfa-3, Bravo-7), ou Apelido (Granite, Wire, Echo) |
+
+**Por que nomear importa:** Quando soldado morre e tem nome, jogadores sentem o custo. Quando Tropa dissolve e Mestre diz "Ferro, Lança e Corvo fogem; Pedra e Martelo morrem," a batalha deixa de ser matemática e vira memória.
+
+> *"A diferença entre '20 PV perdidos' e 'Corvino morreu' é a diferença entre guerra abstrata e guerra que custa."*
+
+---

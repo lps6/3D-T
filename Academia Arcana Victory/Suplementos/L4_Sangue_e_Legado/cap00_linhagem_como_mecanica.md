@@ -21,7 +21,7 @@ Este capítulo oferece um framework para transformar herança em mecânica — n
 
 ## O Sistema de Legado
 
-O Sistema de Legado é um overlay modular. Funciona com qualquer campanha de 3D&T Victory e não exige nenhuma franquia específica — os capítulos seguintes deste livro mostram como Harry Potter, Percy Jackson e Shadowhunters instanciam esse framework, mas você pode usar os componentes sem conhecer nenhuma das três.
+O Sistema de Legado é um overlay modular. Funciona com qualquer campanha de 3D&T Victory e não exige nenhuma franquia específica — os capítulos seguintes deste livro mostram como os três sistemas instanciam esse framework, mas você pode usar os componentes sem precisar de nenhum deles.
 
 Um personagem com herança define até quatro componentes:
 
@@ -51,14 +51,14 @@ Escolha uma (ou combine duas, com aprovação do Mestre):
 
 | Fonte | Descrição | Exemplo na ficção | Exemplo na Academia |
 |-------|-----------|-------------------|---------------------|
-| **Sangue** | O poder está fisicamente no seu corpo — herdado de um ancestral | Filho de Poseidon, sangue angelical | Descendente de Viajante com linhagem prévia à Convergência |
-| **Destino** | Algo ou alguém te marcou antes de você nascer | Profecia, varinha escolhe o bruxo, marca de nascença mágica | V3ctor1us identificou uma assinatura arcana única no seu registro |
-| **Instituição** | Uma organização treinou, reconheceu ou impôs seu poder | Ordem dos Caçadores, Academia de Hogwarts, Acampamento Meio-Sangue | Família com gerações de formados na Academia; contrato com grêmio desde o berço |
+| **Sangue** | O poder está fisicamente no seu corpo — herdado de um ancestral | Filho de divindade, sangue de ser celestial | Descendente de Viajante com linhagem prévia à Convergência |
+| **Destino** | Algo ou alguém te marcou antes de você nascer | Profecia, artefato que escolhe o portador, marca de nascença mágica | V3ctor1us identificou uma assinatura arcana única no seu registro |
+| **Instituição** | Uma organização treinou, reconheceu ou impôs seu poder | Ordem secreta de caçadores, academia institucional, acampamento de semideuses | Família com gerações de formados na Academia; contrato com grêmio desde o berço |
 | **Tradição** | Conhecimento passado de geração em geração, não por escola | Clã de praticantes, famílias que preservam técnicas antigas | Família Viajante que mantém práticas arcanas de Arton anteriores à Convergência |
 
 ### Fontes Compostas
 
-Muitos personagens têm mais de uma Fonte. Harry Potter é Sangue (família bruxa) + Destino (a profecia). Os Caçadores das Sombras são Sangue (angelical) + Instituição (a Ordem). Percy Jackson é Sangue (divino) puro. Essas combinações são válidas e enriquecem.
+Muitos personagens têm mais de uma Fonte. Um herói de sangue mágico com profecia a seu respeito é Sangue + Destino. Um membro de ordem secreta com herança angelical é Sangue + Instituição. Um filho de divindade sem afiliação institucional é Sangue puro. Essas combinações são válidas e enriquecem.
 
 Quando duas Fontes se combinam, o personagem ganha profundidade porque as Fontes podem *conflitar*: o que a Instituição quer pode não ser o que o Sangue exige. Essa tensão é narrativamente valiosa.
 
@@ -166,17 +166,17 @@ O Status de Herança mede como grupos específicos respondem à sua linhagem. É
 
 O Mestre define quais facções são relevantes para a campanha. Sugestões:
 
-**Em campanha escolar (estilo HP):**
+**Em campanha escolar (estilo Thornwall — cap01):**
 - Status por Grêmio (como cada grêmio vê sua linhagem)
 - Status com Corpo Docente
 - Status com V3ctor1us (que monitora padrões de linhagem)
 
-**Em campanha de herança divina (estilo Percy):**
+**Em campanha de herança divina (estilo Campo das Convergências — cap02):**
 - Status com o Panteão (a divindade progenitora e as rivais)
 - Status na Academia (como a instituição vê semideuses)
 - Status com Criaturas (monstros rastreiam; aliados reconhecem)
 
-**Em campanha institucional (estilo Shadowhunters):**
+**Em campanha institucional (estilo Ordem dos Glifeiros — cap03):**
 - Status por Facção do Mundo Oculto (Vampiros, Licantropos, Fadas, Warlocks)
 - Status com a Hierarquia (o Conselho, os superiores)
 - Status com Mundanos (quem você protege mas que não sabe)
@@ -223,15 +223,15 @@ Se usar o componente Instrumento:
 
 ## As Três Instâncias
 
-O Sistema de Legado é genérico por design. Os três capítulos seguintes apresentam como cada franquia o instancia. Aqui está o mapa rápido:
+O Sistema de Legado é genérico por design. Os três capítulos seguintes apresentam como cada sistema o instancia. Aqui está o mapa rápido:
 
-| Componente | Harry Potter (cap01) | Percy Jackson (cap02) | Shadowhunters (cap03) |
-|------------|---------------------|----------------------|----------------------|
+| Componente | Academia Thornwall (cap01) | Campo das Convergências (cap02) | Ordem dos Glifeiros (cap03) |
+|------------|--------------------------|--------------------------------|----------------------------|
 | **Fonte** | Tradição + Destino | Sangue (divino) | Sangue (angelical) + Instituição |
-| **Traço** | Varinha Vinculada + afinidade de Casa | Dom Passivo (tabela por divindade) | Glifos Permanentes + capacidades angelicais |
+| **Traço** | Foco Vinculado + afinidade de Casa | Dom Passivo (tabela por divindade) | Glifos Permanentes + capacidades arcano-ancestrais |
 | **Fardo** | Expectativa + Destino | Perseguição + Ausência | Dor + Expectativa institucional |
 | **Status** | Reputação por Grêmio | Reconhecimento divino + integração acadêmica | Status por Facção (1–5, cinco facções) |
-| **Instrumento** | Varinha (foco com vínculo) | O corpo (sem foco externo) | Estilete Arcano + Glifos na pele |
+| **Instrumento** | Foco (vínculo com Casa) | O corpo (sem foco externo) | Estilete Arcano + Glifos na pele |
 
 Cada instância é completamente jogável isolada. Não é necessário combinar. A força do framework é que ele dá linguagem comum para comparar três paradigmas radicalmente diferentes — e permite que o Mestre pegue peças de cada um conforme a campanha pedir.
 
@@ -243,7 +243,7 @@ Cada instância é completamente jogável isolada. Não é necessário combinar.
 
 A Academia Arcana Victory foi fundada com um princípio: **o grêmio é escolha, não destino.** Isso significa que, oficialmente, linhagem não importa. Na prática, importa muito — só que ninguém admite.
 
-**Wynna** trata todos os estudantes como iguais independente de origem. Isso é política, não cegueira — ela sabe exatamente quem vem de família arcana tradicional e quem é Terrano de primeira geração. Sua igualdade é proposital: se a Academia diferenciasse por linhagem, viraria Hogwarts. Wynna não quer isso.
+**Wynna** trata todos os estudantes como iguais independente de origem. Isso é política, não cegueira — ela sabe exatamente quem vem de família arcana tradicional e quem é Terrano de primeira geração. Sua igualdade é proposital: se a Academia diferenciasse por linhagem, viraria uma escola que seleciona por linhagem. Wynna não quer isso.
 
 **V3ctor1us** monitora padrões de linhagem com a mesma atenção que monitora tudo. Estudantes com assinatura arcana "familiar" — parecida com a de outro estudante de gerações anteriores — são flagados automaticamente. A IA não age sobre isso. Mas registra. O que faz com os registros é um dos segredos que a campanha pode explorar.
 
@@ -293,7 +293,7 @@ O terceiro ato é onde o tema do livro paga: **o que você faz com o que não es
 
 ### Usando Este Capítulo Sem Franquias
 
-Se nenhuma das três franquias (cap01–03) serve à sua campanha, use apenas este capítulo:
+Se nenhum dos três sistemas (cap01–03) serve à sua campanha, use apenas este capítulo:
 
 1. Cada PJ escolhe uma **Fonte de Legado** da tabela
 2. Constrói um **Traço de Linhagem** com o Mestre (use a tabela de exemplos ou crie)
@@ -323,14 +323,14 @@ INSTRUMENTO (opc.)       → Existe objeto/marca? (Foco / Marca / Vínculo / Tra
 
 ### Instâncias por Franquia
 
-| | HP (cap01) | Percy (cap02) | Shadowhunters (cap03) | Genérico (este cap.) |
-|-|-----------|---------------|----------------------|---------------------|
+| | Thornwall (cap01) | Campo (cap02) | Glifeiros (cap03) | Genérico (este cap.) |
+|-|-----------------|--------------|-----------------|---------------------|
 | Fonte | Tradição+Destino | Sangue | Sangue+Instituição | Escolha do jogador |
-| Traço | Varinha Vinculada | Dom Passivo | Glifos Permanentes | Tabela de exemplos |
+| Traço | Foco Vinculado | Dom Passivo | Glifos Permanentes | Tabela de exemplos |
 | Fardo | Expectativa+Destino | Perseguição+Ausência | Dor+Expectativa | Tabela de categorias |
 | Status | Por Grêmio | Panteão+Academia | Por Facção (5) | 2–3 facções |
-| Instrumento | Varinha | Corpo | Estilete+Glifos | Opcional |
+| Instrumento | Foco | Corpo | Estilete+Glifos | Opcional |
 
 ---
 
-*Este capítulo é a fundação mecânica do livro. Tudo que vem depois — franquias, sociedades, aventuras — são instâncias, extensões, e aplicações do que foi apresentado aqui. Se você leu este capítulo e entendeu o Sistema de Legado, você pode jogar qualquer coisa que este livro oferece.*
+*Este capítulo é a fundação mecânica do livro. Tudo que vem depois — sistemas, sociedades, aventuras — são instâncias, extensões, e aplicações do que foi apresentado aqui. Se você leu este capítulo e entendeu o Sistema de Legado, você pode jogar qualquer coisa que este livro oferece.*

@@ -5,7 +5,7 @@
 
 ---
 
-**Compatível com:** cap06 (Kits), cap03 (Grêmios), FAM1, cap08, N1 (Estruturas Narrativas)
+**Compatível com:** cap06 (Kits e Familiares), cap03 (Grêmios), cap08 (Arrecife Arcano), Cap. 09 (Estruturas Narrativas)
 
 ---
 
@@ -249,7 +249,7 @@ Um texto chega ao Arquivo das Correntes vindo do Campo — fragmento de inscriç
 
 V3ctor1us processa e conclui: "Probabilidade de relevância para estudantes ativos: 91%. Identidade dos 'quatro rios': indeterminada. Recomendo investigação imediata, não discreta."
 
-Os PCs agora têm uma profecia da Era das Arcas — vaga, inevitável, e com uma escolha permanente no centro. Use N1 — Estruturas Narrativas para o arco que emerge.
+Os PCs agora têm uma profecia da Era das Arcas — vaga, inevitável, e com uma escolha permanente no centro. Use Cap. 09 — Estruturas Narrativas de Mídia para o arco que emerge.
 
 ---
 
@@ -257,11 +257,11 @@ Os PCs agora têm uma profecia da Era das Arcas — vaga, inevitável, e com uma
 
 | Referência | Relevância |
 |---|---|
-| N1 — Estruturas Narrativas | Profecias da Era das Arcas como mecânica de arco |
-| FAM1 — Sistema de Familiar | Bryn como mediadora com criaturas é adjacente às regras de Familiar não-mágico |
+| Cap. 09 — Estruturas Narrativas | Profecias da Era das Arcas como mecânica de arco |
+| Cap. 06 — Familiares | Bryn como mediadora com criaturas é adjacente às regras de Familiar não-mágico |
 | cap03 — Os Grêmios (livro base) | Células vs. Grêmios: pertencimento por origem vs. escolha |
 | cap06 — Kits (livro base) | Herança Arcana como expansão de kit; Dom Passivo como bônus de linhagem |
-| A1 — O Contrato Cármico | Débito de Theo funciona na lógica de A1 — origem divina como débito estrutural |
+| Cap. 14 — O Custo da Magia | Débito de Theo funciona na lógica do Contrato Cármico — origem divina como débito estrutural |
 | cap00 — Linhagem como Mecânica (este livro) | Dom Passivo = Traço de Linhagem; Marca Narrativa = Fardo de Linhagem |
 | cap01 — Academia Thornwall (este livro) | Contraste: destino institucional vs. origem de sangue |
 | cap04 — Sociedades Secretas (este livro) | Sem Nome acolhem descendentes que não cabem nos grêmios |

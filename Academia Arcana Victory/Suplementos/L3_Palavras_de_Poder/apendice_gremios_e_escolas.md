@@ -4,9 +4,9 @@
 
 ## Mapeamento para Grêmios da AAV
 
-### Franquias
+### Sistemas de Magia de Palavras
 
-As duas franquias deste livro e os dois artigos consolidados revelam alinhamentos não-óbvios com os grêmios — porque magia de compreensão testa a filosofia de cada casa de formas que magia de combate nunca testa.
+As duas fontes principais deste livro e os dois artigos consolidados revelam alinhamentos não-óbvios com os grêmios — porque magia de compreensão testa a filosofia de cada casa de formas que magia de combate nunca testa.
 
 | Fonte | Grêmio Natural | Por quê |
 |-------|---------------|---------|
@@ -91,11 +91,11 @@ O material deste livro sugere duas instituições que não existiam no cenário 
 | **Mestra Thornvale** | Elfa (Prof. 5, 300+ anos) | Tradicionalista — só Cavaleiros-Dragão; tradições toleradas, não integradas |
 | **Prof. Garrek** | Humano (sem dragão, vocabulário excepcional) | Expansionista — incluir outras tradições mágicas |
 | **Coord. Elan** | Anã (Runecraft de manutenção) | Neutra — manter tudo funcionando |
-| 2 elfos, 2 humanos | — | Conselho sem representação Varruk — tensão política imediata |
+| 2 elfos, 2 humanos | — | Conselho sem representação Orque — tensão política imediata |
 
 **O Headmaster: Vorenthal** — Dragão adulto sem Cavaleiro. Vínculo quebrado há décadas. Escamas prateadas escurecidas. Proficiência 5 natural. Última instância de autoridade. Justo, não benevolente. Ferida de Vínculo permanente (-1 H). Reuniões na caverna central — dragão secular sentado no chão, olhando.
 
-**Conflito Interno:** Tradicionalistas vs. Expansionistas. Elfos que querem preservar a herança vs. humanos que querem adaptá-la. Varruks excluídos do Conselho. Anões que vendem Runecraft para ambos os lados. E Vorenthal no meio, tentando manter uma instituição construída sobre uma tradição que ele é o último a lembrar como realmente era.
+**Conflito Interno:** Tradicionalistas vs. Expansionistas. Elfos que querem preservar a herança vs. humanos que querem adaptá-la. Orques excluídos do Conselho. Anões que vendem Runecraft para ambos os lados. E Vorenthal no meio, tentando manter uma instituição construída sobre uma tradição que ele é o último a lembrar como realmente era.
 
 ---
 

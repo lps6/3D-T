@@ -85,7 +85,7 @@ Antes da primeira cena. Antes do primeiro feitiço. Antes do portal brilhar. Sen
 
 **3. Laços iniciais.** Nenhum personagem começa sozinho. Cada jogador deve definir pelo menos um vínculo com outro PJ antes da sessão 1. Pode ser simples: "nos conhecemos no glifo", "dividimos o quarto na Residência", "nos odiamos desde a Prova de Aptidão". Um fio basta.
 
-**4. O que a escola *não* é.** Combinem: a escola é refúgio ou armadilha? Hogwarts ou Battle Royale? A resposta define se os alunos confiam nas instituições ou suspeitam delas — e essa diferença muda tudo.
+**4. O que a escola *não* é.** Combinem: a escola é refúgio ou armadilha? Escola dos sonhos ou arena de sobrevivência? A resposta define se os alunos confiam nas instituições ou suspeitam delas — e essa diferença muda tudo.
 
 ### Três Regras de Ouro
 
@@ -811,9 +811,9 @@ Estruturas narrativas são o andaime. Você não vê o andaime no produto final,
 
 ### Adaptação Não É Plágio
 
-Existe uma distinção importante entre *plagiar* uma história e *usar sua estrutura*. Plagiar é pegar os eventos, personagens e diálogos de uma obra e presentá-los como seus. Usar a estrutura é reconhecer que "torneio em que o protagonista enfrenta um adversário que revela as suas próprias limitações" é um padrão narrativo tão antigo quanto a Ilíada — e que Mahouka, Naruto, Harry Potter e mil outras obras o utilizam porque funciona, não porque se copiaram.
+Existe uma distinção importante entre *plagiar* uma história e *usar sua estrutura*. Plagiar é pegar os eventos, personagens e diálogos de uma obra e presentá-los como seus. Usar a estrutura é reconhecer que "torneio em que o protagonista enfrenta um adversário que revela as suas próprias limitações" é um padrão narrativo tão antigo quanto a Ilíada — e que seu anime favorito de escola mágica, seu mangá favorito de ninjas, a escola de bruxaria mais famosa da literatura britânica e mil outras obras o utilizam porque funciona, não porque se copiaram.
 
-Quando você usa a estrutura do Arco de Torneio para criar um Campeonato Inter-Grêmio na Academia, você está fazendo o que Naoko Takeuchi fez com Sailor Moon, o que J.K. Rowling fez com o Torneio Tribruxo, e o que Homero fez com os Jogos Fúnebres de Pátroclo: usando uma estrutura que produz drama porque estruturas que produzem drama sobrevivem por essa razão.
+Quando você usa a estrutura do Arco de Torneio para criar um Campeonato Inter-Grêmio na Academia, você está fazendo o que a autora das guerreiras mágicas dos anos 90 fez com seu torneio intergaláctico, o que a autora da escola de bruxaria mais famosa da fantasia britânica fez com o Torneio Tribruxo, e o que Homero fez com os Jogos Fúnebres de Pátroclo: usando uma estrutura que produz drama porque estruturas que produzem drama sobrevivem por essa razão.
 
 Isso tem nome: **alfabetização narrativa**. Conhecer as estruturas é saber ler o que funciona e por quê. E saber por quê é a diferença entre usar a estrutura com mestria e simplesmente deixá-la acontecer.
 
@@ -970,7 +970,7 @@ Perder um torneio na Academia tem consequências sociais reais — pontos de gr�
 
 *"Preparação → caos → apresentação → consequência emocional."*
 
-O Festival Escolar é o arco mais *slice-of-life* desta coleção — mas não é menos estruturado. Bunkasai em BnHA, o Baile de Yule em Hogwarts, o Festival de Outono em qualquer anime de escola: a estrutura é consistente porque o festival serve como câmara de pressão para tensões que estavam latentes. A magia não é o foco. As pessoas são.
+O Festival Escolar é o arco mais *slice-of-life* desta coleção — mas não é menos estruturado. a festa cultural em qualquer anime de heróis, o baile de inverno em qualquer escola de fantasia britânica, o Festival de Outono em qualquer anime de escola: a estrutura é consistente porque o festival serve como câmara de pressão para tensões que estavam latentes. A magia não é o foco. As pessoas são.
 
 **A Estrutura em Detalhe**
 
@@ -1029,7 +1029,7 @@ Festivais que envolvem todos os cinco grêmios criam oportunidade de consequênc
 
 *"Mestre → tarefa impossível → fracasso → insight → superação."*
 
-O Arco de Treinamento é onde o personagem *se torna*. Não é sobre a habilidade nova que vai ser adquirida — é sobre o que o personagem precisava entender sobre si mesmo para poder adquirí-la. Rocky, Naruto aprendendo o Rasengan, Atsuko aprendendo a voar em LWA: a habilidade é o veículo, a autodescoberta é o destino.
+O Arco de Treinamento é onde o personagem *se torna*. Não é sobre a habilidade nova que vai ser adquirida — é sobre o que o personagem precisava entender sobre si mesmo para poder adquirí-la. Rocky, o ninja mais famoso dos mangás aprendendo seu jutsu definitivo, a jovem bruxa que sonhava voar em seu anime favorito: a habilidade é o veículo, a autodescoberta é o destino.
 
 **A Estrutura em Detalhe**
 

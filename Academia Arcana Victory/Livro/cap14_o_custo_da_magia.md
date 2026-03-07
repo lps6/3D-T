@@ -342,4 +342,4 @@ O ciclo é fechado. Isso é o que A Intermediária omite.
 
 ---
 
-*Referências cruzadas: Combustível Emocional — Kit Canalista Emocional disponível via subsistema Y2. Contrato Cármico — Kit Contratista Cármica disponível via subsistema A1. Anomalias dimensionais e Ala Leste — Cap. 09. +Magia Improvisada e Tabela de Efeitos Colaterais — Cap. 11. V3ctor1us e os cinco segredos da campanha — Cap. 09. Ermos de Talude (Bureal) — Cap. 02.*
+*Referências cruzadas: Combustível Emocional — Kit Canalista Emocional disponível via subsistema Y2. Contrato Cármico — Kit Contratista Cármica disponível via este capítulo (Sistema 2). Anomalias dimensionais e Ala Leste — Cap. 09. +Magia Improvisada e Tabela de Efeitos Colaterais — Cap. 11. V3ctor1us e os cinco segredos da campanha — Cap. 09. Ermos de Talude (Bureal) — Cap. 02.*

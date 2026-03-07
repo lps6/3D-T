@@ -30,10 +30,22 @@ Não determina vitória ou derrota, mas tem consequências. Exemplos:
 - Destruir o menor número possível de estruturas (importa para a trama pós-batalha)
 
 **Objetivo de Crise (emergência):**
-Aparece no meio da batalha — imprevisto que exige resposta imediata. Exemplos:
-- Um aliado NPC cai ferido no centro do campo aberto
-- A Arma de Cerco que o grupo trouxe está sendo sabotada
-- O kaiju mudou de direção — agora vai para o hospital da cidade
+Aparece no meio da batalha — imprevisto que exige resposta imediata.
+
+### Tabela d6: Objetivos de Crise
+
+Role quando batalha atinge rodada 3–4, ou quando Objetivo Secundário é cumprido:
+
+| d6 | Crise | Resposta Necessária |
+|----|-------|---------------------|
+| 1 | **Aliado NPC Caído** — personagem importante cai ferido no campo aberto | Resgatar em 2 rodadas ou ele morre |
+| 2 | **Sabotagem** — Arma de Cerco/veículo aliado está sendo sabotado por infiltrador | Detectar (Percepção dif. 8) + eliminar infiltrador |
+| 3 | **Mudança de Alvo** — Inimigo principal (kaiju, comandante) muda de direção inesperadamente | Novo alvo é estrutura vital (hospital, reator, refúgio civil) |
+| 4 | **Informação Perturbadora** — Prisioneiro revela algo que muda moral (aliado traiu, causa é mentira, inimigo é refém) | Grupo precisa decidir: continuar ou mudar plano no meio da batalha |
+| 5 | **Reforços Inimigos Inesperados** — 1 Warband inimigo aparece em flanco não-defendido | Dividir força ou ignorar e arriscar cerco |
+| 6 | **Recurso Crítico Perdido** — Suprimentos, munição ou ponte de evacuação é destruída | Batalha vira "sobrevivência" em vez de "vitória" |
+
+> **Em Jogo:** Rodada 4 — grupo está vencendo. Role d6: resultado 3 (Mudança de Alvo). Kaiju que estava indo para montanha vira para cidade vizinha. Objetivo muda: não basta derrotar, precisa desviar. Pressão aumenta.
 
 > **🎲 Regra de Três Objetivos**
 >
@@ -149,15 +161,31 @@ Para campanhas longas, o lado inimigo precisa de pelo menos **um NPC com nome e 
 
 ---
 
-## Lista de Verificação do Mestre
+## Checklist do Mestre — Preparando uma Batalha
 
-Antes de cada sessão com batalha grande:
+Use esta lista antes de cada combate em massa:
 
-- [ ] Objetivo Primário definido com condição de vitória clara
-- [ ] Objetivo Secundário com dilema real (não apenas bônus gratuito)
-- [ ] Objetivo de Crise preparado (para quando a batalha precisar de virada)
-- [ ] Moral de todas as Tropas e Warbands anotada
-- [ ] Reforços (se houver) com rodada de chegada e ponto de entrada marcados
-- [ ] Três Momentos identificados e prontos
-- [ ] Para batalha com Leviatã: Pontos Fracos, Fases e Telegrafados preparados
-- [ ] Para batalha com mecha: verificar Sincronização inicial do piloto
+### Pré-Sessão (Prepare)
+- [ ] **Escolhi 1 Objetivo Primário?** (Destruir, Sobreviver, Escoltar, Capturar, Eliminar Comando)
+- [ ] **Escolhi 1 Objetivo Secundário?** (Proteger civis, Capturar vivo, Minimizar destruição)
+- [ ] **Preparei 1 Objetivo de Crise?** (Role d6 na tabela acima ou crie personalizado)
+- [ ] **Identifiquei 2–3 NPCs-âncora?** (Comandantes, oficiais, suporte que jogadores conhecem)
+- [ ] **Mapeei terreno?** (Cobertura Leve, Pesada, Difícil, Perigos marcados)
+- [ ] **Defini escalas envolvidas?** (Escaramuça, Warband, Colossal, Leviatã?)
+- [ ] **Calculei PV de Tropas/Warbands?** (R × 5 × membros)
+- [ ] **Se há Leviatã: preparei Pontos Fracos + Fases?**
+
+### Durante Sessão (Execute)
+- [ ] **Rodada 1–2:** Pressão alta — inimigos agem agressivamente
+- [ ] **Rodada 3:** Introduzir Objetivo de Crise (ou quando Secundário é cumprido)
+- [ ] **Rodada 4+:** Modificar campo de batalha (terreno muda, reforços, moral)
+- [ ] **Narrar Dissolução de Tropas:** Nomear quem cai quando Tropa perde 25% PV
+- [ ] **Oferecer Momentos de Decisão:** "Vocês salvam os civis ou perseguem o comandante?" (tradeoff)
+
+### Pós-Batalha (Resolve)
+- [ ] **Narrar custo:** Quem morreu? Quem mudou? O que foi destruído?
+- [ ] **Marcar Trauma:** Quem ganha Trauma por testemunhar morte, falhar em proteger, etc.?
+- [ ] **Oferecer Momento de Conexão:** Fogueira, enfermaria, memorial — onde personagens processam?
+- [ ] **Definir consequência:** Como mundo reage à vitória/derrota? Quem lembra?
+
+> **Mestre Veterano:** Após 3–4 batalhas, você não precisa mais da lista — ela vira intuição. Mas nas primeiras vezes, checklist elimina esquecimentos que quebram ritmo.

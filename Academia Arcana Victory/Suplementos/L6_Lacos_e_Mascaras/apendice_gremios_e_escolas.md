@@ -113,6 +113,6 @@ Referência rápida das estruturas, grêmios, entidades e conexões introduzidas
 | Força dos Laços | Cap. 05 (Vínculos de Campanha) | Força dos Laços é extensão natural do sistema de Cap. 05 |
 | Canalização Dupla | Mecânica base de PM | Overlay — pode ser removido sem afetar fichas |
 | Social Links | Cap. 05 (Vínculos de Campanha) | Versão numérica formal dos mesmos vínculos |
-| Despertar + Aspecto | FAM1 (Sistema de Familiar) | Aspecto usa as regras de Familiar de FAM1 |
+| Despertar + Aspecto | Cap. 06 (Familiares) (Sistema de Familiar) | Aspecto usa as regras de Familiar de Cap. 06 (Familiares) |
 | Modo Limite | L5 (Transformação de Poder) | Ambos acessam reserva além do normal; não usar simultaneamente sem ajuste |
 | Programa de Equipes | S3 (O Torneio das Escolas) | Exame de Coesão e Torneio podem ser conectados como eventos do mesmo semestre |

@@ -75,7 +75,7 @@ Todo PC tem um **Aspecto** — uma forma verdadeira que existe embaixo da versã
 4. O Reflexo se transforma no Aspecto
 
 **Mecânica pós-Despertar:**
-- O PC ganha o Aspecto como Familiar conforme FAM1 (nível mínimo Ningen; pode crescer com arcos)
+- O PC ganha o Aspecto como Familiar conforme Cap. 06 (Familiares) (nível mínimo Ningen; pode crescer com arcos)
 - O Aspecto **nunca pode ser capturado, destruído, ou replicado** — ele é interno; separar o PC do Aspecto exigiria separar o PC de si mesmo
 - Se o Aspecto é "ferido" em combate (o oponente tem poder de atingir a psique), o PC fica incapacitado por 1d3 turnos processando o trauma — mas não perde o Aspecto
 - PCs sem Aspecto que entram no Avesso funcionam mecanicamente, mas os Reflexos os reconhecem e os testam com mais frequência
@@ -122,7 +122,7 @@ Os três PCs abaixo são estudantes que tiveram Despertar e operam no Avesso com
 **Aspecto:** *O Ladrão* — arquétipo do que age fora das regras para restaurar o que as regras permitiram ser roubado
 
 **Poderes:**
-- *Aspecto: O Ladrão* (1 PM, FAM1 base): invoca o Aspecto — por 1 cena, Sael pode usar uma habilidade Arcana de qualquer escola como se fosse sua; não é cópia, é compreensão momentânea
+- *Aspecto: O Ladrão* (1 PM, Cap. 06 (Familiares) base): invoca o Aspecto — por 1 cena, Sael pode usar uma habilidade Arcana de qualquer escola como se fosse sua; não é cópia, é compreensão momentânea
 - *Movimento Invisível* (2 PM): Sael desaparece e reaparece em ponto diferente Longe sem ser detectado; pode carregar 1 aliado; funciona em áreas com vigilância mágica ativa
 - *Carta Livre* (3 PM): acessa uma versão alternativa do Aspecto por 1 rodada; o Mestre escolhe qual forma está disponível com base no que Sael compreendeu de inimigos ou NPCs nessa sessão
 - *Muda Corações* (1×/arco, narrativo): pode alterar a motivação central de um NPC neutro ou de suporte se conduzir uma missão de Convergência relacionada a esse NPC; requer sessão dedicada; resultado permanente

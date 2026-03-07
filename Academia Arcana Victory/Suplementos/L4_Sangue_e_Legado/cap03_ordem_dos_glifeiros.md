@@ -5,7 +5,7 @@
 
 ---
 
-**Compatível com:** cap06 (Kits), cap09 (Toolkit do Mestre), A1 (Contrato Cármico), cap04 deste livro (Sociedades Secretas), FAM1
+**Compatível com:** cap06 (Kits e Familiares), cap09 (Toolkit do Mestre), Cap. 14 (Contrato Cármico), cap04 deste livro (Sociedades Secretas)
 
 ---
 
@@ -433,7 +433,7 @@ Severin mostra aos PCs uma profecia que afirma que um dos membros do grupo é a 
 
 | Referência | Relevância |
 |---|---|
-| A1 — O Contrato Cármico | Débito Cármico cruza com glifos proibidos |
+| Cap. 14 — O Custo da Magia | Débito Cármico cruza com glifos proibidos |
 | cap00 — Linhagem como Mecânica (este livro) | Status por Facção = instância do Status de Herança; Glifos = Instrumento |
 | cap01 — Academia Thornwall (este livro) | Contraste: escola que protege vs. escola que forma soldados |
 | cap02 — Campo das Convergências (este livro) | Herança divina vs. herança arcano-ancestral — duas linhagens, custos diferentes |

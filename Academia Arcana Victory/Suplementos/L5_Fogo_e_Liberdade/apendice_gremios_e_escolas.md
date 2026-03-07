@@ -58,7 +58,7 @@ Referência rápida das estruturas, instituições, sistemas e conexões introdu
 **Mecânicas introduzidas:**
 - **Regra da Trilha Única** — subsistema de campanha; Seguidor (+1 na Escola), Irregular (sem bônus, qualquer Escola), Glifista puro (invisibilidade burocrática)
 - **Kit Glifista** — 5 glifos básicos + combinações; preparação fora de combate; criação de novas combinações pela lógica interna
-- **Palisman** — extensão de FAM1 para familiar-objeto; ativo/inativo; trauma narrativo se objeto destruído
+- **Palisman** — extensão de Cap. 06 (Familiares) para familiar-objeto; ativo/inativo; trauma narrativo se objeto destruído
 
 **Conexões AAV:** ganchos cruzam com V3ctor1us (avaliação de aptidão que retorna erro), a Reitora Valdris (decisão de expulsão silenciosa), e o Cap. 05 (Reputação Faccional para status Irregular).
 
@@ -99,7 +99,7 @@ Referência rápida das estruturas, instituições, sistemas e conexões introdu
 | Reputação de Classe | Cap. 01 | Baixa — instância de Cap. 05 |
 | Regra da Trilha Única | Cap. 02 | Baixa — subsistema de campanha on/off |
 | Kit Glifista | Cap. 02 | Média — preparação prévia + combinações |
-| Palisman | Cap. 02 | Baixa — extensão de FAM1 |
+| Palisman | Cap. 02 | Baixa — extensão de Cap. 06 (Familiares) |
 | Marcadores de Chi | Cap. 03 | Média — rastreamento por elemento |
 | Estado de Equilíbrio | Cap. 03 | Alta — um PC específico; condicional narrativa |
 | Reputação Faccional | Cap. 05 | Alta — cola de todos os sistemas do livro |
@@ -112,7 +112,7 @@ Referência rápida das estruturas, instituições, sistemas e conexões introdu
 |--------------|----------------|-------|
 | Metalurgia Arcana | T4 (Magia Hard e Soft) | Metalurgia é Hard Magic exemplar — derivação linear, custo claro |
 | Reputação de Classe | Cap. 05 (Reputação Faccional) | É instância direta; use o Cap. 05 como base |
-| Palisman | FAM1 (Sistema de Familiar) | Extensão do sistema; usar as regras de FAM1 como base |
+| Palisman | Cap. 06 (Familiares) (Sistema de Familiar) | Extensão do sistema; usar as regras de Cap. 06 (Familiares) como base |
 | Marcadores de Chi | T4 (Magia Hard e Soft) | Alinhamento filosófico como mecânica de calibração entre Hard e Soft |
 | Trilha Única | L2 (Tinta & Sombras) | L2 explora instituições opressivas por outros caminhos — sistemas se complementam |
 | Escola do Covil | L3 (Palavras de Poder, cap04) | O Gradiente Hard/Soft de L3 explica por que a Trilha Única é Hard e a Glifomagia é Soft |
