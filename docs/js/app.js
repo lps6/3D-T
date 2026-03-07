@@ -272,10 +272,19 @@
       a.setAttribute('rel', 'noopener noreferrer');
     });
 
+    // Convert links to local .md files into reader hashes. If we're
+    // currently viewing a book, include its id so the link navigates
+    // within the same book (e.g. #AAV-0/cap01_name).
+    const currentHash = window.location.hash.slice(1);
+    const [currentBookId] = currentHash.split('/');
     contentEl.querySelectorAll('a[href$=".md"]').forEach(a => {
       const href = a.getAttribute('href');
-      const stem = href.replace(/.*\//, '').replace('.md', '');
-      a.setAttribute('href', '#' + stem);
+      if (!href) return;
+      // Ignore absolute URLs and fragment-only links
+      if (/^https?:\/\//.test(href) || href.startsWith('#')) return;
+      const stem = href.replace(/.*\//, '').replace(/\.md$/, '');
+      const target = currentBookId ? `#${currentBookId}/${stem}` : `#${stem}`;
+      a.setAttribute('href', target);
     });
   }
 
