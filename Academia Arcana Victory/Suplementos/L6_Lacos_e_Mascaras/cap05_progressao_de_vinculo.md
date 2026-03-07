@@ -5,7 +5,7 @@
 
 ## Introdução: Um Sistema, Três Sabores
 
-As três franquias deste livro desenvolveram, de forma independente, mecânicas para a mesma percepção: vínculos entre personagens têm peso que vai além do roleplay.
+Os três sistemas deste livro desenvolveram, de forma independente, mecânicas para a mesma percepção: vínculos entre personagens têm peso que vai além do roleplay.
 
 - **Sintonia de Time** (Academia Ninja) — o grupo como unidade coesa tem bônus táticos que indivíduos isolados não têm
 - **Força dos Laços** (Chama Livre) — proteger quem você ama libera poder que treino normal não alcança
@@ -13,7 +13,7 @@ As três franquias deste livro desenvolveram, de forma independente, mecânicas 
 
 Este capítulo unifica esses três sistemas em um framework único chamado **Vínculos de Campanha**. O framework tem três camadas opcionais: você pode usar apenas a primeira, as duas primeiras, ou as três — a cada adição, o sistema fica mais granular mas também mais comprometido com rastreamento.
 
-> **Regra de Ouro Mecânica:** este livro adiciona no máximo 2 subsistemas simultâneos à sua campanha. Recomendado: Vínculos de Campanha (este capítulo) + 1 subsistema de franquia à escolha (Controle de Chakra, Dragon Slayer, ou Vida Dupla). Usar todos os três subsistemas de franquia ao mesmo tempo não é recomendado.
+> **Regra de Ouro Mecânica:** este livro adiciona no máximo 2 subsistemas simultâneos à sua campanha. Recomendado: Vínculos de Campanha (este capítulo) + 1 subsistema à escolha (Canalização Dupla, Magia de Origem, ou Vida Dupla). Usar todos os três subsistemas ao mesmo tempo não é recomendado.
 
 ---
 

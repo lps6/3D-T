@@ -54,20 +54,9 @@ const CONTENT_MAP = [
   },
 
   {
-    id: 'suplementos',
-    group: 'academia',
-    title: 'Suplementos',
-    subtitle: 'Visão Geral',
-    path: 'Academia Arcana Victory/Suplementos',
-    chapters: [
-      { id: 'indice', file: 'INDICE_SUPLEMENTOS.md', title: 'Índice de Suplementos' },
-    ],
-  },
-
-  {
     id: 'l0',
     group: 'academia',
-    title: 'L0 — A Verdade da Arca',
+    title: 'A Verdade da Arca',
     subtitle: 'Suspense institucional',
     path: 'Academia Arcana Victory/Suplementos/L0_A_Verdade_da_Arca',
     chapters: [
@@ -85,7 +74,7 @@ const CONTENT_MAP = [
   {
     id: 'l1',
     group: 'academia',
-    title: 'L1 — Estrelas & Cristais',
+    title: 'Estrelas & Cristais',
     subtitle: 'Luminoso, épico, otimista',
     path: 'Academia Arcana Victory/Suplementos/L1_Estrelas_e_Cristais',
     chapters: [
@@ -105,7 +94,7 @@ const CONTENT_MAP = [
   {
     id: 'l2',
     group: 'academia',
-    title: 'L2 — Tinta & Sombras',
+    title: 'Tinta & Sombras',
     subtitle: 'Sombrio, horror atmosférico',
     path: 'Academia Arcana Victory/Suplementos/L2_Tinta_e_Sombras',
     chapters: [
@@ -125,7 +114,7 @@ const CONTENT_MAP = [
   {
     id: 'l3',
     group: 'academia',
-    title: 'L3 — Palavras de Poder',
+    title: 'Palavras de Poder',
     subtitle: 'Contemplativo, rigoroso',
     path: 'Academia Arcana Victory/Suplementos/L3_Palavras_de_Poder',
     chapters: [
@@ -143,7 +132,7 @@ const CONTENT_MAP = [
   {
     id: 'l4',
     group: 'academia',
-    title: 'L4 — Sangue & Legado',
+    title: 'Sangue & Legado',
     subtitle: 'Aventureiro, institucional',
     path: 'Academia Arcana Victory/Suplementos/L4_Sangue_e_Legado',
     chapters: [
@@ -163,7 +152,7 @@ const CONTENT_MAP = [
   {
     id: 'l5',
     group: 'academia',
-    title: 'L5 — Fogo & Liberdade',
+    title: 'Fogo & Liberdade',
     subtitle: 'Épico, político',
     path: 'Academia Arcana Victory/Suplementos/L5_Fogo_e_Liberdade',
     chapters: [
@@ -182,7 +171,7 @@ const CONTENT_MAP = [
   {
     id: 'l6',
     group: 'academia',
-    title: 'L6 — Laços & Máscaras',
+    title: 'Laços & Máscaras',
     subtitle: 'Shōnen, psicológico',
     path: 'Academia Arcana Victory/Suplementos/L6_Lacos_e_Mascaras',
     chapters: [
@@ -201,7 +190,7 @@ const CONTENT_MAP = [
   {
     id: 'l7',
     group: 'academia',
-    title: 'L7 — Desejos & Portais',
+    title: 'Desejos & Portais',
     subtitle: 'Cômico, colorido',
     path: 'Academia Arcana Victory/Suplementos/L7_Desejos_e_Portais',
     chapters: [
