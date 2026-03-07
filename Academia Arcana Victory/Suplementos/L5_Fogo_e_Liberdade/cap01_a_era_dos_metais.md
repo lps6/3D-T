@@ -269,4 +269,4 @@ O aluno é colocado numa trilha de treinamento acelerado. Estudantes de Família
 
 ---
 
-*Próximo: [Cap. 02](cap02_a_academia.md) — A Escola do Covil — o sistema que proíbe o que não consegue controlar, e a estudante que inventou magia nova porque ninguém disse que ela podia.*
+*Próximo: [Cap. 02](cap02_a_academia.md) — O Grêmio Raízes — o sistema que proíbe o que não consegue controlar, e a estudante que inventou magia nova porque ninguém disse que ela podia.*

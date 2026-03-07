@@ -502,20 +502,20 @@ Personagens treinados na Escola de Uiara (ou que estudaram com ela por pelo meno
 
 ---
 
-### Gurukula da Confluência
+### Gurukula de Varanasi
 
-*Varanasi, Índia — Corrente Confluência da Zawiya do Espelho Partido*
+*Varanasi, Índia — Corrente Védica da Zawiya do Espelho Partido*
 
 > *"A magia sempre existiu. Nós a chamamos de yagna, de tantra, de puja. Só não tínhamos nome para a substância que une esses atos. A Convergência nos deu o nome. Não foi ela que criou a coisa."*
 > — Acharya Priya Ramachandran, em entrevista para portal de arcanismo independente
 
-> **Nota:** O Gurukula da Confluência mantém relação formal com a Zawiya do Espelho Partido desde os anos 1980 — anterior à Convergência — quando Acharya Priya identificou correspondências entre a tradição de recitação da Zawiya e certas formas de mantra védico. A relação é hoje reconhecida por ambas as tradições como "corrente Confluência": o Gurukula preserva autonomia pedagógica e identidade própria, mas compartilha textos fundacionais com a Zawiya e considera o projeto trilateral com a Academia uma extensão natural dessa parceria. Arjun Krishnamurthy e Nour Benali se conhecem — e discordam sobre metodologia de formas que os dois consideram produtivas.
+> **Nota:** O Gurukula de Varanasi mantém relação formal com a Zawiya do Espelho Partido desde os anos 1980 — anterior à Convergência — quando Acharya Priya identificou correspondências entre a tradição de recitação da Zawiya e certas formas de mantra védico. A relação é hoje reconhecida por ambas as tradições como "corrente Confluência": o Gurukula preserva autonomia pedagógica e identidade própria, mas compartilha textos fundacionais com a Zawiya e considera o projeto trilateral com a Academia uma extensão natural dessa parceria. Arjun Krishnamurthy e Nour Benali se conhecem — e discordam sobre metodologia de formas que os dois consideram produtivas.
 
 #### O Conceito
 
 Varanasi — a cidade mais antiga ainda habitada do mundo, à beira do Ganges — sobreviveu a impérios, invasões, Mughal e britânicos e chegou à Era das Arcas exatamente como era: uma cidade de rituais. Cremações no ghat, barcos com diyas flutuando no rio ao amanhecer, templos que carregam prece desde o século III a.C. Quando a Convergência aconteceu e a substância arcana se tornou mensurável e ensinável em formas novas, os arcanistas de Varanasi fizeram o que qualquer varanasiano faz com novidade: incorporaram ao que já existia.
 
-O **Gurukula da Confluência** ("gurukula" = escola de mestre-discípulo na tradição védica) foi fundado por **Acharya Priya Ramachandran** em 2012 — antes mesmo da Convergência, quando ela era uma pesquisadora de rituais sânscritos que começou a perceber que as tradições que estudava tinham efeitos mensuráveis que não eram simbólicos. Depois da Convergência, o que ela havia mapeado como "estrutura ritual" se provou diretamente traduzível em termos arcanos.
+O **Gurukula de Varanasi** ("gurukula" = escola de mestre-discípulo na tradição védica) foi fundado por **Acharya Priya Ramachandran** em 2012 — antes mesmo da Convergência, quando ela era uma pesquisadora de rituais sânscritos que começou a perceber que as tradições que estudava tinham efeitos mensuráveis que não eram simbólicos. Depois da Convergência, o que ela havia mapeado como "estrutura ritual" se provou diretamente traduzível em termos arcanos.
 
 O Gurukula não é um campus. É uma relação. Cada discípulo trabalha com um acharya (mestre) em relação um-a-um — grupo máximo de quatro discípulos por acharya. O ensino é imersivo, intensivo, e integrado com práticas que a maioria dos arcanistas modernos classificaria como "magia ritual de longo prazo." Um ciclo de estudos dura de três a sete anos. Não há certificado formal. Há, no final, uma avaliação onde o discípulo demonstra ao grupo de acharyas que pode transmitir o que aprendeu — porque, no sistema do Gurukula, a prova real de aprendizado é a capacidade de ensinar.
 
@@ -596,7 +596,7 @@ Essa observação não é uma resposta. É uma ferramenta: se sua campanha vai c
 | **Brambleshire Academy** | País de Gales | Opacidade, falta de accountability |
 | **Zawiya do Espelho Partido** | Deserto do Saara | "Conjuração por força" institucional |
 | **Escola Flutuante de Uiara** | Rio Solimões/Amazonas | Mapeamento forçado, vigilância |
-| **Gurukula da Confluência** *(Corrente Confluência da Zawiya)* | Varanasi, Índia | "Ritual incompleto" em andamento |
+| **Gurukula de Varanasi** *(Corrente Védica da Zawiya)* | Varanasi, Índia | "Ritual incompleto" em andamento |
 
 ---
 

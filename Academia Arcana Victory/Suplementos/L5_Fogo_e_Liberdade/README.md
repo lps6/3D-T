@@ -73,8 +73,8 @@ Os três sistemas introduzidos nos caps 01–03 — a Reputação de Classe de L
 | Asha Vell | Lutharin ([Cap. 01](cap01_criacao_personagem.md)) | Protagonista PC/NPC | Cinzas com sangue de Família Arcana não documentado; não sabe o que fazer com nenhuma das duas heranças |
 | Cael Fornax | Lutharin ([Cap. 01](cap01_criacao_personagem.md)) | Mentor-antagonista | O único sobrevivente das Minas de Ferro; voltou acreditando que o sistema merece ser substituído, e a questão do que vem depois pode esperar |
 | Drevan Lous | Lutharin ([Cap. 01](cap01_criacao_personagem.md)) | Aliado perturbador | Usa manipulação emocional em nome da libertação — e genuinamente não vê a contradição |
-| Lira | Escola do Covil ([Cap. 02](cap02_a_academia.md)) | Protagonista PC/NPC | A humana sem bile sac que inventou Glifomagia porque ninguém disse que ela não podia |
-| Eda | Escola do Covil ([Cap. 02](cap02_a_academia.md)) | Mentor fora-da-lei | A praticante mais poderosa que a Floresta Convergente produziu; prefere vender artefatos em feira a fingir que as regras fazem sentido |
+| Lira | Grêmio Raízes ([Cap. 02](cap02_a_academia.md)) | Protagonista PC/NPC | A humana sem bile sac que inventou Glifomagia porque ninguém disse que ela não podia |
+| Eda | Grêmio Raízes ([Cap. 02](cap02_a_academia.md)) | Mentor fora-da-lei | A praticante mais poderosa que a Floresta Convergente produziu; prefere vender artefatos em feira a fingir que as regras fazem sentido |
 | Vael | Quatro Formas ([Cap. 03](cap03_as_casas.md)) | Portador do Equilíbrio | O último praticante completo da Forma do Ar; tem o papel de Equilíbrio e ainda não decidiu se quer carregar o que o papel implica |
 | Soren | Quatro Formas ([Cap. 03](cap03_as_casas.md)) | Especialista em Água | A praticante que se ensinou sozinha por ausência de escola — e depois ensinou o Portador |
 | Rhen Beis | Quatro Formas ([Cap. 03](cap03_as_casas.md)) | Especialista em Terra | A praticante que criou o Domínio de Metal e achou tudo muito óbvio |

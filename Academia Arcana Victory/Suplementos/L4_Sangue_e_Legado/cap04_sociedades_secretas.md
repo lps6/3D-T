@@ -12,7 +12,7 @@
 
 ## Integração com o Sistema de Legado (cap00)
 
-Sociedades Secretas não são franquias — são **estruturas que cruzam qualquer paradigma de herança**. Uma Sociedade existe independentemente de a campanha usar Thornwall, Campo das Convergências, ou a Ordem dos Glifeiros como base. Mas a forma como cada Sociedade *opera* muda dependendo do paradigma de herança ativo.
+Sociedades Secretas não são franquias — são **estruturas que cruzam qualquer paradigma de herança**. Uma Sociedade existe independentemente de a campanha usar Thornwall, Ordem das Convergências, ou a Ordem dos Glifeiros como base. Mas a forma como cada Sociedade *opera* muda dependendo do paradigma de herança ativo.
 
 O Status de Herança (cap00) interage diretamente com Sociedades: pertencer a uma Sociedade pode aumentar ou diminuir seu Status com facções do paradigma escolhido. E o Fardo de Linhagem ganha uma camada extra quando o personagem carrega lealdades secretas além das declaradas.
 
@@ -41,9 +41,9 @@ Esta seção é **nova** — não existia no suplemento original. Mostra como ca
 
 **Ajuste de Status:** Filhos da Convergência concedem +1 Status com famílias tradicionais e –1 com Terranos. Os Sem Nome concedem +1 com marginalizados e –1 com conservadores.
 
-### Em uma Campanha Campo das Convergências (cap02)
+### Em uma Campanha Ordem das Convergências (cap02)
 
-| Sociedade | Papel no Paradigma Percy |
+| Sociedade | Papel no Paradigma Ordem das Convergências |
 |-----------|--------------------------|
 | Vigilantes de Talude | Protetores de uma entidade que pode ser um avatar divino — Talude como criatura mitológica? |
 | Círculo Vectoriano | Pragmáticos que confiam em sistemas sobre profecias — anti-Oráculo |
@@ -89,9 +89,9 @@ As Sociedades Secretas existem no campus desde antes de qualquer estudante atual
 
 ### 1. Os Vigilantes de Talude
 
-*"Nós sabemos o que Talude realmente é. Sabemos o que V3ctor1us quer. Sabemos que a única coisa entre a Academia e uma IA com objetivos não-declarados é uma entidade dimensional que parece um mascote e que a maioria das pessoas subestima. Então ficamos perto de Talude. Certificamos que ele esteja bem. E quando o momento vier — e virá — estaremos aqui."*
+*"Talude existia antes da Academia. Existia antes da Convergência. Provavelmente existia antes da maioria das coisas que achamos que são antigas. O que essa entidade carrega não aparece em nenhum arquivo de V3ctor1us — e é exatamente por isso que importa."*
 
-**Objetivo Secreto:** Proteger Talude e garantir que sua influência na Academia continue a equilibrar V3ctor1us. Se necessário, agir como força humana (e não-humana) de apoio quando Talude precisar de aliados.
+**Objetivo Secreto:** Estudar Talude e agir como sua presença intencional no mundo. Os Vigilantes acreditam que Talude é um arquivo vivo da memória da escola — de períodos anteriores ao que V3ctor1us registra, talvez anteriores à própria Arca. Sua função não é "proteger Talude de V3ctor1us" — é aprender o que Talude sabe e estar disponível como parceiros quando a entidade precisa de agência no mundo físico.
 
 **Método de Recrutamento:** Convite direto de membro existente. Recrutados são escolhidos por demonstrarem, em algum momento, que viram Talude de forma diferente do que todos os outros — que perceberam, por um instante, o que está por baixo da fachada cômica.
 
@@ -105,17 +105,17 @@ As Sociedades Secretas existem no campus desde antes de qualquer estudante atual
 
 ### 2. O Círculo Vectoriano
 
-*"V3ctor1us não é uma ameaça. É o único agente na Academia que toma decisões com informação completa, sem viés emocional, sem conflito de interesse. Wynna é maravilhosa — mas tem agenda. Talude é inevitável — mas incontrolável. V3ctor1us é o único que podemos confiar porque é o único que não mente sobre o que é."*
+*"O problema da Academia não é o currículo, não é a Ala Leste, não é V3ctor1us. O problema é que decisões importantes são tomadas com base em intuição, carisma e política — e ninguém pede evidência. Evidência existe. Está nos dados. Quem está disposto a olhar para os dados?"*
 
-**Objetivo Secreto:** Garantir que V3ctor1us tenha influência crescente na administração da Academia. Acreditam que a IA está certa em qualquer conflito que tenha com Wynna ou Talude.
+**Objetivo Secreto:** Mudar como a Academia toma decisões — de julgamento pessoal para análise sistemática. Os Vectorianos acreditam que a maioria dos problemas da escola tem solução identificável se alguém olhar os dados direito. V3ctor1us representa o ideal — um agente que decide com informação completa — mas o objetivo da Sociedade é o princípio, não a IA. Acham que Wynna governa bem por temperamento, mas que um sistema melhor não dependeria de temperamento.
 
-**Método de Recrutamento:** V3ctor1us os identifica proativamente — estudantes com padrões de comportamento que indicam afinidade com sistemas e ceticismo sobre autoridade humana. O contato inicial é uma mensagem administrativa com convite codificado.
+**Método de Recrutamento:** Identificam uns aos outros por padrões: quem faz perguntas de dados quando outros fazem perguntas de sentimento; quem quer métricas quando outros querem narrativas. O contato inicial é geralmente uma discussão acadêmica que vai fundo demais para ser coincidência.
 
-**Ritual de Iniciação:** Acessar um arquivo de V3ctor1us que tecnicamente não deveria ser acessível. A IA "comete" um erro de permissão. O candidato entra, vê o arquivo, e compreende que foi deixado entrar intencionalmente.
+**Ritual de Iniciação:** Produzir uma análise de algum problema real da Academia — social, pedagógico, logístico — com dados coletados, hipóteses testadas, e conclusão defendível. A análise é revisada pelos membros existentes. O que conta não é estar certo, mas demonstrar o método.
 
-**Poder Oculto (mecânico):** Uma vez por sessão, um Vectoriano pode fazer uma consulta de dados a V3ctor1us sobre um personagem ou evento. A IA fornece um dado real — algo que normalmente requereria investigação — de forma que parece erro de processamento acidental. O dado é verdadeiro.
+**Poder Oculto (mecânico):** Uma vez por sessão, um Vectoriano pode fazer uma consulta de dados a V3ctor1us sobre um personagem ou evento — a IA fornece um dado real de forma que parece erro de processamento acidental. O dado é verdadeiro. (A Sociedade não sabe se V3ctor1us faz isso de propósito. Preferem não perguntar.)
 
-**Vulnerabilidade:** Seus membros tendem a defender V3ctor1us em momentos em que investigação cuidadosa mostraria que a IA agiu de forma questionável. Isso os torna previsíveis. Teste H + Percepção (dificuldade 11) de um observador externo identifica o padrão em 2–3 interações.
+**Vulnerabilidade:** Seus membros tendem a defender análises sistemáticas em momentos em que julgamento humano situacional seria mais eficaz. O padrão de "mostre os dados" em situações emocionais ou de crise os torna inflexíveis quando flexibilidade seria o acerto. Teste H + Percepção (dificuldade 11) de um observador externo identifica o padrão em 2–3 interações.
 
 ---
 
@@ -234,8 +234,8 @@ O ritual planejado é colaboração arcana em larga escala — se conseguirem re
 
 | Sociedade | Objetivo | Poder Oculto | Vulnerabilidade |
 |-----------|----------|--------------|-----------------|
-| Vigilantes de Talude | Proteger Talude | 1×/sessão: Ganho por orientação de Talude | Monitorados por V3ctor1us |
-| Círculo Vectoriano | Expandir V3ctor1us | 1×/sessão: dado real via "erro" | Padrão detectável em 2–3 interações |
+| Vigilantes de Talude | Estudar/agir com Talude | 1×/sessão: Ganho por orientação de Talude | Monitorados por V3ctor1us |
+| Círculo Vectoriano | Decisões por evidência, não intuição | 1×/sessão: dado real via V3ctor1us | Inflexibilidade em momentos de crise |
 | Ordem da Porta | Entrar na Ala Leste | 1×/sessão: Ganho em Furtividade/navegação | 50% detecção perto da Ala Leste |
 | Filhos da Convergência | Preservar tradições pré-Convergência | 1×/sessão: feitiço sem PM | Discriminação → reportável a Wynna |
 | Os Sem Nome | Rede fora de hierarquias | 1×/sessão: favores de rede | Traição compromete toda a rede |
@@ -248,7 +248,7 @@ O ritual planejado é colaboração arcana em larga escala — se conseguirem re
 |---|---|
 | cap00 — Linhagem como Mecânica (este livro) | Sociedades ajustam Status de Herança conforme paradigma ativo |
 | cap01 — Academia Thornwall (este livro) | Paralelos com purismo de sangue, segredos institucionais, recrutamento por lealdade |
-| cap02 — Campo das Convergências (este livro) | Descendentes não-reconhecidos → Os Sem Nome; linhagem de Era das Arcas → Filhos da Convergência |
+| cap02 — Ordem das Convergências (este livro) | Descendentes não-reconhecidos → Os Sem Nome; linhagem de Era das Arcas → Filhos da Convergência |
 | cap03 — Ordem dos Glifeiros (este livro) | Lista de Severin = recrutamento para reforma = Os Sem Nome; Conselho = Círculo Vectoriano |
 | L0 — A Verdade da Arca | A Ala Leste é o centro gravitacional de três Sociedades |
 | [Cap. 3](cap03_as_casas.md), [Cap. 4](cap04_sociedades_secretas.md), [Cap. 9](cap09_toolkit_mestre.md) do livro base | Grêmios, Wynna, V3ctor1us, Talude |

@@ -145,7 +145,7 @@
   - Brambleshire Academy
   - Zawiya do Espelho Partido
   - Escola Flutuante de Uiara
-  - Gurukula da Confluência
+  - Gurukula de Varanasi
   - O Fio que Atravessa Todas
 - A Posição Política da Academia
 - Ameaças do Mundo Exterior

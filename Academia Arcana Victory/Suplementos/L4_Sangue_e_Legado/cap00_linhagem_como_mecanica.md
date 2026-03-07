@@ -171,7 +171,7 @@ O Mestre define quais facções são relevantes para a campanha. Sugestões:
 - Status com Corpo Docente
 - Status com V3ctor1us (que monitora padrões de linhagem)
 
-**Em campanha de herança divina (estilo Campo das Convergências — cap02):**
+**Em campanha de herança divina (estilo Ordem das Convergências — cap02):**
 - Status com o Panteão (a divindade progenitora e as rivais)
 - Status na Academia (como a instituição vê semideuses)
 - Status com Criaturas (monstros rastreiam; aliados reconhecem)
@@ -225,7 +225,7 @@ Se usar o componente Instrumento:
 
 O Sistema de Legado é genérico por design. Os três capítulos seguintes apresentam como cada sistema o instancia. Aqui está o mapa rápido:
 
-| Componente | Academia Thornwall (cap01) | Campo das Convergências (cap02) | Ordem dos Glifeiros (cap03) |
+| Componente | Academia Thornwall (cap01) | Ordem das Convergências (cap02) | Ordem dos Glifeiros (cap03) |
 |------------|--------------------------|--------------------------------|----------------------------|
 | **Fonte** | Tradição + Destino | Sangue (divino) | Sangue (angelical) + Instituição |
 | **Traço** | Foco Vinculado + afinidade de Casa | Dom Passivo (tabela por divindade) | Glifos Permanentes + capacidades arcano-ancestrais |

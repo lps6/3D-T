@@ -275,4 +275,4 @@ O estudante é **Dawit Mercer**, Casa Faísca, Kit Arcavaleiro. Discreto. Tecnic
 
 ---
 
-*Próximo: **[Capítulo 2](cap02_a_academia.md) — Campo das Convergências** — a academia como herança; o que você faz com o que não pediu.*
+*Próximo: **[Capítulo 2](cap02_a_academia.md) — Ordem das Convergências** — a herança como corpo; o que você faz com o que não pediu.*

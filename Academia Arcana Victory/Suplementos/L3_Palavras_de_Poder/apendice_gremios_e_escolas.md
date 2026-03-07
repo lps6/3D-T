@@ -39,7 +39,7 @@ Nem toda franquia cabe em uma casa. As tensões criam personagens:
 
 | Fonte | Escola | Conexão |
 |-------|--------|---------|
-| **Saleth** | **Gurukula da Confluência** | Rigor intelectual como meditação. A Simpatia e o Alar exigem disciplina cognitiva que espelha a prática contemplativa do Gurukula. Um estudante de Saleth que visitasse o Gurukula reconheceria o rigor — e estranharia a ausência de competitividade. |
+| **Saleth** | **Gurukula de Varanasi** | Rigor intelectual como meditação. A Simpatia e o Alar exigem disciplina cognitiva que espelha a prática contemplativa do Gurukula. Um estudante de Saleth que visitasse o Gurukula reconheceria o rigor — e estranharia a ausência de competitividade. |
 | **Ordem do Eco** | **Escola de Uiara** | Magia conectada à natureza e aos seres vivos. A Língua dos Nomes de Ordem do Eco respeita a essência das coisas — como a tradição de Uiara. O Vínculo Dragão como versão intensificada do relacionamento que Uiara cultiva com o ambiente. |
 | **Y3** | **Brambleshire Academy** | Arquivos, tradição, preservação. O terceiro andar da Biblioteca e a seção proibida de Brambleshire compartilham DNA: conhecimento guardado não por mesquinhez, mas por cautela. |
 | **T4** | **Zawiya** | Abordagem filosófica à prática mágica. A Zawiya trata magia como diálogo com o mundo — T4 como framework para entender *qual* tipo de diálogo (hard, soft, híbrido). |
