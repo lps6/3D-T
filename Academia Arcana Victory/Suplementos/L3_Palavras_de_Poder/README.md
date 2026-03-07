@@ -33,7 +33,7 @@ Três tradições de magia por compreensão, uma ferramenta de calibração para
 
 > **Este livro adiciona no máximo 2 subsistemas simultâneos à sua campanha.**
 >
-> Escolha UM sistema de magia-por-compreensão (Vínculos Arcanos de Saleth **ou** Língua Antiga da Ordem **ou** Nomes Verdadeiros do [Cap. 03](cap03_as_casas.md)) como base. Use o [Cap. 04](cap04_professores_npcs.md) como guia de calibração, não como subsistema adicional. A aventura funciona com qualquer dos três — ou com a mecânica base de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/).
+> Escolha UM sistema de magia-por-compreensão (Vínculos Arcanos de Saleth **ou** Língua Antiga da Ordem **ou** Nomes Verdadeiros do [Cap. 03](cap03_nomes_verdadeiros.md)) como base. Use o [Cap. 04](cap04_hard_soft_gradiente.md) como guia de calibração, não como subsistema adicional. A aventura funciona com qualquer dos três — ou com a mecânica base de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/).
 
 ---
 
@@ -41,22 +41,22 @@ Três tradições de magia por compreensão, uma ferramenta de calibração para
 
 | NPC | Capítulo | Papel | Frase de Identidade |
 |-----|----------|-------|---------------------|
-| Asel Marr | [Cap. 01](cap01_criacao_personagem.md) | NPC visitante / aliado volátil | O melhor aluno que criou mais problemas do que resolveu — e resolveu bastante |
-| Seralind Vex | [Cap. 01](cap01_criacao_personagem.md) | NPC ambíguo | A pessoa mais interessante de qualquer sala que não quer ser entendida |
-| Korvin da Matta | [Cap. 01](cap01_criacao_personagem.md) | Antagonista acadêmico | O vilão que seria protagonista em outro contexto |
-| Vorenthal | [Cap. 02](cap02_a_academia.md) | Headmaster (Eco adulto sem Cavaleiro) | A última instância de autoridade que carrega luto como exemplo |
-| Mestra Elvarath Thornvale | [Cap. 02](cap02_a_academia.md) | NPC professora (Élfar) | Tradição como sabedoria e como barreira |
-| Professor Garrek Aun | [Cap. 02](cap02_a_academia.md) | NPC professor (humano) | Expansão como necessidade, não como capricho |
-| Coordenadora Elan Dhorvik | [Cap. 02](cap02_a_academia.md) | NPC administradora (Dunhari) | Quem mantém tudo funcionando enquanto os outros brigam |
-| Bibliotecário do 3º Andar | [Cap. 03](cap03_as_casas.md) | NPC enigmático | "Perguntem o que precisam perguntar" — sabe tudo, responde pouco |
+| Asel Marr | [Cap. 01](cap01_a_universidade_de_saleth.md) | NPC visitante / aliado volátil | O melhor aluno que criou mais problemas do que resolveu — e resolveu bastante |
+| Seralind Vex | [Cap. 01](cap01_a_universidade_de_saleth.md) | NPC ambíguo | A pessoa mais interessante de qualquer sala que não quer ser entendida |
+| Korvin da Matta | [Cap. 01](cap01_a_universidade_de_saleth.md) | Antagonista acadêmico | O vilão que seria protagonista em outro contexto |
+| Vorenthal | [Cap. 02](cap02_a_ordem_dos_cavaleiros_do_eco.md) | Headmaster (Eco adulto sem Cavaleiro) | A última instância de autoridade que carrega luto como exemplo |
+| Mestra Elvarath Thornvale | [Cap. 02](cap02_a_ordem_dos_cavaleiros_do_eco.md) | NPC professora (Élfar) | Tradição como sabedoria e como barreira |
+| Professor Garrek Aun | [Cap. 02](cap02_a_ordem_dos_cavaleiros_do_eco.md) | NPC professor (humano) | Expansão como necessidade, não como capricho |
+| Coordenadora Elan Dhorvik | [Cap. 02](cap02_a_ordem_dos_cavaleiros_do_eco.md) | NPC administradora (Dunhari) | Quem mantém tudo funcionando enquanto os outros brigam |
+| Bibliotecário do 3º Andar | [Cap. 03](cap03_nomes_verdadeiros.md) | NPC enigmático | "Perguntem o que precisam perguntar" — sabe tudo, responde pouco |
 | Archivista Norrin | Livro base | NPC de apoio | O golem que se importa com livros como objetos, não como poder |
 
 ---
 
 ## Como Usar Este Livro
 
-**[Cap. 01](cap01_criacao_personagem.md) e 02 são instâncias diferentes do mesmo tema.** O GM não precisa usar os dois — qualquer um funciona sozinho. Saleth ([Cap. 01](cap01_criacao_personagem.md)) é escola universitária com foco em vínculos e racionalidade. A Ordem ([Cap. 02](cap02_a_academia.md)) é tradição quase-extinta com foco em linguagem e vínculo com entidades. O [Cap. 03](cap03_as_casas.md) é o sistema mais avançado dos três e funciona como expansão de qualquer um.
+**[Cap. 01](cap01_a_universidade_de_saleth.md) e 02 são instâncias diferentes do mesmo tema.** O GM não precisa usar os dois — qualquer um funciona sozinho. Saleth ([Cap. 01](cap01_a_universidade_de_saleth.md)) é escola universitária com foco em vínculos e racionalidade. A Ordem ([Cap. 02](cap02_a_ordem_dos_cavaleiros_do_eco.md)) é tradição quase-extinta com foco em linguagem e vínculo com entidades. O [Cap. 03](cap03_nomes_verdadeiros.md) é o sistema mais avançado dos três e funciona como expansão de qualquer um.
 
-**[Cap. 04](cap04_professores_npcs.md) não é subsistema de jogo.** É ferramenta de design para o Mestre calibrar como a magia se comporta na campanha. Leia antes de introduzir qualquer mecânica nova — vai economizar sessões de reconciliação.
+**[Cap. 04](cap04_hard_soft_gradiente.md) não é subsistema de jogo.** É ferramenta de design para o Mestre calibrar como a magia se comporta na campanha. Leia antes de introduzir qualquer mecânica nova — vai economizar sessões de reconciliação.
 
-**[Cap. 05](cap05_vida_estudantil.md) (aventura)** foi escrito para funcionar com qualquer dos três sistemas de nomeação — ou sem nenhum, usando apenas mecânica base de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/).
+**[Cap. 05](cap05_o_nome_que_o_grimorio_esqueceu.md) (aventura)** foi escrito para funcionar com qualquer dos três sistemas de nomeação — ou sem nenhum, usando apenas mecânica base de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/).

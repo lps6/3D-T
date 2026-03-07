@@ -45,7 +45,7 @@ Batalha Total Victory suporta dois métodos de representação física do combat
 
 ### Modo Grade
 
-O campo de batalha é dividido em **quadrados de 5 metros** (ou hexágonos, se preferir). Cada personagem ocupa 1 quadrado por padrão; criaturas Colossal ou maiores ocupam mais (ver [Cap. 3](cap03_as_casas.md)).
+O campo de batalha é dividido em **quadrados de 5 metros** (ou hexágonos, se preferir). Cada personagem ocupa 1 quadrado por padrão; criaturas Colossal ou maiores ocupam mais (ver [Cap. 3](cap03_a_escala_da_guerra.md)).
 
 **Movimento em Grade:**
 - Movimento padrão: **6 quadrados** por Ação de Movimento (Escala Escaramuça).
@@ -115,7 +115,7 @@ O campo de batalha nunca é plano, limpo ou justo. Pedras, ruínas, trincheiras,
 **Cobertura Pesada** (bunkers, muros de pedra, fortificações, veículos intactos, posições entrincheiradas):
 - **+2 em Resistência** para fins de cálculo de dano recebido.
 - Pode bloquear linha de visão (Mestre decide com base na altura).
-- Um personagem totalmente atrás de cobertura pesada (agachado, sem parte do corpo exposta) **não pode ser atacado por ataques normais** — mas pode ser alvo de Fogo de Supressão ([Cap. 2](cap02_a_academia.md)) ou explosões em área.
+- Um personagem totalmente atrás de cobertura pesada (agachado, sem parte do corpo exposta) **não pode ser atacado por ataques normais** — mas pode ser alvo de Fogo de Supressão ([Cap. 2](cap02_tropas_e_formacoes.md)) ou explosões em área.
 
 > **📖 Cobertura Parcial**
 > Se um personagem está parcialmente coberto — um ombro exposto, cabeça acima de um muro — conceda apenas +1 de Resistência independentemente do tipo de cobertura. O Mestre determina quando a cobertura é total vs. parcial com base na posição.
