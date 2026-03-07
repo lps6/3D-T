@@ -291,7 +291,10 @@ const CONTENT_MAP = [
   for (const book of CONTENT_MAP) {
     if (!book.chapters) continue;
     for (const ch of book.chapters) {
-      if (typeof ch.id === 'string') ch.label = ch.id;
+      // Only set `label` if it wasn't already provided (we may have
+      // injected `label` entries earlier). This prevents overwriting
+      // manual labels with the internal id/stem.
+      if (!('label' in ch) && typeof ch.id === 'string') ch.label = ch.id;
       ch.id = ch.file ? ch.file.replace(/\.md$/, '') : String(ch.id);
     }
   }
