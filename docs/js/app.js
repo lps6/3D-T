@@ -15,19 +15,6 @@
   const btnNext        = document.getElementById('btn-next');
 
   // ── Flat chapter index (for prev/next)
-  // Use filename stem (without .md) as canonical chapter ID so hashes
-  // and internal links (which reference filenames) match reliably.
-  // Normalize CONTENT_MAP: preserve original human-readable id in `label`,
-  // and standardize `id` to the filename stem (without .md).
-  for (const book of CONTENT_MAP) {
-    for (const ch of book.chapters) {
-      // preserve previous id text used in UI
-      if (typeof ch.id === 'string') ch.label = ch.id;
-      // canonical id: stem of filename or existing id string
-      ch.id = ch.file ? ch.file.replace(/\.md$/, '') : String(ch.id);
-    }
-  }
-
   const allChapters = [];
   for (const book of CONTENT_MAP) {
     for (const ch of book.chapters) {
