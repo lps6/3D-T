@@ -205,7 +205,7 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 
 ### Camada 1 — Gratuito *(você pode jogar agora)*
 
-- **Kit Introdutório Demo** — o PDF gratuito da Jambô Editora, disponível em [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br). Contém as regras essenciais: atributos (P/H/R), testes com dados, PM, PV e o conceito de kit.
+- **Kit Introdutório Demo** — o PDF gratuito da Jambô Editora: [3D&T Victory Demo](https://blog.jamboeditora.com.br/wp-content/uploads/2023/08/3DeT-DEMO-Kit-Introdutorio.pdf). Contém as regras essenciais: atributos (P/H/R), testes com dados, PM, PV e o conceito de kit.
 - **Este livro** — todos os kits originais da Academia (Cap. 1 e 6), as regras de campus (Cap. 5), o módulo de início pronto para jogar (Cap. 13) e os cinco personagens pré-gerados são autossuficientes.
 - **Dados** — um d6 para a maioria das situações; algumas técnicas avançadas usam outros dados.
 - **Fichas de personagem** — a ficha no final deste livro tem campos para grêmio, ano letivo e Pontos de Grêmio.
@@ -216,6 +216,8 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 
 ### Camada 2 — Completo *(recomendado)*
 
+- **3D&T Victory Livro Básico** — o coração do sistema, com regras completas de criação de personagem, combate, magia, e progressão. O livro básico tabmém apresenta o mundo de Era das Arcas e seus diversos núcleos.
+
 - **Manual do Arcanauta** *(3D&T Victory)* — abre todos os kits oficiais, a lista completa de vantagens e desvantagens, regras de combate detalhadas e progressão por XP. O **Capítulo 12 — Arsenal do Arcanauta Acadêmico** deste livro mostra como cada kit oficial se encaixa na Academia.
 
 ---
@@ -225,7 +227,7 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 - **Ferozes & Furiosos** *(3D&T Victory)* — bestiário completo, sistema de desafios (Graus de Ameaça), construtos, armadilhas e fauna da Era das Arcas. Referenciado com páginas específicas no **Capítulo 12**.
 - Qualquer outro suplemento de *3D&T Victory* funciona sem adaptação — a Academia existe na Era das Arcas; tudo que existe na Era das Arcas existe na Academia.
 
-> **Apoie os criadores:** todos os livros oficiais estão disponíveis em [loja.jamboeditora.com.br](https://loja.jamboeditora.com.br). Comprar os livros é o que mantém o 3D&T vivo.
+> **Apoie os criadores:** todos os livros oficiais estão disponíveis em [jamboeditora.com.br](https://jamboeditora.com.br). Comprar os livros é o que mantém o 3D&T vivo.
 
 ---
 
