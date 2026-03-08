@@ -52,9 +52,9 @@
   --bar-shadow: 0 1px 0 rgba(101, 28, 116, 0.08);
 
   /* Typography */
-  --font-heading:          -apple-system, system-ui, 'Segoe UI', sans-serif; /*fallback order for iOS look*/
-  --font-body:             -apple-system, system-ui, 'Segoe UI', sans-serif;
-  --font-ui:               -apple-system, system-ui, 'Segoe UI', sans-serif;
+  --font-heading:          'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body:             'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-ui:               'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 /* ── Reset ──────────────────────────────────────────────────── */
