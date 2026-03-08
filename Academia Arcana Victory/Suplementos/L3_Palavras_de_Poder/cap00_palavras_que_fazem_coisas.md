@@ -43,7 +43,7 @@ O custo cria drama. E o drama cria campanha.
 
 ### Opção 1: Um Sistema, Um Sabor
 
-Escolha **uma** das três tradições como sistema mágico da sua campanha e ignore as outras. Use os NPCs e kits daquela tradição. A aventura ([Cap. 05](cap05_vida_estudantil.md)) funciona com qualquer das três.
+Escolha **uma** das três tradições como sistema mágico da sua campanha e ignore as outras. Use os NPCs e kits daquela tradição. A aventura ([Cap. 05](cap05_o_nome_que_o_grimorio_esqueceu.md)) funciona com qualquer das três.
 
 | Se escolher... | Use... | Tom da campanha |
 |----------------|--------|----------------|
@@ -59,7 +59,7 @@ Isso cria uma hierarquia natural que espelha a Academia real: quem sabe simpatia
 
 ### Opção 3: Só o Design (T4)
 
-Se você não quer nenhum sistema de nomeação e só quer ferramentas para calibrar sua própria magia, vá direto ao [Cap. 04](cap04_professores_npcs.md). As Três Leis de Sanderson funcionam independentemente de tudo o mais neste livro.
+Se você não quer nenhum sistema de nomeação e só quer ferramentas para calibrar sua própria magia, vá direto ao [Cap. 04](cap04_hard_soft_gradiente.md). As Três Leis de Sanderson funcionam independentemente de tudo o mais neste livro.
 
 ---
 
@@ -127,10 +127,10 @@ Antes de jogar com material de Palavras de Poder, pergunte ao grupo:
 
 2. **A morte por magia é possível?** Ordem do Eco inclui regra de morte voluntária por exaustão. Saleth inclui risco de loucura por Alar. Y3 expõe o Nome do personagem em Débito 5. Qual limite a mesa aceita?
 
-3. **Dragões?** Se sim, o Vínculo Dragão ([Cap. 02](cap02_a_academia.md)) muda a campanha inteira. O dragão é personagem — não montaria. A mesa está pronta para interpretar dois papéis?
+3. **Dragões?** Se sim, o Vínculo Dragão ([Cap. 02](cap02_a_ordem_dos_cavaleiros_do_eco.md)) muda a campanha inteira. O dragão é personagem — não montaria. A mesa está pronta para interpretar dois papéis?
 
 4. **Um sistema ou três?** A decisão mais importante. O [Cap. 00](cap00_palavras_que_fazem_coisas.md) dá as opções; a mesa decide.
 
 ---
 
-*Próximo: [Cap. 01](cap01_criacao_personagem.md) — A Universidade de Saleth (Simpatia, Alar, e Nomeação avançada).*
+*Próximo: [Cap. 01](cap01_a_universidade_de_saleth.md) — A Universidade de Saleth (Simpatia, Alar, e Nomeação avançada).*

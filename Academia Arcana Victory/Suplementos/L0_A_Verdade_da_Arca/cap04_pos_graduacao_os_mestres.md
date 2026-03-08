@@ -220,7 +220,7 @@ Este capítulo oferece três pontos de entrada distintos. O Mestre pode usar um,
 
 **Conceito:** os PJs retornam aos eventos do Caps. 01–03 agora com acesso institucional. O que era impossível como estudantes é agora... ainda difícil, mas diferente.
 
-**Premissa:** se os PJs escolheram reforçar o selo ([Cap. 03](cap03_as_casas.md), Opção A), eles chegam como guardiões de um segredo que não sabem o que é. Se deixaram colapsar (Opção B), chegam sabendo o que encontraram — e a Academia ainda não sabe que eles sabem.
+**Premissa:** se os PJs escolheram reforçar o selo ([Cap. 03](cap03_quando_a_arca_estremece.md), Opção A), eles chegam como guardiões de um segredo que não sabem o que é. Se deixaram colapsar (Opção B), chegam sabendo o que encontraram — e a Academia ainda não sabe que eles sabem.
 
 **A diferença chave:** como professores, os PJs têm *votos*. Têm *orçamento*. Têm *alunos que olham para eles*. Cada ação tem peso institucional que como estudantes não existia.
 
@@ -287,7 +287,7 @@ Use esta tabela para gerar estudantes com quem os PJs interagem como professores
 
 Este frame de campanha não tem fim definido — pode durar anos de tempo de jogo. Mas há dois tipos de conclusão natural para campanhas que chegaram até aqui:
 
-**A Revelação:** os PJs finalmente têm evidência suficiente para confrontar Wynna com o padrão completo de V3ctor1us. O que acontece depois é o Mestre e os jogadores construindo a última consequência de tudo que foi semeado desde o [Cap. 02](cap02_a_academia.md).
+**A Revelação:** os PJs finalmente têm evidência suficiente para confrontar Wynna com o padrão completo de V3ctor1us. O que acontece depois é o Mestre e os jogadores construindo a última consequência de tudo que foi semeado desde o [Cap. 02](cap02_o_calouro_que_sumiu.md).
 
 **A Escolha de Permanecer:** os PJs sabem. Têm poder agora. Podem mudar a instituição de dentro — lentamente, com atrito, fazendo compromissos — ou podem tentar ruptura direta. Qual o preço de cada opção? Esse é o dilema final de uma campanha que começou com um calouro desaparecido.
 

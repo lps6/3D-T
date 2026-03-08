@@ -26,7 +26,7 @@ O Mestre desenha um mapa de **8 a 12 ilhas** conectadas por rotas marítimas. Ca
 
 1. **Controle:** Qual facção controla a ilha (ou nenhuma).
 2. **Recurso:** O que a ilha produz (madeira, carvão, canhões, comida, informação, nada).
-3. **Terreno naval:** Que tipo de terreno cerca a ilha ([Cap. 4](cap04_professores_npcs.md)).
+3. **Terreno naval:** Que tipo de terreno cerca a ilha ([Cap. 4](cap04_terreno_maritimo.md)).
 4. **Guarnição:** Que força militar protege a ilha (escala e unidades).
 5. **Segredo:** Algo que os PJs não sabem até chegar.
 
@@ -217,9 +217,9 @@ A tripulação está no Porto Livre — uma cidade portuária neutra onde todo m
 **Escala:** Navio (múltiplos).
 **Local:** Estreito de Ossos.
 
-**Evento:** A frota do Império do Coral bloqueou o Estreito. Almirante Castanhal ([Cap. 6](cap06_mecanicas.md)) comanda. Não é hostil — cumpre ordens. A ordem é: ninguém passa sem inspeção.
+**Evento:** A frota do Império do Coral bloqueou o Estreito. Almirante Castanhal ([Cap. 6](cap06_faccoes_e_cenarios_maritimos.md)) comanda. Não é hostil — cumpre ordens. A ordem é: ninguém passa sem inspeção.
 
-**Terreno:** Estreitos + Correntes ([Cap. 4](cap04_professores_npcs.md)). Apenas 1 navio por espaço. Corrente empurra sul.
+**Terreno:** Estreitos + Correntes ([Cap. 4](cap04_terreno_maritimo.md)). Apenas 1 navio por espaço. Corrente empurra sul.
 
 **Opções:**
 - Inspeção (perdem o fragmento se detectado).
@@ -276,7 +276,7 @@ O Ato 1 termina quando os PJs reúnem pelo menos 3 navios e planejam o ataque (o
 
 **Terreno:** Enseada (+2 reparos, sem vento).
 
-**Alternativa:** Se os PJs preferirem sigilo, Catarina "Gata" ([Cap. 6](cap06_mecanicas.md)) pode se infiltrar — roubar o fragmento sem batalha. Requer 3 testes bem-sucedidos consecutivos (H dif. 6 cada). Falha em qualquer um dispara o alarme e a batalha começa com desvantagem.
+**Alternativa:** Se os PJs preferirem sigilo, Catarina "Gata" ([Cap. 6](cap06_faccoes_e_cenarios_maritimos.md)) pode se infiltrar — roubar o fragmento sem batalha. Requer 3 testes bem-sucedidos consecutivos (H dif. 6 cada). Falha em qualquer um dispara o alarme e a batalha começa com desvantagem.
 
 **Consequência:** Vitória aberta: +500 Recompensa. O Império declara os PJs inimigos do estado. Vitória furtiva: +200 Recompensa. O Império suspeita, mas não tem prova.
 
@@ -383,7 +383,7 @@ Campanhas não precisam ser puras. Combinações sugeridas:
 
 **Sobre escala:** Não apresse a transição. Navios são mais divertidos quando os PJs ainda não têm frota. A tensão de ter 1 navio contra 3 é onde a criatividade nasce.
 
-**Sobre o mar:** Use o terreno ([Cap. 4](cap04_professores_npcs.md)) em toda batalha. Mar Aberto é o menor denominador comum — nunca o padrão. Toda batalha deveria ter pelo menos 1 elemento de terreno ativo.
+**Sobre o mar:** Use o terreno ([Cap. 4](cap04_terreno_maritimo.md)) em toda batalha. Mar Aberto é o menor denominador comum — nunca o padrão. Toda batalha deveria ter pelo menos 1 elemento de terreno ativo.
 
 **Sobre NPCs:** Os NPCs deste suplemento são âncoras, não protagonistas. Sereia Negra, Castanhal, Ondina — existem para reagir às decisões dos PJs, não para liderar.
 

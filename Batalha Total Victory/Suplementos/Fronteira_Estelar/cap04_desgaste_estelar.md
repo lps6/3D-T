@@ -124,7 +124,7 @@ Comida, água, ar, medicamentos. O básico para manter gente viva no vácuo.
 | Racionamento declarado | 0,5 Unidade por sessão (metade), mas tripulação sofre -1 em todos os testes (fome/desidratação) |
 
 **Em 0 Suprimentos:**
-- **Rodadas 1–3:** Tripulação -1 em todos os testes. Moral Pessoal (BTV [Cap. 5](cap05_vida_estudantil.md)) cai 1 nível automaticamente.
+- **Rodadas 1–3:** Tripulação -1 em todos os testes. Moral Pessoal (BTV [Cap. 5](../../Livro/cap05_o_custo_humano.md)) cai 1 nível automaticamente.
 - **Rodadas 4–6:** Tripulação -2 em todos os testes. Moral Pessoal cai para 1 (Exaurido).
 - **Rodada 7+:** Tripulação incapacitada. Nave à deriva. Sem intervenção externa, a tripulação perece.
 

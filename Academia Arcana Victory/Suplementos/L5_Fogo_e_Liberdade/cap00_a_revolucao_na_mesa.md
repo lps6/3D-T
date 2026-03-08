@@ -184,4 +184,4 @@ A diferença está no quanto o sistema toca o que os PJs se importam.
 
 ---
 
-*Próximo: **[Cap. 01](cap01_criacao_personagem.md) — A Era dos Metais** — a metalurgia como hierarquia, a revolução como destruição criativa, e por que o metal não mente mas quem te ensinou a usá-lo pode mentir.*
+*Próximo: **[Cap. 01](cap01_a_era_dos_metais.md) — A Era dos Metais** — a metalurgia como hierarquia, a revolução como destruição criativa, e por que o metal não mente mas quem te ensinou a usá-lo pode mentir.*

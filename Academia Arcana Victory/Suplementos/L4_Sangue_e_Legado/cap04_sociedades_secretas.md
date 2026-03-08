@@ -6,7 +6,7 @@
 ---
 
 **Fonte:** T3 — Sociedades Secretas
-**Compatível com:** [Cap. 3](cap03_as_casas.md) (Grêmios), [Cap. 9](cap09_toolkit_mestre.md) (Toolkit do Mestre), todo este livro
+**Compatível com:** [Cap. 3](../../../Livro/cap03_as_casas.md) (Grêmios), [Cap. 9](../../../Livro/cap09_toolkit_mestre.md) (Toolkit do Mestre), todo este livro
 
 ---
 
@@ -251,7 +251,7 @@ O ritual planejado é colaboração arcana em larga escala — se conseguirem re
 | cap02 — Ordem das Convergências (este livro) | Descendentes não-reconhecidos → Os Sem Nome; linhagem de Era das Arcas → Filhos da Convergência |
 | cap03 — Ordem dos Glifeiros (este livro) | Lista de Severin = recrutamento para reforma = Os Sem Nome; Conselho = Círculo Vectoriano |
 | L0 — A Verdade da Arca | A Ala Leste é o centro gravitacional de três Sociedades |
-| [Cap. 3](cap03_as_casas.md), [Cap. 4](cap04_sociedades_secretas.md), [Cap. 9](cap09_toolkit_mestre.md) do livro base | Grêmios, Wynna, V3ctor1us, Talude |
+| [Cap. 3](../../../Livro/cap03_as_casas.md), [Cap. 4](../../../Livro/cap04_professores_npcs.md), [Cap. 9](../../../Livro/cap09_toolkit_mestre.md) do livro base | Grêmios, Wynna, V3ctor1us, Talude |
 
 ---
 
@@ -260,4 +260,4 @@ O ritual planejado é colaboração arcana em larga escala — se conseguirem re
 
 ---
 
-*Próximo: **[Capítulo 5](cap05_vida_estudantil.md) — Manual do Estudante Arcano** — os onze rostos que um estudante pode ter.*
+*Próximo: **[Capítulo 5](cap05_manual_do_estudante_arcano.md) — Manual do Estudante Arcano** — os onze rostos que um estudante pode ter.*

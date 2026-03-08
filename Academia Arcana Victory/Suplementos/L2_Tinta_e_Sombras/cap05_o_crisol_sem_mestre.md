@@ -25,7 +25,7 @@ O Mestre declara Protocolo de Sobrevivência quando:
 **Efeitos imediatos:**
 - Mana Racionada ativa
 - Perigo Ambiental em toda área não-verificada
-- Pressão Ambiental ([Cap. 01](cap01_criacao_personagem.md)) sobe +1/sessão automaticamente
+- Pressão Ambiental ([Cap. 01](cap01_a_escola_de_farhaven.md)) sobe +1/sessão automaticamente
 - Criação/manutenção de Alianças se torna essencial
 
 ---
@@ -186,4 +186,4 @@ Blackout termina. V3ctor1us retoma. Professores liberados. Wynna faz relatório.
 
 ---
 
-*Referências: [Cap. 01](cap01_criacao_personagem.md) — Pressão Ambiental. ALA — Protocolo Ala Leste (Livro 0). [Cap. 10](cap10_campanha.md) — +Magia Improvisada. [Cap. 03](cap03_as_casas.md)/08 — V3ctor1us.*
+*Referências: [Cap. 01](cap01_a_escola_de_farhaven.md) — Pressão Ambiental. ALA — Protocolo Ala Leste (Livro 0). [Cap. 10](../../../Livro/cap10_campanha.md) — +Magia Improvisada. [Cap. 03](cap03_somatica_arcana.md)/08 — V3ctor1us.*

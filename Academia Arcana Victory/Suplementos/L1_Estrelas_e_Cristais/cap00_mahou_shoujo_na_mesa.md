@@ -102,9 +102,9 @@ Use a ferramenta de segurança do cap09 (X-card ou Lines e Veils) mesmo em campa
 
 Os quatro capítulos deste livro (caps. 01–04) foram escritos para funcionar juntos. As mecânicas não se contradizem — se sobrepõem:
 
-- Sistema Despertar Planetário ([Cap. 01](cap01_criacao_personagem.md), Sentinelas) + Sistema Cristais de Vontade ([Cap. 04](cap04_professores_npcs.md), Cavaleiras): um PC pode ter ambos se o Mestre decidir que identidade e crença central coexistem
-- Subsistema Poder de Amizade ([Cap. 03](cap03_as_casas.md), Parceiras): pode ser adicionado a qualquer PC de qualquer capítulo — é um subsistema opt-in
-- Artefatos Arcanamente Independentes ([Cap. 02](cap02_a_academia.md), Guardiãs): qualquer grupo pode ter a missão de captura, independente de qual capítulo define seus poderes individuais
+- Sistema Despertar Planetário ([Cap. 01](cap01_sentinelas_do_solsticio.md), Sentinelas) + Sistema Cristais de Vontade ([Cap. 04](cap04_cavaleiras_do_vortice.md), Cavaleiras): um PC pode ter ambos se o Mestre decidir que identidade e crença central coexistem
+- Subsistema Poder de Amizade ([Cap. 03](cap03_parceiras_de_ressonancia.md), Parceiras): pode ser adicionado a qualquer PC de qualquer capítulo — é um subsistema opt-in
+- Artefatos Arcanamente Independentes ([Cap. 02](cap02_artefatos_errantes.md), Guardiãs): qualquer grupo pode ter a missão de captura, independente de qual capítulo define seus poderes individuais
 
 Um grupo que usa todos os quatro sistemas ao mesmo tempo é rico em mecânicas mas possivelmente complexo em gestão. Recomendação: inicie com o capítulo que melhor ressoa com o grupo, e introduza elementos dos outros à medida que a campanha madurece.
 

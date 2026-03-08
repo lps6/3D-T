@@ -29,7 +29,7 @@ A diferença não é sentimentalidade. É mecânica. Vínculos rastreados produz
 
 ## Subsistema: Força dos Laços
 
-**Pré-requisito:** o grupo usa o sistema de Vínculos de Campanha ([Cap. 05](cap05_vida_estudantil.md)) ou cada PC tem até 3 Laços registrados na ficha.
+**Pré-requisito:** o grupo usa o sistema de Vínculos de Campanha ([Cap. 05](cap05_progressao_de_vinculo.md)) ou cada PC tem até 3 Laços registrados na ficha.
 
 **Ativação de Laço:**
 
@@ -242,4 +242,4 @@ A Força dos Laços é a mecânica. O trabalho real é rastrear os vínculos ent
 
 ---
 
-*Próximo: [Cap. 03](cap03_as_casas.md) — O Outro Lado (o campus paralelo que ninguém admite que existe, o Despertar como ruptura de perspectiva, e o que acontece quando a máscara que você usa para navegar o dia a dia é mais real do que quem estava por baixo dela).*
+*Próximo: [Cap. 03](cap03_persona_e_o_outro_mundo.md) — O Outro Lado (o campus paralelo que ninguém admite que existe, o Despertar como ruptura de perspectiva, e o que acontece quando a máscara que você usa para navegar o dia a dia é mais real do que quem estava por baixo dela).*

@@ -30,9 +30,9 @@ A aventura funciona com qualquer dos três sistemas deste livro:
 
 | Sistema da campanha | Como o grimório funciona |
 |---------------------|--------------------------|
-| **Saleth** ([Cap. 01](cap01_criacao_personagem.md)) | Anotações de Simpatia + fragmento de Nomeação avançada; o Nome é de um conceito (não objeto) |
-| **Ordem do Eco** ([Cap. 02](cap02_a_academia.md)) | Tabelas de vocabulário na Língua dos Nomes; o Nome é Nível 5 — fundamental, proibido |
-| **Y3** ([Cap. 03](cap03_as_casas.md)) | Nome Verdadeiro puro; Débito como tensão central |
+| **Saleth** ([Cap. 01](cap01_a_universidade_de_saleth.md)) | Anotações de Simpatia + fragmento de Nomeação avançada; o Nome é de um conceito (não objeto) |
+| **Ordem do Eco** ([Cap. 02](cap02_a_ordem_dos_cavaleiros_do_eco.md)) | Tabelas de vocabulário na Língua dos Nomes; o Nome é Nível 5 — fundamental, proibido |
+| **Y3** ([Cap. 03](cap03_nomes_verdadeiros.md)) | Nome Verdadeiro puro; Débito como tensão central |
 | **Sem sistema de nomeação** | O grimório contém feitiço incompleto com efeito potente; a mecânica base de [3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) cobre |
 
 ---
@@ -54,7 +54,7 @@ A aventura funciona com qualquer dos três sistemas deste livro:
 |-----|-------|------------|
 | **Lina Serrano** (2º Ano, Memória) | Estudante que fotografou a pág. 97 | Está tentando completar o Nome por conta própria. Tem Saber 4 e zero noção do Débito. Quer ser a primeira a desvendar. |
 | **Emir Kaplan** (3º Ano, Obsidiana) | Estudante com dor de cabeça persistente | Folheou o grimório por curiosidade. Agora escuta fragmentos da Língua Antiga quando está quase dormindo. Não sabe se está ficando louco ou se está aprendendo. |
-| **Professora Valdris** ([Cap. 04](cap04_professores_npcs.md) do Livro-Base) | Vice-reitora | Aparece se os PJs escalam a investigação. Conhece o grimório. Não admite. |
+| **Professora Valdris** ([Cap. 04](../../../Livro/cap04_professores_npcs.md) do Livro-Base) | Vice-reitora | Aparece se os PJs escalam a investigação. Conhece o grimório. Não admite. |
 
 ---
 
