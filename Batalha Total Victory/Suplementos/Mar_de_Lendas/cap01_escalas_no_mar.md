@@ -11,7 +11,7 @@
 O indivíduo. O marinheiro com sabre e pistola de pederneira. O fuzileiro naval. O capitão no tombadilho gritando ordens. O espião que nada até o casco inimigo com uma bomba.
 
 **No combate naval, Tripulantes:**
-- Operam **dentro** dos navios (posições de tripulação: [Cap. 2](cap02_a_academia.md))
+- Operam **dentro** dos navios (posições de tripulação: [Cap. 2](cap02_combate_naval.md))
 - Combatem em **abordagens** (quando navios estão Bordo a Bordo)
 - Realizam **sabotagem** (natação até navio inimigo, escalada de casco)
 - Lideram **raides em terra** (assaltos a portos, fortes costeiros)
@@ -28,7 +28,7 @@ O indivíduo. O marinheiro com sabre e pistola de pederneira. O fuzileiro naval.
 
 A unidade fundamental do combate naval. Um navio é uma plataforma que carrega Tripulantes, canhões e suprimentos.
 
-**Cada navio tem atributos próprios** ([Cap. 3](cap03_as_casas.md)):
+**Cada navio tem atributos próprios** ([Cap. 3](cap03_navios_e_espirito.md)):
 - **VEL** (Velocidade) — manobras, iniciativa, fuga
 - **CAS** (Casco) — resistência, pontos de vida
 - **CAN** (Canhões) — poder de fogo a distância
@@ -193,7 +193,7 @@ Uma **Flotilha** é um grupo de 3 a 5 Navios operando como unidade tática únic
 
 O mar não respeita escala. Uma tempestade afeta Tripulantes e Reis do Mar igualmente. Isso é o que torna o combate naval fundamentalmente diferente do terrestre.
 
-**Regra:** Efeitos de terreno marítimo ([Cap. 4](cap04_professores_npcs.md)) afetam **todas as escalas** simultaneamente, a menos que a descrição do terreno especifique o contrário.
+**Regra:** Efeitos de terreno marítimo ([Cap. 4](cap04_terreno_maritimo.md)) afetam **todas as escalas** simultaneamente, a menos que a descrição do terreno especifique o contrário.
 
 | Evento do Mar | Efeito por Escala |
 |---|---|
@@ -220,7 +220,7 @@ Quando um Navio é destruído, os Tripulantes sobreviventes entram na água. Sem
 
 ### Doença e Fome a Bordo
 
-Para campanhas com Desgaste ([Cap. 3](cap03_as_casas.md) do BTV base + adaptações neste suplemento):
+Para campanhas com Desgaste ([Cap. 3](../../Livro/cap03_a_escala_da_guerra.md) do BTV base + adaptações neste suplemento):
 - Suprimentos incluem água doce, comida e moral.
 - Sem água doce: -1 em todos os testes após 2 dias. Incapacitação após 5 dias.
 - Escorbuto (viagem longa sem frutas): -1 Poder por semana até tratamento.

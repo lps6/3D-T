@@ -268,7 +268,7 @@ Cenas épicas de final de campanha. Resolve em camadas:
 3. **Camada Esquadrão:** Alas de caças e corvetas fazem missões específicas (escoltar, suprimir baterias, iniciar abordagem).
 4. **Camada Operativo:** Equipes de abordagem dentro da Armada ou em EVA nos Pontos Fracos.
 
-Cada camada roda na **mesma iniciativa** — corte entre uma e outra a cada turno para manter tensão. Use a Regra de Três Momentos (BTV [Cap. 7](cap07_mundo_ao_redor.md)) para estruturar a batalha.
+Cada camada roda na **mesma iniciativa** — corte entre uma e outra a cada turno para manter tensão. Use a Regra de Três Momentos (BTV [Cap. 7](../../Livro/cap07_comandando_a_batalha.md)) para estruturar a batalha.
 
 ---
 

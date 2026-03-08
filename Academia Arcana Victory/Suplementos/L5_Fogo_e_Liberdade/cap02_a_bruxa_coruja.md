@@ -6,7 +6,7 @@
 
 ---
 
-**Compatível com:** T4 (Magia Hard e Soft), [Cap. 06](cap06_mecanicas.md) (Familiares) (Palisman como Familiar-Objeto), [Cap. 05](cap05_vida_estudantil.md) (Reputação Faccional)
+**Compatível com:** T4 (Magia Hard e Soft), [Cap. 06](../../../Livro/cap06_mecanicas.md) (Familiares) (Palisman como Familiar-Objeto), [Cap. 05](cap05_reputacao_faccional.md) (Reputação Faccional)
 **Instância do Framework:** Falha de Método — o sistema proíbe qualquer abordagem que não consegue controlar
 
 ---
@@ -100,7 +100,7 @@ A mecânica central da Glifomagia: quando dois glifos são ativados no **mesmo t
 
 ### 3.4 Subsistema: Palisman — O Cristal-Familiar
 
-*(Expande [Cap. 06](cap06_mecanicas.md) (Familiares) para cristais-familiar em objetos)*
+*(Expande [Cap. 06](../../../Livro/cap06_mecanicas.md) (Familiares) para cristais-familiar em objetos)*
 
 Um **Palisman** é um cristal que manifesta consciência mínima quando vinculado a um praticante — pode ficar latente dentro de um objeto (cajado, broche, instrumento, peça de vestuário) até ser necessário. Não é invocação: é presença contínua com estado de ativação.
 
@@ -139,7 +139,7 @@ O Palisman não é escolhido. É esculpido ou encontrado em forma que o pratican
 **Poderes:**
 - *Glifo Combinado* (base Glifista, 0–1 PM): usa dois efeitos de glifo no mesmo turno pelo custo do mais caro; se ambos são Ningen-scale, custo total é 0 PM
 - *Improvisação de Glifo* (1 PM): cria um glifo ad-hoc de efeito único — pode ser qualquer coisa dentro da lógica interna dos elementos; o Mestre determina se funciona; o glifo se desfaz depois
-- *Sivél: Forma Longa* ([Cap. 06](cap06_mecanicas.md) (Familiares), 2 PM): o Palisman torna-se serpente Sugoi-scale por 1 cena; pode transportar Lira ou imobilizar alvo Ningen-scale
+- *Sivél: Forma Longa* ([Cap. 06](../../../Livro/cap06_mecanicas.md) (Familiares), 2 PM): o Palisman torna-se serpente Sugoi-scale por 1 cena; pode transportar Lira ou imobilizar alvo Ningen-scale
 - *Determinação Irracional* (passivo): quando todos os aliados já usaram suas reações nesta rodada e Lira ainda não, pode usar uma ação extra não prevista pelo custo retroativo de 2 PM após a ação
 
 **Como jogar Lira:** ela não é limitada pela falta de bile — é liberta por ela. Ninguém lhe ensinou que certas combinações eram impossíveis. Mostre isso: a combinação improvável que ela tenta e que funciona porque a lógica interna sustenta, antes que qualquer professor pudesse dizer que não.
@@ -207,4 +207,4 @@ Use com parcimônia. A academia como antagonista parcial — não como lar segur
 
 ---
 
-*Próximo: [Cap. 03](cap03_as_casas.md) — As Escolas das Quatro Formas — disciplina elemental como filosofia corporificada, a guerra de oitenta anos que ninguém perdeu completamente, e por que a competência técnica nunca é o problema central.*
+*Próximo: [Cap. 03](cap03_quatro_nacoes.md) — As Escolas das Quatro Formas — disciplina elemental como filosofia corporificada, a guerra de oitenta anos que ninguém perdeu completamente, e por que a competência técnica nunca é o problema central.*

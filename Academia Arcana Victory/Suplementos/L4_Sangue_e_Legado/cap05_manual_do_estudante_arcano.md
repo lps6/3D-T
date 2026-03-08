@@ -260,7 +260,7 @@ Sabe como estar no lugar errado na hora errada sem que ninguém verifique. Não 
 | cap00 — Linhagem como Mecânica (este livro) | Herdeiro Arcano = instância natural do Sistema de Legado |
 | cap03 — Ordem dos Glifeiros (este livro) | 6 kits de Glifeiros que combinam com estes 11 |
 | cap04 — Sociedades Secretas (este livro) | Agente Duplo + Infiltrado/Sombra = combinações de espionagem |
-| [Cap. 6](cap06_mecanicas.md) do livro base | Kits exclusivos da Academia (Arcavaleiro, Mentalista, Calouro Sortudo) |
+| [Cap. 6](../../../Livro/cap06_mecanicas.md) do livro base | Kits exclusivos da Academia (Arcavaleiro, Mentalista, Calouro Sortudo) |
 | [Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/) | Mecânicas originais — idênticas; este capítulo é reskin, não rebalanceamento |
 
 ---
@@ -269,4 +269,4 @@ Sabe como estar no lugar errado na hora errada sem que ninguém verifique. Não 
 
 ---
 
-*Próximo: **[Capítulo 6](cap06_mecanicas.md) — A Outra Escola: Brambleshire** — uma campanha de 8–12 sessões numa escola que guarda segredos familiares.*
+*Próximo: **[Capítulo 6](cap06_a_outra_escola_brambleshire.md) — A Outra Escola: Brambleshire** — uma campanha de 8–12 sessões numa escola que guarda segredos familiares.*

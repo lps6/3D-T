@@ -16,10 +16,10 @@ Mas grupos preferem campanhas diferentes. Algumas mesas não têm tempo para 4 a
 
 | Capítulo | Contém | Requer para máximo impacto | Funciona standalone? |
 |----------|--------|---------------------------|---------------------|
-| [Cap. 01](cap01_criacao_personagem.md) — Protocolo Ala Leste | Sistema de exploração procedural + 4 relíquias + 4 finais | — | **Sim** — módulo one-shot completo |
-| [Cap. 02](cap02_a_academia.md) — O Calouro que Sumiu | Aventura one-shot 4 cenas | — | **Sim** — aventura completa independente |
-| [Cap. 03](cap03_as_casas.md) — Quando a Arca Estremece | Arco 3 sessões + Índice de Coesão + Opção A/B | [Cap. 01](cap01_criacao_personagem.md) ajuda; [Cap. 02](cap02_a_academia.md) cria investimento emocional | **Parcialmente** — funciona sem [Cap.02](cap02_a_academia.md) se Leo Bateman for reintroduzido como gancho próprio |
-| [Cap. 04](cap04_professores_npcs.md) — Pós-Graduação | Campanha aberta como professores | [Cap. 01](cap01_criacao_personagem.md)–03 criam contexto; Frame II requer [Cap. 01](cap01_criacao_personagem.md) | **Sim** — Frames I e III funcionam sem contexto anterior |
+| [Cap. 01](cap01_protocolo_ala_leste.md) — Protocolo Ala Leste | Sistema de exploração procedural + 4 relíquias + 4 finais | — | **Sim** — módulo one-shot completo |
+| [Cap. 02](cap02_o_calouro_que_sumiu.md) — O Calouro que Sumiu | Aventura one-shot 4 cenas | — | **Sim** — aventura completa independente |
+| [Cap. 03](cap03_quando_a_arca_estremece.md) — Quando a Arca Estremece | Arco 3 sessões + Índice de Coesão + Opção A/B | [Cap. 01](cap01_protocolo_ala_leste.md) ajuda; [Cap. 02](cap02_o_calouro_que_sumiu.md) cria investimento emocional | **Parcialmente** — funciona sem [Cap.02](cap02_o_calouro_que_sumiu.md) se Leo Bateman for reintroduzido como gancho próprio |
+| [Cap. 04](cap04_pos_graduacao_os_mestres.md) — Pós-Graduação | Campanha aberta como professores | [Cap. 01](cap01_protocolo_ala_leste.md)–03 criam contexto; Frame II requer [Cap. 01](cap01_protocolo_ala_leste.md) | **Sim** — Frames I e III funcionam sem contexto anterior |
 
 ---
 
@@ -28,13 +28,13 @@ Mas grupos preferem campanhas diferentes. Algumas mesas não têm tempo para 4 a
 ### One-Shot (1 sessão)
 
 **"Só quero ver a Ala Leste"**
-→ Use **[Cap. 01](cap01_criacao_personagem.md)** (Protocolo Ala Leste)
+→ Use **[Cap. 01](cap01_protocolo_ala_leste.md)** (Protocolo Ala Leste)
 → Gere os PJs como estudantes com objetivo único (recuperar um item, provar algo, curiosidade)
 → Escolha 1 ponto de entrada, role o gerador de salas, alcance o Núcleo
 → Os 4 finais do Núcleo funcionam como conclusões satisfatórias para uma sessão
 
 **"Quero uma aventura de escola completa"**
-→ Use **[Cap. 02](cap02_a_academia.md)** (O Calouro que Sumiu)
+→ Use **[Cap. 02](cap02_o_calouro_que_sumiu.md)** (O Calouro que Sumiu)
 → Adventure completa, 4 cenas, resolução incluída
 → Tempo estimado: 3–4 horas
 
@@ -49,7 +49,7 @@ Mas grupos preferem campanhas diferentes. Algumas mesas não têm tempo para 4 a
 → Sessão 5–6: Arca Estremece (a crise que foi construída chegou)
 
 **"Direto para a crise"**
-→ [Capítulo 03](cap03_as_casas.md) apenas
+→ [Capítulo 03](cap03_quando_a_arca_estremece.md) apenas
 → Apresente o Índice de Coesão como situação pré-existente
 → Leo pode ser um NPC que os PJs encontram na Sessão 1 — sua presença cria conexão sem exigir contexto
 → Wynna briefing substitui os capítulos anteriores
@@ -60,23 +60,23 @@ Mas grupos preferem campanhas diferentes. Algumas mesas não têm tempo para 4 a
 
 **"Estudantes até professores"**
 → Todos os capítulos em ordem
-→ Criar os mesmos personagens como estudantes ([Cap. 02](cap02_a_academia.md)), avançar pelo arco completo ([Cap. 03](cap03_as_casas.md)), e no [Cap. 04](cap04_professores_npcs.md) os PJs jogam versões mais velhas com as mesmas mecânicas de base + kits de staff
-→ A continuidade de personagem torna [Cap. 04](cap04_professores_npcs.md) Frame II especialmente poderoso
+→ Criar os mesmos personagens como estudantes ([Cap. 02](cap02_o_calouro_que_sumiu.md)), avançar pelo arco completo ([Cap. 03](cap03_quando_a_arca_estremece.md)), e no [Cap. 04](cap04_pos_graduacao_os_mestres.md) os PJs jogam versões mais velhas com as mesmas mecânicas de base + kits de staff
+→ A continuidade de personagem torna [Cap. 04](cap04_pos_graduacao_os_mestres.md) Frame II especialmente poderoso
 
 **"Só professores com flashbacks"**
-→ [Cap. 04](cap04_professores_npcs.md) como frame principal
+→ [Cap. 04](cap04_pos_graduacao_os_mestres.md) como frame principal
 → Caps. 01–03 como flashbacks quando releante ("Wynna mostra o registro histórico"; "V3ctor1us exibe o arquivo")
 → Remove necessidade de campanha estudantil sem perder os eventos
 
 ---
 
-## Usando [Cap. 04](cap04_professores_npcs.md) sem os Outros
+## Usando [Cap. 04](cap04_pos_graduacao_os_mestres.md) sem os Outros
 
 Frame I (Novos no Staff) funciona completamente sem contexto anterior — os PJs são professores chegando à Academia com a IA como colega institucional e a Ala Leste como rumor.
 
 Frame III (A Geração Seguinte) também funciona sem contexto — os PJs simplesmente se identificam como veteranos que "viveram coisas parecidas com o que os estudantes estão fazendo", sem precisar jogar esses eventos.
 
-**A exceção:** Frame II (A Ala Leste como Staff) pressupõe que os PJs têm memória de ter explorado a Ala como estudantes. Sem esse contexto, o poder emocional do retorno se perde. Recomenda-se ou ter jogado ao menos [Cap. 01](cap01_criacao_personagem.md)+02, ou construir esse passado como história coletiva de backstory na criação de personagem.
+**A exceção:** Frame II (A Ala Leste como Staff) pressupõe que os PJs têm memória de ter explorado a Ala como estudantes. Sem esse contexto, o poder emocional do retorno se perde. Recomenda-se ou ter jogado ao menos [Cap. 01](cap01_protocolo_ala_leste.md)+02, ou construir esse passado como história coletiva de backstory na criação de personagem.
 
 ---
 
@@ -84,7 +84,7 @@ Frame III (A Geração Seguinte) também funciona sem contexto — os PJs simple
 
 Em qualquer configuração, V3ctor1us é o fio condutor. Mesmo em usos modulares, manter a consistência de seu comportamento — nunca mente, sempre categoriza de forma útil para ela — cria a sensação de que os eventos pertencem ao mesmo universo.
 
-Se o Mestre usar apenas [Cap. 02](cap02_a_academia.md) (one-shot), V3ctor1us pode aparecer apenas como presença administrativa no background. Se usar todos os capítulos em sequência, ela vai de presença de background a personagem central. A diferença está em quantas decisões dela os PJs observam e documentam.
+Se o Mestre usar apenas [Cap. 02](cap02_o_calouro_que_sumiu.md) (one-shot), V3ctor1us pode aparecer apenas como presença administrativa no background. Se usar todos os capítulos em sequência, ela vai de presença de background a personagem central. A diferença está em quantas decisões dela os PJs observam e documentam.
 
 **Regra prática:** cada vez que V3ctor1us toma uma decisão que afeta os PJs, anote qual foi e qual foi a justificativa oficial. Ao longo de múltiplas sessões, o padrão vai emergir — ou não, dependendo do que o Mestre preparou. De qualquer forma, os jogadores vão procurar o padrão, e isso é suficiente.
 

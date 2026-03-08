@@ -5,7 +5,7 @@
 
 ---
 
-**Compatível com:** cap03 (Grêmios), cap06 (Kits e Familiares), cap08 (Arrecife Arcano), [Cap. 14](cap14_o_custo_da_magia.md) (Contrato Cármico)
+**Compatível com:** cap03 (Grêmios), cap06 (Kits e Familiares), cap08 (Arrecife Arcano), [Cap. 14](../../../Livro/cap14_o_custo_da_magia.md) (Contrato Cármico)
 
 ---
 
@@ -265,7 +265,7 @@ O estudante é **Dawit Mercer**, Casa Faísca, Kit Arcavaleiro. Discreto. Tecnic
 
 | Referência | Relevância |
 |---|---|
-| [Cap. 14](cap14_o_custo_da_magia.md) — O Custo da Magia | Focos Vinculados com núcleo de Sacrifício cruzam com mecânica de Débito Cármico |
+| [Cap. 14](../../../Livro/cap14_o_custo_da_magia.md) — O Custo da Magia | Focos Vinculados com núcleo de Sacrifício cruzam com mecânica de Débito Cármico |
 | cap03 — Os Grêmios (livro base) | Mapeamento Casas → Grêmios disponível para PCs de Thornwall |
 | cap06 — Kits (livro base) | Focos Vinculados como instância do Instrumento de Herança |
 | cap08 — A Campanha (livro base) | Arquivo das Correntes conecta ao gancho do Arquivo Compartilhado |
@@ -275,4 +275,4 @@ O estudante é **Dawit Mercer**, Casa Faísca, Kit Arcavaleiro. Discreto. Tecnic
 
 ---
 
-*Próximo: **[Capítulo 2](cap02_a_academia.md) — Ordem das Convergências** — a herança como corpo; o que você faz com o que não pediu.*
+*Próximo: **[Capítulo 2](cap02_campo_das_convergencias.md) — Ordem das Convergências** — a herança como corpo; o que você faz com o que não pediu.*

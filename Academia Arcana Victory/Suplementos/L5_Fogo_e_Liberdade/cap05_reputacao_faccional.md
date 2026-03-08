@@ -160,13 +160,13 @@ Em As Quatro Formas, os eixos funcionam de forma diferente: em vez de relação 
 | Legitimidade | Reconhecimento pelas estruturas nacionais e acadêmicas de bending |
 | Cred | Alinhamento filosófico com o elemento (Marcadores de Chi) |
 
-**Conexão com Disciplina do Elemento:** cada Marcador de Chi acumulado (ver [Cap. 03](cap03_as_casas.md)) funciona como +1 de Cred neste sistema. O sistema de Legitimidade representa relação com academias nacionais de bending — relevante para campanhas que incluem conflito inter-nacional.
+**Conexão com Disciplina do Elemento:** cada Marcador de Chi acumulado (ver [Cap. 03](cap03_quatro_nacoes.md)) funciona como +1 de Cred neste sistema. O sistema de Legitimidade representa relação com academias nacionais de bending — relevante para campanhas que incluem conflito inter-nacional.
 
 **Nota:** em campanhas focadas em As Quatro Formas que não usam conflito institucional, o Eixo de Legitimidade pode ser substituído por um terceiro eixo — **Alinhamento Espiritual** (relação com o mundo dos espíritos) — conforme necessidade do Mestre.
 
 ### 5.4 Caldeira — Legitimidade e Cred Urbanos
 
-Esta é a instância mais direta do sistema base, conforme apresentado em C1 e no [Cap. 04](cap04_professores_npcs.md).
+Esta é a instância mais direta do sistema base, conforme apresentado em C1 e no [Cap. 04](cap04_caldeira.md).
 
 | Eixo | Equivalente em Caldeira |
 |------|------------------------|

@@ -6,7 +6,7 @@
 
 ---
 
-**Compatível com:** T4 (Magia Hard e Soft), [Cap. 05](cap05_vida_estudantil.md) (Reputação Faccional)
+**Compatível com:** T4 (Magia Hard e Soft), [Cap. 05](cap05_reputacao_faccional.md) (Reputação Faccional)
 **Instância do Framework:** Falha de Classe — o poder mágico como herança biológica como fundação da desigualdade econômica
 
 ---
@@ -145,13 +145,13 @@ A Metalurgia de Transferência usa Estacas Arcanas para mover poderes de um ser 
 
 Na campanha, Transferência existe como **segredo que os PJs descobrem**. NPCs com poderes que não deveriam ter. Donos anteriores desses poderes mortos em circunstâncias suspeitas. Uma facção oculta praticando isso em silêncio.
 
-**Custo para o receptor:** +1 Débito Cármico ([Cap. 14](cap14_o_custo_da_magia.md)) permanente por Estaca recebida, sem possibilidade de redução.
+**Custo para o receptor:** +1 Débito Cármico ([Cap. 14](../../../Livro/cap14_o_custo_da_magia.md)) permanente por Estaca recebida, sem possibilidade de redução.
 
 ---
 
 ## 4. Reputação de Classe
 
-*(Instância do sistema de Reputação Faccional — [Cap. 05](cap05_vida_estudantil.md))*
+*(Instância do sistema de Reputação Faccional — [Cap. 05](cap05_reputacao_faccional.md))*
 
 Em Lutharin, dois eixos definem a posição social de qualquer personagem:
 
@@ -165,7 +165,7 @@ Em Lutharin, dois eixos definem a posição social de qualquer personagem:
 | Fora do sistema | Liberdade de movimento, acesso a redes informais | Sem proteção, recursos limitados, risco constante |
 | Contra o sistema | Apoio de redes organizadas nas margens | Alvo de atenção das Famílias Arcanas; qualquer derrota tem peso permanente |
 
-> **Conexão com [Cap. 05](cap05_vida_estudantil.md):** a Reputação de Classe mapeia diretamente nos eixos de Legitimidade e Cred do sistema unificado. Famílias Arcanas começam com Legitimidade alta e Cred baixo. Cinzas inseridos em redes organizadas têm Cred alto e Legitimidade zero ou negativa.
+> **Conexão com [Cap. 05](cap05_reputacao_faccional.md):** a Reputação de Classe mapeia diretamente nos eixos de Legitimidade e Cred do sistema unificado. Famílias Arcanas começam com Legitimidade alta e Cred baixo. Cinzas inseridos em redes organizadas têm Cred alto e Legitimidade zero ou negativa.
 
 ---
 
@@ -269,4 +269,4 @@ O aluno é colocado numa trilha de treinamento acelerado. Estudantes de Família
 
 ---
 
-*Próximo: [Cap. 02](cap02_a_academia.md) — O Grêmio Raízes — o sistema que proíbe o que não consegue controlar, e a estudante que inventou magia nova porque ninguém disse que ela podia.*
+*Próximo: [Cap. 02](cap02_a_bruxa_coruja.md) — O Grêmio Raízes — o sistema que proíbe o que não consegue controlar, e a estudante que inventou magia nova porque ninguém disse que ela podia.*

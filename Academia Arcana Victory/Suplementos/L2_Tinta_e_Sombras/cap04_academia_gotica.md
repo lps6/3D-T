@@ -196,4 +196,4 @@ V3ctor1us registra anomalia de acesso às 23h47. Classifica como "erro de sensor
 
 ---
 
-*Referências: Kit Caçador de Segredos (Kenji) — [Cap. 06](cap06_mecanicas.md) Livro-Base. Thanatus — [Cap. 05](cap05_vida_estudantil.md). Liceu Benandanti — [Cap. 09](cap09_toolkit_mestre.md). V3ctor1us — [Cap. 03](cap03_as_casas.md)/08.*
+*Referências: Kit Caçador de Segredos (Kenji) — [Cap. 06](../../../Livro/cap06_mecanicas.md) Livro-Base. Thanatus — [Cap. 05](cap05_o_crisol_sem_mestre.md). Liceu Benandanti — [Cap. 09](../../../Livro/cap09_toolkit_mestre.md). V3ctor1us — [Cap. 03](cap03_somatica_arcana.md)/08.*

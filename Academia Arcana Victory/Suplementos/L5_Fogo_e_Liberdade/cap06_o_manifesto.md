@@ -8,7 +8,7 @@
 **Jogadores:** 3–5 PJs
 **Nível:** qualquer ano acadêmico; funciona melhor com PJs que têm relação estabelecida com a Academia
 **Tom:** político, tenso, sem resposta fácil
-**Sistema de Reputação:** usa Legitimidade e Cred ([Cap. 05](cap05_vida_estudantil.md)); recomendado mas não obrigatório
+**Sistema de Reputação:** usa Legitimidade e Cred ([Cap. 05](cap05_reputacao_faccional.md)); recomendado mas não obrigatório
 
 > **Nota de uso:** Esta aventura não requer conhecer nenhuma das franquias do livro. Pode ser jogada como introdução ao L5 antes de qualquer capítulo, ou como aventura standalone. O tema — decidir o que fazer com informação que o sistema preferiria que não existisse — é o tema central do livro em forma compacta.
 
@@ -206,7 +206,7 @@ Os PJs ajudam a circular mais cópias. Isso tem consequências imediatas.
 
 Os PJs decidem verificar os casos antes de qualquer outra ação. Isso leva a um problema: os logs que Mira acessou não estão disponíveis para estudantes normalmente.
 
-**Como obter acesso:** suborno social (H vs 4 com funcionário simpático), acesso técnico (Kit Hacker Arcano do [Cap. 04](cap04_professores_npcs.md)), ou pedir a Mira que mostre (exige que já a contactaram e que ela confie o suficiente).
+**Como obter acesso:** suborno social (H vs 4 com funcionário simpático), acesso técnico (Kit Hacker Arcano do [Cap. 04](cap04_caldeira.md)), ou pedir a Mira que mostre (exige que já a contactaram e que ela confie o suficiente).
 
 **O que encontram:** os casos são verificáveis. As datas batem. Os nomes codificados são desdobráveis para qualquer um que estava na Academia nos anos citados. O "Caso Março-7" é Elisa Wanderley — quem leu C1 ou jogou Caldeira reconhece.
 

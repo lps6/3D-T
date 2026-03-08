@@ -59,11 +59,11 @@ Componentes custam PC e definem as capacidades especiais da nave.
 | **Torpedos de Fratura [Anti-Armada]** | 3 | 2 Cargas de Torpedo de Fratura. Cada torpedo cancela 1 nível de escala contra Armadas ao mirar Pontos Fracos. |
 | **Escudo Defletor** | 2 | +1 BLI contra ataques de energia. Regenera: se não receber dano de energia por 1 rodada, o bônus volta. |
 | **Blindagem Pesada** | 2 | +1 BLI permanente contra ataques cinéticos. Não regenera. PRO sofre -1 (peso). |
-| **Motor FTL** | 1 | Permite viagem interestelar. 3 Cargas de Combustível FTL por padrão ([Cap. 4](cap04_professores_npcs.md)). Sem Motor FTL, a nave só opera em sistema local. |
+| **Motor FTL** | 1 | Permite viagem interestelar. 3 Cargas de Combustível FTL por padrão ([Cap. 4](cap04_desgaste_estelar.md)). Sem Motor FTL, a nave só opera em sistema local. |
 | **Baía de Caças** | 3 | A nave carrega e lança até 2 Esquadrões de caças. Lançar 1 Esquadrão = 1 Ação Rápida. |
 | **Módulo de Jamming** | 2 | +2 em testes de Guerra Eletrônica (hackeamento). Naves inimigas em faixa Curta sofrem -1 SIS (interferência). |
 | **Propulsores Auxiliares** | 1 | +1 PRO para Manobra Evasiva. Permite Mudar Posição como Ação Rápida (em vez de Movimento). |
-| **Sistema de Suporte de Vida Avançado** | 1 | Dobra o tempo de Suprimentos ([Cap. 4](cap04_professores_npcs.md)). Tripulação resiste a descompressão por 2 rodadas extras. |
+| **Sistema de Suporte de Vida Avançado** | 1 | Dobra o tempo de Suprimentos ([Cap. 4](cap04_desgaste_estelar.md)). Tripulação resiste a descompressão por 2 rodadas extras. |
 | **Módulo de Reparo** | 2 | Engenheiro repara 3 Integridade/turno em vez de 2. Nave pode reparar 1 Integridade/dia sem porto (auto-reparo lento). |
 | **Módulo de Carga** | 1 | Dobra a capacidade de Cargas totais (Munição, Torpedos, etc.). Útil para missões longas. |
 | **Laboratório / Oficina** | 1 | Permite análise científica, fabricação de peças básicas, e identificação de Pontos Fracos com Ganho. |

@@ -65,7 +65,7 @@ A arte de saber o verdadeiro nome das coisas. Não está no currículo formal de
 
 A nota de rodapé não explica por quê. Alunos que investigam são direcionados para o terceiro andar do Arquivo — e de lá em diante, estão por conta própria.
 
-Integração mecânica: ver **[Cap. 03](cap03_as_casas.md) — O Nome das Coisas**. A Nomeação de Saleth e o sistema Y3 são o mesmo fenômeno abordado por duas tradições distintas.
+Integração mecânica: ver **[Cap. 03](cap03_nomes_verdadeiros.md) — O Nome das Coisas**. A Nomeação de Saleth e o sistema Y3 são o mesmo fenômeno abordado por duas tradições distintas.
 
 ---
 
@@ -159,8 +159,8 @@ Duas escolas com filosofias fundamentalmente diferentes que formam graduados que
 | Pagamento | Bolsas por desempenho; sem bolsa padrão | Bolsas por grêmio e potencial |
 | Conflito interno | Archmestres disputam doutrina abertamente | Corpo docente com facções veladas |
 | Biblioteca | O Arquivo — labiríntico, burocrático, vivo | Biblioteca Arcana — labiríntica, com criaturas, gerenciada por Norrin |
-| Nomeação | Currículo informal; um único Archmestre sabe ensinar | [Cap. 03](cap03_as_casas.md) deste livro; pré-requisito: [Cap. 01](cap01_a_universidade_de_saleth.md) |
-| Duelos | Informais, proibidos, acontecem de qualquer jeito | Regulamentados ([Cap. 06](cap06_mecanicas.md) do livro base) |
+| Nomeação | Currículo informal; um único Archmestre sabe ensinar | [Cap. 03](cap03_nomes_verdadeiros.md) deste livro; pré-requisito: [Cap. 01](cap01_a_universidade_de_saleth.md) |
+| Duelos | Informais, proibidos, acontecem de qualquer jeito | Regulamentados ([Cap. 06](../../../Livro/cap06_mecanicas.md) do livro base) |
 | Reputação | Construída individualmente; nome pessoal acima de tudo | Grêmios como reputação coletiva + trilha individual |
 | O campus à noite | Perigoso socialmente | Perigoso magicamente |
 
@@ -170,7 +170,7 @@ Duas escolas com filosofias fundamentalmente diferentes que formam graduados que
 
 ### "A Seção que Não Estava no Mapa"
 
-Durante organização de emergência do subsolo da Biblioteca Arcana, os PJs descobrem uma seção que não aparece em nenhuma planta — impossível, dado que V3ctor1us mapeia cada centímetro. Contém volumes em idioma que o sistema Y3 ([Cap. 03](cap03_as_casas.md)) identifica como Língua Antiga escrita. Um dos volumes é relatório em primeira pessoa de um estudante de intercâmbio de Saleth, data de trinta anos atrás.
+Durante organização de emergência do subsolo da Biblioteca Arcana, os PJs descobrem uma seção que não aparece em nenhuma planta — impossível, dado que V3ctor1us mapeia cada centímetro. Contém volumes em idioma que o sistema Y3 ([Cap. 03](cap03_nomes_verdadeiros.md)) identifica como Língua Antiga escrita. Um dos volumes é relatório em primeira pessoa de um estudante de intercâmbio de Saleth, data de trinta anos atrás.
 
 A última entrada: *"Encontrei o padrão de vínculo que explica o lacre da Ala Leste. Não é Selagem — é Nomeação de nível que Saleth não reconhece como possível. Se você está lendo isto, e se está procurando: a Reitora tem uma das três chaves. Outra está no Arquivo de Saleth. A terceira está na criatura que vive no terceiro andar."*
 
@@ -200,4 +200,4 @@ Use com cuidado. Converse com o grupo antes. A técnica funciona melhor quando t
 
 ---
 
-*Próximo: [Cap. 02](cap02_a_academia.md) — A Ordem dos Cavaleiros do Eco (Língua Antiga como ciência, Ecos como parceiros, e uma ordem quase-extinta que ainda tem o professor mais perigoso do campus).*
+*Próximo: [Cap. 02](cap02_a_ordem_dos_cavaleiros_do_eco.md) — A Ordem dos Cavaleiros do Eco (Língua Antiga como ciência, Ecos como parceiros, e uma ordem quase-extinta que ainda tem o professor mais perigoso do campus).*
