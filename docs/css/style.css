@@ -1,6 +1,6 @@
 /* ═══════════════════════════════════════════════════════════════
    Academia Arcana Victory — Reader Styles
-   Theme: Dark Arcane (navy sidebar / parchment content)
+   Theme: iOS Native (light mode)
    ═══════════════════════════════════════════════════════════════ */
 
 /* ── Variables ─────────────────────────────────────────────── */
@@ -10,41 +10,51 @@
 
   --c-sidebar-bg:          #f7f2e9;
   --c-sidebar-border:      rgba(201, 168, 76, 0.18);
-  --c-sidebar-text:        #7b2d8b;
+  --c-sidebar-text:        #34133b;
   --c-sidebar-muted:       #b8a97c;
   --c-sidebar-hover:       #ede8da;
   --c-sidebar-active-bg:   #ede8da;
-  --c-active-accent:       #7b2d8b;
+  --c-active-accent:       #552060;
 
   --c-header-bg:           #ede8da;
   --c-header-border:       rgba(201, 168, 76, 0.25);
 
   --c-content-bg:          #fffefc;
   --c-content-text:        #3d1f0d;
-  --c-heading:             #7b2d8b;
+  --c-heading:             #38143f;
   --c-heading-2:           #c9a84c;
   --c-accent:              #c9a84c;
-  --c-link:                #7b2d8b;
+  --c-link:                #5d2169;
   --c-link-hover:          #c9a84c;
 
   --c-table-head-bg:       #ede8da;
-  --c-table-head-text:     #7b2d8b;
+  --c-table-head-text:     #311137;
   --c-table-row-alt:       #f7f2e9;
   --c-table-border:        rgba(201, 168, 76, 0.45);
 
   --c-bq-bg:               #f7f2e9;
   --c-bq-border:           #c9a84c;
-  --c-bq-text:             #7b2d8b;
+  --c-bq-text:             #1f0c23;
 
   --c-hr:                  rgba(201, 168, 76, 0.5);
   --c-code-bg:             #ede8da;
-  --c-code-text:           #7b2d8b;
+  --c-code-text:           #1f0b23;
 
+  /* safe area (iOS notch/home indicator) */
+  --safe-area-top: env(safe-area-inset-top);
+  --safe-area-bottom: env(safe-area-inset-bottom);
+  --safe-area-left: env(safe-area-inset-left);
+  --safe-area-right: env(safe-area-inset-right);
+
+  /* UI bars (header/sidebar/tab) */
+  --bar-bg: rgba(255,255,255,0.6);
+  --bar-border: rgba(0,0,0,0.1);
+  --bar-shadow: 0 1px 0 rgba(0,0,0,0.12);
 
   /* Typography */
-  --font-heading:          system-ui, -apple-system, 'Segoe UI', sans-serif; /*'Cinzel', Georgia, serif;*/
-  --font-body:             system-ui, -apple-system, 'Segoe UI', sans-serif; /*'Lora', 'Georgia', serif;*/
-  --font-ui:               system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-heading:          -apple-system, system-ui, 'Segoe UI', sans-serif; /*fallback order for iOS look*/
+  --font-body:             -apple-system, system-ui, 'Segoe UI', sans-serif;
+  --font-ui:               -apple-system, system-ui, 'Segoe UI', sans-serif;
 }
 
 /* ── Reset ──────────────────────────────────────────────────── */
@@ -72,15 +82,18 @@ body {
   position: fixed;
   inset: 0 0 auto 0;
   height: var(--header-height);
-  background: var(--c-header-bg);
-  border-bottom: 1px solid var(--c-header-border);
+  background: var(--bar-bg);
+  border-bottom: 1px solid var(--bar-border);
   display: flex;
   align-items: center;
   gap: 0.875rem;
-  padding: 0 1.25rem;
+  padding: calc(var(--safe-area-top) + 0) 1.25rem 0;
+  /* notch-safe top padding */
   z-index: 200;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: var(--bar-shadow);
+  backdrop-filter: saturate(180%) blur(18px);
 }
+
 
 /* Decorative left accent line */
 #header::before {
@@ -150,19 +163,37 @@ body {
   display: flex;
   height: 100vh;
   padding-top: var(--header-height);
+  padding-bottom: var(--safe-area-bottom);
 }
+
 
 /* ── Sidebar ────────────────────────────────────────────────── */
 #sidebar {
   width: var(--sidebar-width);
   flex-shrink: 0;
-  background: var(--c-sidebar-bg);
-  border-right: 1px solid var(--c-sidebar-border);
+  background: var(--bar-bg);
+  border-right: 1px solid var(--bar-border);
+  border-radius: 0 12px 12px 0;
   height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  padding: 0.75rem 0 2rem;
+  padding: calc(var(--safe-area-top) + 0.75rem) 0 2rem;
+  backdrop-filter: saturate(180%) blur(18px);
 }
+
+/* bottom safe‑area tab bar placeholder */
+#bottom-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: calc(44px + var(--safe-area-bottom));
+  background: var(--bar-bg);
+  border-top: 1px solid var(--bar-border);
+  backdrop-filter: saturate(180%) blur(18px);
+  z-index: 190;
+}
+
 
 /* Sidebar scrollbar */
 #sidebar::-webkit-scrollbar { width: 3px; }
@@ -247,6 +278,9 @@ body {
   border-left: 2px solid transparent;
   transition: color 0.12s, background 0.12s, border-color 0.12s;
   line-height: 1.4;
+  border-radius: 8px;
+  -webkit-tap-highlight-color: transparent;
+  position: relative;
 }
 
 .chapter-link:hover {
@@ -259,6 +293,15 @@ body {
   background: var(--c-sidebar-active-bg);
   border-left-color: var(--c-active-accent);
   font-weight: 500;
+  position: relative;
+}
+
+.chapter-link.active::after {
+  content: '➤';
+  position: absolute;
+  right: 1rem;
+  font-size: 0.75rem;
+  color: var(--c-active-accent);
 }
 
 /* ── Main content area ──────────────────────────────────────── */
