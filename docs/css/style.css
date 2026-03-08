@@ -109,7 +109,7 @@ body {
 .header-title {
   display: flex;
   flex-direction: column;
-  gap: 1px;
+  gap: 5px;
   text-decoration: none;
 }
 
