@@ -8,23 +8,23 @@
   --sidebar-width: 290px;
   --header-height: 58px;
 
-  --c-sidebar-bg:          #f7f2e9;
+  --c-sidebar-bg:          #f6f4ef;
   --c-sidebar-border:      rgba(201, 168, 76, 0.18);
   --c-sidebar-text:        #1a0820;
   --c-sidebar-muted:       #9a8a60;
-  --c-sidebar-hover:       #ede8da;
-  --c-sidebar-active-bg:   #ede8da;
-  --c-active-accent:       #7b2d8b;
+  --c-sidebar-hover:       #f6f4ef;
+  --c-sidebar-active-bg:   #f7f5f0;
+  --c-active-accent:       #651c74;
 
-  --c-header-bg:           #ede8da;
+  --c-header-bg:           #f5f4f0;
   --c-header-border:       rgba(201, 168, 76, 0.25);
 
   --c-content-bg:          #fffefc;
   --c-content-text:        #1a0820;
-  --c-heading:             #7b2d8b;
+  --c-heading:             #651c74;
   --c-heading-2:           #c9a84c;
   --c-accent:              #c9a84c;
-  --c-link:                #7b2d8b;
+  --c-link:                #651c74;
   --c-link-hover:          #c9a84c;
 
   --c-table-head-bg:       #ede8da;
