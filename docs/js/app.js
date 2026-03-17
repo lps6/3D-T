@@ -265,6 +265,7 @@
   // ── Rendering ─────────────────────────────────────────────────
   function renderMarkdown(md) {
     marked.setOptions({ breaks: true, gfm: true });
+    md = md.replace(/^---\n[\s\S]*?\n---\n/, '');
     contentEl.innerHTML = marked.parse(md);
 
     contentEl.querySelectorAll('a[href^="http"]').forEach(a => {

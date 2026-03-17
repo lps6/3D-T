@@ -1,3 +1,12 @@
+---
+titulo: "Cap. 00 — Introdução: Bem-vindo à Academia Arcana"
+sistema: 3D&T Victory
+dlc: Academia Arcana Victory
+status: completo
+links_verificados: "2026-03-15"
+notas: "typos pendentes de revisão contextual (restobrasil, conversão, feitizo)"
+---
+
 # Introdução — Bem-vindo à Academia Arcana
 
 ---
@@ -216,13 +225,13 @@ Este livro foi projetado para ser jogável em três camadas de acesso:
 
 ### Camada 2 — Completo *(recomendado)*
 
-- **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) Livro Básico** — o coração do sistema, com regras completas de criação de personagem, combate, magia, e progressão. O livro básico tabmém apresenta o mundo de Era das Arcas e seus diversos núcleos.
-
-- **[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)** *([3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/))* — abre todos os kits oficiais, a lista completa de vantagens e desvantagens, regras de combate detalhadas e progressão por XP. O **[Capítulo 12](cap12_arsenal_do_arcanauta.md) — Arsenal do Arcanauta Acadêmico** deste livro mostra como cada kit oficial se encaixa na Academia.
+- **[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/) Livro Básico** — o coração do sistema, com regras completas de criação de personagem, combate, magia, e progressão. O livro básico também apresenta o mundo de Era das Arcas e seus diversos núcleos.
 
 ---
 
 ### Camada 3 — Expandido
+
+- **[Manual do Arcanauta](https://jamboeditora.com.br/produto/manual-do-arcanauta/)** *([3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/))* — abre todos os kits oficiais, a lista completa de vantagens e desvantagens, regras de combate detalhadas e progressão por XP. O **[Capítulo 12](cap12_arsenal_do_arcanauta.md) — Arsenal do Arcanauta Acadêmico** deste livro mostra como cada kit oficial se encaixa na Academia.
 
 - **[Ferozes & Furiosos](https://jamboeditora.com.br/produto/ferozes-e-furiosos/)** *([3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/))* — bestiário completo, sistema de desafios (Graus de Ameaça), construtos, armadilhas e fauna da Era das Arcas. Referenciado com páginas específicas no **[Capítulo 12](cap12_arsenal_do_arcanauta.md)**.
 - Qualquer outro suplemento de *[3D&T Victory](https://jamboeditora.com.br/produto/3det-victory/)* funciona sem adaptação — a Academia existe na Era das Arcas; tudo que existe na Era das Arcas existe na Academia.
