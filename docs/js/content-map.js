@@ -16,6 +16,12 @@ const CONTENT_GROUPS = [
     subtitle: 'Conflitos em Escala — Beta',
     description: 'Regras modulares para guerras, mechas e kaijus em qualquer escala.',
   },
+  {
+    id: 'telecatch',
+    title: 'TeleCatch Victory',
+    subtitle: 'Wrestling Sobrenatural',
+    description: 'Telecatch profissional num mundo onde o Kayfabe virou realidade.',
+  },
 ];
 
 // ── Books ─────────────────────────────────────────────────────
@@ -284,6 +290,50 @@ const CONTENT_MAP = [
     ],
   },
   */
+
+  // ═══════════════════════════════════════════════════════════
+  // TELECATCH VICTORY
+  // ═══════════════════════════════════════════════════════════
+
+  {
+    id: 'tcv-livro',
+    group: 'telecatch',
+    title: 'TeleCatch Victory',
+    subtitle: 'DLC Base de Wrestling Sobrenatural',
+    path: 'TeleCatch Victory/content',
+    chapters: [
+      { id: '01_primeiro_gongo',         label: 'O Primeiro Gongo',       file: '01_primeiro_gongo.md',         title: 'O Primeiro Gongo' },
+      { id: '02_para_o_promoter',        label: 'Para o Promoter',        file: '02_para_o_promoter.md',        title: 'Para o Promoter' },
+      { id: '03_criacao_passo_a_passo',  label: 'Criação de Lutador',     file: '03_criacao_passo_a_passo.md',  title: 'Criação Passo a Passo' },
+      { id: '04_estilo_forca_bruta',     label: 'Força Bruta',            file: '04_estilo_forca_bruta.md',     title: 'Estilo — Força Bruta' },
+      { id: '05_estilo_high_flyer',      label: 'High Flyer',             file: '05_estilo_high_flyer.md',      title: 'Estilo — High Flyer' },
+      { id: '06_estilo_tecnico',         label: 'Técnico',                file: '06_estilo_tecnico.md',         title: 'Estilo — Técnico' },
+      { id: '07_estilo_lucha',           label: 'Lucha',                  file: '07_estilo_lucha.md',           title: 'Estilo — Lucha' },
+      { id: '08_estilo_sobrenatural',    label: 'Sobrenatural',           file: '08_estilo_sobrenatural.md',    title: 'Estilo — Sobrenatural' },
+      { id: '09_estilo_psicologico',     label: 'Psicológico',            file: '09_estilo_psicologico.md',     title: 'Estilo — Psicológico' },
+      { id: '10_estilo_dirty',           label: 'Dirty',                  file: '10_estilo_dirty.md',           title: 'Estilo — Dirty' },
+      { id: '11_estilo_bastidores',      label: 'Bastidores',             file: '11_estilo_bastidores.md',      title: 'Estilo — Bastidores' },
+      { id: '12_gimmicks',              label: 'Gimmicks',               file: '12_gimmicks.md',               title: 'Pacotes de Gimmick' },
+      { id: '13_vantagens_desvantagens', label: 'Vantagens',              file: '13_vantagens_desvantagens.md', title: 'Vantagens & Desvantagens' },
+      { id: '14_kits_prontos',           label: 'Kits Prontos',           file: '14_kits_prontos.md',           title: 'Kits Prontos' },
+      { id: '15_matchups',              label: 'Matchups',               file: '15_matchups.md',               title: 'Matchups — Tabela de Tipos' },
+      { id: '16_energia_da_multidao',    label: 'Energia da Multidão',    file: '16_energia_da_multidao.md',    title: 'Energia da Multidão' },
+      { id: '17_finalizador_kickout',    label: 'Finalizador & Kickout',  file: '17_finalizador_kickout.md',    title: 'Finalizador & Kickout' },
+      { id: '18_promo_battle',           label: 'Promo Battle',           file: '18_promo_battle.md',           title: 'Promo Battle' },
+      { id: '19_formatos_especiais',     label: 'Formatos Especiais',     file: '19_formatos_especiais.md',     title: 'Formatos Especiais de Luta' },
+      { id: '20_aliancas',              label: 'Alianças',               file: '20_aliancas.md',               title: 'Alianças & Tag Team' },
+      { id: '21_traicao',               label: 'Traição',                file: '21_traicao.md',                title: 'Traição' },
+      { id: '22_rivalidade',            label: 'Rivalidade',             file: '22_rivalidade.md',             title: 'Rivalidade' },
+      { id: '23_negociacao_campeonatos', label: 'Campeonatos',            file: '23_negociacao_campeonatos.md', title: 'Negociação & Campeonatos' },
+      { id: '24_manager_actions',        label: 'Manager',                file: '24_manager_actions.md',        title: 'Ações de Manager' },
+      { id: '25_campanhas',             label: 'Campanhas',              file: '25_campanhas.md',              title: 'Campanhas' },
+      { id: '26_templo_olmeca',          label: 'Templo Olmeca',          file: '26_templo_olmeca.md',          title: 'O Templo Olmeca & Dojo Henshin' },
+      { id: '27_faccoes',               label: 'Facções',                file: '27_faccoes.md',                title: 'Facções do Templo' },
+      { id: '28_cmt',                   label: 'CMT',                    file: '28_cmt.md',                    title: 'A CMT' },
+      { id: '29_roster',                label: 'Roster',                 file: '29_roster.md',                 title: 'Roster de NPCs' },
+      { id: '30_glossario',             label: 'Glossário',              file: '30_glossario.md',              title: 'Glossário' },
+    ],
+  },
 ];
 
   // Normalize chapter ids: preserve existing human-readable `id` into `label`,
