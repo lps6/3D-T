@@ -1,4 +1,5 @@
-// Academia Arcana Victory — Reader App
+// 3D&T Victory Fan DLC — Reader App
+// Supports both wiki categories (entries) and traditional books (chapters).
 (function () {
   'use strict';
 
@@ -14,30 +15,66 @@
   const btnPrev        = document.getElementById('btn-prev');
   const btnNext        = document.getElementById('btn-next');
 
-  // ── Flat chapter index (for prev/next)
-  const allChapters = [];
-  for (const book of CONTENT_MAP) {
-    for (const ch of book.chapters) {
-      allChapters.push({ bookId: book.id, chapterId: ch.id, title: (ch.label || ch.title) });
+  // ── Helpers: get entries/chapters uniformly ───────────────────
+  function getItems(item) { return item.entries || item.chapters || []; }
+
+  // ── Reading order index (for prev/next linear navigation) ─────
+  const readingOrder = [];
+  if (typeof READING_ORDER !== 'undefined') {
+    for (const key of READING_ORDER) {
+      const [catId, entryId] = key.split('/');
+      const cat = CONTENT_MAP.find(c => c.id === catId);
+      if (!cat) continue;
+      const items = getItems(cat);
+      const entry = items.find(e => e.id === entryId);
+      if (!entry) continue;
+      readingOrder.push({ catId, entryId, title: (entry.label || entry.title) });
     }
   }
 
-  // ── Accent colors per book ────────────────────────────────────
-  const BOOK_ACCENTS = {
-    // Academia Arcana Victory
-    'livro':   '#c9a84c',  // gold   — livro base
-    'AAV-0':   '#9b59b6',  // roxo   — A Verdade da Arca
-    'AAV-1':   '#5b9bd5',  // azul   — Estrelas & Cristais
-    'AAV-2':   '#c0392b',  // vermelho — Tinta & Sombras
-    'AAV-3':   '#27ae60',  // verde  — Palavras de Poder
-    'AAV-4':   '#e67e22',  // âmbar  — Sangue & Legado
-    'AAV-5':   '#e74c3c',  // fogo   — Fogo & Liberdade
-    'AAV-6':   '#2980b9',  // elétrico — Laços & Máscaras
-    'AAV-7':   '#8e44ad',  // magenta — Desejos & Portais
-    // Batalha Total Victory
-    'btv-livro':   '#dc2626',  // guerra
-    'btv-estelar': '#0891b2',  // espaço
-    'btv-mar':     '#0369a1',  // oceano
+  // ── Fallback: flat chapter index for books without READING_ORDER
+  const allChapters = [];
+  for (const item of CONTENT_MAP) {
+    // Only include traditional book entries (chapters) in the fallback
+    if (!item.chapters) continue;
+    for (const ch of item.chapters) {
+      allChapters.push({ catId: item.id, entryId: ch.id, title: (ch.label || ch.title) });
+    }
+  }
+
+  // ── Build global lookup: filename stem → { catId, entryId } ───
+  const globalEntryIndex = new Map();
+  for (const item of CONTENT_MAP) {
+    for (const entry of getItems(item)) {
+      const stem = entry.file ? entry.file.replace(/\.md$/, '') : String(entry.id);
+      if (!globalEntryIndex.has(stem)) {
+        globalEntryIndex.set(stem, { catId: item.id, entryId: stem });
+      }
+      // Also index by bare filename (without subdirectory path)
+      const bareStem = stem.includes('/') ? stem.split('/').pop() : null;
+      if (bareStem && !globalEntryIndex.has(bareStem)) {
+        globalEntryIndex.set(bareStem, { catId: item.id, entryId: stem });
+      }
+    }
+  }
+
+  // ── Accent colors ─────────────────────────────────────────────
+  const ACCENTS = {
+    // AAV Wiki categories
+    'aav-narrativa':    '#c9a84c',
+    'aav-regras':       '#5b9bd5',
+    'aav-escolas':      '#9b59b6',
+    'aav-mundo':        '#0891b2',
+    'aav-gremios':      '#27ae60',
+    'aav-personagens':  '#e67e22',
+    'aav-vida':         '#e74c3c',
+    'aav-mestre':       '#8e44ad',
+    // BTV
+    'btv-livro':   '#dc2626',
+    'btv-estelar': '#0891b2',
+    'btv-mar':     '#0369a1',
+    // TCV
+    'tcv-livro':   '#c9a84c',
   };
 
   // ── Landing page ──────────────────────────────────────────────
@@ -46,7 +83,7 @@
     let html = '';
 
     for (const group of CONTENT_GROUPS) {
-      const books = CONTENT_MAP.filter(b => b.group === group.id);
+      const items = CONTENT_MAP.filter(b => b.group === group.id);
 
       html += `<section class="landing-section">
         <div class="landing-section__header">
@@ -55,29 +92,33 @@
         </div>
         <div class="landing-section__grid">`;
 
-      for (const book of books) {
-        const accent = BOOK_ACCENTS[book.id] || '#c9a84c';
-        const firstCh = book.chapters[0];
-        const firstKey = firstCh.file ? firstCh.file.replace(/\.md$/, '') : firstCh.id;
-        const chCount = book.chapters.length;
-        const isFeatured = book.id === 'livro' || book.id === 'btv-livro';
-        const chLabel = chCount === 1 ? '1 capítulo' : `${chCount} capítulos`;
+      for (const item of items) {
+        const accent = ACCENTS[item.id] || '#c9a84c';
+        const entries = getItems(item);
+        const firstEntry = entries[0];
+        if (!firstEntry) continue;
+        const firstKey = firstEntry.file ? firstEntry.file.replace(/\.md$/, '') : firstEntry.id;
+        const count = entries.length;
+        const isWiki = !!item.entries;
+        const countLabel = count === 1
+          ? (isWiki ? '1 entrada' : '1 capítulo')
+          : `${count} ${isWiki ? 'entradas' : 'capítulos'}`;
 
-        let badge = book.id.toUpperCase().replace('BTV-', '');
-        if (book.id === 'livro' || book.id === 'btv-livro') badge = 'LIVRO BASE';
-        if (book.id === 'suplementos') badge = 'ÍNDICE';
+        const isFeatured = item.id === 'btv-livro' || item.id === 'tcv-livro';
+        let badge = item.title.toUpperCase();
+        if (item.id === 'btv-livro' || item.id === 'tcv-livro') badge = 'LIVRO BASE';
 
-        const displayTitle = book.title.replace(/^L\d+ — /, '');
+        const displayTitle = item.title.replace(/^L\d+ — /, '');
 
         html += `<a
-          href="#${book.id}/${firstKey}"
+          href="#${item.id}/${firstKey}"
           class="book-card${isFeatured ? ' book-card--featured' : ''}"
           style="--card-accent: ${accent}"
         >
           <span class="book-card__badge">${badge}</span>
           <span class="book-card__title">${displayTitle}</span>
-          ${book.subtitle ? `<span class="book-card__subtitle">${book.subtitle}</span>` : ''}
-          <span class="book-card__meta">${chLabel}</span>
+          ${item.subtitle ? `<span class="book-card__subtitle">${item.subtitle}</span>` : ''}
+          <span class="book-card__meta">${countLabel}</span>
           <span class="book-card__arrow">→</span>
         </a>`;
       }
@@ -106,31 +147,31 @@
     let html = '';
     let currentGroup = null;
 
-    for (const book of CONTENT_MAP) {
-      // Insert group header when the group changes
-      if (book.group !== currentGroup) {
-        currentGroup = book.group;
+    for (const item of CONTENT_MAP) {
+      if (item.group !== currentGroup) {
+        currentGroup = item.group;
         const groupDef = CONTENT_GROUPS.find(g => g.id === currentGroup);
         if (groupDef) {
           html += `<div class="sidebar-group-header">${groupDef.title}</div>`;
         }
       }
 
-      html += `<details id="book-${book.id}">
+      const entries = getItems(item);
+      html += `<details id="cat-${item.id}">
         <summary class="book-title">
-          <span class="book-label">${book.title}</span>
-          ${book.subtitle ? `<span class="book-subtitle">${book.subtitle}</span>` : ''}
+          <span class="book-label">${item.title}</span>
+          ${item.subtitle ? `<span class="book-subtitle">${item.subtitle}</span>` : ''}
         </summary>
         <ul class="chapter-list">`;
-      for (const ch of book.chapters) {
-        const chKey = ch.file ? ch.file.replace(/\.md$/, '') : ch.id;
+      for (const entry of entries) {
+        const entryKey = entry.file ? entry.file.replace(/\.md$/, '') : entry.id;
         html += `<li><a
-          href="#${book.id}/${chKey}"
+          href="#${item.id}/${entryKey}"
           class="chapter-link"
-          data-book="${book.id}"
-          data-chapter="${chKey}"
-          data-label="${ch.label || ch.title}"
-        >${ch.label || ch.title}</a></li>`;
+          data-cat="${item.id}"
+          data-entry="${entryKey}"
+          data-label="${entry.label || entry.title}"
+        >${entry.label || entry.title}</a></li>`;
       }
       html += `</ul></details>`;
     }
@@ -138,68 +179,67 @@
     sidebarBooks.innerHTML = html;
   }
 
-  function setActiveChapter(bookId, chapterId) {
+  function setActiveEntry(catId, entryId) {
     document.querySelectorAll('.chapter-link').forEach(el => {
       el.classList.toggle(
         'active',
-        el.dataset.book === bookId && el.dataset.chapter === chapterId
+        el.dataset.cat === catId && el.dataset.entry === entryId
       );
     });
     document.querySelectorAll('#sidebar-books details').forEach(details => {
-      details.open = (details.id === `book-${bookId}`);
+      details.open = (details.id === `cat-${catId}`);
     });
   }
 
   // ── Routing ───────────────────────────────────────────────────
   function onHashChange() {
     const hash = window.location.hash.slice(1);
-    const [bookId, chapterId] = hash.split('/');
-    if (bookId && chapterId) {
+    const [catId, ...rest] = hash.split('/');
+    const entryId = rest.join('/');  // support subdirectory paths in entry ids
+    if (catId && entryId) {
       showReader();
-      navigateTo(bookId, chapterId);
+      navigateTo(catId, entryId);
     } else {
       showLanding();
     }
   }
 
   // ── Navigation ────────────────────────────────────────────────
-  async function navigateTo(bookId, chapterId) {
-    const book = CONTENT_MAP.find(b => b.id === bookId);
-    if (!book) return;
-    // Find chapter by flexible matching:
-    // - match canonical file stem (e.g. cap01_name)
-    // - match stored id
-    // - tolerate URL-encoded chapterId
-    const chapter = book.chapters.find(c => {
-      const key = c.file ? c.file.replace(/\.md$/, '') : String(c.id);
+  async function navigateTo(catId, entryId) {
+    const cat = CONTENT_MAP.find(c => c.id === catId);
+    if (!cat) return;
+
+    const entries = getItems(cat);
+    const entry = entries.find(e => {
+      const key = e.file ? e.file.replace(/\.md$/, '') : String(e.id);
       try {
-        return key === chapterId || String(c.id) === chapterId || key === decodeURIComponent(chapterId) || decodeURIComponent(String(c.id)) === chapterId;
-      } catch (e) {
-        return key === chapterId || String(c.id) === chapterId;
+        return key === entryId || String(e.id) === entryId || key === decodeURIComponent(entryId) || decodeURIComponent(String(e.id)) === entryId;
+      } catch (err) {
+        return key === entryId || String(e.id) === entryId;
       }
     });
-    if (!chapter) return;
+    if (!entry) return;
 
-    const canonicalId = chapter.file ? chapter.file.replace(/\.md$/, '') : String(chapter.id);
+    const canonicalId = entry.file ? entry.file.replace(/\.md$/, '') : String(entry.id);
 
-    const newHash = `#${bookId}/${canonicalId}`;
+    const newHash = `#${catId}/${canonicalId}`;
     if (window.location.hash !== newHash) {
       history.replaceState(null, '', newHash);
     }
-    setActiveChapter(bookId, canonicalId);
-    updatePrevNext(bookId, canonicalId);
+    setActiveEntry(catId, canonicalId);
+    updatePrevNext(catId, canonicalId);
     closeSidebar();
 
     contentEl.innerHTML = '<div class="loading">Carregando</div>';
 
-    const url = buildRawUrl(book.path, chapter.file);
+    const url = buildRawUrl(cat.path, entry.file);
     try {
-      const md = await fetchChapter(url);
-      renderMarkdown(md);
+      const md = await fetchContent(url);
+      renderMarkdown(md, catId);
     } catch (err) {
       contentEl.innerHTML = `
         <div class="error">
-          <p>Erro ao carregar o capítulo.</p>
+          <p>Erro ao carregar o conteúdo.</p>
           <p><a href="${url}" target="_blank" rel="noopener">Tentar abrir o arquivo diretamente</a></p>
           <p class="error-hint">Se estiver testando localmente, certifique-se de servir via HTTP (não file://).<br>
           Se estiver no GitHub Pages, verifique as configurações em <code>docs/js/config.js</code>.</p>
@@ -214,56 +254,19 @@
   function buildRawUrl(repoPath, filename) {
     const base = `https://raw.githubusercontent.com/${CONFIG.GITHUB_USER}/${CONFIG.GITHUB_REPO}/${CONFIG.GITHUB_BRANCH}`;
     const encoded = repoPath.split('/').map(encodeURIComponent).join('/');
-    return `${base}/${encoded}/${encodeURIComponent(filename)}`;
+    // filename may contain subdirectory paths (e.g. "Criacao_de_Personagem/Passo_a_Passo_Criacao.md")
+    const encodedFile = filename.split('/').map(encodeURIComponent).join('/');
+    return `${base}/${encoded}/${encodedFile}`;
   }
 
-  async function fetchChapter(url) {
-    console.debug(`[reader] fetching: ${url}`);
+  async function fetchContent(url) {
     const res = await fetch(url);
-    console.debug(`[reader] fetched: ${url} -> ${res.status}`);
-    if (!res.ok) {
-      // Small inline log to help debugging in-page when a fetch fails.
-      try {
-        if (contentEl) {
-          const note = document.createElement('div');
-          note.className = 'fetch-log fetch-log--error';
-          note.textContent = `Erro ao buscar ${url} — HTTP ${res.status}`;
-          note.style.color = '#b91c1c';
-          note.style.fontSize = '0.9rem';
-          note.style.marginTop = '1rem';
-          contentEl.appendChild(note);
-        }
-      } catch (e) {
-        console.warn('[reader] could not append fetch log', e);
-      }
-      throw new Error(`HTTP ${res.status}`);
-    }
-
-    const text = await res.text();
-    // brief success indicator (auto-clears)
-    try {
-      if (contentEl) {
-        const prev = document.querySelector('.fetch-log');
-        if (prev) prev.remove();
-        const ok = document.createElement('div');
-        ok.className = 'fetch-log fetch-log--ok';
-        ok.textContent = `Carregado: ${url} — HTTP ${res.status}`;
-        ok.style.color = '#065f46';
-        ok.style.fontSize = '0.8rem';
-        ok.style.opacity = '0.8';
-        ok.style.marginTop = '0.5rem';
-        contentEl.appendChild(ok);
-        setTimeout(() => { try { ok.remove(); } catch (e) {} }, 2200);
-      }
-    } catch (e) {
-      console.warn('[reader] could not show fetch success', e);
-    }
-
-    return text;
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.text();
   }
 
   // ── Rendering ─────────────────────────────────────────────────
-  function renderMarkdown(md) {
+  function renderMarkdown(md, currentCatId) {
     marked.setOptions({ breaks: true, gfm: true });
     md = md.replace(/^---\n[\s\S]*?\n---\n/, '');
     contentEl.innerHTML = marked.parse(md);
@@ -273,32 +276,76 @@
       a.setAttribute('rel', 'noopener noreferrer');
     });
 
-    // Convert links to local .md files into reader hashes. If we're
-    // currently viewing a book, include its id so the link navigates
-    // within the same book (e.g. #AAV-0/cap01_name).
-    const currentHash = window.location.hash.slice(1);
-    const [currentBookId] = currentHash.split('/');
+    // Convert .md links to reader routes.
+    // Searches current category first, then global index for cross-category links.
     contentEl.querySelectorAll('a[href$=".md"]').forEach(a => {
       const href = a.getAttribute('href');
       if (!href) return;
-      // Ignore absolute URLs and fragment-only links
       if (/^https?:\/\//.test(href) || href.startsWith('#')) return;
+
       const stem = href.replace(/.*\//, '').replace(/\.md$/, '');
-      const target = currentBookId ? `#${currentBookId}/${stem}` : `#${stem}`;
-      a.setAttribute('href', target);
+
+      // Check current category first
+      const currentCat = CONTENT_MAP.find(c => c.id === currentCatId);
+      const inCurrentCat = currentCat && getItems(currentCat).some(e => {
+        const key = e.file ? e.file.replace(/\.md$/, '') : String(e.id);
+        // Match full path or bare filename
+        return key === stem || (key.includes('/') && key.split('/').pop() === stem);
+      });
+
+      if (inCurrentCat) {
+        // Find the actual entry id (may include subdirectory)
+        const matchedEntry = getItems(currentCat).find(e => {
+          const key = e.file ? e.file.replace(/\.md$/, '') : String(e.id);
+          return key === stem || (key.includes('/') && key.split('/').pop() === stem);
+        });
+        const entryKey = matchedEntry
+          ? (matchedEntry.file ? matchedEntry.file.replace(/\.md$/, '') : String(matchedEntry.id))
+          : stem;
+        a.setAttribute('href', `#${currentCatId}/${entryKey}`);
+      } else if (globalEntryIndex.has(stem)) {
+        const match = globalEntryIndex.get(stem);
+        a.setAttribute('href', `#${match.catId}/${match.entryId}`);
+      } else {
+        a.setAttribute('href', `#${currentCatId}/${stem}`);
+      }
     });
   }
 
   // ── Prev / Next ───────────────────────────────────────────────
-  function updatePrevNext(bookId, chapterId) {
-    const idx = allChapters.findIndex(
-      c => c.bookId === bookId && c.chapterId === chapterId
+  function updatePrevNext(catId, entryId) {
+    // Try READING_ORDER first (for wiki categories)
+    let idx = readingOrder.findIndex(
+      r => r.catId === catId && r.entryId === entryId
     );
-    const prev = idx > 0 ? allChapters[idx - 1] : null;
-    const next = idx < allChapters.length - 1 ? allChapters[idx + 1] : null;
 
+    if (idx !== -1) {
+      const prev = idx > 0 ? readingOrder[idx - 1] : null;
+      const next = idx < readingOrder.length - 1 ? readingOrder[idx + 1] : null;
+      setPrevNext(prev, next);
+      return;
+    }
+
+    // Fallback to allChapters for traditional books
+    idx = allChapters.findIndex(
+      c => c.catId === catId && c.entryId === entryId
+    );
+
+    if (idx !== -1) {
+      const prev = idx > 0 ? allChapters[idx - 1] : null;
+      const next = idx < allChapters.length - 1 ? allChapters[idx + 1] : null;
+      setPrevNext(prev, next);
+      return;
+    }
+
+    // Not in any order — hide buttons
+    btnPrev.style.display = 'none';
+    btnNext.style.display = 'none';
+  }
+
+  function setPrevNext(prev, next) {
     if (prev) {
-      btnPrev.href = `#${prev.bookId}/${prev.chapterId}`;
+      btnPrev.href = `#${prev.catId}/${prev.entryId}`;
       btnPrev.textContent = `← ${prev.title}`;
       btnPrev.style.display = 'inline-block';
     } else {
@@ -306,7 +353,7 @@
     }
 
     if (next) {
-      btnNext.href = `#${next.bookId}/${next.chapterId}`;
+      btnNext.href = `#${next.catId}/${next.entryId}`;
       btnNext.textContent = `${next.title} →`;
       btnNext.style.display = 'inline-block';
     } else {

@@ -1,6 +1,5 @@
-// Academia Arcana Victory — Content Map
-// Defines every book and chapter available in the reader.
-// Order here = order in the sidebar and in prev/next navigation.
+// 3D&T Victory Fan DLC — Content Map
+// Supports both wiki-style categories (AAV Content) and traditional books (BTV, TCV).
 
 // ── Groups (DLC collections) ──────────────────────────────────
 const CONTENT_GROUPS = [
@@ -8,7 +7,7 @@ const CONTENT_GROUPS = [
     id: 'academia',
     title: 'Academia Arcana Victory',
     subtitle: 'Escola de Magia & Aventura',
-    description: 'RPG de escola mágica com 15+ capítulos e 8 suplementos temáticos.',
+    description: 'Wiki interconectada de RPG — explore por categoria ou leia linearmente.',
   },
   {
     id: 'batalha',
@@ -24,189 +23,213 @@ const CONTENT_GROUPS = [
   },
 ];
 
-// ── Books ─────────────────────────────────────────────────────
+// ── Content entries ─────────────────────────────────────────────
 const CONTENT_MAP = [
 
   // ═══════════════════════════════════════════════════════════
-  // ACADEMIA ARCANA VICTORY
+  // ACADEMIA ARCANA VICTORY — Wiki Categories
   // ═══════════════════════════════════════════════════════════
 
   {
-    id: 'livro',
+    id: 'aav-narrativa',
     group: 'academia',
-    title: 'Academia Arcana Victory',
-    subtitle: 'DLC Base de Escola de Magia & Aventura',
-    path: 'Academia Arcana Victory/Livro',
-    chapters: [
-      { id: 'indice', label: 'Indice', file: 'indice.md',                              title: 'Índice Geral' },
-      { id: 'cap00_introducao', label: 'Introdução', file: 'cap00_introducao.md',                    title: 'Cap. 0 — Introdução' },
-      { id: 'cap01_criacao_personagem', label: 'Personagens', file: 'cap01_criacao_personagem.md',            title: 'Cap. 1 — Criação de Personagem' },
-      { id: 'cap02_a_academia', label: 'Academia', file: 'cap02_a_academia.md',                    title: 'Cap. 2 — A Academia' },
-      { id: 'cap03_as_casas', label: 'Gremios', file: 'cap03_as_casas.md',                      title: 'Cap. 3 — Os Grêmios' },
-      { id: 'cap04_professores_npcs', label: 'NPCs', file: 'cap04_professores_npcs.md',              title: 'Cap. 4 — Professores e NPCs' },
-      { id: 'cap05_vida_estudantil', label: 'Estudantes', file: 'cap05_vida_estudantil.md',               title: 'Cap. 5 — Vida Estudantil' },
-      { id: 'cap06_mecanicas', label: 'Sistemas', file: 'cap06_mecanicas.md',                     title: 'Cap. 6 — Novas Mecânicas' },
-      { id: 'cap07_mundo_ao_redor', label: 'Mundo', file: 'cap07_mundo_ao_redor.md',                title: 'Cap. 7 — O Mundo ao Redor' },
-      { id: 'cap08_arrecife_arcano', label: 'Arrecife', file: 'cap08_arrecife_arcano.md',               title: 'Cap. 8 — Arrecife Arcano' },
-      { id: 'cap09_toolkit_mestre', label: 'Mestre', file: 'cap09_toolkit_mestre.md',                title: 'Cap. 9 — Toolkit do Mestre' },
-      { id: 'cap10_campanha', label: 'Campanha', file: 'cap10_campanha.md',                      title: 'Cap. 10 — Estrutura de Campanha' },
-      { id: 'cap11_mais_regras', label: '+Regras', file: 'cap11_mais_regras.md',                   title: 'Cap. 11 — +Regras da Academia' },
-      { id: 'cap12_arsenal_do_arcanauta', label: 'Arsenal', file: 'cap12_arsenal_do_arcanauta.md',          title: 'Cap. 12 — Arsenal do Arcanauta' },
-      { id: 'cap13_modulo_inicio', label: 'Aventura', file: 'cap13_modulo_inicio.md',                 title: 'Cap. 13 — Módulo de Início' },
-      { id: 'cap14_o_custo_da_magia', label: 'Custo', file: 'cap14_o_custo_da_magia.md',              title: 'Cap. 14 — O Custo da Magia' },
-      { id: 'cap15_os_renegados', label: 'Renegados', file: 'cap15_os_renegados.md',                  title: 'Cap. 15 — Os Renegados' },
-      { id: 'Ficha_de_Personagem_Academia_Arcana', label: 'Ficha', file: 'Ficha_de_Personagem_Academia_Arcana.md', title: 'Ficha de Personagem' },
+    title: 'Narrativa e Contexto',
+    subtitle: 'Cenas, atmosfera, guia do estudante',
+    path: 'Academia Arcana Victory/Content/00_Narrativa_e_Contexto',
+    entries: [
+      { id: 'Guia_do_Estudante',              label: 'Guia do Estudante',              file: 'Guia_do_Estudante.md' },
+      { id: 'Cenas_e_Atmosfera',              label: 'Cenas e Atmosfera',              file: 'Cenas_e_Atmosfera.md' },
+      { id: 'Detalhes_e_Curiosidades',         label: 'Detalhes e Curiosidades',         file: 'Detalhes_e_Curiosidades.md' },
+      { id: 'Exemplos_de_Personagem_e_Gremio', label: 'Exemplos de Personagem e Grêmio', file: 'Exemplos_de_Personagem_e_Gremio.md' },
     ],
   },
 
   {
-    id: 'AAV-0',
+    id: 'aav-regras',
     group: 'academia',
-    title: 'A Verdade da Arca',
-    subtitle: 'Suspense institucional',
-    path: 'Academia Arcana Victory/Suplementos/L0_A_Verdade_da_Arca',
-    chapters: [
-      { id: 'README', label: 'visao-geral', file: 'README.md',                        title: 'Visão Geral' },
-      { id: 'cap00_a_linha_do_tempo', label: 'Linha do Tempo', file: 'cap00_a_linha_do_tempo.md',         title: 'Cap. 0 — A Linha do Tempo' },
-      { id: 'cap01_protocolo_ala_leste', label: 'Protocolo Ala Leste', file: 'cap01_protocolo_ala_leste.md',      title: 'Cap. 1 — Protocolo Ala Leste' },
-      { id: 'cap02_o_calouro_que_sumiu', label: 'O Calouro que Sumiu', file: 'cap02_o_calouro_que_sumiu.md',      title: 'Cap. 2 — O Calouro que Sumiu' },
-      { id: 'cap03_quando_a_arca_estremece', label: 'Quando a Arca Estremece', file: 'cap03_quando_a_arca_estremece.md',  title: 'Cap. 3 — Quando a Arca Estremece' },
-      { id: 'cap04_pos_graduacao_os_mestres', label: 'Pós-Graduação: Os Mestres', file: 'cap04_pos_graduacao_os_mestres.md', title: 'Cap. 4 — Pós-Graduação: Os Mestres' },
-      { id: 'apendice_como_modular', label: 'Como Modular', file: 'apendice_como_modular.md',          title: 'Apêndice — Como Modular' },
-      { id: 'apendice_gremios_e_escolas', label: 'Grêmios e Escolas', file: 'apendice_gremios_e_escolas.md',     title: 'Apêndice — Grêmios e Escolas' },
+    title: 'Regras e Subsistemas',
+    subtitle: 'Criação de personagem, magia, kits, MagiDerby',
+    path: 'Academia Arcana Victory/Content/01_Regras_e_Subsistemas',
+    entries: [
+      // Criação de Personagem
+      { id: 'Passo_a_Passo_Criacao',       label: 'Criação Passo a Passo',     file: 'Criacao_de_Personagem/Passo_a_Passo_Criacao.md' },
+      { id: 'Vantagens_e_Desvantagens',    label: 'Vantagens e Desvantagens',  file: 'Criacao_de_Personagem/Vantagens_e_Desvantagens.md' },
+      { id: 'Sistema_de_Familiar',         label: 'Sistema de Familiar',       file: 'Criacao_de_Personagem/Sistema_de_Familiar.md' },
+      { id: 'Sistema_de_Legado_Heranca',   label: 'Sistema de Legado',         file: 'Criacao_de_Personagem/Sistema_de_Legado_Heranca.md' },
+      { id: 'Ficha_de_Personagem',         label: 'Ficha de Personagem',       file: 'Criacao_de_Personagem/Ficha_de_Personagem.md' },
+      // Kits
+      { id: 'Kits_da_Academia_Base',       label: 'Kits da Academia',          file: 'Kits/Kits_da_Academia_Base.md' },
+      // Magia e Sistemas
+      { id: 'Especializacoes_e_Pericias_Magicas', label: 'Especializações e Perícias', file: 'Magia_e_Sistemas/Especializacoes_e_Pericias_Magicas.md' },
+      { id: 'Magia_Improvisada',           label: 'Magia Improvisada',         file: 'Magia_e_Sistemas/Magia_Improvisada.md' },
+      { id: 'O_Custo_da_Magia',            label: 'O Custo da Magia',          file: 'Magia_e_Sistemas/O_Custo_da_Magia.md' },
+      { id: 'Fragmentacao_e_Magia_Dificil', label: 'Fragmentação e Magia Difícil', file: 'Magia_e_Sistemas/Fragmentacao_e_Magia_Dificil.md' },
+      { id: 'Somatica_Arcana_e_Vicio',     label: 'Somática Arcana e Vício',   file: 'Magia_e_Sistemas/Somatica_Arcana_e_Vicio.md' },
+      { id: 'Palavras_de_Poder_e_Nomes',   label: 'Palavras de Poder',         file: 'Magia_e_Sistemas/Palavras_de_Poder_e_Nomes.md' },
+      { id: 'Glifomagia_e_Trilha_Unica',   label: 'Glifomagia',               file: 'Magia_e_Sistemas/Glifomagia_e_Trilha_Unica.md' },
+      { id: 'Metalurgia_Arcana',            label: 'Metalurgia Arcana',         file: 'Magia_e_Sistemas/Metalurgia_Arcana.md' },
+      { id: 'Tipos_de_Dano_Arcano',         label: 'Tipos de Dano Arcano',      file: 'Magia_e_Sistemas/Tipos_de_Dano_Arcano.md' },
+      { id: 'Marcadores_de_Chi_e_Elementos', label: 'Marcadores de Chi',        file: 'Magia_e_Sistemas/Marcadores_de_Chi_e_Elementos.md' },
+      { id: 'Pressao_Ambiental_e_Afinidade', label: 'Pressão Ambiental',        file: 'Magia_e_Sistemas/Pressao_Ambiental_e_Afinidade.md' },
+      { id: 'Sistema_de_Grimorios',          label: 'Sistema de Grimórios',      file: 'Magia_e_Sistemas/Sistema_de_Grimorios.md' },
+      { id: 'Essencia_Magica_e_Portais',     label: 'Essência Mágica e Portais', file: 'Magia_e_Sistemas/Essencia_Magica_e_Portais.md' },
+      { id: 'Desejos_e_Tribunal_das_Fadas',  label: 'Desejos e Tribunal das Fadas', file: 'Magia_e_Sistemas/Desejos_e_Tribunal_das_Fadas.md' },
+      { id: 'Consequencia_Criativa',          label: 'Consequência Criativa',     file: 'Magia_e_Sistemas/Consequencia_Criativa.md' },
+      { id: 'O_Avesso_e_Vida_Dupla',         label: 'O Avesso e Vida Dupla',     file: 'Magia_e_Sistemas/O_Avesso_e_Vida_Dupla.md' },
+      { id: 'Vinculos_de_Campanha',           label: 'Vínculos de Campanha',      file: 'Magia_e_Sistemas/Vinculos_de_Campanha.md' },
+      // MagiDerby
+      { id: 'Regras_MagiDerby',              label: 'MagiDerby',                 file: 'MagiDerby/Regras_MagiDerby.md' },
     ],
   },
 
   {
-    id: 'AAV-1',
+    id: 'aav-escolas',
     group: 'academia',
-    title: 'Estrelas & Cristais',
-    subtitle: 'Luminoso, épico, otimista',
-    path: 'Academia Arcana Victory/Suplementos/L1_Estrelas_e_Cristais',
-    chapters: [
-      { id: 'README', label: 'visao-geral', file: 'README.md',                          title: 'Visão Geral' },
-      { id: 'cap00_mahou_shoujo_na_mesa', label: 'Mahou Shoujo', file: 'cap00_mahou_shoujo_na_mesa.md',       title: 'Cap. 0 — Mahou Shoujo na Mesa' },
-      { id: 'cap01_sentinelas_do_solsticio', label: 'Sentinelas do Solstício', file: 'cap01_sentinelas_do_solsticio.md',    title: 'Cap. 1 — Sentinelas do Solstício' },
-      { id: 'cap02_artefatos_errantes', label: 'Guardiãs de Coleção', file: 'cap02_artefatos_errantes.md',         title: 'Cap. 2 — Guardiãs de Coleção' },
-      { id: 'cap03_parceiras_de_ressonancia', label: 'Parceiras de Ressonância', file: 'cap03_parceiras_de_ressonancia.md',   title: 'Cap. 3 — Parceiras de Ressonância' },
-      { id: 'cap04_cavaleiras_do_vortice', label: 'Cavaleiras do Vórtice', file: 'cap04_cavaleiras_do_vortice.md',      title: 'Cap. 4 — Cavaleiras do Vórtice' },
-      { id: 'cap05_o_primeiro_derby', label: 'O Primeiro Derby', file: 'cap05_o_primeiro_derby.md',           title: 'Cap. 5 — O Primeiro Derby' },
-      { id: 'cap06_mecanica_de_transformacao', label: 'Mecânica de Transformação', file: 'cap06_mecanica_de_transformacao.md',  title: 'Cap. 6 — Mecânica de Transformação' },
-      { id: 'cap07_o_primeiro_despertar', label: 'O Primeiro Despertar', file: 'cap07_o_primeiro_despertar.md',       title: 'Cap. 7 — O Primeiro Despertar' },
-      { id: 'apendice_gremios_e_escolas', label: 'Grêmios e Escolas', file: 'apendice_gremios_e_escolas.md',       title: 'Apêndice — Grêmios e Escolas' },
+    title: 'Escolas e Instituições',
+    subtitle: 'A Academia, escolas internacionais, ordens',
+    path: 'Academia Arcana Victory/Content/02_Escolas_e_Instituicoes',
+    entries: [
+      // Academia Arcana Victory
+      { id: 'Historia_e_Fundacao',        label: 'História e Fundação',            file: 'Academia_Arcana_Victory/Historia_e_Fundacao.md' },
+      { id: 'O_Campus',                   label: 'O Campus',                       file: 'Academia_Arcana_Victory/O_Campus.md' },
+      { id: 'Admissao_e_Regras',          label: 'Admissão e Regras',              file: 'Academia_Arcana_Victory/Admissao_e_Regras.md' },
+      { id: 'A_Ala_Leste',                label: 'A Ala Leste',                    file: 'Academia_Arcana_Victory/A_Ala_Leste.md' },
+      // Escolas Internacionais
+      { id: 'Academia_Thornwall',          label: 'Academia Thornwall',             file: 'Escolas_Internacionais/Academia_Thornwall.md' },
+      { id: 'Brambleshire_Academy',        label: 'Brambleshire Academy',           file: 'Escolas_Internacionais/Brambleshire_Academy.md' },
+      { id: 'Universidade_de_Saleth',      label: 'Universidade de Saleth',         file: 'Escolas_Internacionais/Universidade_de_Saleth.md' },
+      // Ordens e Academias Alternativas
+      { id: 'Escola_de_Farhaven',          label: 'Escola de Farhaven',             file: 'Ordens_e_Academias_Alternativas/Escola_de_Farhaven.md' },
+      { id: 'Colegiado_de_Thaumaturgia',   label: 'Colegiado de Thaumaturgia',      file: 'Ordens_e_Academias_Alternativas/Colegiado_de_Thaumaturgia.md' },
+      { id: 'Escolas_das_Quatro_Formas',   label: 'Escolas das Quatro Formas',      file: 'Ordens_e_Academias_Alternativas/Escolas_das_Quatro_Formas.md' },
+      { id: 'Ordem_dos_Cavaleiros_do_Eco', label: 'Ordem dos Cavaleiros do Eco',    file: 'Ordens_e_Academias_Alternativas/Ordem_dos_Cavaleiros_do_Eco.md' },
+      { id: 'Ordem_dos_Glifeiros',         label: 'Ordem dos Glifeiros',            file: 'Ordens_e_Academias_Alternativas/Ordem_dos_Glifeiros.md' },
+      { id: 'Ordem_das_Convergencias',     label: 'Ordem das Convergências',        file: 'Ordens_e_Academias_Alternativas/Ordem_das_Convergencias.md' },
+      { id: 'Gremio_Raizes',               label: 'Grêmio Raízes',                 file: 'Ordens_e_Academias_Alternativas/Gremio_Raizes.md' },
     ],
   },
 
   {
-    id: 'AAV-2',
+    id: 'aav-mundo',
     group: 'academia',
-    title: 'Tinta & Sombras',
-    subtitle: 'Sombrio, horror atmosférico',
-    path: 'Academia Arcana Victory/Suplementos/L2_Tinta_e_Sombras',
-    chapters: [
-      { id: 'README', label: 'visao-geral', file: 'README.md',                          title: 'Visão Geral' },
-      { id: 'cap00_calibrando_a_escuridao', label: 'Calibrando a Escuridão', file: 'cap00_calibrando_a_escuridao.md',     title: 'Cap. 0 — Calibrando a Escuridão' },
-      { id: 'cap01_a_escola_de_farhaven', label: 'A Escola de Farhaven', file: 'cap01_a_escola_de_farhaven.md',           title: 'Cap. 1 — A Escola de Farhaven' },
-      { id: 'cap02_o_colegiado_de_thaumaturgia_aplicada', label: 'O Colegiado de Thaumaturgia Aplicada', file: 'cap02_o_colegiado_de_thaumaturgia_aplicada.md',              title: 'Cap. 2 — O Colegiado de Thaumaturgia Aplicada' },
-      { id: 'cap03_somatica_arcana', label: 'Somática Arcana', file: 'cap03_somatica_arcana.md',            title: 'Cap. 3 — Somática Arcana' },
-      { id: 'cap04_academia_gotica', label: 'Academia Gótica', file: 'cap04_academia_gotica.md',            title: 'Cap. 4 — Academia Gótica' },
-      { id: 'cap05_o_crisol_sem_mestre', label: 'O Crisol Sem Mestre', file: 'cap05_o_crisol_sem_mestre.md',        title: 'Cap. 5 — O Crisol Sem Mestre' },
-      { id: 'cap06_a_noite_na_biblioteca', label: 'A Noite na Biblioteca', file: 'cap06_a_noite_na_biblioteca.md',      title: 'Cap. 6 — A Noite na Biblioteca' },
-      { id: 'cap07_a_aula_que_nao_acabou', label: 'A Aula que Não Acabou', file: 'cap07_a_aula_que_nao_acabou.md',      title: 'Cap. 7 — A Aula que Não Acabou' },
-      { id: 'apendice_gremios_e_escolas', label: 'Grêmios e Escolas', file: 'apendice_gremios_e_escolas.md',       title: 'Apêndice — Grêmios e Escolas' },
+    title: 'Mundo e Locais',
+    subtitle: 'A Era das Arcas, cidades, dimensões',
+    path: 'Academia Arcana Victory/Content/03_Mundo_e_Locais',
+    entries: [
+      { id: 'A_Era_das_Arcas',             label: 'A Era das Arcas',              file: 'A_Era_das_Arcas.md' },
+      // Cidades
+      { id: 'Arrecife_Arcano',             label: 'Arrecife Arcano',              file: 'Cidades/Arrecife_Arcano.md' },
+      { id: 'Caldeira',                    label: 'Caldeira',                     file: 'Cidades/Caldeira.md' },
+      { id: 'Lutharin',                    label: 'Lutharin',                     file: 'Cidades/Lutharin.md' },
+      { id: 'Neo_Sampa',                   label: 'Neo Sampa',                    file: 'Cidades/Neo_Sampa.md' },
+      { id: 'Vallindra',                   label: 'Vallindra',                    file: 'Cidades/Vallindra.md' },
+      // Dimensões
+      { id: 'Dimensoes_Alternativas',      label: 'Dimensões Alternativas',       file: 'Dimensoes/Dimensoes_Alternativas.md' },
+      { id: 'O_Avesso',                    label: 'O Avesso',                     file: 'Dimensoes/O_Avesso.md' },
     ],
   },
 
   {
-    id: 'AAV-3',
+    id: 'aav-gremios',
     group: 'academia',
-    title: 'Palavras de Poder',
-    subtitle: 'Contemplativo, rigoroso',
-    path: 'Academia Arcana Victory/Suplementos/L3_Palavras_de_Poder',
-    chapters: [
-      { id: 'README', label: 'visao-geral', file: 'README.md',                               title: 'Visão Geral' },
-      { id: 'cap00_palavras_que_fazem_coisas', label: 'Palavras e Poder', file: 'cap00_palavras_que_fazem_coisas.md',       title: 'Cap. 0 — Palavras que Fazem Coisas' },
-      { id: 'cap01_a_universidade_de_saleth', label: 'Saleth', file: 'cap01_a_universidade_de_saleth.md',        title: 'Cap. 1 — A Universidade de Saleth' },
-      { id: 'cap02_a_ordem_dos_cavaleiros_do_eco', label: 'Cavaleiros do Eco', file: 'cap02_a_ordem_dos_cavaleiros_do_eco.md',   title: 'Cap. 2 — Cavaleiros do Eco' },
-      { id: 'cap03_nomes_verdadeiros', label: 'Nomes Verdadeiros', file: 'cap03_nomes_verdadeiros.md',               title: 'Cap. 3 — Nomes Verdadeiros' },
-      { id: 'cap04_hard_soft_gradiente', label: 'Hard, Soft & o Gradiente', file: 'cap04_hard_soft_gradiente.md',             title: 'Cap. 4 — Hard, Soft & o Gradiente' },
-      { id: 'cap05_o_nome_que_o_grimorio_esqueceu', label: 'O Nome que o Grimório Esqueceu', file: 'cap05_o_nome_que_o_grimorio_esqueceu.md',  title: 'Cap. 5 — O Nome que o Grimório Esqueceu' },
-      { id: 'apendice_gremios_e_escolas', label: 'Grêmios e Escolas', file: 'apendice_gremios_e_escolas.md',            title: 'Apêndice — Grêmios e Escolas' },
+    title: 'Grêmios e Facções',
+    subtitle: 'Grêmios principais, facções e sociedades secretas',
+    path: 'Academia Arcana Victory/Content/04_Gremios_e_Faccoes',
+    entries: [
+      // Grêmios Principais
+      { id: 'Filosofia_e_Bussola_Arcana',  label: 'Filosofia e Bússola Arcana',   file: 'Gremios_Principais/Filosofia_e_Bussola_Arcana.md' },
+      { id: 'Casa_da_Coroa',               label: 'Casa da Coroa',                file: 'Gremios_Principais/Casa_da_Coroa.md' },
+      { id: 'Castelo_Obsidiana',            label: 'Castelo Obsidiana',            file: 'Gremios_Principais/Castelo_Obsidiana.md' },
+      { id: 'Egide',                        label: 'Égide',                        file: 'Gremios_Principais/Egide.md' },
+      { id: 'Gremio_do_Subsolo',            label: 'Grêmio do Subsolo',            file: 'Gremios_Principais/Gremio_do_Subsolo.md' },
+      { id: 'Gremio_Memoria',               label: 'Grêmio Memória',               file: 'Gremios_Principais/Gremio_Memoria.md' },
+      { id: 'Gremio_Monsoon',               label: 'Grêmio Monsoon',               file: 'Gremios_Principais/Gremio_Monsoon.md' },
+      { id: 'Gremio_Sintese',               label: 'Grêmio Síntese',               file: 'Gremios_Principais/Gremio_Sintese.md' },
+      { id: 'Nova_Aurora',                   label: 'Nova Aurora',                   file: 'Gremios_Principais/Nova_Aurora.md' },
+      // Facções e Sociedades
+      { id: 'Gremio_Chama_Livre',            label: 'Grêmio Chama Livre',           file: 'Faccoes_e_Sociedades/Gremio_Chama_Livre.md' },
+      { id: 'Sociedades_Secretas',            label: 'Sociedades Secretas',           file: 'Faccoes_e_Sociedades/Sociedades_Secretas.md' },
     ],
   },
 
   {
-    id: 'AAV-4',
+    id: 'aav-personagens',
     group: 'academia',
-    title: 'Sangue & Legado',
-    subtitle: 'Aventureiro, institucional',
-    path: 'Academia Arcana Victory/Suplementos/L4_Sangue_e_Legado',
-    chapters: [
-      { id: 'README', label: 'visao-geral', file: 'README.md',                          title: 'Visão Geral' },
-      { id: 'cap00_linhagem_como_mecanica', label: 'Linhagem como Mecânica', file: 'cap00_linhagem_como_mecanica.md',     title: 'Cap. 0 — Linhagem como Mecânica' },
-      { id: 'cap01_academia_thornwall', label: 'Academia Thornwall', file: 'cap01_academia_thornwall.md',         title: 'Cap. 1 — Academia Thornwall' },
-      { id: 'cap02_campo_das_convergencias', label: 'Campo das Convergências', file: 'cap02_campo_das_convergencias.md',    title: 'Cap. 2 — Campo das Convergências' },
-      { id: 'cap03_ordem_dos_glifeiros', label: 'Ordem dos Glifeiros', file: 'cap03_ordem_dos_glifeiros.md',        title: 'Cap. 3 — Ordem dos Glifeiros' },
-      { id: 'cap04_sociedades_secretas', label: 'Sociedades Secretas', file: 'cap04_sociedades_secretas.md',        title: 'Cap. 4 — Sociedades Secretas' },
-      { id: 'cap05_manual_do_estudante_arcano', label: 'Manual do Estudante Arcano', file: 'cap05_manual_do_estudante_arcano.md', title: 'Cap. 5 — Manual do Estudante Arcano' },
-      { id: 'cap06_a_outra_escola_brambleshire', label: 'A Outra Escola: Brambleshire', file: 'cap06_a_outra_escola_brambleshire.md',title: 'Cap. 6 — A Outra Escola: Brambleshire' },
-      { id: 'cap07_o_torneio_das_escolas', label: 'O Torneio das Escolas', file: 'cap07_o_torneio_das_escolas.md',      title: 'Cap. 7 — O Torneio das Escolas' },
-      { id: 'apendice_opcoes_de_personagem', label: 'Opções de Personagem', file: 'apendice_opcoes_de_personagem.md',    title: 'Apêndice — Opções de Personagem' },
+    title: 'Personagens e Bestiário',
+    subtitle: 'Diretoria, professores, estudantes, criaturas',
+    path: 'Academia Arcana Victory/Content/05_Personagens_e_Bestiario',
+    entries: [
+      // A Diretoria
+      { id: 'Talude',                      label: 'Talude',                       file: 'A_Diretoria/Talude.md' },
+      { id: 'Wynna',                       label: 'Wynna',                        file: 'A_Diretoria/Wynna.md' },
+      { id: 'V3ctor1us',                   label: 'V3ctor1us',                    file: 'A_Diretoria/V3ctor1us.md' },
+      // Professores
+      { id: 'Mestres_Seniores',            label: 'Mestres Seniores',             file: 'Professores/Mestres_Seniores.md' },
+      { id: 'Instrutores_de_Campo',        label: 'Instrutores de Campo',         file: 'Professores/Instrutores_de_Campo.md' },
+      { id: 'Outros_Professores',          label: 'Outros Professores',           file: 'Professores/Outros_Professores.md' },
+      { id: 'Professores_Externos',        label: 'Professores Externos',         file: 'Professores/Professores_Externos.md' },
+      // Staff
+      { id: 'Staff_da_Academia',           label: 'Staff da Academia',            file: 'Staff_da_Academia.md' },
+      { id: 'Fadas_Madrinhas',             label: 'Fadas Madrinhas',              file: 'Fadas_Madrinhas.md' },
+      // Estudantes
+      { id: 'Estudantes_da_Academia',      label: 'Estudantes da Academia',       file: 'Estudantes/Estudantes_da_Academia.md' },
+      { id: 'Cavaleiras_e_Parceiras',      label: 'Cavaleiras e Parceiras',       file: 'Estudantes/Cavaleiras_e_Parceiras.md' },
+      { id: 'Sentinelas_e_Guardias',       label: 'Sentinelas e Guardiãs',        file: 'Estudantes/Sentinelas_e_Guardias.md' },
+      { id: 'Estudantes_de_Thornwall',     label: 'Estudantes de Thornwall',      file: 'Estudantes/Estudantes_de_Thornwall.md' },
+      { id: 'Estudantes_Internacionais_e_Rivais', label: 'Estudantes Internacionais', file: 'Estudantes/Estudantes_Internacionais_e_Rivais.md' },
+      { id: 'Era_dos_Metais_e_Raizes',     label: 'Era dos Metais e Raízes',      file: 'Estudantes/Era_dos_Metais_e_Raizes.md' },
+      { id: 'Gremio_Chama_Livre_Estudantes', label: 'Chama Livre (Estudantes)',   file: 'Estudantes/Gremio_Chama_Livre.md' },
+      { id: 'Ordem_das_Convergencias_Estudantes', label: 'Convergências (Estudantes)', file: 'Estudantes/Ordem_das_Convergencias.md' },
+      { id: 'Quatro_Formas',               label: 'Quatro Formas',                file: 'Estudantes/Quatro_Formas.md' },
+      // Bestiário
+      { id: 'Maleficaria_do_Campus',       label: 'Maleficária do Campus',        file: 'Bestiario/Maleficaria_do_Campus.md' },
+      { id: 'Criaturas_Dimensionais',      label: 'Criaturas Dimensionais',       file: 'Bestiario/Criaturas_Dimensionais.md' },
+      { id: 'Demonios',                    label: 'Demônios',                     file: 'Bestiario/Demonios.md' },
+      { id: 'Ameacas_Escalaveis',          label: 'Ameaças Escaláveis',           file: 'Bestiario/Ameacas_Escalaveis.md' },
     ],
   },
 
   {
-    id: 'AAV-5',
+    id: 'aav-vida',
     group: 'academia',
-    title: 'Fogo & Liberdade',
-    subtitle: 'Épico, político',
-    path: 'Academia Arcana Victory/Suplementos/L5_Fogo_e_Liberdade',
-    chapters: [
-      { id: 'README', label: 'visao-geral', file: 'README.md',                      title: 'Visão Geral' },
-      { id: 'cap00_a_revolucao_na_mesa', label: 'A Revolução na Mesa', file: 'cap00_a_revolucao_na_mesa.md',    title: 'Cap. 0 — A Revolução na Mesa' },
-      { id: 'cap01_a_era_dos_metais', label: 'A Era dos Metais', file: 'cap01_a_era_dos_metais.md',       title: 'Cap. 1 — A Era dos Metais' },
-      { id: 'cap02_a_bruxa_coruja', label: 'A Escola da Bruxa Coruja', file: 'cap02_a_bruxa_coruja.md',         title: 'Cap. 2 — A Escola da Bruxa Coruja' },
-      { id: 'cap03_quatro_nacoes', label: 'Quatro Nações', file: 'cap03_quatro_nacoes.md',          title: 'Cap. 3 — Quatro Nações' },
-      { id: 'cap04_caldeira', label: 'Caldeira: Férias Arcanas', file: 'cap04_caldeira.md',               title: 'Cap. 4 — Caldeira: Férias Arcanas' },
-      { id: 'cap05_reputacao_faccional', label: 'Reputação Faccional', file: 'cap05_reputacao_faccional.md',    title: 'Cap. 5 — Reputação Faccional' },
-      { id: 'cap06_o_manifesto', label: 'O Manifesto', file: 'cap06_o_manifesto.md',            title: 'Cap. 6 — O Manifesto' },
-      { id: 'apendice_gremios_e_escolas', label: 'Grêmios e Escolas', file: 'apendice_gremios_e_escolas.md',   title: 'Apêndice — Grêmios e Escolas' },
+    title: 'Vida Estudantil',
+    subtitle: 'Economia, provas, progresso, relacionamentos',
+    path: 'Academia Arcana Victory/Content/06_Vida_Estudantil',
+    entries: [
+      { id: 'O_Ano_Letivo_e_Provas',       label: 'O Ano Letivo e Provas',        file: 'O_Ano_Letivo_e_Provas.md' },
+      { id: 'Economia_e_Campus',            label: 'Economia e Campus',            file: 'Economia_e_Campus.md' },
+      { id: 'Progresso_e_Reputacao',        label: 'Progresso e Reputação',        file: 'Progresso_e_Reputacao.md' },
+      { id: 'Relacionamentos_e_Lacos',      label: 'Relacionamentos e Laços',      file: 'Relacionamentos_e_Lacos.md' },
     ],
   },
 
   {
-    id: 'AAV-6',
+    id: 'aav-mestre',
     group: 'academia',
-    title: 'Laços & Máscaras',
-    subtitle: 'Shōnen, psicológico',
-    path: 'Academia Arcana Victory/Suplementos/L6_Lacos_e_Mascaras',
-    chapters: [
-      { id: 'README', label: 'visao-geral', file: 'README.md',                        title: 'Visão Geral' },
-      { id: 'cap00_lacos_como_sistema', label: 'Laços', file: 'cap00_lacos_como_sistema.md',       title: 'Cap. 0 — Laços como Sistema' },
-      { id: 'cap01_a_academia_ninja', label: 'A Academia Ninja', file: 'cap01_a_academia_ninja.md',         title: 'Cap. 1 — A Academia Ninja' },
-      { id: 'cap02_a_guilda_e_a_familia', label: 'A Guilda e a Família', file: 'cap02_a_guilda_e_a_familia.md',     title: 'Cap. 2 — A Guilda e a Família' },
-      { id: 'cap03_persona_e_o_outro_mundo', label: 'Persona e o Outro Mundo', file: 'cap03_persona_e_o_outro_mundo.md',  title: 'Cap. 3 — Persona e o Outro Mundo' },
-      { id: 'cap04_festival_de_inverno', label: 'Festival de Inverno', file: 'cap04_festival_de_inverno.md',      title: 'Cap. 4 — Festival de Inverno' },
-      { id: 'cap05_progressao_de_vinculo', label: 'Progressão de Vínculo', file: 'cap05_progressao_de_vinculo.md',    title: 'Cap. 5 — Progressão de Vínculo' },
-      { id: 'cap06_a_missao_de_formatura', label: 'A Missão de Formatura', file: 'cap06_a_missao_de_formatura.md',    title: 'Cap. 6 — A Missão de Formatura' },
-      { id: 'apendice_gremios_e_escolas', label: 'Grêmios e Escolas', file: 'apendice_gremios_e_escolas.md',     title: 'Apêndice — Grêmios e Escolas' },
-    ],
-  },
-
-  {
-    id: 'AAV-7',
-    group: 'academia',
-    title: 'Desejos & Portais',
-    subtitle: 'Cômico, colorido',
-    path: 'Academia Arcana Victory/Suplementos/L7_Desejos_e_Portais',
-    chapters: [
-      { id: 'README', label: 'visao-geral', file: 'README.md',                       title: 'Visão Geral' },
-      { id: 'cap00_criatividade_com_paredes', label: 'Paredes', file: 'cap00_criatividade_com_paredes.md',title: 'Cap. 0 — Criatividade com Paredes' },
-      { id: 'cap01_desejos_e_travessuras', label: 'Desejos e Travessuras', file: 'cap01_desejos_e_travessuras.md',   title: 'Cap. 1 — Desejos e Travessuras' },
-      { id: 'cap02_magia_dimensional', label: 'Magia Dimensional', file: 'cap02_magia_dimensional.md',       title: 'Cap. 2 — Magia Dimensional' },
-      { id: 'cap03_consequencia_criativa', label: 'Consequência Criativa', file: 'cap03_consequencia_criativa.md',   title: 'Cap. 3 — Consequência Criativa' },
-      { id: 'cap04_o_desejo_dimensional', label: 'O Desejo Dimensional', file: 'cap04_o_desejo_dimensional.md',    title: 'Cap. 4 — O Desejo Dimensional' },
-      { id: 'apendice_20_dimensoes', label: '20 Dimensões', file: 'apendice_20_dimensoes.md',         title: 'Apêndice — 20 Dimensões' },
+    title: 'Guia do Mestre e Aventuras',
+    subtitle: 'Ferramentas, campanhas, módulos de aventura',
+    path: 'Academia Arcana Victory/Content/07_Guia_do_Mestre_e_Aventuras',
+    entries: [
+      // Ferramentas do Mestre
+      { id: 'A_Campanha_Escolar',           label: 'A Campanha Escolar',           file: 'Ferramentas_do_Mestre/A_Campanha_Escolar.md' },
+      { id: 'Estruturas_Narrativas',        label: 'Estruturas Narrativas',        file: 'Ferramentas_do_Mestre/Estruturas_Narrativas.md' },
+      { id: 'Calibragem_de_Tom_e_Seguranca', label: 'Calibragem de Tom',           file: 'Ferramentas_do_Mestre/Calibragem_de_Tom_e_Seguranca.md' },
+      { id: 'Magia_Hard_e_Soft',            label: 'Magia Hard e Soft',            file: 'Ferramentas_do_Mestre/Magia_Hard_e_Soft.md' },
+      // Aventuras
+      { id: 'Modulo_de_Inicio_Primeiros_Tres_Dias', label: 'Módulo de Início',     file: 'Aventuras/Modulo_de_Inicio_Primeiros_Tres_Dias.md' },
+      { id: 'Campanha_A_Verdade_da_Arca',   label: 'A Verdade da Arca',            file: 'Aventuras/Campanha_A_Verdade_da_Arca.md' },
+      { id: 'O_Primeiro_Despertar',          label: 'O Primeiro Despertar',         file: 'Aventuras/O_Primeiro_Despertar.md' },
+      { id: 'O_Primeiro_Derby',              label: 'O Primeiro Derby',             file: 'Aventuras/O_Primeiro_Derby.md' },
+      { id: 'A_Noite_na_Biblioteca',         label: 'A Noite na Biblioteca',        file: 'Aventuras/A_Noite_na_Biblioteca.md' },
+      { id: 'A_Aula_Que_Nao_Acabou',        label: 'A Aula que Não Acabou',        file: 'Aventuras/A_Aula_Que_Nao_Acabou.md' },
+      { id: 'O_Nome_Que_O_Grimorio_Esqueceu', label: 'O Nome que o Grimório Esqueceu', file: 'Aventuras/O_Nome_Que_O_Grimorio_Esqueceu.md' },
+      { id: 'Festival_de_Inverno',           label: 'Festival de Inverno',          file: 'Aventuras/Festival_de_Inverno.md' },
+      { id: 'O_Torneio_das_Escolas',         label: 'O Torneio das Escolas',        file: 'Aventuras/O_Torneio_das_Escolas.md' },
+      { id: 'O_Manifesto',                   label: 'O Manifesto',                  file: 'Aventuras/O_Manifesto.md' },
+      { id: 'A_Missao_de_Formatura',         label: 'A Missão de Formatura',        file: 'Aventuras/A_Missao_de_Formatura.md' },
+      { id: 'O_Desejo_Dimensional',          label: 'O Desejo Dimensional',         file: 'Aventuras/O_Desejo_Dimensional.md' },
+      { id: 'Campanha_Caldeira_Ferias_Arcanas', label: 'Caldeira: Férias Arcanas',  file: 'Aventuras/Campanha_Caldeira_Ferias_Arcanas.md' },
+      { id: 'Campanha_Brambleshire_Academy', label: 'Campanha Brambleshire',        file: 'Aventuras/Campanha_Brambleshire_Academy.md' },
     ],
   },
 
@@ -269,27 +292,6 @@ const CONTENT_MAP = [
       { id: 'cap07_campanhas_maritimas', label: 'Campanhas Marítimas', file: 'cap07_campanhas_maritimas.md',          title: 'Cap. 7 — Campanhas Marítimas' },
     ],
   },
-/*
-  {
-    id: 'btv-coroas',
-    group: 'batalha',
-    title: 'Guerra das Coroas',
-    subtitle: 'Campanha medieval de cerco, logística e política de guerra',
-    path: 'Batalha Total Victory/Suplementos/Guerra_das_Coroas',
-    chapters: [
-      { id: 'indice', label: 'Índice', file: 'indice.md',                           title: 'Índice' },
-      { id: '00_introducao_guerra_das_coroas', label: 'Introdução', file: '00_introducao_guerra_das_coroas.md',    title: 'Introdução' },
-      { id: 'cap01_escalas_na_terra', label: 'Escalas na Terra', file: 'cap01_escalas_na_terra.md',            title: 'Cap. 1 — Escalas na Terra' },
-      { id: 'cap02_campo_de_batalha_medieval', label: 'Campo de Batalha Medieval', file: 'cap02_campo_de_batalha_medieval.md',  title: 'Cap. 2 — Campo de Batalha Medieval' },
-      { id: 'cap03_exercitos_e_companhias', label: 'Exércitos e Companhias', file: 'cap03_exercitos_e_companhias.md',      title: 'Cap. 3 — Exércitos e Companhias' },
-      { id: 'cap04_cercos_e_fortalezas', label: 'Cercos e Fortalezas', file: 'cap04_cercos_e_fortalezas.md',          title: 'Cap. 4 — Cercos e Fortalezas' },
-      { id: 'cap05_logistica_e_estacoes', label: 'Logística e Estações', file: 'cap05_logistica_e_estacoes.md',         title: 'Cap. 5 — Logística e Estações' },
-      { id: 'cap06_faccoes_e_personagens', label: 'Facções e Personagens', file: 'cap06_faccoes_e_personagens.md',        title: 'Cap. 6 — Facções e Personagens' },
-      { id: 'cap07_campanhas_de_reino', label: 'Campanhas de Reino', file: 'cap07_campanhas_de_reino.md',          title: 'Cap. 7 — Campanhas de Reino' },
-      { id: 'legacy_apendice_a_fantasia_medieval', label: 'Legacy A (Core)', file: 'legacy_apendice_a_fantasia_medieval.md',          title: 'Legacy — Apêndice A (Core)' },
-    ],
-  },
-  */
 
   // ═══════════════════════════════════════════════════════════
   // TELECATCH VICTORY
@@ -336,16 +338,151 @@ const CONTENT_MAP = [
   },
 ];
 
-  // Normalize chapter ids: preserve existing human-readable `id` into `label`,
-  // and set `id` to the filename stem (without .md) for canonical matching.
-  for (const book of CONTENT_MAP) {
-    if (!book.chapters) continue;
-    for (const ch of book.chapters) {
-      // Only set `label` if it wasn't already provided (we may have
-      // injected `label` entries earlier). This prevents overwriting
-      // manual labels with the internal id/stem.
-      if (!('label' in ch) && typeof ch.id === 'string') ch.label = ch.id;
-      ch.id = ch.file ? ch.file.replace(/\.md$/, '') : String(ch.id);
-    }
-  }
+// ── Reading Order ───────────────────────────────────────────────
+// Linear "book" path through the AAV wiki for prev/next navigation.
+// Mirrors the old Livro chapter flow + supplements woven in thematically.
+// Format: 'categoryId/entryId'
+const READING_ORDER = [
+  // — Introdução e Contexto —
+  'aav-narrativa/Guia_do_Estudante',
+  'aav-narrativa/Cenas_e_Atmosfera',
 
+  // — Criação de Personagem —
+  'aav-regras/Passo_a_Passo_Criacao',
+  'aav-regras/Vantagens_e_Desvantagens',
+  'aav-regras/Sistema_de_Familiar',
+  'aav-regras/Sistema_de_Legado_Heranca',
+  'aav-regras/Kits_da_Academia_Base',
+  'aav-regras/Ficha_de_Personagem',
+
+  // — A Academia —
+  'aav-escolas/Historia_e_Fundacao',
+  'aav-escolas/O_Campus',
+  'aav-escolas/Admissao_e_Regras',
+  'aav-escolas/A_Ala_Leste',
+
+  // — Grêmios —
+  'aav-gremios/Filosofia_e_Bussola_Arcana',
+  'aav-gremios/Casa_da_Coroa',
+  'aav-gremios/Castelo_Obsidiana',
+  'aav-gremios/Egide',
+  'aav-gremios/Gremio_do_Subsolo',
+  'aav-gremios/Gremio_Memoria',
+  'aav-gremios/Gremio_Monsoon',
+  'aav-gremios/Gremio_Sintese',
+  'aav-gremios/Nova_Aurora',
+  'aav-gremios/Gremio_Chama_Livre',
+  'aav-gremios/Sociedades_Secretas',
+
+  // — Personagens e NPCs —
+  'aav-personagens/Talude',
+  'aav-personagens/Wynna',
+  'aav-personagens/V3ctor1us',
+  'aav-personagens/Mestres_Seniores',
+  'aav-personagens/Instrutores_de_Campo',
+  'aav-personagens/Outros_Professores',
+  'aav-personagens/Professores_Externos',
+  'aav-personagens/Staff_da_Academia',
+  'aav-personagens/Fadas_Madrinhas',
+  'aav-personagens/Estudantes_da_Academia',
+
+  // — Vida Estudantil —
+  'aav-vida/O_Ano_Letivo_e_Provas',
+  'aav-vida/Economia_e_Campus',
+  'aav-vida/Progresso_e_Reputacao',
+  'aav-vida/Relacionamentos_e_Lacos',
+
+  // — Mecânicas de Magia —
+  'aav-regras/Especializacoes_e_Pericias_Magicas',
+  'aav-regras/Magia_Improvisada',
+  'aav-regras/O_Custo_da_Magia',
+  'aav-regras/Fragmentacao_e_Magia_Dificil',
+  'aav-regras/Somatica_Arcana_e_Vicio',
+  'aav-regras/Palavras_de_Poder_e_Nomes',
+  'aav-regras/Glifomagia_e_Trilha_Unica',
+  'aav-regras/Metalurgia_Arcana',
+  'aav-regras/Tipos_de_Dano_Arcano',
+  'aav-regras/Marcadores_de_Chi_e_Elementos',
+  'aav-regras/Pressao_Ambiental_e_Afinidade',
+  'aav-regras/Sistema_de_Grimorios',
+  'aav-regras/Essencia_Magica_e_Portais',
+  'aav-regras/Desejos_e_Tribunal_das_Fadas',
+  'aav-regras/Consequencia_Criativa',
+  'aav-regras/O_Avesso_e_Vida_Dupla',
+  'aav-regras/Vinculos_de_Campanha',
+  'aav-regras/Regras_MagiDerby',
+
+  // — Mundo e Locais —
+  'aav-mundo/A_Era_das_Arcas',
+  'aav-mundo/Arrecife_Arcano',
+  'aav-mundo/Caldeira',
+  'aav-mundo/Lutharin',
+  'aav-mundo/Neo_Sampa',
+  'aav-mundo/Vallindra',
+  'aav-mundo/Dimensoes_Alternativas',
+  'aav-mundo/O_Avesso',
+
+  // — Escolas Internacionais e Ordens —
+  'aav-escolas/Academia_Thornwall',
+  'aav-escolas/Brambleshire_Academy',
+  'aav-escolas/Universidade_de_Saleth',
+  'aav-escolas/Escola_de_Farhaven',
+  'aav-escolas/Colegiado_de_Thaumaturgia',
+  'aav-escolas/Escolas_das_Quatro_Formas',
+  'aav-escolas/Ordem_dos_Cavaleiros_do_Eco',
+  'aav-escolas/Ordem_dos_Glifeiros',
+  'aav-escolas/Ordem_das_Convergencias',
+  'aav-escolas/Gremio_Raizes',
+
+  // — Mais Estudantes —
+  'aav-personagens/Cavaleiras_e_Parceiras',
+  'aav-personagens/Sentinelas_e_Guardias',
+  'aav-personagens/Estudantes_de_Thornwall',
+  'aav-personagens/Estudantes_Internacionais_e_Rivais',
+  'aav-personagens/Era_dos_Metais_e_Raizes',
+  'aav-personagens/Gremio_Chama_Livre_Estudantes',
+  'aav-personagens/Ordem_das_Convergencias_Estudantes',
+  'aav-personagens/Quatro_Formas',
+
+  // — Bestiário —
+  'aav-personagens/Maleficaria_do_Campus',
+  'aav-personagens/Criaturas_Dimensionais',
+  'aav-personagens/Demonios',
+  'aav-personagens/Ameacas_Escalaveis',
+
+  // — Guia do Mestre —
+  'aav-mestre/A_Campanha_Escolar',
+  'aav-mestre/Estruturas_Narrativas',
+  'aav-mestre/Calibragem_de_Tom_e_Seguranca',
+  'aav-mestre/Magia_Hard_e_Soft',
+
+  // — Aventuras —
+  'aav-mestre/Modulo_de_Inicio_Primeiros_Tres_Dias',
+  'aav-mestre/Campanha_A_Verdade_da_Arca',
+  'aav-mestre/O_Primeiro_Despertar',
+  'aav-mestre/O_Primeiro_Derby',
+  'aav-mestre/A_Noite_na_Biblioteca',
+  'aav-mestre/A_Aula_Que_Nao_Acabou',
+  'aav-mestre/O_Nome_Que_O_Grimorio_Esqueceu',
+  'aav-mestre/Festival_de_Inverno',
+  'aav-mestre/O_Torneio_das_Escolas',
+  'aav-mestre/O_Manifesto',
+  'aav-mestre/A_Missao_de_Formatura',
+  'aav-mestre/O_Desejo_Dimensional',
+  'aav-mestre/Campanha_Caldeira_Ferias_Arcanas',
+  'aav-mestre/Campanha_Brambleshire_Academy',
+
+  // — Extras —
+  'aav-narrativa/Detalhes_e_Curiosidades',
+  'aav-narrativa/Exemplos_de_Personagem_e_Gremio',
+];
+
+// ── Normalize ids ───────────────────────────────────────────────
+for (const item of CONTENT_MAP) {
+  const list = item.entries || item.chapters;
+  if (!list) continue;
+  for (const entry of list) {
+    if (!('label' in entry) && typeof entry.id === 'string') entry.label = entry.id;
+    entry.id = entry.file ? entry.file.replace(/\.md$/, '') : String(entry.id);
+  }
+}
