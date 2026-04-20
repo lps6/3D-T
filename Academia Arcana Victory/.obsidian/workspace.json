@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "619deb5f1726e07b",
+    "type": "split",
+    "children": [
+      {
+        "id": "477644124def8ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b482a34d62d74eea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa0374f803223387",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f72beff166b77e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "145c24ec11646ae2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c4aecd9d2cb076a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0d2f586aed773727",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56acf3386f56ad23",
+    "type": "split",
+    "children": [
+      {
+        "id": "e795b9d576df14f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "505b28fc74d5bb81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "eea3dddde531877c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "84dd8690ed2fe446",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9aaf58482a24b86e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "59893fc39bc958a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "b482a34d62d74eea",
+  "lastOpenFiles": [
+    "wiki/NPCs/gerador-de-estudantes.md",
+    "wiki/NPCs/motivações-aleatórias-(d6).md",
+    "wiki/NPCs/petra-tpish.md",
+    "wiki/NPCs/raschid-victory.md",
+    "wiki/NPCs/segredos-aleatórios-(d6).md",
+    "wiki/NPCs/gradda.md",
+    "wiki/NPCs/geófilus.md",
+    "wiki/NPCs/curandeira-mestre-séphora.md",
+    "wiki/NPCs/blavatsky.md",
+    "wiki/NPCs/benignus.md",
+    "wiki/Items/o-pivot-perfeito.md",
+    "wiki/Items/dupla-identidade.md",
+    "wiki/Items/a-virada.md",
+    "wiki/Items/domínio-do-campo.md",
+    "wiki/Items/a-pressão-certa.md",
+    "wiki/Items/eficiência-absoluta.md",
+    "wiki/Items/saber-proibido.md",
+    "wiki/Items/fraqueza-explorada.md",
+    "wiki/Items/dados-coletados.md",
+    "wiki/Items/grande-expressão.md",
+    "wiki/Items/conexão-improvável.md",
+    "wiki/Items/coração-aberto.md",
+    "wiki/Items/inovação-arcana.md",
+    "wiki/Items/obra-reconhecida.md",
+    "wiki/Items/inspiração-do-momento.md",
+    "wiki/Items/grão-estrategista.md",
+    "wiki/Rules",
+    "wiki/Items",
+    "wiki/Techniques",
+    "wiki/Kits",
+    "wiki/Plans",
+    "wiki/Sessions",
+    "wiki/NPCs",
+    "wiki/LuStorms",
+    "wiki/Locations",
+    "wiki/Ideas"
+  ]
+}
